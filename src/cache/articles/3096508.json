@@ -1,0 +1,169 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3096508?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3096508?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3096508",
+            "fields": {
+                "id": 3096508,
+                "uuid": "7c1c8546-a702-3916-a8a5-0234caf0b340",
+                "title": "Mozambique: Protection monitoring report at relocation site - 06 April 2019",
+                "status": "published",
+                "body": "**Preamble:**\n\nRelocation took place today, 06 April that was spearhead by INGC. This activity involved 60 households moving from Axel to IFP Inhamizua, 25 households moving from Chota to IFP Inhamizua and 50 households moving from Escola Primária Completa de Matadouro to San Pedro. It was later realised that an additional relocation of Approx. 20 individuals had taken place from Dondo to IFP Inhamizua.  \n\nIt is worth noting that immense support was accorded by Directors of the schools in Chota and IFP Inhamizua who were fully involved in the process including briefing the IDP’s and resolving arising issues. In addition, a lot of support was also given by the team of volunteers who guided IDPs to their respective tents including carrying luggage as well as ensuring that the children were not lost.\n\n**Relocation at Matadouro.**\n\nThe population at Matadouro were to relocate to San Pedro. According to the population, they had been informed of the planned relocation three days in advance and also informed that it was voluntary.  \n\nHowever, it was not clear to them about where they were relocating to.  \nSome families preferred to return home as long as they were issued with shelter kits to reconstruct their houses. A protection multi-functional team comprising of UNHCR, UNICEF, IOM and Save the children were on ground to monitor the process to ensure that protection issues were identified and potential risks mitigated.\n\n**Key findings:**\n\n1. It was discovered by the MFT team that the site they were to relocate to; San Pedro was not ready.\n\n2. WASH facilities had not been completed. No CFS, TLS or demarcated cooking area.\n\n3. The population had received 25 kgs of rice and 1liter cooking oil.\n\n4. Vaccination against cholera were on-going on site.\n\n5. List had been prepared by classroom leaders of those intending to voluntarily relocate and those intending to stay.\n\n6. At around 11:00a.m the activity was halted due to food distribution by WFP? As soon as the community heard about it, they stormed into the school demanding assistance as they felt that they were equally affected.\n\n7. Relocation to the new site took place that evening after the agitated community had returned home.\n\n8. At the site, there was no humanitarian actor present to receive the population, no manifests were used and INGC ensured that Escola Primária Completa de Matadouro was empty.\n\n**Relocation at Chota**\n\nThe affected group at Chota was to relocate to IFP Inhamizua. A protection multi-functional team comprising of UNHCR, UNICEF and IOM were on ground to assess protection risks pre, during and after the relocation. Fortunately, INGC shared list of those intending to relocate and those requesting to remain behind. Child protection team enhanced the data shared to enable aggregation based on age cohorts and gender.",
+                "file": [
+                    {
+                        "id": "2054380",
+                        "url": "https://reliefweb.int/attachments/f2ae0881-acb8-333d-b96d-121d0b7a2d6d/69118.pdf",
+                        "filename": "69118.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "133014",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/f2/ae/f2ae0881-acb8-333d-b96d-121d0b7a2d6d.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f2/ae/f2ae0881-acb8-333d-b96d-121d0b7a2d6d.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/f2/ae/f2ae0881-acb8-333d-b96d-121d0b7a2d6d.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f2/ae/f2ae0881-acb8-333d-b96d-121d0b7a2d6d.png",
+                            "version": "2054380-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://data2.unhcr.org/en/documents/details/69118",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3096508",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-protection-monitoring-report-relocation-site-06-april-2019",
+                "body-html": "<p><strong>Preamble:</strong></p>\n<p>Relocation took place today, 06 April that was spearhead by INGC. This activity involved 60 households moving from Axel to IFP Inhamizua, 25 households moving from Chota to IFP Inhamizua and 50 households moving from Escola Primária Completa de Matadouro to San Pedro. It was later realised that an additional relocation of Approx. 20 individuals had taken place from Dondo to IFP Inhamizua.</p>\n<p>It is worth noting that immense support was accorded by Directors of the schools in Chota and IFP Inhamizua who were fully involved in the process including briefing the IDP’s and resolving arising issues. In addition, a lot of support was also given by the team of volunteers who guided IDPs to their respective tents including carrying luggage as well as ensuring that the children were not lost.</p>\n<p><strong>Relocation at Matadouro.</strong></p>\n<p>The population at Matadouro were to relocate to San Pedro. According to the population, they had been informed of the planned relocation three days in advance and also informed that it was voluntary.</p>\n<p>However, it was not clear to them about where they were relocating to.<br />\nSome families preferred to return home as long as they were issued with shelter kits to reconstruct their houses. A protection multi-functional team comprising of UNHCR, UNICEF, IOM and Save the children were on ground to monitor the process to ensure that protection issues were identified and potential risks mitigated.</p>\n<p><strong>Key findings:</strong></p>\n<ol>\n<li>\n<p>It was discovered by the MFT team that the site they were to relocate to; San Pedro was not ready.</p>\n</li>\n<li>\n<p>WASH facilities had not been completed. No CFS, TLS or demarcated cooking area.</p>\n</li>\n<li>\n<p>The population had received 25 kgs of rice and 1liter cooking oil.</p>\n</li>\n<li>\n<p>Vaccination against cholera were on-going on site.</p>\n</li>\n<li>\n<p>List had been prepared by classroom leaders of those intending to voluntarily relocate and those intending to stay.</p>\n</li>\n<li>\n<p>At around 11:00a.m the activity was halted due to food distribution by WFP? As soon as the community heard about it, they stormed into the school demanding assistance as they felt that they were equally affected.</p>\n</li>\n<li>\n<p>Relocation to the new site took place that evening after the agitated community had returned home.</p>\n</li>\n<li>\n<p>At the site, there was no humanitarian actor present to receive the population, no manifests were used and INGC ensured that Escola Primária Completa de Matadouro was empty.</p>\n</li>\n</ol>\n<p><strong>Relocation at Chota</strong></p>\n<p>The affected group at Chota was to relocate to IFP Inhamizua. A protection multi-functional team comprising of UNHCR, UNICEF and IOM were on ground to assess protection risks pre, during and after the relocation. Fortunately, INGC shared list of those intending to relocate and those requesting to remain behind. Child protection team enhanced the data shared to enable aggregation based on age cohorts and gender.</p>\n",
+                "date": {
+                    "original": "2019-04-06T00:00:00+00:00",
+                    "changed": "2019-04-24T13:58:13+00:00",
+                    "created": "2019-04-24T13:50:32+00:00"
+                }
+            }
+        }
+    ]
+}

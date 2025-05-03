@@ -1,0 +1,206 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3049133?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3049133?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3049133",
+            "fields": {
+                "id": 3049133,
+                "title": "Cyclone Idai & Malawi flooding: Crisis update - 22 March 2019",
+                "status": "published",
+                "body": "**Background**\n\nA weather system that produced heavy rains flooded parts of Malawi in mid-March 2019, before developing into Cyclone Idai which struck Mozambique and Zimbabwe on 14-15 March, 2019.\n\nThe flooding and damage has destroyed homes and the humanitarian needs are enormous.\n\n**Our response**\n\nWe now have emergency response teams on the ground in all three countries. In recent days, assessments have been carried out and we are now starting medical activities and responding to humanitarian needs.\n\nTeams are mobilising to provide medical and non-medical assistance. In our warehouse in Brussels, an enormous supply and logistics operation is underway, with tons of supplies being sent to the affected areas, particularly Mozambique.\n\n**MOZAMBIQUE**\n\nMozambique, and particularly the city of Beira, in the centre of the country, has been the hardest hit.\n\nNinety percent of the area around Beira has been destroyed, with roads, electricity and communications having been cut off, and buildings have been submerged and severely damaged, including the hospital. Hundreds of people have been confirmed to have died, and authorities expect the toll to be much higher.\n\n**Response**\n\nA team of six emergency-experienced staff are now on the ground in Mozambique, with more to follow in the coming days. In Beira, medical activities have begun, with consultations being provided through a mobile clinic.\n\nTeams are also carrying out non-medical activities, including re-roofing two health centres in the poorest and most-affected neighbourhoods.\n\n**ZIMBABWE**\n\nCyclone Idai hit Chimanimani, a small district of approximately 30,000 people in Manicaland province, late Friday 15 March, after passing through Mozambique. Several roads leading into Chimanimani have been cut off, and the only access is by helicopter.\n     \n**Response**\n\nWe have sent an emergency response team to the mountainous areas of Manicaland province.\n\n**MALAWI**\n\nExtremely heavy rains in lower Shire River districts of Chikwawa and Nsanje, in Malawi’s far south, has been compounded by further rains from last week’s Cyclone Idai.\n\nThe rain has caused severe flooding in 14 of Nsanje’s 28 districts. Official figures confirm over 50 deaths, and hundreds are injured. Rivers have broken their banks leaving many houses fully submerged, with 11,000 families in Nsanje have been displaced.\n\n**Response**\n\nWe have been responding to the floods for the last two weeks, responding in several areas with mobile clinics, and water and sanitation activities.",
+                "image": {
+                    "id": "1263358",
+                    "width": "1000",
+                    "height": "1000",
+                    "url": "https://reliefweb.int/sites/default/files/images/reports/96/06/9606d5d4-aa02-3ac0-ba6d-12058cfc4abb.jpg",
+                    "filename": "c2ed74x4p84w5l718i54x5b512yh3a25.jpg",
+                    "mimetype": "image/jpeg",
+                    "filesize": "69844",
+                    "copyright": "MSF",
+                    "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/96/06/9606d5d4-aa02-3ac0-ba6d-12058cfc4abb.jpg",
+                    "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/96/06/9606d5d4-aa02-3ac0-ba6d-12058cfc4abb.jpg",
+                    "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/96/06/9606d5d4-aa02-3ac0-ba6d-12058cfc4abb.jpg"
+                },
+                "origin": "https://www.msf.org/crisis-update-cyclone-idai",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2904?appname=rwint-user-0",
+                        "id": 2904,
+                        "name": "Médecins Sans Frontières",
+                        "shortname": "MSF",
+                        "longname": "Médecins Sans Frontières",
+                        "spanish_name": "Médicos Sin Fronteras",
+                        "homepage": "https://www.msf.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4728,
+                        "name": "Land Slide",
+                        "code": "LS"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3049133",
+                "url_alias": "https://reliefweb.int/report/mozambique/cyclone-idai-malawi-flooding-crisis-update-22-march-2019",
+                "body-html": "<p><strong>Background</strong></p>\n<p>A weather system that produced heavy rains flooded parts of Malawi in mid-March 2019, before developing into Cyclone Idai which struck Mozambique and Zimbabwe on 14-15 March, 2019.</p>\n<p>The flooding and damage has destroyed homes and the humanitarian needs are enormous.</p>\n<p><strong>Our response</strong></p>\n<p>We now have emergency response teams on the ground in all three countries. In recent days, assessments have been carried out and we are now starting medical activities and responding to humanitarian needs.</p>\n<p>Teams are mobilising to provide medical and non-medical assistance. In our warehouse in Brussels, an enormous supply and logistics operation is underway, with tons of supplies being sent to the affected areas, particularly Mozambique.</p>\n<p><strong>MOZAMBIQUE</strong></p>\n<p>Mozambique, and particularly the city of Beira, in the centre of the country, has been the hardest hit.</p>\n<p>Ninety percent of the area around Beira has been destroyed, with roads, electricity and communications having been cut off, and buildings have been submerged and severely damaged, including the hospital. Hundreds of people have been confirmed to have died, and authorities expect the toll to be much higher.</p>\n<p><strong>Response</strong></p>\n<p>A team of six emergency-experienced staff are now on the ground in Mozambique, with more to follow in the coming days. In Beira, medical activities have begun, with consultations being provided through a mobile clinic.</p>\n<p>Teams are also carrying out non-medical activities, including re-roofing two health centres in the poorest and most-affected neighbourhoods.</p>\n<p><strong>ZIMBABWE</strong></p>\n<p>Cyclone Idai hit Chimanimani, a small district of approximately 30,000 people in Manicaland province, late Friday 15 March, after passing through Mozambique. Several roads leading into Chimanimani have been cut off, and the only access is by helicopter.</p>\n<p><strong>Response</strong></p>\n<p>We have sent an emergency response team to the mountainous areas of Manicaland province.</p>\n<p><strong>MALAWI</strong></p>\n<p>Extremely heavy rains in lower Shire River districts of Chikwawa and Nsanje, in Malawi’s far south, has been compounded by further rains from last week’s Cyclone Idai.</p>\n<p>The rain has caused severe flooding in 14 of Nsanje’s 28 districts. Official figures confirm over 50 deaths, and hundreds are injured. Rivers have broken their banks leaving many houses fully submerged, with 11,000 families in Nsanje have been displaced.</p>\n<p><strong>Response</strong></p>\n<p>We have been responding to the floods for the last two weeks, responding in several areas with mobile clinics, and water and sanitation activities.</p>\n",
+                "date": {
+                    "original": "2019-03-22T00:00:00+00:00",
+                    "changed": "2020-11-04T06:46:27+00:00",
+                    "created": "2019-03-23T02:23:37+00:00"
+                }
+            }
+        }
+    ]
+}

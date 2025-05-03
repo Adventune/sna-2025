@@ -1,0 +1,207 @@
+{
+    "time": 356,
+    "href": "https://api.reliefweb.int/v1/reports/3076113?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3076113?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 303,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3076113",
+            "fields": {
+                "id": 3076113,
+                "uuid": "c8d868fc-56e3-3269-a8fe-b013c23fde80",
+                "title": "CCCM Sitrep - Beira, 9th April 2019",
+                "status": "published",
+                "body": "**Eviction threats:**\n\n-  Threats to evict people continued on 8th April, affecting 168 persons in in Rei Dos Reis private building.\n-  INGC led the consultation with the community, together with IOM and managed to request 2 days reprieve \n-  Requests: Families expressed desire to return to their destroyed homes provided they receive a return package of food, oil, beans and shelter kits.\n-  Distribution planned to take place on Wednesday to an undisclosed site -  Regular site monitoring continues.\n-  Camp Management tent planned per site level to support coordination for space allocation on all sites.\n-  Increased interest on intentions are voiced by partners and INGC.\n-  Diogo - Diretor Provincial de terra, ambiente and desenvolvimento rural, requests for support with tents and engineering site planning expertise. He informs that government is already demarcating land for permanent residents in Buzi with main focus in Guara Guara.\n-  120 plots were demarcated. He is happy to share the planning drawings with IOM \n\n**PROTECTION** \n\n-  Discussion on site level focal points tackled and to be designated for each relocation site.\n-  A Multi Functional Team will be deployed during every relocation or return movement and in the case of Samora Machel school, once we water supply is confirmed to be installed.\n\n**Task Force on Relocation** \n\n-  Meeting was conducted today to discuss details on how to do effective movement (HCR, Unicef, IOM, HCR) \n\n**Partner updates:**\n\nAVSI:\n\n-  Set up CFS in campo São Pedro.\n-  organised a recreational activity with the participation of 60 children (33f and 27m)\n-  activity on advocacy on exclusive breast-feeding with 38 mothers \n\nWorld Vision:\n\n-  maintaining activities at CFS in Eduardo Mondlane and in two other centers in town in Escola Palmeras and Industrial School 25 June \n\nSave the Children:\n\n-  Visited Samora Machel to set up TLC. Need space to do so but IOM Site Planning team unable to provide space and direction.\n-  Running CFS in IFP \n\nÉlectriciens sans frontières:\n\n-  4 additional solar lamps have been installed in Sao Pedro as soon as the new latrines have been ready.\n-  ESF put lamps in \"Nduda 2\" near by the water point in the area.  \n\nWASH:\n\n-  The water pump in IFAPA extention. temporary relocation site is now operational and connected to a generator set provided by ESF.\n-  The team will go tomorrow to Escola de Samora Machel to work with the Spanish red cross on their WASH installations and ESF will similarly provide a generator.\n-  IOM WASH Team will participate in conducting an assessment in Buzi -  Meanwhile new WASH partners have been identified to work in Buzi and in the Beira new site Escola Instituto 25 Jubho which is currently being designed.\n\nRelocation/CCCM:\n\n-  Coordination meeting for next round of relocation to new site called Samora Machel conducted.\n-  Director of Education agreed to bring task force members and relevant clusters to a visit to the site to pre arrange logistics and ensure movements are in compliance to humanitarian principles.\n-  CCCM updated that part of the site will not be used due to land being used as garden.\n-  Sao Pedro temp relocation site is calm and has less number of families residing there now (50 families).",
+                "file": [
+                    {
+                        "id": "2102383",
+                        "url": "https://reliefweb.int/attachments/50be0540-adc1-36aa-8b0e-2ce860687e7e/20190409-CCCM-Sitrep_2.pdf",
+                        "filename": "20190409-CCCM-Sitrep_2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "61135",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/50/be/50be0540-adc1-36aa-8b0e-2ce860687e7e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/50/be/50be0540-adc1-36aa-8b0e-2ce860687e7e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/50/be/50be0540-adc1-36aa-8b0e-2ce860687e7e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/50/be/50be0540-adc1-36aa-8b0e-2ce860687e7e.png",
+                            "version": "2102383-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/9677?appname=rwint-user-0",
+                        "id": 9677,
+                        "name": "CCCM Cluster",
+                        "shortname": "CCCM Cluster",
+                        "longname": "Camp Coordination and Camp Management Cluster",
+                        "homepage": "https://www.cccmcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3076113",
+                "url_alias": "https://reliefweb.int/report/mozambique/cccm-sitrep-beira-9th-april-2019",
+                "body-html": "<p><strong>Eviction threats:</strong></p>\n<ul>\n<li>Threats to evict people continued on 8th April, affecting 168 persons in in Rei Dos Reis private building.</li>\n<li>INGC led the consultation with the community, together with IOM and managed to request 2 days reprieve</li>\n<li>Requests: Families expressed desire to return to their destroyed homes provided they receive a return package of food, oil, beans and shelter kits.</li>\n<li>Distribution planned to take place on Wednesday to an undisclosed site -  Regular site monitoring continues.</li>\n<li>Camp Management tent planned per site level to support coordination for space allocation on all sites.</li>\n<li>Increased interest on intentions are voiced by partners and INGC.</li>\n<li>Diogo - Diretor Provincial de terra, ambiente and desenvolvimento rural, requests for support with tents and engineering site planning expertise. He informs that government is already demarcating land for permanent residents in Buzi with main focus in Guara Guara.</li>\n<li>120 plots were demarcated. He is happy to share the planning drawings with IOM</li>\n</ul>\n<p><strong>PROTECTION</strong></p>\n<ul>\n<li>Discussion on site level focal points tackled and to be designated for each relocation site.</li>\n<li>A Multi Functional Team will be deployed during every relocation or return movement and in the case of Samora Machel school, once we water supply is confirmed to be installed.</li>\n</ul>\n<p><strong>Task Force on Relocation</strong></p>\n<ul>\n<li>Meeting was conducted today to discuss details on how to do effective movement (HCR, Unicef, IOM, HCR)</li>\n</ul>\n<p><strong>Partner updates:</strong></p>\n<p>AVSI:</p>\n<ul>\n<li>Set up CFS in campo São Pedro.</li>\n<li>organised a recreational activity with the participation of 60 children (33f and 27m)</li>\n<li>activity on advocacy on exclusive breast-feeding with 38 mothers</li>\n</ul>\n<p>World Vision:</p>\n<ul>\n<li>maintaining activities at CFS in Eduardo Mondlane and in two other centers in town in Escola Palmeras and Industrial School 25 June</li>\n</ul>\n<p>Save the Children:</p>\n<ul>\n<li>Visited Samora Machel to set up TLC. Need space to do so but IOM Site Planning team unable to provide space and direction.</li>\n<li>Running CFS in IFP</li>\n</ul>\n<p>Électriciens sans frontières:</p>\n<ul>\n<li>4 additional solar lamps have been installed in Sao Pedro as soon as the new latrines have been ready.</li>\n<li>ESF put lamps in &quot;Nduda 2&quot; near by the water point in the area.</li>\n</ul>\n<p>WASH:</p>\n<ul>\n<li>The water pump in IFAPA extention. temporary relocation site is now operational and connected to a generator set provided by ESF.</li>\n<li>The team will go tomorrow to Escola de Samora Machel to work with the Spanish red cross on their WASH installations and ESF will similarly provide a generator.</li>\n<li>IOM WASH Team will participate in conducting an assessment in Buzi -  Meanwhile new WASH partners have been identified to work in Buzi and in the Beira new site Escola Instituto 25 Jubho which is currently being designed.</li>\n</ul>\n<p>Relocation/CCCM:</p>\n<ul>\n<li>Coordination meeting for next round of relocation to new site called Samora Machel conducted.</li>\n<li>Director of Education agreed to bring task force members and relevant clusters to a visit to the site to pre arrange logistics and ensure movements are in compliance to humanitarian principles.</li>\n<li>CCCM updated that part of the site will not be used due to land being used as garden.</li>\n<li>Sao Pedro temp relocation site is calm and has less number of families residing there now (50 families).</li>\n</ul>\n",
+                "date": {
+                    "original": "2019-04-09T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-09T17:23:59+00:00"
+                }
+            }
+        }
+    ]
+}

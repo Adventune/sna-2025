@@ -1,0 +1,213 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3083033?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3083033?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3083033",
+            "fields": {
+                "id": 3083033,
+                "uuid": "b337e317-e699-381c-bc9e-0999a66affb0",
+                "title": "CCCM Sitrep - Beira, 13th April 2019",
+                "status": "published",
+                "body": "**Site Improvements** \n\n• Completed accessibility works in IFAPA with access ramp • In IFP temporary reloccation site, the area allocated for CFS and other services is now cleaned and prepared\n\n• Camp Management and protection tents erected respectively • Construction materials for distribution shed and common kitchen delivered to the site. Works planned to start by tomorrow • 3 timber ramp accessibility points to the concrete playing space at Ifapa 2 constructed.\n\n• In IFP IDP’s were complaining that there are a lot of people who are coming to the camp for few hours only to take food and other NFI and leave to their houses at night (Requesting Protection and CM Teams to inquire into this matter and come up with recommendations.)\n\n• Spacing between tents improved in IFP to observe standards\n\n**Relocation/Returns Movements** \n\n• Relocation plans from INGC targeting Amilcar Cabral (188HH) and Emissora (45HH).\n\n• During CCCM meeting, Camp Management highlighted Amilcar Cabral is a sensitive site and will need strong coordination for movements.\n\n• Relocation task force presented document introducing principled movements together with actionable support from the humanitarian community to the government.\n\n• Coordinating with various clusters on potential returns of 250 families in Ifapa to Buzi • During the Government meeting (COE), planned movements to Buzi and other areas was discussed where plots are being demarcated.\n\n• Government recognized that the discussion should be more detailed and separate discussions between demarcation and movement of communities.\n\n• Government emphasized that, contrary to what some may think, the government is committed to principled movements; however there is pressure from the population in sites to return home.\n\n• Ministry and other directors raised questions regarding the service provision on the sites.\n\n• Director maintains that services will be in place and that Guara Guara has access to a water source and that they have demarcated space for market and health.\n\n• Humanitarian community stressed the need to ensure these movements are safe and that infrastructure are in place.\n\n• The multi-sectoral visit on Monday was welcomed.",
+                "file": [
+                    {
+                        "id": "2102403",
+                        "url": "https://reliefweb.int/attachments/5bfa6645-726e-38b5-ad5a-d525b9d966c4/20190414-CCCM-Sitrep.pdf",
+                        "filename": "20190414-CCCM-Sitrep.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "84276",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/5b/fa/5bfa6645-726e-38b5-ad5a-d525b9d966c4.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/5b/fa/5bfa6645-726e-38b5-ad5a-d525b9d966c4.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/5b/fa/5bfa6645-726e-38b5-ad5a-d525b9d966c4.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/5b/fa/5bfa6645-726e-38b5-ad5a-d525b9d966c4.png",
+                            "version": "2102403-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/9677?appname=rwint-user-0",
+                        "id": 9677,
+                        "name": "CCCM Cluster",
+                        "shortname": "CCCM Cluster",
+                        "longname": "Camp Coordination and Camp Management Cluster",
+                        "homepage": "https://www.cccmcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3083033",
+                "url_alias": "https://reliefweb.int/report/mozambique/cccm-sitrep-beira-13th-april-2019",
+                "body-html": "<p><strong>Site Improvements</strong></p>\n<p>• Completed accessibility works in IFAPA with access ramp • In IFP temporary reloccation site, the area allocated for CFS and other services is now cleaned and prepared</p>\n<p>• Camp Management and protection tents erected respectively • Construction materials for distribution shed and common kitchen delivered to the site. Works planned to start by tomorrow • 3 timber ramp accessibility points to the concrete playing space at Ifapa 2 constructed.</p>\n<p>• In IFP IDP’s were complaining that there are a lot of people who are coming to the camp for few hours only to take food and other NFI and leave to their houses at night (Requesting Protection and CM Teams to inquire into this matter and come up with recommendations.)</p>\n<p>• Spacing between tents improved in IFP to observe standards</p>\n<p><strong>Relocation/Returns Movements</strong></p>\n<p>• Relocation plans from INGC targeting Amilcar Cabral (188HH) and Emissora (45HH).</p>\n<p>• During CCCM meeting, Camp Management highlighted Amilcar Cabral is a sensitive site and will need strong coordination for movements.</p>\n<p>• Relocation task force presented document introducing principled movements together with actionable support from the humanitarian community to the government.</p>\n<p>• Coordinating with various clusters on potential returns of 250 families in Ifapa to Buzi • During the Government meeting (COE), planned movements to Buzi and other areas was discussed where plots are being demarcated.</p>\n<p>• Government recognized that the discussion should be more detailed and separate discussions between demarcation and movement of communities.</p>\n<p>• Government emphasized that, contrary to what some may think, the government is committed to principled movements; however there is pressure from the population in sites to return home.</p>\n<p>• Ministry and other directors raised questions regarding the service provision on the sites.</p>\n<p>• Director maintains that services will be in place and that Guara Guara has access to a water source and that they have demarcated space for market and health.</p>\n<p>• Humanitarian community stressed the need to ensure these movements are safe and that infrastructure are in place.</p>\n<p>• The multi-sectoral visit on Monday was welcomed.</p>\n",
+                "date": {
+                    "original": "2019-04-13T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-14T16:38:29+00:00"
+                }
+            }
+        }
+    ]
+}

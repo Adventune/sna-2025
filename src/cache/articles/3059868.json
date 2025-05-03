@@ -1,0 +1,177 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3059868?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3059868?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3059868",
+            "fields": {
+                "id": 3059868,
+                "uuid": "41d8290e-63ca-3ffa-9ab6-83a299196203",
+                "title": "Zimbabwe: Cyclone Idai Information bulletin n°1",
+                "status": "published",
+                "body": "*This bulletin is being issued for information only and reflects the current situation and details available at this time. The International Federation of Red Cross and Red Crescent Societies (IFRC) is working with Zimbabwe Red Cross Society on the way to channel aid to the affected vulnerable people. At country level, the Zimbabwe Red Cross Society accepts assistance to provide support to the affected population.*\n\n**The situation** \n\nWhile Zimbabwe was responding to a food insecurity emergency from an El-Nino induced poor rainfall season, forecasts were issued that a category 4 Tropical cyclone Idai was developing off the Mozambican coast and would head westwards towards Mozambique, Zimbabwe and Malawi. While crossing the Mozambique, Idai weakened to a tropical storm and entered Zimbabwe.  \n\nSince then the remnants of storm have been causing heavy rains over Zimbabwe and Malawi. At least 172 deaths have been reported and 327 people are reportedly missing in Zimbabwe (OCHA, 27 March 2019).  \n\nCyclone Idai triggered floods in Zimbabwe, which swept away hundreds of homes in the eastern and south-eastern parts of the country. The Government declared a state of disaster in affected areas and has allocated $RTGS 50 million for emergency response and infrastructure rehabilitation.  \n\nChimanimani, Chipinge and Mutare districts (Manicaland Province) have been the most affected. In Chimanimani, eight bridges have been destroyed. In Buhera, the Marowanyati dam has overflowed and over 5,000 people are displaced.  \n\nAccess to Chimanimani remains a challenge with 95% of the road networks in the affected areas having been damaged. Access to most communities remains difficult with some still completely under water.  \n\nDamaged infrastructure has rendered some places completely unreachable. At the time of the report, the Zimbabwe National Army has started clearing roads and establishing emergency crossing points for relief vehicles. Zimbabwe Red Cross were one of the first humanitarian actors to gain access to Chimanimani – one of the worst affected areas. It has been estimated that up to 16,000 HH could be displaced (8,000 HH in Chimanimani, 3,000 HH in Chipinge, 1,000 in Buhera and 4,000 HH in Mutare), however, data on this also varies. Data from the NS indicate 4,313 people are completely displaced.  \n\nRed Cross assessments are on-going as more of the affected areas become accessible. Figures below summarise affected populations based on NS and government figures and for which NS response is based on.",
+                "file": [
+                    {
+                        "id": "2049753",
+                        "url": "https://reliefweb.int/attachments/c3226cb6-810a-3b21-b454-310da1192502/IBZimbabwe290319.pdf",
+                        "filename": "IBZimbabwe290319.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "626152",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c3/22/c3226cb6-810a-3b21-b454-310da1192502.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c3/22/c3226cb6-810a-3b21-b454-310da1192502.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c3/22/c3226cb6-810a-3b21-b454-310da1192502.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c3/22/c3226cb6-810a-3b21-b454-310da1192502.png",
+                            "version": "2049753-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.ifrc.org/en/publications-and-reports/appeals/",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3059868",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-cyclone-idai-information-bulletin-n-1",
+                "body-html": "<p><em>This bulletin is being issued for information only and reflects the current situation and details available at this time. The International Federation of Red Cross and Red Crescent Societies (IFRC) is working with Zimbabwe Red Cross Society on the way to channel aid to the affected vulnerable people. At country level, the Zimbabwe Red Cross Society accepts assistance to provide support to the affected population.</em></p>\n<p><strong>The situation</strong></p>\n<p>While Zimbabwe was responding to a food insecurity emergency from an El-Nino induced poor rainfall season, forecasts were issued that a category 4 Tropical cyclone Idai was developing off the Mozambican coast and would head westwards towards Mozambique, Zimbabwe and Malawi. While crossing the Mozambique, Idai weakened to a tropical storm and entered Zimbabwe.</p>\n<p>Since then the remnants of storm have been causing heavy rains over Zimbabwe and Malawi. At least 172 deaths have been reported and 327 people are reportedly missing in Zimbabwe (OCHA, 27 March 2019).</p>\n<p>Cyclone Idai triggered floods in Zimbabwe, which swept away hundreds of homes in the eastern and south-eastern parts of the country. The Government declared a state of disaster in affected areas and has allocated $RTGS 50 million for emergency response and infrastructure rehabilitation.</p>\n<p>Chimanimani, Chipinge and Mutare districts (Manicaland Province) have been the most affected. In Chimanimani, eight bridges have been destroyed. In Buhera, the Marowanyati dam has overflowed and over 5,000 people are displaced.</p>\n<p>Access to Chimanimani remains a challenge with 95% of the road networks in the affected areas having been damaged. Access to most communities remains difficult with some still completely under water.</p>\n<p>Damaged infrastructure has rendered some places completely unreachable. At the time of the report, the Zimbabwe National Army has started clearing roads and establishing emergency crossing points for relief vehicles. Zimbabwe Red Cross were one of the first humanitarian actors to gain access to Chimanimani – one of the worst affected areas. It has been estimated that up to 16,000 HH could be displaced (8,000 HH in Chimanimani, 3,000 HH in Chipinge, 1,000 in Buhera and 4,000 HH in Mutare), however, data on this also varies. Data from the NS indicate 4,313 people are completely displaced.</p>\n<p>Red Cross assessments are on-going as more of the affected areas become accessible. Figures below summarise affected populations based on NS and government figures and for which NS response is based on.</p>\n",
+                "date": {
+                    "original": "2019-03-29T00:00:00+00:00",
+                    "changed": "2019-03-29T17:46:40+00:00",
+                    "created": "2019-03-29T16:09:47+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3101398?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3101398?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3101398",
+            "fields": {
+                "id": 3101398,
+                "uuid": "89482e22-01db-3550-a572-c959ded5485d",
+                "title": "UNICEF Zimbabwe Multi Hazard Situation Report: Quarter 1, 2019",
+                "status": "published",
+                "body": "**Highlights** \n\n- Flooding caused by Cyclone Idai has left more than 270,000 people in need. At least 139 schools and health facilities have been damaged mostly in Chimanimani and Chipinge. \n\n- Due to the impact of drought, nearly 5.3 million people in Zimbabwe are estimated to be in urgent need of humanitarian assistance and protection during the 2018/2019 lean season (October – April) and beyond. This includes 2.9 million people who are severely food insecure (IPC phase 3 or 4). \n\n- UNICEF supported the oral cholera vaccine (OCV) campaign to cyclone affected areas in mid-April, reaching 468,458 people (99 per cent of target). \n\n- During the reporting period, UNICEF and partners reached 15,548 children and adolescents with child protection services in drought and flood affected areas. \n\n- With UNICEF support, 5,155 children and adolescents living with HIV/AIDS, in flood affected areas have been traced to ensure they have continued access to treatment. \n\n- UNICEF is appealing for US$18.4 million to meet the urgent humanitarian needs of children and women affected by multiple hazards (52 percent remains unfunded).\n\n**Situation Overview**\n\nDue to the impact of drought, nearly 5.3 million people in Zimbabwe are estimated to be in urgent need of humanitarian assistance and protection during the 2018/2019 lean season (October – April) and beyond. This includes nearly 3.8 million people in rural areas, including 2.9 million who are severely food insecure (IPC phase 3 or 4) and a further 900,000 people who are currently receiving humanitarian assistance, without which they would be in IPC phase 3 or above. In addition, 1.5 million people in urban areas, including major towns and secondary cities, are estimated to be facing severe food insecurity, while people in multiple locations across the country are faced with acute shortages of essential medicines. With the ongoing macroeconomic crisis, there is a high likelihood that the situation will continue to deteriorate. In addition, an estimated 270,000 people, including 129,600 children, affected by flooding remain in need of lifesaving support to enable them to recover from the impact of the floods caused by Cyclone Idai in all affected districts. As of 14 April, 334 people had been reported dead and over 257 people were reported missing due to the cyclone.",
+                "file": [
+                    {
+                        "id": "2054964",
+                        "url": "https://reliefweb.int/attachments/c7f3339a-3858-3d57-b5bd-00806c993376/UNICEF%20Zimbabwe%20Humanitarian%20Situation%20Report%20-%20January-March%202019.pdf",
+                        "filename": "UNICEF Zimbabwe Humanitarian Situation Report - January-March 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1443413",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c7/f3/c7f3339a-3858-3d57-b5bd-00806c993376.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c7/f3/c7f3339a-3858-3d57-b5bd-00806c993376.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c7/f3/c7f3339a-3858-3d57-b5bd-00806c993376.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c7/f3/c7f3339a-3858-3d57-b5bd-00806c993376.png",
+                            "version": "2054964-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47463,
+                        "name": "Southern Africa: Drought - 2018-2022",
+                        "status": "past",
+                        "glide": "DR-2018-000429-ZWE",
+                        "type": [
+                            {
+                                "id": 4672,
+                                "name": "Drought",
+                                "code": "DR",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4672,
+                        "name": "Drought",
+                        "code": "DR"
+                    },
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3101398",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/unicef-zimbabwe-multi-hazard-situation-report-quarter-1-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<ul>\n<li>\n<p>Flooding caused by Cyclone Idai has left more than 270,000 people in need. At least 139 schools and health facilities have been damaged mostly in Chimanimani and Chipinge.</p>\n</li>\n<li>\n<p>Due to the impact of drought, nearly 5.3 million people in Zimbabwe are estimated to be in urgent need of humanitarian assistance and protection during the 2018/2019 lean season (October – April) and beyond. This includes 2.9 million people who are severely food insecure (IPC phase 3 or 4).</p>\n</li>\n<li>\n<p>UNICEF supported the oral cholera vaccine (OCV) campaign to cyclone affected areas in mid-April, reaching 468,458 people (99 per cent of target).</p>\n</li>\n<li>\n<p>During the reporting period, UNICEF and partners reached 15,548 children and adolescents with child protection services in drought and flood affected areas.</p>\n</li>\n<li>\n<p>With UNICEF support, 5,155 children and adolescents living with HIV/AIDS, in flood affected areas have been traced to ensure they have continued access to treatment.</p>\n</li>\n<li>\n<p>UNICEF is appealing for US$18.4 million to meet the urgent humanitarian needs of children and women affected by multiple hazards (52 percent remains unfunded).</p>\n</li>\n</ul>\n<p><strong>Situation Overview</strong></p>\n<p>Due to the impact of drought, nearly 5.3 million people in Zimbabwe are estimated to be in urgent need of humanitarian assistance and protection during the 2018/2019 lean season (October – April) and beyond. This includes nearly 3.8 million people in rural areas, including 2.9 million who are severely food insecure (IPC phase 3 or 4) and a further 900,000 people who are currently receiving humanitarian assistance, without which they would be in IPC phase 3 or above. In addition, 1.5 million people in urban areas, including major towns and secondary cities, are estimated to be facing severe food insecurity, while people in multiple locations across the country are faced with acute shortages of essential medicines. With the ongoing macroeconomic crisis, there is a high likelihood that the situation will continue to deteriorate. In addition, an estimated 270,000 people, including 129,600 children, affected by flooding remain in need of lifesaving support to enable them to recover from the impact of the floods caused by Cyclone Idai in all affected districts. As of 14 April, 334 people had been reported dead and over 257 people were reported missing due to the cyclone.</p>\n",
+                "date": {
+                    "original": "2019-03-31T00:00:00+00:00",
+                    "changed": "2019-04-27T18:25:34+00:00",
+                    "created": "2019-04-27T12:38:58+00:00"
+                }
+            }
+        }
+    ]
+}

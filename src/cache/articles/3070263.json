@@ -1,0 +1,169 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3070263?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3070263?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3070263",
+            "fields": {
+                "id": 3070263,
+                "title": "Zimbabwe: Concept of Operations, April 2019",
+                "status": "published",
+                "body": "**Background**\n\nIn mid-March, Cyclone Idai crossed into southern Zimbabwe causing wide-scale flooding and destruction in the regions of Manicaland, Mashonaland East and Masvingo. Approximately 270,000 people were affected by the flooding and landslides when local rivers and their tributaries burst their banks, inundating homes and schools and causing considerable damage to property and livelihoods. The worst affected districts were Chipinge and Chimanimani in Manicaland which were cut-off due to severe damage to roads and bridges in the area. \n\nIn the aftermath of the cyclone, the Government of Zimbabwe (GoZ) declared a state of disaster and requested international assistance. The Department of Civil Protection, the country’s national disaster management agency, is leading the response. WFP, as lead agency of the Logistics Cluster, has been requested by the Resident Coordinator (RC) to provide coordination and information management support, and to facilitate access to common logistics services to assist the humanitarian community in their efforts to deliver lifesaving items to affected areas.\n\n**Logistics Gaps and Bottlenecks**\n\nFlooding and landslides have caused significant damage to logistics infrastructure, particularly roads and bridges in the hardest hit areas, rendering these areas inaccessible by land. It is expected that given the extent of the damage, repairs to affected roads and bridges may take a considerable amount of time, and as such air transport is the only option for moving goods into affected areas.\n\nThe influx of relief items into Mutare, the designated logistics hub of the operation, requires an improved and additional logistics response capacity, as warehousing is not entirely in line with the responding organizations’ requirements. As such, temporary storage such as Mobile Storage Units (MSUs) will be required to supplement capacity in some operational locations and ensure an uninterrupted supply chain.\n\nA delay in logistics coordination activities and reliable information sharing amongst the humanitarian community has impacted the operational decision-making of humanitarian organisations.\n\nBased on the above analysis, the major logistics constraints impacting humanitarian options in the most affected areas of Chimanimani and Chipinge are:\n\n- Inability to transport relief items to affected areas by road\n- Limited temporary storage capacity in Mutare airport for the adequate consolidation of incoming relief items prior to their air transport to the affected areas\n- Lack of consolidated logistics information and coordination of efforts",
+                "file": [
+                    {
+                        "id": "2050993",
+                        "url": "https://reliefweb.int/attachments/818b2ae7-7687-3861-9e85-5a9e9869beab/logistics_cluster_zimbabwe_conops_190405.pdf",
+                        "filename": "logistics_cluster_zimbabwe_conops_190405.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "252704",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/81/8b/818b2ae7-7687-3861-9e85-5a9e9869beab.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/81/8b/818b2ae7-7687-3861-9e85-5a9e9869beab.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/81/8b/818b2ae7-7687-3861-9e85-5a9e9869beab.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/81/8b/818b2ae7-7687-3861-9e85-5a9e9869beab.png",
+                            "version": "2050993-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://logcluster.org/document/zimbabwe-concept-operations-april-2019",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3594?appname=rwint-user-0",
+                        "id": 3594,
+                        "name": "Logistics Cluster",
+                        "shortname": "Logistics Cluster",
+                        "homepage": "https://www.logcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3070263",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-concept-operations-april-2019",
+                "body-html": "<p><strong>Background</strong></p>\n<p>In mid-March, Cyclone Idai crossed into southern Zimbabwe causing wide-scale flooding and destruction in the regions of Manicaland, Mashonaland East and Masvingo. Approximately 270,000 people were affected by the flooding and landslides when local rivers and their tributaries burst their banks, inundating homes and schools and causing considerable damage to property and livelihoods. The worst affected districts were Chipinge and Chimanimani in Manicaland which were cut-off due to severe damage to roads and bridges in the area.</p>\n<p>In the aftermath of the cyclone, the Government of Zimbabwe (GoZ) declared a state of disaster and requested international assistance. The Department of Civil Protection, the country’s national disaster management agency, is leading the response. WFP, as lead agency of the Logistics Cluster, has been requested by the Resident Coordinator (RC) to provide coordination and information management support, and to facilitate access to common logistics services to assist the humanitarian community in their efforts to deliver lifesaving items to affected areas.</p>\n<p><strong>Logistics Gaps and Bottlenecks</strong></p>\n<p>Flooding and landslides have caused significant damage to logistics infrastructure, particularly roads and bridges in the hardest hit areas, rendering these areas inaccessible by land. It is expected that given the extent of the damage, repairs to affected roads and bridges may take a considerable amount of time, and as such air transport is the only option for moving goods into affected areas.</p>\n<p>The influx of relief items into Mutare, the designated logistics hub of the operation, requires an improved and additional logistics response capacity, as warehousing is not entirely in line with the responding organizations’ requirements. As such, temporary storage such as Mobile Storage Units (MSUs) will be required to supplement capacity in some operational locations and ensure an uninterrupted supply chain.</p>\n<p>A delay in logistics coordination activities and reliable information sharing amongst the humanitarian community has impacted the operational decision-making of humanitarian organisations.</p>\n<p>Based on the above analysis, the major logistics constraints impacting humanitarian options in the most affected areas of Chimanimani and Chipinge are:</p>\n<ul>\n<li>Inability to transport relief items to affected areas by road</li>\n<li>Limited temporary storage capacity in Mutare airport for the adequate consolidation of incoming relief items prior to their air transport to the affected areas</li>\n<li>Lack of consolidated logistics information and coordination of efforts</li>\n</ul>\n",
+                "date": {
+                    "original": "2019-04-05T00:00:00+00:00",
+                    "changed": "2019-04-05T10:33:57+00:00",
+                    "created": "2019-04-05T08:56:35+00:00"
+                }
+            }
+        }
+    ]
+}

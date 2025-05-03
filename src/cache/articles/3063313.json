@@ -1,0 +1,222 @@
+{
+    "time": 19,
+    "href": "https://api.reliefweb.int/v1/reports/3063313?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3063313?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 8,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3063313",
+            "fields": {
+                "id": 3063313,
+                "uuid": "e1acb542-e341-3a98-ab09-e9b3e0bb10b4",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 15, 01 April 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• The official death toll has risen to 518 people as of 1 April, according to the Government.\n\n• More than 1,000 cases of cholera and one death have been reported.\n\n• Nearly 110,000 houses have been identified by the authorities as totally destroyed (59,910), partially destroyed (33,925) or flooded (15,784).\n\n• As of 31 March, nearly 33,000 people had been reached with some type of shelter assistance. \n\n**SITUATION OVERVIEW**\n\nAs of 1 April, the official death toll rose to 518 people; an increase of 17 people since 31 March, according to the Government. Nearly 110,000 houses were identified by the authorities as totally destroyed (59,910), partially destroyed (33,925) or flooded (15,784). More than 146,000 displaced people were sheltering in 155 sites across Sofala (116,237 people), Manica (14,047 people), Zambezia (13,203 people) and Tete (2,655 people) as of 1 April; of whom more than 7,400 were identified as vulnerable, according to the Government. \n\nThe Ministry of Health reported on 1 April that 1,052 cases of cholera had been recorded, including one death. Most of the cases reported have been reported in Beira (959 cases; 1 death), followed by Nhamatanda (87 cases), and Dondo, where a new cholera outbreak was reported, with six confirmed cases. Of these, 258 cases (25 per cent) were reported in the last 24 hours. The cholera outbreak is occurring in both urban (Beira city) and rural settings, including in flooded areas where water, sanitation and health infrastructure has been severely damaged. \n\nMore than 711,000 hectares of crops have been recorded as destroyed, raising concerns over food security and sustainability of return. In Chimoio district alone, authorities report that more than 451,300 hectares of agricultural land have been destroyed, comprising 65 per cent of the total crops in the Province. Displaced people living in accommodation centres report that, in addition to damaged or destroyed houses, lack of food and destroyed livelihoods are among the reasons for people not wanting to return, according to Displacement Tracking Matrix (DTM) monitoring. \n\n**RESPONSE**\n\nThe cholera taskforce is holding daily meetings in Beira to inform operational response. The Oral Cholera Vaccination campaign is scheduled to begin on 3 April and to last six days. Training for personnel giving the vaccinations is underway. Meanwhile, community sensitization is on-going on radio and through printed communication materials to convey messages related to communicable disease control and when to seek health-care. The Community Engagement Group has amplified messages to address and discount rumours that the cholera vaccination will give people cholera. \n\nAs of 31 March, nearly 33,000 people had been reached with some type of shelter assistance, with an increasing pipeline expected; although not for all items. Air and boat lifts transported shelter kits to Buzi Town to cover 4,000 households. Registration has started, with distributions scheduled for 1 April, targeting 1,250 people, with plans to scale up over the coming days. The authorities are requesting for more support with shelter kits for people being relocated from schools to the new accommodation centres, to facilitate the re-opening of schools. The issue of shelter is becoming increasingly critical given the movement of affected people from accommodation shelters to areas of land, which will become permanent housing sites. UNICEF visited one of these new sites and reported that the areas were already hosting many affected people but lacked access to water or sanitation and in need of better shelter materials. There are also concerns around the notice given by the Government on relocation activities and that children will be relocated far from their schools. The Education Cluster are planning to discuss the issue with the Director of Education.\n\nWFP has provided food to 56,000 people in Manica province, covering areas in Buzi and Nhamatanda and are mobilizing support for a further 50,000 people in the coming days. Mussorize remains difficult to access without a helicopter and the team on the ground is looking into possibilities of temporary crossing through Zimbabwe to reach the populations who have had little assistance to date. Some 10,000 people are being targeted for wet feeding in Beira City, with partners scaling up to 15,000 to 20,000 people in coming days. There is more capacity for the partner to scale further but need to identify kitchens in which to prepare the meals. Several schools have been identified and will be piloted as potential feeding sites.  \n\nBetween 65,000 and 75,000 people will be targeted for seed distribution, in view of the limited planting window (1 to 4 weeks) within which a good harvest can be expected. Protection partners are monitoring the new relocation sites for protection risks. More broadly there have been some protection risks identified, particularly in relation to food distributions. There is a need to also target communities outside the transit centres.  \n\nThe municipal authorities, with support from health partners and donors have restored the water supply for Beira city, and are planning the same for Buzi. Bladders have been installed and water trucking in accommodation-centres is ongoing, in addition to the re-establishment of the chlorination plant in Beira city. UNICEF has provided water treatment product (CERTEZA) in Beira neighborhoods to reach 50,000 households and are prioritizing water treatment units to CTCs/Hospitals - currently systems are in Buzi town, Estaguinha, Nhagau Sede/Beira municipality, Macurungo health center. Current constraints include, limited data on number of people affected and in need, lack of enough water tanks, buckets, clinical files, fuel supplies, cholera beds and testing kits.  \n\nThe health cluster in Chimoio has reported a shortage of chlorine, having received only 10 per cent of the required amount. The areas of Gondola and Vanduzi still require chlorine for water treatment. The Director of Health in Chimoio has reported that a stock of 70,000 malaria treatments are available in the province and has requested partners for support in providing mosquito nets.  \n\nA new communication link has been set up at the airport which will enable faster internet. There are currently 810 registered users and around 250 people on the internet at any one time. Buzi now has 3G and a V-SAT is being established in Matarara, according to the Emergency Telecommunication Cluster (ETC)",
+                "file": [
+                    {
+                        "id": "2050183",
+                        "url": "https://reliefweb.int/attachments/1db65d16-e62d-37a8-9eba-0c368ba26f17/ROSEA_20190401_Mozambique%20Floods_Flash_Update%2315%20FINAL.pdf",
+                        "filename": "ROSEA_20190401_Mozambique Floods_Flash_Update#15 FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "199458",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/1d/b6/1db65d16-e62d-37a8-9eba-0c368ba26f17.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/1d/b6/1db65d16-e62d-37a8-9eba-0c368ba26f17.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/1d/b6/1db65d16-e62d-37a8-9eba-0c368ba26f17.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1d/b6/1db65d16-e62d-37a8-9eba-0c368ba26f17.png",
+                            "version": "2050183-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3063313",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-15-01-april-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The official death toll has risen to 518 people as of 1 April, according to the Government.</p>\n<p>• More than 1,000 cases of cholera and one death have been reported.</p>\n<p>• Nearly 110,000 houses have been identified by the authorities as totally destroyed (59,910), partially destroyed (33,925) or flooded (15,784).</p>\n<p>• As of 31 March, nearly 33,000 people had been reached with some type of shelter assistance.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>As of 1 April, the official death toll rose to 518 people; an increase of 17 people since 31 March, according to the Government. Nearly 110,000 houses were identified by the authorities as totally destroyed (59,910), partially destroyed (33,925) or flooded (15,784). More than 146,000 displaced people were sheltering in 155 sites across Sofala (116,237 people), Manica (14,047 people), Zambezia (13,203 people) and Tete (2,655 people) as of 1 April; of whom more than 7,400 were identified as vulnerable, according to the Government.</p>\n<p>The Ministry of Health reported on 1 April that 1,052 cases of cholera had been recorded, including one death. Most of the cases reported have been reported in Beira (959 cases; 1 death), followed by Nhamatanda (87 cases), and Dondo, where a new cholera outbreak was reported, with six confirmed cases. Of these, 258 cases (25 per cent) were reported in the last 24 hours. The cholera outbreak is occurring in both urban (Beira city) and rural settings, including in flooded areas where water, sanitation and health infrastructure has been severely damaged.</p>\n<p>More than 711,000 hectares of crops have been recorded as destroyed, raising concerns over food security and sustainability of return. In Chimoio district alone, authorities report that more than 451,300 hectares of agricultural land have been destroyed, comprising 65 per cent of the total crops in the Province. Displaced people living in accommodation centres report that, in addition to damaged or destroyed houses, lack of food and destroyed livelihoods are among the reasons for people not wanting to return, according to Displacement Tracking Matrix (DTM) monitoring.</p>\n<p><strong>RESPONSE</strong></p>\n<p>The cholera taskforce is holding daily meetings in Beira to inform operational response. The Oral Cholera Vaccination campaign is scheduled to begin on 3 April and to last six days. Training for personnel giving the vaccinations is underway. Meanwhile, community sensitization is on-going on radio and through printed communication materials to convey messages related to communicable disease control and when to seek health-care. The Community Engagement Group has amplified messages to address and discount rumours that the cholera vaccination will give people cholera.</p>\n<p>As of 31 March, nearly 33,000 people had been reached with some type of shelter assistance, with an increasing pipeline expected; although not for all items. Air and boat lifts transported shelter kits to Buzi Town to cover 4,000 households. Registration has started, with distributions scheduled for 1 April, targeting 1,250 people, with plans to scale up over the coming days. The authorities are requesting for more support with shelter kits for people being relocated from schools to the new accommodation centres, to facilitate the re-opening of schools. The issue of shelter is becoming increasingly critical given the movement of affected people from accommodation shelters to areas of land, which will become permanent housing sites. UNICEF visited one of these new sites and reported that the areas were already hosting many affected people but lacked access to water or sanitation and in need of better shelter materials. There are also concerns around the notice given by the Government on relocation activities and that children will be relocated far from their schools. The Education Cluster are planning to discuss the issue with the Director of Education.</p>\n<p>WFP has provided food to 56,000 people in Manica province, covering areas in Buzi and Nhamatanda and are mobilizing support for a further 50,000 people in the coming days. Mussorize remains difficult to access without a helicopter and the team on the ground is looking into possibilities of temporary crossing through Zimbabwe to reach the populations who have had little assistance to date. Some 10,000 people are being targeted for wet feeding in Beira City, with partners scaling up to 15,000 to 20,000 people in coming days. There is more capacity for the partner to scale further but need to identify kitchens in which to prepare the meals. Several schools have been identified and will be piloted as potential feeding sites.</p>\n<p>Between 65,000 and 75,000 people will be targeted for seed distribution, in view of the limited planting window (1 to 4 weeks) within which a good harvest can be expected. Protection partners are monitoring the new relocation sites for protection risks. More broadly there have been some protection risks identified, particularly in relation to food distributions. There is a need to also target communities outside the transit centres.</p>\n<p>The municipal authorities, with support from health partners and donors have restored the water supply for Beira city, and are planning the same for Buzi. Bladders have been installed and water trucking in accommodation-centres is ongoing, in addition to the re-establishment of the chlorination plant in Beira city. UNICEF has provided water treatment product (CERTEZA) in Beira neighborhoods to reach 50,000 households and are prioritizing water treatment units to CTCs/Hospitals - currently systems are in Buzi town, Estaguinha, Nhagau Sede/Beira municipality, Macurungo health center. Current constraints include, limited data on number of people affected and in need, lack of enough water tanks, buckets, clinical files, fuel supplies, cholera beds and testing kits.</p>\n<p>The health cluster in Chimoio has reported a shortage of chlorine, having received only 10 per cent of the required amount. The areas of Gondola and Vanduzi still require chlorine for water treatment. The Director of Health in Chimoio has reported that a stock of 70,000 malaria treatments are available in the province and has requested partners for support in providing mosquito nets.</p>\n<p>A new communication link has been set up at the airport which will enable faster internet. There are currently 810 registered users and around 250 people on the internet at any one time. Buzi now has 3G and a V-SAT is being established in Matarara, according to the Emergency Telecommunication Cluster (ETC)</p>\n",
+                "date": {
+                    "original": "2019-04-01T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-01T19:27:15+00:00"
+                }
+            }
+        }
+    ]
+}

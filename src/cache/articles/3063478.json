@@ -1,0 +1,223 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3063478?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3063478?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3063478",
+            "fields": {
+                "id": 3063478,
+                "uuid": "cc55590a-50e8-3165-a685-2eecd40eb9bf",
+                "title": "UNICEF Mozambique Cyclone Idai Situation Report #3 (22 - 29 March 2019)",
+                "status": "published",
+                "body": "**Highlights**\n\n- At least 140,784 people have been displaced from Cyclone Idai and the severe flooding. Most of the displaced are hosted in 161 transit centers set up in Sofala, Manica, Zambezia and Tete provinces.\n\n- As of 31 March, 517 cholera cases and one death have been reported, including 246 cases on 31 March alone with 211 cases from one bairo. Eleven cholera treatment centres (CTC) have been set up (seven are already functional) to address cholera in Sofala. UNICEF supported the Health provincial directorate to install the CTC in Macurungo and Ponta Gea in Beira city, providing five tents, cholera beds and medicines to treat at least 6,000 people.\n\n- UNICEF has procured and shipped 884,953 doses of Oral Cholera Vaccine (OCV) that will arrive in Beira on 01 April to support the OCV vaccination campaign expected to start on 3 April.\n\n- With support of UNICEF and DFID, the water supply system in Beira resumed its operations on 22 March providing water to about 300,000 people. UNICEF has been supporting the FIPAG-water supply operator with fuel – 9,000 liters of fuel per day, and the provision of chemicals for water treatment. Water supply systems for Sussundenga and Nhamatanda small towns have also been re-established.\n\n**SITUATION IN NUMBERS**\n\n**1.85 million** People in need by the cyclone/floods (HRP 2019) \n\n**1 million** Children in need by the cyclone /floods \n\n**500,000** Children targeted through humanitarian interventions by UNICEF \n\n**965,000** People targeted through humanitarian interventions by UNICEF \n\n**2,700** Diarrhea cases reported in Beira \n\nUNICEF Appeal 2019 **US$ 102.6 million**\n\n**Situation Overview & Humanitarian Needs** \n\nThe Humanitarian Country Team in Mozambique on 26 March 2019 launched the flash appeal for the Cyclone Idai response requesting US$ 281.7 million for three-months to support 1.72 million people. The Food Security and Livelihoods, WASH, Health and Education sectors represent 76.9 per cent of the total funding requirements of the flash appeal. UNICEF is requesting US$ 28.6 million in WASH, Health, Education, Nutrition and Child Protection.  \n\nAs of 29 March, 140,784 people, have been displaced due to the cyclone and flooding. The displaced are largely hosted in 161 transit centres in Sofala, Manica, Zambezia and Tete provinces. The largest number of transit centres are in Sofala where at least 109,702 people are hosted in 116 centres. On 27 March, the Government confirmed five cases of cholera at Munhava health centre in Beira City, according to the National Director of Medical Assistance. As of 31 March, 517 cholera cases and one death have been reported, including 246 cases on 31 March alone with 211 cases from one bairo.  \n\nAccording to National Institute for Disaster Management (INGC) at least 150,854 students are affected by the floods and cyclones due to the damage of 3,318 classrooms in Sofala, Manica,  \nZambezia and Tete provinces. At least 54 health facilities are affected in Sofala (25), Manica and Zambézia. INGC estimatess, at least 843,723 people were affected by the cyclone and floods in the central region of the country and the death toll has risen to 501. About 84,224 houses were partially or totally destroyed. The agriculture authorities estimate that 684,171 ha of crop area (corresponding to 433,056 farmers) were affected in Sofala, Tete, Zambezia, Inhambane and Manica representing 84 per cent of the planted area in these provinces. UNOSAT and REACH carried out a rapid assessment of damage in Beira city, Macuti neighbourhood with satellite images captured on 26 March 2019, and detected that 2,001 buildings out of 4,102 (49%), were considered potentially damaged.  \n\nThe Logistics cluster reported that Beira city is accessible by road N6 which is open to all traffic including heavy trucks and the sea port is also fully operational. Electricity has been reestablished partially, but many houses do not offer safe conditions yet. Truck access to Dombe, Sussundenga district Manica province is still limited. In Dombe, health centres are reportedly out of medical supplies and essential medicines and most are running without electricity. A private company has set-up a generator for the hospital in Sussungenga district, which is now fully operational. \n\nOn 22 March 2019, the UNICEF Executive director, Ms Henrietta Fore visited Beira and flew over Buzi district and witnessed first-hand the extent of needs and impact caused by cyclone Idai and resulting floods.  \n\nOn 22 March 2019, the IASC activated the SCALE-UP for Mozambique for a period of three months until 25 June 2019. Following the scale up activation, the UNICEF Executive Director Activated the Level 3 (L3) Corporate Emergency Activation Procedure (CEAP) for the Cyclone Idai response in Mozambique an initial period of three months.",
+                "file": [
+                    {
+                        "id": "2050201",
+                        "url": "https://reliefweb.int/attachments/5a8d7dcd-7e29-3d93-8640-1bac759983c4/UNICEF%20Mozambique%20Humanitarian%20Situation%20Report%20%233%20-%20Cyclone%20Response%20-%2022-29%20March%202019.pdf",
+                        "filename": "UNICEF Mozambique Humanitarian Situation Report #3 - Cyclone Response - 22-29 March 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1663191",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/5a/8d/5a8d7dcd-7e29-3d93-8640-1bac759983c4.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/5a/8d/5a8d7dcd-7e29-3d93-8640-1bac759983c4.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/5a/8d/5a8d7dcd-7e29-3d93-8640-1bac759983c4.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/5a/8d/5a8d7dcd-7e29-3d93-8640-1bac759983c4.png",
+                            "version": "2050201-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3063478",
+                "url_alias": "https://reliefweb.int/report/mozambique/unicef-mozambique-cyclone-idai-situation-report-3-22-29-march-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<ul>\n<li>\n<p>At least 140,784 people have been displaced from Cyclone Idai and the severe flooding. Most of the displaced are hosted in 161 transit centers set up in Sofala, Manica, Zambezia and Tete provinces.</p>\n</li>\n<li>\n<p>As of 31 March, 517 cholera cases and one death have been reported, including 246 cases on 31 March alone with 211 cases from one bairo. Eleven cholera treatment centres (CTC) have been set up (seven are already functional) to address cholera in Sofala. UNICEF supported the Health provincial directorate to install the CTC in Macurungo and Ponta Gea in Beira city, providing five tents, cholera beds and medicines to treat at least 6,000 people.</p>\n</li>\n<li>\n<p>UNICEF has procured and shipped 884,953 doses of Oral Cholera Vaccine (OCV) that will arrive in Beira on 01 April to support the OCV vaccination campaign expected to start on 3 April.</p>\n</li>\n<li>\n<p>With support of UNICEF and DFID, the water supply system in Beira resumed its operations on 22 March providing water to about 300,000 people. UNICEF has been supporting the FIPAG-water supply operator with fuel – 9,000 liters of fuel per day, and the provision of chemicals for water treatment. Water supply systems for Sussundenga and Nhamatanda small towns have also been re-established.</p>\n</li>\n</ul>\n<p><strong>SITUATION IN NUMBERS</strong></p>\n<p><strong>1.85 million</strong> People in need by the cyclone/floods (HRP 2019)</p>\n<p><strong>1 million</strong> Children in need by the cyclone /floods</p>\n<p><strong>500,000</strong> Children targeted through humanitarian interventions by UNICEF</p>\n<p><strong>965,000</strong> People targeted through humanitarian interventions by UNICEF</p>\n<p><strong>2,700</strong> Diarrhea cases reported in Beira</p>\n<p>UNICEF Appeal 2019 <strong>US$ 102.6 million</strong></p>\n<p><strong>Situation Overview &amp; Humanitarian Needs</strong></p>\n<p>The Humanitarian Country Team in Mozambique on 26 March 2019 launched the flash appeal for the Cyclone Idai response requesting US$ 281.7 million for three-months to support 1.72 million people. The Food Security and Livelihoods, WASH, Health and Education sectors represent 76.9 per cent of the total funding requirements of the flash appeal. UNICEF is requesting US$ 28.6 million in WASH, Health, Education, Nutrition and Child Protection.</p>\n<p>As of 29 March, 140,784 people, have been displaced due to the cyclone and flooding. The displaced are largely hosted in 161 transit centres in Sofala, Manica, Zambezia and Tete provinces. The largest number of transit centres are in Sofala where at least 109,702 people are hosted in 116 centres. On 27 March, the Government confirmed five cases of cholera at Munhava health centre in Beira City, according to the National Director of Medical Assistance. As of 31 March, 517 cholera cases and one death have been reported, including 246 cases on 31 March alone with 211 cases from one bairo.</p>\n<p>According to National Institute for Disaster Management (INGC) at least 150,854 students are affected by the floods and cyclones due to the damage of 3,318 classrooms in Sofala, Manica,<br />\nZambezia and Tete provinces. At least 54 health facilities are affected in Sofala (25), Manica and Zambézia. INGC estimatess, at least 843,723 people were affected by the cyclone and floods in the central region of the country and the death toll has risen to 501. About 84,224 houses were partially or totally destroyed. The agriculture authorities estimate that 684,171 ha of crop area (corresponding to 433,056 farmers) were affected in Sofala, Tete, Zambezia, Inhambane and Manica representing 84 per cent of the planted area in these provinces. UNOSAT and REACH carried out a rapid assessment of damage in Beira city, Macuti neighbourhood with satellite images captured on 26 March 2019, and detected that 2,001 buildings out of 4,102 (49%), were considered potentially damaged.</p>\n<p>The Logistics cluster reported that Beira city is accessible by road N6 which is open to all traffic including heavy trucks and the sea port is also fully operational. Electricity has been reestablished partially, but many houses do not offer safe conditions yet. Truck access to Dombe, Sussundenga district Manica province is still limited. In Dombe, health centres are reportedly out of medical supplies and essential medicines and most are running without electricity. A private company has set-up a generator for the hospital in Sussungenga district, which is now fully operational.</p>\n<p>On 22 March 2019, the UNICEF Executive director, Ms Henrietta Fore visited Beira and flew over Buzi district and witnessed first-hand the extent of needs and impact caused by cyclone Idai and resulting floods.</p>\n<p>On 22 March 2019, the IASC activated the SCALE-UP for Mozambique for a period of three months until 25 June 2019. Following the scale up activation, the UNICEF Executive Director Activated the Level 3 (L3) Corporate Emergency Activation Procedure (CEAP) for the Cyclone Idai response in Mozambique an initial period of three months.</p>\n",
+                "date": {
+                    "original": "2019-03-29T00:00:00+00:00",
+                    "changed": "2019-04-02T08:04:51+00:00",
+                    "created": "2019-04-01T23:15:12+00:00"
+                }
+            }
+        }
+    ]
+}

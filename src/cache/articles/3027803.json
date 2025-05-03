@@ -1,0 +1,201 @@
+{
+    "time": 50,
+    "href": "https://api.reliefweb.int/v1/reports/3027803?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3027803?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 9,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3027803",
+            "fields": {
+                "id": 3027803,
+                "uuid": "24deb507-cb61-32cc-a76b-8dc00a948684",
+                "title": "Malawi: Floods - Flash Update No. 1, 9 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS** \n\n• The President of Malawi has declared a State of Disaster, following heavy rains and floods for the last four days.\n\n• At least 13 districts have been impacted, with 115,000 people affected.\n\n• At least 23 people are dead, 12 people are missing and 29 have been injured.\n\n• The number of people affected is expected to rise as assessment teams reach new areas.\n\n• The Department of Disaster Management Affairs has deployed search and rescue teams in collaboration with the Malawi Defence Force, Malawi Police Service, Malawi Red Cross Society and affected district councils.\n\n**SITUATION OVERVIEW** \n\nHeavy rains and floods have affected most parts of the Southern Region in Malawi, following the formation of a tropical disturbance over the Mozambique Channel earlier in the week. At least 13 districts have been impacted, with Nsanje (more than 44,500 people affected) and Phalombe (25,000 people affected) hardest hit.  \n\nAccording to initial reports, at least 115,000 people have been affected. This includes at least 23 people killed, 29 injured and at least 12 reported missing. These numbers are expected to rise in the days ahead as assessment teams reach additional areas and further information becomes available.  \n\nElectricity and water supplies have been impacted by the rains and floods. The Electricity Generation Company (EGENCO) has said that around 270 megawatts of Malawi's 320 megawatts of available hydropower capacity was offline, according to media reports. \n\n**RESPONSE** \n\nOn 8 March 2019, the President of Malawi, His Excellency Arthur Peter Mutharika, declared a State of Disaster in areas hit by the heavy rains and floods in the country. The President directed the Department of Disaster Management Affairs (DODMA) under the Ministry of Homeland Security to urgently mobilize and coordinate emergency relief services to those affected and also directed the Malawi Defence Force (MDF) to quickly move in and assist those trapped and displaced by the floods and the heavy rains. He also called upon individuals and organisations -both local and international- to join the Government in providing relief to affected Malawians.  \n\nDODMA has deployed search and rescue teams, in collaboration with the MDF, Malawi Police Service, Malawi Red Cross Society and affected district councils. DODMA has also deployed 23 trucks of relief items to be distributed in affected districts, including tents, plastic sheets, maize, rice, beans, blankets and kitchen utensils, according to a statement issued by the Ministry of Homeland Security on 8 March. An Inter-Agency Assessment Committee is due to deploy on 10 March to Nsanje and Phalombe to conduct further needs assessments. WFP has deployed two boats to accompany the assessment and response, UNICEF is providing drones, FAO/WFP will support mapping using satellite imagery and OCHA is deploying a staff member to support assessments and response.",
+                "headline": {
+                    "title": "More than 115,000 people affected by heavy rains and floods in Malawi",
+                    "summary": "The Department of Disaster Management Affairs has deployed search and rescue teams, and deployed 23 trucks of relief items to be distributed in the affected districts.",
+                    "image": {
+                        "id": "1256043",
+                        "width": "813",
+                        "height": "542",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/d9/d5/d9d57ef6-2031-3707-95f4-58307b4c3128.jpg",
+                        "filename": "ocha_rosa_humanitarian_bu-007.jpg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "95957",
+                        "copyright": "UNDP/Arjan van de Merwe",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/d9/d5/d9d57ef6-2031-3707-95f4-58307b4c3128.jpg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/d9/d5/d9d57ef6-2031-3707-95f4-58307b4c3128.jpg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/d9/d5/d9d57ef6-2031-3707-95f4-58307b4c3128.jpg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2047294",
+                        "url": "https://reliefweb.int/attachments/c171fc91-3b99-32f5-b17c-28ac4c1c3535/ROSEA_20190309_Malawi_Flash_Update_1.pdf",
+                        "filename": "ROSEA_20190309_Malawi_Flash_Update_1.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "187788",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c1/71/c171fc91-3b99-32f5-b17c-28ac4c1c3535.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c1/71/c171fc91-3b99-32f5-b17c-28ac4c1c3535.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c1/71/c171fc91-3b99-32f5-b17c-28ac4c1c3535.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c1/71/c171fc91-3b99-32f5-b17c-28ac4c1c3535.png",
+                            "version": "2047294-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3027803",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-floods-flash-update-no-1-9-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The President of Malawi has declared a State of Disaster, following heavy rains and floods for the last four days.</p>\n<p>• At least 13 districts have been impacted, with 115,000 people affected.</p>\n<p>• At least 23 people are dead, 12 people are missing and 29 have been injured.</p>\n<p>• The number of people affected is expected to rise as assessment teams reach new areas.</p>\n<p>• The Department of Disaster Management Affairs has deployed search and rescue teams in collaboration with the Malawi Defence Force, Malawi Police Service, Malawi Red Cross Society and affected district councils.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>Heavy rains and floods have affected most parts of the Southern Region in Malawi, following the formation of a tropical disturbance over the Mozambique Channel earlier in the week. At least 13 districts have been impacted, with Nsanje (more than 44,500 people affected) and Phalombe (25,000 people affected) hardest hit.</p>\n<p>According to initial reports, at least 115,000 people have been affected. This includes at least 23 people killed, 29 injured and at least 12 reported missing. These numbers are expected to rise in the days ahead as assessment teams reach additional areas and further information becomes available.</p>\n<p>Electricity and water supplies have been impacted by the rains and floods. The Electricity Generation Company (EGENCO) has said that around 270 megawatts of Malawi's 320 megawatts of available hydropower capacity was offline, according to media reports.</p>\n<p><strong>RESPONSE</strong></p>\n<p>On 8 March 2019, the President of Malawi, His Excellency Arthur Peter Mutharika, declared a State of Disaster in areas hit by the heavy rains and floods in the country. The President directed the Department of Disaster Management Affairs (DODMA) under the Ministry of Homeland Security to urgently mobilize and coordinate emergency relief services to those affected and also directed the Malawi Defence Force (MDF) to quickly move in and assist those trapped and displaced by the floods and the heavy rains. He also called upon individuals and organisations -both local and international- to join the Government in providing relief to affected Malawians.</p>\n<p>DODMA has deployed search and rescue teams, in collaboration with the MDF, Malawi Police Service, Malawi Red Cross Society and affected district councils. DODMA has also deployed 23 trucks of relief items to be distributed in affected districts, including tents, plastic sheets, maize, rice, beans, blankets and kitchen utensils, according to a statement issued by the Ministry of Homeland Security on 8 March. An Inter-Agency Assessment Committee is due to deploy on 10 March to Nsanje and Phalombe to conduct further needs assessments. WFP has deployed two boats to accompany the assessment and response, UNICEF is providing drones, FAO/WFP will support mapping using satellite imagery and OCHA is deploying a staff member to support assessments and response.</p>\n",
+                "date": {
+                    "original": "2019-03-09T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-09T16:41:43+00:00"
+                }
+            }
+        }
+    ]
+}

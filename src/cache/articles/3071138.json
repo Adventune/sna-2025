@@ -1,0 +1,231 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3071138?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3071138?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 5,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3071138",
+            "fields": {
+                "id": 3071138,
+                "uuid": "533168eb-0b8e-3c9c-8d90-7cbaa0a428fd",
+                "title": "Zimbabwe: Tropical Cyclone Idai Emergency Plan of Action (EPoA), DREF n°: MDRZW014 / PZW033",
+                "status": "published",
+                "body": "**A. Situation analysis**\n\n**Description of the disaster**\n\nWhile Zimbabwe was bracing for a big food insecurity emergency from an El-nino induced poor rainfall season, forecast was issued on 11 March 2019 of category 4 Tropical cyclone Idai developing off the Mozambican coast to affect most of Mozambique, Zimbabwe and Malawi. By the 14th March 2019 the cyclone had made landfall in Mozambique, devastating Beira and the Sofala provinces as it headed towards eastern Zimbabwe. On 15th March, the cyclone made landfall in the eastern highlands of Zimbabwe with heavy rains in access of 300mm and wind speeds of 177k/h. This had a devastating impact in Chimanimani, Chipinge and Mutare districts, the most affected being Rusitu area in Chimanimani. By the morning of 15 March, 20 people were feared dead, some missing and several houses were destroyed. The heavy precipitation and winds continued to pound the district and extended towards Nyanga, Mutare, Buhera districts of Manicaland Province. As of 27 March, 172 fatalities had been confirmed, 4,884 people displaced and 327 missing. According to preliminary reports, at least 53,999 people are believed to have been affected.\n\nExtensive damage to roads infrastructure has totally inhibited road access to most affected people, thus the extent of the need remains uncertain. Preliminary rescue and response efforts are underway being coordinated through the Department of Civil Protection. ZRCS has since deployed NFIs and response personnel to the affected areas. However, the extent of the need has overwhelmed the NS response stocks, thus flagging support from Red Cross Movement as well as launching a domestic appeal for assistance. The Meteorological Service has indicated that while the cyclone seems to be dissipating, heavy rains are expected to continue pounding the affected areas in the eastern parts of the of the country.\n\nThe extent of the devastation prompted the government to declare a State of Disaster on the 17th of March 2018, appealing for support for the response. Based on the preliminary report of a joint assessment by the Department of Civil protection (DCP), the Red Cross and other agencies, the most affected area is Chimanimani district particularly in areas such as Chimanimani Urban, Charleshood Farm, St Charles Lwanga Secondary School Machongwe, Vhimba Kopa Growth Point. Rivers bursting such as Haroni, Rusitu and Nyahode River have caused extensive damage to bridges, roads and completely inundated whole settlements, making it difficult for a thorough assessment to be done in the district. Landslides, including rock landslides, have occurred given the hilly and mountainous outlay of the area. Power has been disrupted along with water and sanitation facilities either damaged or flooded. The situation is dire, with an urgent need to provide tents, food and blankets for the affected people.\n\n**Summary of the current response**\n\n**Overview of Host National Society.**\n\nZimbabwe Red Cross Society has eight (8) provincial offices and a network of more than 20,000 volunteers countrywide. ZRCS has previous experience in implementing DREFs and emergency relief programs throughout the country, with support from various donor partners and Partner National Societies (PNS). In the past five months, ZRCS has implemented a Cholera response, partly supported by DREF and is currently implementing a drought relief programme supported by the Danish RC, Finnish RC and British RC in Kariba and Siakobvu while partnering with WFP in Muzarabani in a lean season food assistance programme. The Projects with British RC, Finnish RC, Danish RC are using cash as a modality. This experience coupled with numerous other multi-sectoral response operation is critical in delivering quality programming to the affected population. The NS has become a key partner for the National Civil Protection and will use the public good will and humanitarian space to ensure assistance reaches the affected population in time. The National Society already has existing capacities such as several RDRT, FACT and NDRT trained staff in WASH, Shelter, PSS, who will greatly enhance the efficacy of the planned response.\n\nZRCS has presence in all the affected districts but more strongly in Chipinge, where a resilience programme is currently running with support from the British RC. The network of trained volunteers is available to support the response to various needs such as First Aid, Shelter and Hygiene Promotion. In most inaccessible areas the volunteers have been reported to be leading the local rescue efforts as well as issuing Early Warning information to their communities.\n\nAt National level, the NS has since deployed 15 staff members to the affected areas to undertake detailed needs assessment, concurrently with distributions of NFIs for shelter, WASH, clothing and blankets. A medical team from the ZRCS clinic was also deployed to provide much needed emergency medical relief to the affected given the damage and interruption of medical facilities and services. This team has, to date, effectively delivered these services in Chimanimani, stabilising patients before being airlifted to referral hospitals. The NS has managed to maintain presence and visibility in all the three affected provinces whereas most of the relief agencies attention has been focused on Chimanimani even with obvious accessibility challenges. Shelter construction has been done in Masvingo along with NFI distributions reaching 50 households. This process is ongoing. This initial response has been enabled by the British RC, the Finnish RC and ZRCS’s own resources. Joint assessments with the department of Civil Protection have been conducted in Mutare and Chipinge enabling preliminary information on the type and extent of needs on the ground to be available. Significant contributions have been received from many local companies and individuals after domestic appeals from the NS. Presently, 9.2 metric tonnes of food items have been received and conveyed to the affected population potentially reaching 200 people. This also included numerous donations of clothing and bedding articles which have also been received and are being sorted and transported to the affected areas.\n\nThere is an existing project partnership with WFP to provide food assistance in cyclone affected areas. As part of a joint two-phase project 100,000 people will be targeted with food in Chimanimani. The first phase aims to provide immediate assistance of high nutritious food for 2-3 weeks, which has already begun and is on-going. Phase 2 aims to provide three months support, with the details of the second phase still being developed.\n\nThis DREF is anticipated to support the replenishment of already used funds for the initial assessments, and replenishments of NFIs including, shelter kits, buckets, bars of soap, water guard already used. The ZRCS is also participating in coordination meetings at national, provincial and district level and will continue to collaborate with the DCP and the inter-agency assessment team on continuing assessments. This DREF will further enable ZRCS to expand its response operations once all the assessments are completed for areas currently inaccessible. Such assessments will give a clearer picture of the immediate and intermediate needs to which the NS must focus on.",
+                "file": [
+                    {
+                        "id": "2051116",
+                        "url": "https://reliefweb.int/attachments/9f6d190a-bfc0-360a-b52f-5c084bc5fbab/Zimbabwe_Cyclone.pdf",
+                        "filename": "Zimbabwe_Cyclone.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1385177",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/9f/6d/9f6d190a-bfc0-360a-b52f-5c084bc5fbab.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/9f/6d/9f6d190a-bfc0-360a-b52f-5c084bc5fbab.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/9f/6d/9f6d190a-bfc0-360a-b52f-5c084bc5fbab.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9f/6d/9f6d190a-bfc0-360a-b52f-5c084bc5fbab.png",
+                            "version": "2051116-1-0"
+                        }
+                    }
+                ],
+                "origin": "http://adore.ifrc.org/Download.aspx?FileId=235377",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47463,
+                        "name": "Southern Africa: Drought - 2018-2022",
+                        "status": "past",
+                        "glide": "DR-2018-000429-ZWE",
+                        "type": [
+                            {
+                                "id": 4672,
+                                "name": "Drought",
+                                "code": "DR",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4672,
+                        "name": "Drought",
+                        "code": "DR"
+                    },
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3071138",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-tropical-cyclone-idai-emergency-plan-action-epoa-dref-n-mdrzw014-pzw033",
+                "body-html": "<p><strong>A. Situation analysis</strong></p>\n<p><strong>Description of the disaster</strong></p>\n<p>While Zimbabwe was bracing for a big food insecurity emergency from an El-nino induced poor rainfall season, forecast was issued on 11 March 2019 of category 4 Tropical cyclone Idai developing off the Mozambican coast to affect most of Mozambique, Zimbabwe and Malawi. By the 14th March 2019 the cyclone had made landfall in Mozambique, devastating Beira and the Sofala provinces as it headed towards eastern Zimbabwe. On 15th March, the cyclone made landfall in the eastern highlands of Zimbabwe with heavy rains in access of 300mm and wind speeds of 177k/h. This had a devastating impact in Chimanimani, Chipinge and Mutare districts, the most affected being Rusitu area in Chimanimani. By the morning of 15 March, 20 people were feared dead, some missing and several houses were destroyed. The heavy precipitation and winds continued to pound the district and extended towards Nyanga, Mutare, Buhera districts of Manicaland Province. As of 27 March, 172 fatalities had been confirmed, 4,884 people displaced and 327 missing. According to preliminary reports, at least 53,999 people are believed to have been affected.</p>\n<p>Extensive damage to roads infrastructure has totally inhibited road access to most affected people, thus the extent of the need remains uncertain. Preliminary rescue and response efforts are underway being coordinated through the Department of Civil Protection. ZRCS has since deployed NFIs and response personnel to the affected areas. However, the extent of the need has overwhelmed the NS response stocks, thus flagging support from Red Cross Movement as well as launching a domestic appeal for assistance. The Meteorological Service has indicated that while the cyclone seems to be dissipating, heavy rains are expected to continue pounding the affected areas in the eastern parts of the of the country.</p>\n<p>The extent of the devastation prompted the government to declare a State of Disaster on the 17th of March 2018, appealing for support for the response. Based on the preliminary report of a joint assessment by the Department of Civil protection (DCP), the Red Cross and other agencies, the most affected area is Chimanimani district particularly in areas such as Chimanimani Urban, Charleshood Farm, St Charles Lwanga Secondary School Machongwe, Vhimba Kopa Growth Point. Rivers bursting such as Haroni, Rusitu and Nyahode River have caused extensive damage to bridges, roads and completely inundated whole settlements, making it difficult for a thorough assessment to be done in the district. Landslides, including rock landslides, have occurred given the hilly and mountainous outlay of the area. Power has been disrupted along with water and sanitation facilities either damaged or flooded. The situation is dire, with an urgent need to provide tents, food and blankets for the affected people.</p>\n<p><strong>Summary of the current response</strong></p>\n<p><strong>Overview of Host National Society.</strong></p>\n<p>Zimbabwe Red Cross Society has eight (8) provincial offices and a network of more than 20,000 volunteers countrywide. ZRCS has previous experience in implementing DREFs and emergency relief programs throughout the country, with support from various donor partners and Partner National Societies (PNS). In the past five months, ZRCS has implemented a Cholera response, partly supported by DREF and is currently implementing a drought relief programme supported by the Danish RC, Finnish RC and British RC in Kariba and Siakobvu while partnering with WFP in Muzarabani in a lean season food assistance programme. The Projects with British RC, Finnish RC, Danish RC are using cash as a modality. This experience coupled with numerous other multi-sectoral response operation is critical in delivering quality programming to the affected population. The NS has become a key partner for the National Civil Protection and will use the public good will and humanitarian space to ensure assistance reaches the affected population in time. The National Society already has existing capacities such as several RDRT, FACT and NDRT trained staff in WASH, Shelter, PSS, who will greatly enhance the efficacy of the planned response.</p>\n<p>ZRCS has presence in all the affected districts but more strongly in Chipinge, where a resilience programme is currently running with support from the British RC. The network of trained volunteers is available to support the response to various needs such as First Aid, Shelter and Hygiene Promotion. In most inaccessible areas the volunteers have been reported to be leading the local rescue efforts as well as issuing Early Warning information to their communities.</p>\n<p>At National level, the NS has since deployed 15 staff members to the affected areas to undertake detailed needs assessment, concurrently with distributions of NFIs for shelter, WASH, clothing and blankets. A medical team from the ZRCS clinic was also deployed to provide much needed emergency medical relief to the affected given the damage and interruption of medical facilities and services. This team has, to date, effectively delivered these services in Chimanimani, stabilising patients before being airlifted to referral hospitals. The NS has managed to maintain presence and visibility in all the three affected provinces whereas most of the relief agencies attention has been focused on Chimanimani even with obvious accessibility challenges. Shelter construction has been done in Masvingo along with NFI distributions reaching 50 households. This process is ongoing. This initial response has been enabled by the British RC, the Finnish RC and ZRCS’s own resources. Joint assessments with the department of Civil Protection have been conducted in Mutare and Chipinge enabling preliminary information on the type and extent of needs on the ground to be available. Significant contributions have been received from many local companies and individuals after domestic appeals from the NS. Presently, 9.2 metric tonnes of food items have been received and conveyed to the affected population potentially reaching 200 people. This also included numerous donations of clothing and bedding articles which have also been received and are being sorted and transported to the affected areas.</p>\n<p>There is an existing project partnership with WFP to provide food assistance in cyclone affected areas. As part of a joint two-phase project 100,000 people will be targeted with food in Chimanimani. The first phase aims to provide immediate assistance of high nutritious food for 2-3 weeks, which has already begun and is on-going. Phase 2 aims to provide three months support, with the details of the second phase still being developed.</p>\n<p>This DREF is anticipated to support the replenishment of already used funds for the initial assessments, and replenishments of NFIs including, shelter kits, buckets, bars of soap, water guard already used. The ZRCS is also participating in coordination meetings at national, provincial and district level and will continue to collaborate with the DCP and the inter-agency assessment team on continuing assessments. This DREF will further enable ZRCS to expand its response operations once all the assessments are completed for areas currently inaccessible. Such assessments will give a clearer picture of the immediate and intermediate needs to which the NS must focus on.</p>\n",
+                "date": {
+                    "original": "2019-04-05T00:00:00+00:00",
+                    "changed": "2019-04-05T18:46:01+00:00",
+                    "created": "2019-04-05T15:08:15+00:00"
+                }
+            }
+        }
+    ]
+}

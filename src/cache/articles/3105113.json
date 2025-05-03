@@ -1,0 +1,195 @@
+{
+    "time": 665,
+    "href": "https://api.reliefweb.int/v1/reports/3105113?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3105113?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 657,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3105113",
+            "fields": {
+                "id": 3105113,
+                "title": "Malawi: Standard Operating Procedures (SOP), May 2019",
+                "status": "published",
+                "body": "**Overview**\n\nThis document provides an overview of the logistics services to be made available through the Logistics Sector, how humanitarian actors responding to the crisis in Malawi may access these services, and the conditions under which these services are to be provided.  \n\nThe objective of these services is to enable responding organisations to establish an uninterrupted supply chain that supports the delivery of humanitarian relief items to the affected population. These services are not intended to replace the logistics capacities of other organisations, nor are they meant to compete with the commercial market. Rather, they are intended to fill identified gaps and provide a last resort option in case other service providers are not available.  \n\nTransport services are planned to be available until 31 May 2019, with the possibility of further extension. Storage services are planned to be available until 30 June 2019. The services may be withdrawn before this date in part or in full, for any of the following reasons:\n\n• Changes in the situation on the ground   \n• No longer an agreed upon/identified need   \n• Funding constraints  \n\nThis document will be updated, and services provided may change as the situation evolves and operational requirements develop. Updated versions will be shared on the Malawi Operations page (https://logcluster.org/sector/mwi19a) and shared via the mailing list.",
+                "file": [
+                    {
+                        "id": "2055404",
+                        "url": "https://reliefweb.int/attachments/b2a8a26d-ec97-340a-b4a8-47430a276345/logistics_sector_malawi_sops_transport_storage_services_1900430.pdf",
+                        "filename": "logistics_sector_malawi_sops_transport_storage_services_1900430.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "2678027",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/b2/a8/b2a8a26d-ec97-340a-b4a8-47430a276345.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b2/a8/b2a8a26d-ec97-340a-b4a8-47430a276345.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/b2/a8/b2a8a26d-ec97-340a-b4a8-47430a276345.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b2/a8/b2a8a26d-ec97-340a-b4a8-47430a276345.png",
+                            "version": "2055404-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://logcluster.org/document/standard-operating-procedures-sops-storage-and-transport-30-april-2019",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2591?appname=rwint-user-0",
+                        "id": 2591,
+                        "name": "Government of Malawi",
+                        "shortname": "Govt. Malawi",
+                        "longname": "Government of Malawi",
+                        "homepage": "http://www.malawi.gov.mw",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3594?appname=rwint-user-0",
+                        "id": 3594,
+                        "name": "Logistics Cluster",
+                        "shortname": "Logistics Cluster",
+                        "homepage": "https://www.logcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3105113",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-standard-operating-procedures-sop-may-2019",
+                "body-html": "<p><strong>Overview</strong></p>\n<p>This document provides an overview of the logistics services to be made available through the Logistics Sector, how humanitarian actors responding to the crisis in Malawi may access these services, and the conditions under which these services are to be provided.</p>\n<p>The objective of these services is to enable responding organisations to establish an uninterrupted supply chain that supports the delivery of humanitarian relief items to the affected population. These services are not intended to replace the logistics capacities of other organisations, nor are they meant to compete with the commercial market. Rather, they are intended to fill identified gaps and provide a last resort option in case other service providers are not available.</p>\n<p>Transport services are planned to be available until 31 May 2019, with the possibility of further extension. Storage services are planned to be available until 30 June 2019. The services may be withdrawn before this date in part or in full, for any of the following reasons:</p>\n<p>• Changes in the situation on the ground<br />\n• No longer an agreed upon/identified need<br />\n• Funding constraints</p>\n<p>This document will be updated, and services provided may change as the situation evolves and operational requirements develop. Updated versions will be shared on the Malawi Operations page (<a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://logcluster.org/sector/mwi19a\">https://logcluster.org/sector/mwi19a</a>) and shared via the mailing list.</p>\n",
+                "date": {
+                    "original": "2019-04-30T00:00:00+00:00",
+                    "changed": "2019-04-30T16:07:31+00:00",
+                    "created": "2019-04-30T15:36:37+00:00"
+                }
+            }
+        }
+    ]
+}

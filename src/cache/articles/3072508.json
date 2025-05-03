@@ -1,0 +1,188 @@
+{
+    "time": 153,
+    "href": "https://api.reliefweb.int/v1/reports/3072508?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3072508?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 145,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3072508",
+            "fields": {
+                "id": 3072508,
+                "title": "Mozambique: Cyclone Idai - ETC Situation Report #8 (Reporting Period: 04/04/2019 to 06/04/2019)",
+                "status": "published",
+                "body": "**Highlights**\n\n• An Emergency Telecommunications Cluster (ETC) team comprising partners Ericsson Response and the Government of Luxembourg deployed a satellite terminal in the forward operating base in Buzi to support operations.\n\n• To date, 1,161 humanitarians are registered to access ETC Internet connectivity to enable them to do their work.\n\n• The ETC is providing connectivity in two forward operations bases in Matarara and Buzi to support the increasing humanitarian response.\n\n• The ETC has so far received US$600,000 meaning it is 50% funded. It requires US$1.2 million to provide critical communications services in up to four EOCs for six months along with a number of connection sites for accommodation centres, health centres, distribution points and joint location NGOs.\n\n**Situation Overview**\n\nAn oral cholera vaccination programme began in Beira on 3 April. Nearly 900,000 people in Mozambique will receive the vaccine from the global stockpile. As of 4 April, 2,094 cholera cases have been registered, including six cases from a new outbreak in Buzi in Sofala province. \n\nThe official death toll following Cyclone Idai is now 598, according to government figures. While food assistance has now been distributed to more than 562,000 people, food security remains a major concern in the long term, as more than 715,000 hectares of crops were reportedly damaged by the floods.",
+                "file": [
+                    {
+                        "id": "2051348",
+                        "url": "https://reliefweb.int/attachments/f7b9ed1b-9179-3a29-999f-c04506aeafb6/8_0.pdf",
+                        "filename": "8_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "232268",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/f7/b9/f7b9ed1b-9179-3a29-999f-c04506aeafb6.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f7/b9/f7b9ed1b-9179-3a29-999f-c04506aeafb6.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/f7/b9/f7b9ed1b-9179-3a29-999f-c04506aeafb6.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f7/b9/f7b9ed1b-9179-3a29-999f-c04506aeafb6.png",
+                            "version": "2051348-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-8",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3072508",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-etc-situation-report-8-reporting-period-04042019-06042019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• An Emergency Telecommunications Cluster (ETC) team comprising partners Ericsson Response and the Government of Luxembourg deployed a satellite terminal in the forward operating base in Buzi to support operations.</p>\n<p>• To date, 1,161 humanitarians are registered to access ETC Internet connectivity to enable them to do their work.</p>\n<p>• The ETC is providing connectivity in two forward operations bases in Matarara and Buzi to support the increasing humanitarian response.</p>\n<p>• The ETC has so far received US$600,000 meaning it is 50% funded. It requires US$1.2 million to provide critical communications services in up to four EOCs for six months along with a number of connection sites for accommodation centres, health centres, distribution points and joint location NGOs.</p>\n<p><strong>Situation Overview</strong></p>\n<p>An oral cholera vaccination programme began in Beira on 3 April. Nearly 900,000 people in Mozambique will receive the vaccine from the global stockpile. As of 4 April, 2,094 cholera cases have been registered, including six cases from a new outbreak in Buzi in Sofala province.</p>\n<p>The official death toll following Cyclone Idai is now 598, according to government figures. While food assistance has now been distributed to more than 562,000 people, food security remains a major concern in the long term, as more than 715,000 hectares of crops were reportedly damaged by the floods.</p>\n",
+                "date": {
+                    "original": "2019-04-06T00:00:00+00:00",
+                    "changed": "2019-04-07T08:28:55+00:00",
+                    "created": "2019-04-07T06:58:35+00:00"
+                }
+            }
+        }
+    ]
+}

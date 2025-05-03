@@ -1,0 +1,703 @@
+{
+    "time": 409,
+    "href": "https://api.reliefweb.int/v1/reports/3074348?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3074348?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 400,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3074348",
+            "fields": {
+                "id": 3074348,
+                "uuid": "a82d1d0c-43f1-3559-a861-2cb290d3ef83",
+                "title": "WHO AFRO Outbreaks and Other Emergencies, Week 14: 1 - 7 April 2019; Data as reported by 17:00; 7 April 2019",
+                "status": "published",
+                "body": "This Weekly Bulletin focuses on selected acute public health emergencies occurring in the WHO African Region. The WHO Health Emergencies Programme is currently monitoring 67 events in the region. This week’s edition covers key new and ongoing events, including:  \n\nEbola virus disease outbreak in the Democratic Republic of the Congo Cyclone Idai in Southern Africa (Mozambique, Zimbabwe and Malawi)  \n\nHumanitarian crisis in Cameroon Humanitarian crisis in Ethiopia.  \n\nFor each of these events, a brief description, followed by public health measures implemented and an interpretation of the situation is provided.  \n\nA table at the end of the bulletin gives detailed information on all new and ongoing public health events currently being monitored in the region, as well as recent events that have been controlled and thus closed.  \n\n**Major issues and challenges include:**\n\nThe impact of the destruction caused by cyclone Idai in Southern Africa is still unfolding as more areas become accessible by road. So far, the situation remains disastrous in most of the affected areas as the number of affected people by the cyclone and resulting disease outbreaks is growing. \n\nThe resulting poor access to communication networks is limiting the surveillance of diseases as well as information outside the epicenter of the event. In addition to the provision of basic needs such as food, clean water and shelter, setting up of the early warning component of the surveillance system due to the increased risk of vector and mosquito borne epidemic prone diseases is crucial at this stage. This will enable the early detection of potential outbreaks and ensuing appropriate and timely response. Moreover, the restoration of healthcare services can provide urgently needed trauma care, psychosocial counselling, maternal and child health services and treatment of common and chronic illnesses.  \n\nThe Ebola virus disease (EVD) outbreak in Democratic Republic of the Congo continues. During the reporting week, the late confirmation of another healthcare worker highlights the need to continue to strengthen infection and prevention control (IPC) measures as well as risk communication.  \n\nCommunity engagement to address persisting community concerns and mistrust are of paramount importance to assist in the response efforts to limit disease transmission. Despite the insecurity, the response teams continue to be fully operational in all outbreak affected areas. Continued support from the international community is required to ensure the outbreak comes to an end.",
+                "file": [
+                    {
+                        "id": "2068876",
+                        "url": "https://reliefweb.int/attachments/84937faf-22ae-35b1-92e6-b3cd3def6450/OEW14-0107042019.pdf",
+                        "filename": "OEW14-0107042019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "3781203",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/84/93/84937faf-22ae-35b1-92e6-b3cd3def6450.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/84/93/84937faf-22ae-35b1-92e6-b3cd3def6450.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/84/93/84937faf-22ae-35b1-92e6-b3cd3def6450.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/84/93/84937faf-22ae-35b1-92e6-b3cd3def6450.png",
+                            "version": "2068876-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.afro.who.int/health-topics/disease-outbreaks/outbreaks-and-other-emergencies-updates?utm_source=Newsweaver&utm_medium=email&utm_term=View+archives+of+this+update+bulletin&utm_content=Tag%3AAFRO%2FWHE%2FHIM+Outbreaks+Weekly%2CAFRO%2FWHE%2FIHM+Influenza+Weekly&utm_campaign=WHO+AFRO%3A+Compendium+of+Short+Reports+on+Selected+Outbreaks+2016+-+2018",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/49?appname=rwint-user-0",
+                        "id": 49,
+                        "name": "Cameroon",
+                        "shortname": "Cameroon",
+                        "iso3": "cmr",
+                        "location": {
+                            "lat": 4.81,
+                            "lon": 12.21
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/54?appname=rwint-user-0",
+                        "id": 54,
+                        "name": "Central African Republic",
+                        "shortname": "CAR",
+                        "iso3": "caf",
+                        "location": {
+                            "lat": 6.57,
+                            "lon": 20.48
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/55?appname=rwint-user-0",
+                        "id": 55,
+                        "name": "Chad",
+                        "shortname": "Chad",
+                        "iso3": "tcd",
+                        "location": {
+                            "lat": 15.36,
+                            "lon": 18.66
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/66?appname=rwint-user-0",
+                        "id": 66,
+                        "name": "Congo",
+                        "shortname": "Congo",
+                        "iso3": "cog",
+                        "location": {
+                            "lat": -0.31,
+                            "lon": 15.99
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/69?appname=rwint-user-0",
+                        "id": 69,
+                        "name": "Côte d'Ivoire",
+                        "shortname": "Côte d'Ivoire",
+                        "iso3": "civ",
+                        "location": {
+                            "lat": 7.81,
+                            "lon": -5.38
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/75?appname=rwint-user-0",
+                        "id": 75,
+                        "name": "Democratic Republic of the Congo",
+                        "shortname": "DR Congo",
+                        "iso3": "cod",
+                        "location": {
+                            "lat": -4.03833,
+                            "lon": 21.7587
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/87?appname=rwint-user-0",
+                        "id": 87,
+                        "name": "Ethiopia",
+                        "shortname": "Ethiopia",
+                        "iso3": "eth",
+                        "location": {
+                            "lat": 8.63,
+                            "lon": 39.62
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/110?appname=rwint-user-0",
+                        "id": 110,
+                        "name": "Guinea",
+                        "shortname": "Guinea",
+                        "iso3": "gin",
+                        "location": {
+                            "lat": 10.79,
+                            "lon": -11.03
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/131?appname=rwint-user-0",
+                        "id": 131,
+                        "name": "Kenya",
+                        "shortname": "Kenya",
+                        "iso3": "ken",
+                        "location": {
+                            "lat": 0.53,
+                            "lon": 37.86
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/139?appname=rwint-user-0",
+                        "id": 139,
+                        "name": "Liberia",
+                        "shortname": "Liberia",
+                        "iso3": "lbr",
+                        "location": {
+                            "lat": 6.45,
+                            "lon": -9.31
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/144?appname=rwint-user-0",
+                        "id": 144,
+                        "name": "Madagascar",
+                        "shortname": "Madagascar",
+                        "iso3": "mdg",
+                        "location": {
+                            "lat": -19.37,
+                            "lon": 46.71
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/149?appname=rwint-user-0",
+                        "id": 149,
+                        "name": "Mali",
+                        "shortname": "Mali",
+                        "iso3": "mli",
+                        "location": {
+                            "lat": 17.35,
+                            "lon": -1.25
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/153?appname=rwint-user-0",
+                        "id": 153,
+                        "name": "Mauritania",
+                        "shortname": "Mauritania",
+                        "iso3": "mrt",
+                        "location": {
+                            "lat": 19.76,
+                            "lon": -10.53
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/154?appname=rwint-user-0",
+                        "id": 154,
+                        "name": "Mauritius",
+                        "shortname": "Mauritius",
+                        "iso3": "mus",
+                        "location": {
+                            "lat": -20.25,
+                            "lon": 57.87
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/166?appname=rwint-user-0",
+                        "id": 166,
+                        "name": "Namibia",
+                        "shortname": "Namibia",
+                        "iso3": "nam",
+                        "location": {
+                            "lat": -21.2,
+                            "lon": 17.29
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/174?appname=rwint-user-0",
+                        "id": 174,
+                        "name": "Niger",
+                        "shortname": "Niger",
+                        "iso3": "ner",
+                        "location": {
+                            "lat": 17.43,
+                            "lon": 9.4
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/175?appname=rwint-user-0",
+                        "id": 175,
+                        "name": "Nigeria",
+                        "shortname": "Nigeria",
+                        "iso3": "nga",
+                        "location": {
+                            "lat": 9.59,
+                            "lon": 8.11
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/206?appname=rwint-user-0",
+                        "id": 206,
+                        "name": "Sao Tome and Principe",
+                        "shortname": "Sao Tome and Principe",
+                        "iso3": "stp",
+                        "location": {
+                            "lat": 0.46,
+                            "lon": 6.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/211?appname=rwint-user-0",
+                        "id": 211,
+                        "name": "Sierra Leone",
+                        "shortname": "Sierra Leone",
+                        "iso3": "sle",
+                        "location": {
+                            "lat": 8.56,
+                            "lon": -11.79
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/8657?appname=rwint-user-0",
+                        "id": 8657,
+                        "name": "South Sudan",
+                        "shortname": "South Sudan",
+                        "iso3": "ssd",
+                        "location": {
+                            "lat": 6.9,
+                            "lon": 30.5
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/231?appname=rwint-user-0",
+                        "id": 231,
+                        "name": "Togo",
+                        "shortname": "Togo",
+                        "iso3": "tgo",
+                        "location": {
+                            "lat": 8.77,
+                            "lon": 1.04
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/240?appname=rwint-user-0",
+                        "id": 240,
+                        "name": "Uganda",
+                        "shortname": "Uganda",
+                        "iso3": "uga",
+                        "location": {
+                            "lat": 1.28,
+                            "lon": 32.39
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/244?appname=rwint-user-0",
+                        "id": 244,
+                        "name": "United Republic of Tanzania",
+                        "shortname": "Tanzania",
+                        "iso3": "tza",
+                        "location": {
+                            "lat": -6.27,
+                            "lon": 34.82
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/256?appname=rwint-user-0",
+                        "id": 256,
+                        "name": "Zambia",
+                        "shortname": "Zambia",
+                        "iso3": "zmb",
+                        "location": {
+                            "lat": -14,
+                            "lon": 27.43
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1275?appname=rwint-user-0",
+                        "id": 1275,
+                        "name": "World Health Organization",
+                        "shortname": "WHO",
+                        "longname": "World Health Organization",
+                        "spanish_name": "Organización Mundial de la Salud",
+                        "homepage": "https://www.who.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 46464,
+                        "name": "Cameroon: Cholera Outbreak - Jul 2018",
+                        "status": "ongoing",
+                        "glide": "EP-2018-000142-CMR",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 45919,
+                        "name": "Chad: Measles Outbreak - May 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000075-TCD",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46339,
+                        "name": "DR Congo: Ebola Outbreak - Aug 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000129-COD",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14127,
+                        "name": "DR Congo: Cholera and Measles Outbreaks - Jan 2013",
+                        "status": "ongoing",
+                        "glide": "EP-2013-000175-COD",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 45174,
+                        "name": "DR Congo: Polio Outbreak - Feb 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000104-COD",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 36376,
+                        "name": "Nigeria: Polio Outbreak - Aug 2016",
+                        "status": "past",
+                        "glide": "EP-2016-000101-NGA",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47453,
+                        "name": "Nigeria: Lassa Fever Outbreak - Jan 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000012-NGA",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 44114,
+                        "name": "Nigeria: Yellow Fever Outbreak - Sep 2017",
+                        "status": "past",
+                        "glide": "EP-2017-000169-NGA",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47703,
+                        "name": "South Sudan: Measles Outbreak - Dec 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000430-SSD",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47028,
+                        "name": "Madagascar: Measles Outbreak - Oct 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000417-MDG",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 23121,
+                        "name": "Ethiopia: Drought - 2015-2025",
+                        "status": "ongoing",
+                        "glide": "DR-2015-000109-ETH",
+                        "type": [
+                            {
+                                "id": 4672,
+                                "name": "Drought",
+                                "code": "DR",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 48163,
+                        "name": "Kenya: Cholera Outbreak - Jan 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000109-KEN",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4672,
+                        "name": "Drought",
+                        "code": "DR"
+                    },
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3074348",
+                "url_alias": "https://reliefweb.int/report/mozambique/who-afro-outbreaks-and-other-emergencies-week-14-1-7-april-2019-data-reported-1700",
+                "body-html": "<p>This Weekly Bulletin focuses on selected acute public health emergencies occurring in the WHO African Region. The WHO Health Emergencies Programme is currently monitoring 67 events in the region. This week’s edition covers key new and ongoing events, including:</p>\n<p>Ebola virus disease outbreak in the Democratic Republic of the Congo Cyclone Idai in Southern Africa (Mozambique, Zimbabwe and Malawi)</p>\n<p>Humanitarian crisis in Cameroon Humanitarian crisis in Ethiopia.</p>\n<p>For each of these events, a brief description, followed by public health measures implemented and an interpretation of the situation is provided.</p>\n<p>A table at the end of the bulletin gives detailed information on all new and ongoing public health events currently being monitored in the region, as well as recent events that have been controlled and thus closed.</p>\n<p><strong>Major issues and challenges include:</strong></p>\n<p>The impact of the destruction caused by cyclone Idai in Southern Africa is still unfolding as more areas become accessible by road. So far, the situation remains disastrous in most of the affected areas as the number of affected people by the cyclone and resulting disease outbreaks is growing.</p>\n<p>The resulting poor access to communication networks is limiting the surveillance of diseases as well as information outside the epicenter of the event. In addition to the provision of basic needs such as food, clean water and shelter, setting up of the early warning component of the surveillance system due to the increased risk of vector and mosquito borne epidemic prone diseases is crucial at this stage. This will enable the early detection of potential outbreaks and ensuing appropriate and timely response. Moreover, the restoration of healthcare services can provide urgently needed trauma care, psychosocial counselling, maternal and child health services and treatment of common and chronic illnesses.</p>\n<p>The Ebola virus disease (EVD) outbreak in Democratic Republic of the Congo continues. During the reporting week, the late confirmation of another healthcare worker highlights the need to continue to strengthen infection and prevention control (IPC) measures as well as risk communication.</p>\n<p>Community engagement to address persisting community concerns and mistrust are of paramount importance to assist in the response efforts to limit disease transmission. Despite the insecurity, the response teams continue to be fully operational in all outbreak affected areas. Continued support from the international community is required to ensure the outbreak comes to an end.</p>\n",
+                "date": {
+                    "original": "2019-04-07T00:00:00+00:00",
+                    "changed": "2019-07-11T09:53:18+00:00",
+                    "created": "2019-04-08T20:37:21+00:00"
+                }
+            }
+        }
+    ]
+}

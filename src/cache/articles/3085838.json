@@ -1,0 +1,195 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3085838?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3085838?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3085838",
+            "fields": {
+                "id": 3085838,
+                "uuid": "7c205b8f-0e6d-389b-8e01-298ab77c0485",
+                "title": "Situation Report on Cyclone Idai Issue 007",
+                "status": "published",
+                "body": "1. HIGHLIGHTS\n\n• To date a total of 3,453 patients have been managed in health institutions and temporary clinics (Skyline, Copa,  \nNdiadzwa, Beta, Ndima and Vimba) that have submitted reports. These are providing service including supply of chronic diseases medicines.\n\n• Two patients were air lifted on 2 April from Mutsvangwa to Chipinge and one patient was referred to Mutare Provincial Hospital from Chipinge.\n\n• A total of 975,646 doses of oral Cholera Vaccine has been approved for two rounds of vaccination in Chimanimani and Chipinge districts. First round of the OCV campaign scheduled for 15th April.\n\n• A total of 33 Health workers were trained to support detection and reporting of priority diseases/conditions under the early warning alert and response system.\n\n2. BACKGROUND\n\nZimbabwe experienced torrential rainfall caused by Cyclone Idai from the 15th of March 2019 to the 17th of March 2019.Tropical Cyclone Idai which was downgraded to a tropical depression on the 16th of March 2019 caused high winds and heavy precipitation in Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Mutasa and parts of Mutare Urban districts among other districts, causing riverine and flash flooding and subsequent deaths, destruction of livelihoods and properties. Chimanimani district is the most affected with two main centres having received the brunt of the cyclone, Ngangu Township of Chimanimani which experienced landslides and Ngangu growth point which experienced flooding. The objective of this situation report is to provide daily updates on progress on the health situation in the affected areas. We will also provide information on key determinants of health challenges and gaps in service provision.\n\n3. EPIDEMIOLOGICAL OVERVIEW\n\nSince the Cyclone happened there has been no reports of any usual diseases or conditions in the most affected districts. As shown in the graph below, as of week 13 the trend of diarrheal diseases in Chimanimani district is normal ( similar to the same period in 2017 and 2018) . There has been no report of death due to diarrhoea and dehydration among the affected communities.",
+                "file": [
+                    {
+                        "id": "2052804",
+                        "url": "https://reliefweb.int/attachments/6ea64239-5315-3ef2-af82-7f4e006ad6d7/health_cluster_manicaland_cyclone_idai_3_apr_2019.pdf",
+                        "filename": "health_cluster_manicaland_cyclone_idai_3_apr_2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "666176",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/6e/a6/6ea64239-5315-3ef2-af82-7f4e006ad6d7.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/6e/a6/6ea64239-5315-3ef2-af82-7f4e006ad6d7.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/6e/a6/6ea64239-5315-3ef2-af82-7f4e006ad6d7.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/6e/a6/6ea64239-5315-3ef2-af82-7f4e006ad6d7.png",
+                            "version": "2052804-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/402?appname=rwint-user-0",
+                        "id": 402,
+                        "name": "Government of Zimbabwe",
+                        "shortname": "Govt. Zimbabwe",
+                        "longname": "Government of Zimbabwe",
+                        "homepage": "https://www.zim.gov.zw/index.php/en/",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1275?appname=rwint-user-0",
+                        "id": 1275,
+                        "name": "World Health Organization",
+                        "shortname": "WHO",
+                        "longname": "World Health Organization",
+                        "spanish_name": "Organización Mundial de la Salud",
+                        "homepage": "https://www.who.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3085838",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/situation-report-cyclone-idai-issue-007",
+                "body-html": "<ol>\n<li>HIGHLIGHTS</li>\n</ol>\n<p>• To date a total of 3,453 patients have been managed in health institutions and temporary clinics (Skyline, Copa,<br />\nNdiadzwa, Beta, Ndima and Vimba) that have submitted reports. These are providing service including supply of chronic diseases medicines.</p>\n<p>• Two patients were air lifted on 2 April from Mutsvangwa to Chipinge and one patient was referred to Mutare Provincial Hospital from Chipinge.</p>\n<p>• A total of 975,646 doses of oral Cholera Vaccine has been approved for two rounds of vaccination in Chimanimani and Chipinge districts. First round of the OCV campaign scheduled for 15th April.</p>\n<p>• A total of 33 Health workers were trained to support detection and reporting of priority diseases/conditions under the early warning alert and response system.</p>\n<ol start=\"2\">\n<li>BACKGROUND</li>\n</ol>\n<p>Zimbabwe experienced torrential rainfall caused by Cyclone Idai from the 15th of March 2019 to the 17th of March 2019.Tropical Cyclone Idai which was downgraded to a tropical depression on the 16th of March 2019 caused high winds and heavy precipitation in Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Mutasa and parts of Mutare Urban districts among other districts, causing riverine and flash flooding and subsequent deaths, destruction of livelihoods and properties. Chimanimani district is the most affected with two main centres having received the brunt of the cyclone, Ngangu Township of Chimanimani which experienced landslides and Ngangu growth point which experienced flooding. The objective of this situation report is to provide daily updates on progress on the health situation in the affected areas. We will also provide information on key determinants of health challenges and gaps in service provision.</p>\n<ol start=\"3\">\n<li>EPIDEMIOLOGICAL OVERVIEW</li>\n</ol>\n<p>Since the Cyclone happened there has been no reports of any usual diseases or conditions in the most affected districts. As shown in the graph below, as of week 13 the trend of diarrheal diseases in Chimanimani district is normal ( similar to the same period in 2017 and 2018) . There has been no report of death due to diarrhoea and dehydration among the affected communities.</p>\n",
+                "date": {
+                    "original": "2019-04-03T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-03T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

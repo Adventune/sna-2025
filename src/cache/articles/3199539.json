@@ -1,0 +1,200 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3199539?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3199539?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3199539",
+            "fields": {
+                "id": 3199539,
+                "uuid": "37f2a49b-fe2e-3157-ab0f-c770c3042d10",
+                "title": "Mozambique: UNHCR Protection Monitoring Report #6 (April 13, 2019)",
+                "status": "published",
+                "body": "Location: IFAPA, Beira\n\nDiscussions: Women, men and children in the community\n\nParticipants: UNHCR\n\nDate: 13/04/2019\n\n**General background**\n\nFurther to the protection monitoring mission to IFAPA on 12 April 2019, and in light of the proposed relocation of families from Buzi to Guara-Guara, UNHCR undertook an open vulnerability assessment amongst the population. The purpose was to identify key vulnerabilities/specific needs that should be taken into consideration in planning, implementation and follow-up support to those being resettled.  \n\nUNHCR conducted several home visits and focus group discussions were held with women, men, girls and boys.\n\n**Family composition**\n\nThe IFAPA site is hosting families from Buzi, Beira, and other surrounding areas. The residents are mostly women, girls and young children. During the discussion, more that 50% of the women stated that their husbands were in Buzi village at the time.",
+                "file": [
+                    {
+                        "id": "2067785",
+                        "url": "https://reliefweb.int/attachments/c0ce8d38-a1ce-3840-a967-47c014556d49/Protection-Monitoring-Report-No-6-IFAPA-Beira-20190413.pdf",
+                        "filename": "Protection-Monitoring-Report-No-6-IFAPA-Beira-20190413.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "596017",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c0/ce/c0ce8d38-a1ce-3840-a967-47c014556d49.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c0/ce/c0ce8d38-a1ce-3840-a967-47c014556d49.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c0/ce/c0ce8d38-a1ce-3840-a967-47c014556d49.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c0/ce/c0ce8d38-a1ce-3840-a967-47c014556d49.png",
+                            "version": "2067785-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3199539",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-unhcr-protection-monitoring-report-6-april-13-2019",
+                "body-html": "<p>Location: IFAPA, Beira</p>\n<p>Discussions: Women, men and children in the community</p>\n<p>Participants: UNHCR</p>\n<p>Date: 13/04/2019</p>\n<p><strong>General background</strong></p>\n<p>Further to the protection monitoring mission to IFAPA on 12 April 2019, and in light of the proposed relocation of families from Buzi to Guara-Guara, UNHCR undertook an open vulnerability assessment amongst the population. The purpose was to identify key vulnerabilities/specific needs that should be taken into consideration in planning, implementation and follow-up support to those being resettled.</p>\n<p>UNHCR conducted several home visits and focus group discussions were held with women, men, girls and boys.</p>\n<p><strong>Family composition</strong></p>\n<p>The IFAPA site is hosting families from Buzi, Beira, and other surrounding areas. The residents are mostly women, girls and young children. During the discussion, more that 50% of the women stated that their husbands were in Buzi village at the time.</p>\n",
+                "date": {
+                    "original": "2019-04-13T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-13T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3038418?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3038418?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3038418",
+            "fields": {
+                "id": 3038418,
+                "title": "Mozambique: Tropical Cyclone Idai Situation Update, 16 March 2019",
+                "status": "published",
+                "body": "**1. Situation Update** \n\n• Category 3 Tropical Cyclone Idai made landfall on the evening of 14 March 2019 in Beira, Mozambique’s fourth largest city, bringing high wind speeds of up to 224 km per hour and heavy rains.\n\n• Initial reports state 100 people are feared dead in Mozambique and neighbouring Malawi due to the heavy rainfall (OCHA), while 103,169 people have been affected by the floods in the Mozambiquean provinces of Zambézia, Tete and Niassa (RC Office, Mozambique).\n\n• At least 17,095 people are displaced in Zambézia, Tete and Niassa sheltered in 15 transit centres across the three provinces (IFRC). The National Disaster Management Agency (INGC) estimates over 600,000 people will be affected by the cyclone (OCHA).\n\n• The INGC has established an initial coordination centre, Centro Operativo de Emergência (COE), in Caia. In addition, a government humanitarian operations centre is being established in Beira to allow for closer proximity to the affected areas.\n\n• Given the extent of flooding and expected impact of Cyclone Idai, a scale-up of inter-agency coordination for logistics activities may be required to respond to identified gaps and to ensure the delivery of emergency relief items (currently estimated at 4,250 MT or 14,000 m3).\n\n• The Logistics Cluster has not yet been activated; the country’s Logistics Working Group remains in place. An initial logistics coordination meeting was held in the country’s capital city, Maputo, on March 14.\n\n• The Global Logistics Cluster has sent an assessment team of two people. A Coordinator and Information Management Officer, were deployed to Mozambique on 15 March to assess the needs for common logistics services in the north and central part of the country. The team departed by road to Beira on 16 March as part of an inter-agency convoy. The convoy is expected to arrive on 17 March.\n\n• The World Food Programme (WFP), as global lead of the Logistics Cluster and the Emergency Telecommunications Cluster (ETC), is working on a USD 2.2 million proposal. The proposal is for the provision of common logistics and communications services for identified operational areas across Sofala,  \nTete and Zambézia provinces (in the central region) and Niassa province (in the country’s north) for a 3-month period. The proposal includes the deployment of one UN Humanitarian Air Service (UNHAS) helicopter to facilitate access to affected areas.",
+                "file": [
+                    {
+                        "id": "2047503",
+                        "url": "https://reliefweb.int/attachments/b2732348-2c69-3907-ac1a-dbc13bba2869/logistics_cluster_mozambique_situation_update_190315_0.pdf",
+                        "filename": "logistics_cluster_mozambique_situation_update_190315_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "225002",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/b2/73/b2732348-2c69-3907-ac1a-dbc13bba2869.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b2/73/b2732348-2c69-3907-ac1a-dbc13bba2869.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/b2/73/b2732348-2c69-3907-ac1a-dbc13bba2869.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b2/73/b2732348-2c69-3907-ac1a-dbc13bba2869.png",
+                            "version": "2047503-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://logcluster.org/sites/default/files/logistics_cluster_mozambique_situation_update_190315_0.pdf",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3594?appname=rwint-user-0",
+                        "id": 3594,
+                        "name": "Logistics Cluster",
+                        "shortname": "Logistics Cluster",
+                        "homepage": "https://www.logcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3038418",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-situation-update-16-march-2019",
+                "body-html": "<p><strong>1. Situation Update</strong></p>\n<p>• Category 3 Tropical Cyclone Idai made landfall on the evening of 14 March 2019 in Beira, Mozambique’s fourth largest city, bringing high wind speeds of up to 224 km per hour and heavy rains.</p>\n<p>• Initial reports state 100 people are feared dead in Mozambique and neighbouring Malawi due to the heavy rainfall (OCHA), while 103,169 people have been affected by the floods in the Mozambiquean provinces of Zambézia, Tete and Niassa (RC Office, Mozambique).</p>\n<p>• At least 17,095 people are displaced in Zambézia, Tete and Niassa sheltered in 15 transit centres across the three provinces (IFRC). The National Disaster Management Agency (INGC) estimates over 600,000 people will be affected by the cyclone (OCHA).</p>\n<p>• The INGC has established an initial coordination centre, Centro Operativo de Emergência (COE), in Caia. In addition, a government humanitarian operations centre is being established in Beira to allow for closer proximity to the affected areas.</p>\n<p>• Given the extent of flooding and expected impact of Cyclone Idai, a scale-up of inter-agency coordination for logistics activities may be required to respond to identified gaps and to ensure the delivery of emergency relief items (currently estimated at 4,250 MT or 14,000 m3).</p>\n<p>• The Logistics Cluster has not yet been activated; the country’s Logistics Working Group remains in place. An initial logistics coordination meeting was held in the country’s capital city, Maputo, on March 14.</p>\n<p>• The Global Logistics Cluster has sent an assessment team of two people. A Coordinator and Information Management Officer, were deployed to Mozambique on 15 March to assess the needs for common logistics services in the north and central part of the country. The team departed by road to Beira on 16 March as part of an inter-agency convoy. The convoy is expected to arrive on 17 March.</p>\n<p>• The World Food Programme (WFP), as global lead of the Logistics Cluster and the Emergency Telecommunications Cluster (ETC), is working on a USD 2.2 million proposal. The proposal is for the provision of common logistics and communications services for identified operational areas across Sofala,<br />\nTete and Zambézia provinces (in the central region) and Niassa province (in the country’s north) for a 3-month period. The proposal includes the deployment of one UN Humanitarian Air Service (UNHAS) helicopter to facilitate access to affected areas.</p>\n",
+                "date": {
+                    "original": "2019-03-16T00:00:00+00:00",
+                    "changed": "2019-03-16T23:51:47+00:00",
+                    "created": "2019-03-16T22:10:22+00:00"
+                }
+            }
+        }
+    ]
+}

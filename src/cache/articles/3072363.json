@@ -1,0 +1,242 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3072363?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3072363?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3072363",
+            "fields": {
+                "id": 3072363,
+                "uuid": "390230af-24e5-3eba-99e4-d99031a6f43b",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 4 (as of 5 April 2019)",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The next report will be issued on 6 April 2019.* \n\n**HIGHLIGHTS** \n\n• Some 336 new cases of cholera and 3 deaths were reported on 5 April, in Beira (246 cases; 1 death); Nhamatanda (26 cases; 1 death) and Dondo (64 cases; 1 death).\n\n• More than 217,000 people had received the Oral Cholera Vaccine as of 5 April, representing 26 per cent of the total targeted.\n\n• The number of displaced people sheltering in collective sites increased to 142,000 people as of 5 April.\n\n• Buzi area is now reachable by road and phone services are operational, but only light vehicles being tested for now, according to the Logistics Cluster. \n\n**SITUATION OVERVIEW** \n\nAs of 5 April, the total number of registered cholera cases was 2,426 cases, including an unconfirmed number of cases reported in a new outbreak in Buzi town, in Sofala Province. The majority of the new cases on 5 April were reported in Beira (246 cases; 1 death); Dondo (64 cases; 1 death) and Nhamatanda (25 cases; 1 death). At least 217,000 people were vaccinated as of 5 April, representing 20 per cent of the people targeted. Cholera is endemic to Mozambique, which has had regular outbreaks over the past five years. About 2,000 people were infected in the last outbreak, which ended in February 2018, according to WHO. \n\nThe death toll and number of people injured stood at 598 deaths and more than 1,640 injuries, as at 5 April. The number of crops and houses damaged remained at 715,000 hectares of crops and nearly 217,000 houses, since 4 April. Meanwhile, the number of internally displaced people living in collective sites increased by more than 12,200 to 142,000 as of 5 April, according to government figures. In Sofala Province, the number of sites increased by 10 from 4 to 5 April. \n\nMore than 262,120 school-age students have been impacted by the crisis, as more than 3,340 classrooms have been destroyed, and many continue to be used as shelters for the more than 142,000 IDPs in Manica, Sofala, Tete and Zambezia provinces. Humanitarian partners continue to call for any relocations out of schools or elsewhere to be safe, dignified and voluntary. Key priority needs in the new accommodation sites include access to clean and safe drinking water, shelter materials and sanitation facilities. Psychosocial support and counseling for families who have lost loved ones and all their belongings, particularly men who are presenting with emotional instability, will continue to be needed both in the accommodation sites and places of return.",
+                "file": [
+                    {
+                        "id": "2051328",
+                        "url": "https://reliefweb.int/attachments/242c8065-924c-3aaf-86b5-3c998bb69985/MOZAMBIQUE_CYLONE_IDAI_FLOODS_SITUATION_REPORT_NO4_06April2019.pdf",
+                        "filename": "MOZAMBIQUE_CYLONE_IDAI_FLOODS_SITUATION_REPORT_NO4_06April2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "424890",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/24/2c/242c8065-924c-3aaf-86b5-3c998bb69985.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/24/2c/242c8065-924c-3aaf-86b5-3c998bb69985.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/24/2c/242c8065-924c-3aaf-86b5-3c998bb69985.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/24/2c/242c8065-924c-3aaf-86b5-3c998bb69985.png",
+                            "version": "2051328-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3072363",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-4-5-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The next report will be issued on 6 April 2019.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• Some 336 new cases of cholera and 3 deaths were reported on 5 April, in Beira (246 cases; 1 death); Nhamatanda (26 cases; 1 death) and Dondo (64 cases; 1 death).</p>\n<p>• More than 217,000 people had received the Oral Cholera Vaccine as of 5 April, representing 26 per cent of the total targeted.</p>\n<p>• The number of displaced people sheltering in collective sites increased to 142,000 people as of 5 April.</p>\n<p>• Buzi area is now reachable by road and phone services are operational, but only light vehicles being tested for now, according to the Logistics Cluster.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>As of 5 April, the total number of registered cholera cases was 2,426 cases, including an unconfirmed number of cases reported in a new outbreak in Buzi town, in Sofala Province. The majority of the new cases on 5 April were reported in Beira (246 cases; 1 death); Dondo (64 cases; 1 death) and Nhamatanda (25 cases; 1 death). At least 217,000 people were vaccinated as of 5 April, representing 20 per cent of the people targeted. Cholera is endemic to Mozambique, which has had regular outbreaks over the past five years. About 2,000 people were infected in the last outbreak, which ended in February 2018, according to WHO.</p>\n<p>The death toll and number of people injured stood at 598 deaths and more than 1,640 injuries, as at 5 April. The number of crops and houses damaged remained at 715,000 hectares of crops and nearly 217,000 houses, since 4 April. Meanwhile, the number of internally displaced people living in collective sites increased by more than 12,200 to 142,000 as of 5 April, according to government figures. In Sofala Province, the number of sites increased by 10 from 4 to 5 April.</p>\n<p>More than 262,120 school-age students have been impacted by the crisis, as more than 3,340 classrooms have been destroyed, and many continue to be used as shelters for the more than 142,000 IDPs in Manica, Sofala, Tete and Zambezia provinces. Humanitarian partners continue to call for any relocations out of schools or elsewhere to be safe, dignified and voluntary. Key priority needs in the new accommodation sites include access to clean and safe drinking water, shelter materials and sanitation facilities. Psychosocial support and counseling for families who have lost loved ones and all their belongings, particularly men who are presenting with emotional instability, will continue to be needed both in the accommodation sites and places of return.</p>\n",
+                "date": {
+                    "original": "2019-04-05T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-06T22:09:29+00:00"
+                }
+            }
+        }
+    ]
+}

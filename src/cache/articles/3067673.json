@@ -1,0 +1,215 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3067673?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3067673?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3067673",
+            "fields": {
+                "id": 3067673,
+                "uuid": "a006e65a-84a4-31cd-bef4-4289b5f2d6e6",
+                "title": "UNICEF Zimbabwe Cyclone Idai Situation Report #3 (25 - 31 March 2019)",
+                "status": "published",
+                "body": "- The estimated number of people affected by the cyclone and flooding in nine districts increased to 270,000 (from 250,000), including 129,600 children. \n\n- The number of schools affected has increased from 114 to 139, affecting an estimated 90,000 learners. \n\n- With UNICEF support, 4,856 children living with HIV/AIDS, have been traced to ensure they have access to treatment. \n\n- Over 8,000 households (40,000 people) reached with critical WASH hygiene kits in affected districts.\n\n- A total of 1,855 children (1,111 girls and 745 boys) and their care-givers were reached with child protection services. \n\n- Approximately 1,000 mothers and caregivers of children under the age of two, reached with key messages on Infant and Young Child Feeding in emergencies. ]\n\n**SITUATION IN NUMBERS**\n\n270,000 People affected by Cyclone Idai/Floods \n\n129,600 Children affected by Cyclone Idai/Floods \n\n171 Deaths reported (Source: DCP-March 2019) \n\n330 People missing (Source: DCP-March 2019) \n\nUNICEF HAC Appeal US$ 18.4 million of which US $ 10.9 million Is for the Cyclone Response*",
+                "file": [
+                    {
+                        "id": "2050757",
+                        "url": "https://reliefweb.int/attachments/95c28d26-b288-3d44-97a6-babf33523945/UNICEF%20Zimbabwe%20Cyclone%20Idai%20Humanitarian%20Situation%20Report%20%233.pdf",
+                        "filename": "UNICEF Zimbabwe Cyclone Idai Humanitarian Situation Report #3.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "3689305",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/95/c2/95c28d26-b288-3d44-97a6-babf33523945.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/95/c2/95c28d26-b288-3d44-97a6-babf33523945.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/95/c2/95c28d26-b288-3d44-97a6-babf33523945.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/95/c2/95c28d26-b288-3d44-97a6-babf33523945.png",
+                            "version": "2050757-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3067673",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/unicef-zimbabwe-cyclone-idai-situation-report-3-25-31-march-2019",
+                "body-html": "<ul>\n<li>\n<p>The estimated number of people affected by the cyclone and flooding in nine districts increased to 270,000 (from 250,000), including 129,600 children.</p>\n</li>\n<li>\n<p>The number of schools affected has increased from 114 to 139, affecting an estimated 90,000 learners.</p>\n</li>\n<li>\n<p>With UNICEF support, 4,856 children living with HIV/AIDS, have been traced to ensure they have access to treatment.</p>\n</li>\n<li>\n<p>Over 8,000 households (40,000 people) reached with critical WASH hygiene kits in affected districts.</p>\n</li>\n<li>\n<p>A total of 1,855 children (1,111 girls and 745 boys) and their care-givers were reached with child protection services.</p>\n</li>\n<li>\n<p>Approximately 1,000 mothers and caregivers of children under the age of two, reached with key messages on Infant and Young Child Feeding in emergencies. ]</p>\n</li>\n</ul>\n<p><strong>SITUATION IN NUMBERS</strong></p>\n<p>270,000 People affected by Cyclone Idai/Floods</p>\n<p>129,600 Children affected by Cyclone Idai/Floods</p>\n<p>171 Deaths reported (Source: DCP-March 2019)</p>\n<p>330 People missing (Source: DCP-March 2019)</p>\n<p>UNICEF HAC Appeal US$ 18.4 million of which US $ 10.9 million Is for the Cyclone Response*</p>\n",
+                "date": {
+                    "original": "2019-03-31T00:00:00+00:00",
+                    "changed": "2019-04-04T06:06:28+00:00",
+                    "created": "2019-04-04T02:00:32+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,216 @@
+{
+    "time": 1488,
+    "href": "https://api.reliefweb.int/v1/reports/3049473?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3049473?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1481,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3049473",
+            "fields": {
+                "id": 3049473,
+                "uuid": "51e3d075-c886-324d-9fe7-60e3c8b0022b",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 7, 23 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS** \n\n• The official death toll has risen to at least 417 people, according to the Government, and is expected to continue to rise in the days ahead.\n\n• More than 74,600 women impacted by the cyclone are estimated to be pregnant, of whom 60 per cent (43,000) are expected to give birth in the next six months • Nearly 90,000 people are sheltering in at least 122 sites across Sofala (more than 67,300 people), Manica (more than 5,400 people); Tete (more than 6,800 people) and Zambezia (more than 9,600 people).\n\n• More than 3,100 classrooms have been impacted, affecting more than 90,000 children across Sofala Province.\n\n• Above-average rainfall may continue into next week, sustaining the risk of floods in already affected areas. \n\n**SITUATION OVERVIEW** \n\nThe official death toll from the floods and impact of Cyclone Idai has risen to at least 417 people, according to the Government on 23 March, and is expected to continue to rise in the days ahead. More than 89,100 people are sheltering in 122 sites across Sofala (90 sites), Manica (18 sites), Zambezia (10 sites) and Tete (4 sites), with an increase of 17 more sites in Sofala province since 20 March. More than 1,500 people have been injured and the number of victims continues to rise as the waters recede and more people are reached by response teams.    \n\nSome 3,140 schools have been destroyed, affecting more than 90,000 students, according to Government figures on 23 March. More than 33,600 houses have been totally destroyed (20,282), partially destroyed (17,137) or flooded (2,184), according to the authorities, and nearly 500,000 hectares of crops have reportedly been destroyed, heightening the risk of rising food insecurity in affected communities. Women in Mozambique play a critical role in agricultural production and at the same time remain responsible for the majority of caregiving. With the caregiving burden likely to increase in the aftermath of the cyclone and floods – as illness and injury have risen – women may have to decrease their agricultural production, risking further increases in food insecurity. UNFPA estimates that about 74,650 women impacted by the cyclone are pregnant of whom 60 per cent (43,000) are estimated to give birth in the next six months. Of these, about 7,465 are at risk of life-threatening complications of pregnancy and will need access to functioning health facilities and care.    \n\nWater levels in Buzi and Pungue rivers have reportedly receded, but the region remains at risk as rains continue in multiple locations. The Cahora Bassa dam in Tete Province has reached capacity and will be discharged to recover storage capacity in preparation for anticipated additional rains in the coming week. Although this does not produce a high risk of flooding, weather experts have identified some areas that are on alert. Meanwhile, the Marowanyati dam in Zimbabwe has been hit by heavy rains, putting populations in the river basin at high risk. The rainfall could lead to a potential rise in some smaller coastal basins in Mozambique between Beira and Zambezi River mouth.    \n\nCommodity prices in Beira continued to rise and buyers are reportedly unable to afford goods, where available, according to field reports. Almost 80 per cent of the economic infrastructure, including warehouses, storage silos and supermarkets in Beira have been destroyed, leaving behind damaged goods, according to the Logistics Cluster. Stalls in the Maquinino informal market - Beira’s largest - have all been destroyed, impacting the availability of essential products. A box of tomatoes that cost about 500 meticals a week ago now costs between 2,000 and 2,500 meticals, according to the local community.    \n\nThe situation in Chimoio remains critical. Two bridges collapsed and another five are still flooded in Mossurize and Sussundenga districts in Manica province, according to Save the Children. Mossurize District is isolated from the rest of the province and entry is only possible via Zimbabwe. Crops in the Chimoio green belt, which provides the livelihood of hundreds of families through the production of cereal and vegetables, have been flooded.    \n\nIn Zambezia district, 308 classrooms (88 conventional and 220 traditional) were destroyed during the floods, according to a rapid assessment conducted in the district. Some of the affected children have been integrated in schools near accommodation centres. The Ministry of Education has requested more than 23,000 student kits, 576 teacher kits, 15 Early Childhood Development (ECD) kits, 10 classroom tents and 500 tents. The Ministry of Public Works has requested a variety of items such as water pumps, water treatment systems, water tanks, hygiene kits, plastic rolls and fuel.    \n\nLogistics remain a challenge. The corridor from Mutare (Zimbabwe) to Chimoio is open; Beira and Chimoio airports are fully operational; the Beira sea port and railway services (Sena railway line) between Tete (Moatize) and Beira cities are also operational. Stocks of Jet-A1 fuel are reportedly available in Tete and Quelimane. However, these must be airlifted to Beira where there are limited stocks and no Jet-A1 fuel is currently available in Chimoio. Electricity from power grids in Beira continues to be non-functional, leaving large parts of the city without sustained power. At least 80 per cent of the electrical infrastructure in Dondo district is damaged, according to the Government. On 20 March, the national electricity company airlifted power equipment to Beira to provide alternate power services. Storage capacity in Beira remains constrained and the Logistics Cluster is closely monitoring the situation to avoid bottlenecks at both the port and airport.",
+                "file": [
+                    {
+                        "id": "2048579",
+                        "url": "https://reliefweb.int/attachments/a56d91c5-4224-303d-b3af-b15d1d7e62a2/ROSEA_20190323_Mozambique%20Floods_Flash_Update%237..%20FINAL.pdf",
+                        "filename": "ROSEA_20190323_Mozambique Floods_Flash_Update#7.. FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "161186",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/a5/6d/a56d91c5-4224-303d-b3af-b15d1d7e62a2.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a5/6d/a56d91c5-4224-303d-b3af-b15d1d7e62a2.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/a5/6d/a56d91c5-4224-303d-b3af-b15d1d7e62a2.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a5/6d/a56d91c5-4224-303d-b3af-b15d1d7e62a2.png",
+                            "version": "2048579-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3049473",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-7-23-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The official death toll has risen to at least 417 people, according to the Government, and is expected to continue to rise in the days ahead.</p>\n<p>• More than 74,600 women impacted by the cyclone are estimated to be pregnant, of whom 60 per cent (43,000) are expected to give birth in the next six months • Nearly 90,000 people are sheltering in at least 122 sites across Sofala (more than 67,300 people), Manica (more than 5,400 people); Tete (more than 6,800 people) and Zambezia (more than 9,600 people).</p>\n<p>• More than 3,100 classrooms have been impacted, affecting more than 90,000 children across Sofala Province.</p>\n<p>• Above-average rainfall may continue into next week, sustaining the risk of floods in already affected areas.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>The official death toll from the floods and impact of Cyclone Idai has risen to at least 417 people, according to the Government on 23 March, and is expected to continue to rise in the days ahead. More than 89,100 people are sheltering in 122 sites across Sofala (90 sites), Manica (18 sites), Zambezia (10 sites) and Tete (4 sites), with an increase of 17 more sites in Sofala province since 20 March. More than 1,500 people have been injured and the number of victims continues to rise as the waters recede and more people are reached by response teams.</p>\n<p>Some 3,140 schools have been destroyed, affecting more than 90,000 students, according to Government figures on 23 March. More than 33,600 houses have been totally destroyed (20,282), partially destroyed (17,137) or flooded (2,184), according to the authorities, and nearly 500,000 hectares of crops have reportedly been destroyed, heightening the risk of rising food insecurity in affected communities. Women in Mozambique play a critical role in agricultural production and at the same time remain responsible for the majority of caregiving. With the caregiving burden likely to increase in the aftermath of the cyclone and floods – as illness and injury have risen – women may have to decrease their agricultural production, risking further increases in food insecurity. UNFPA estimates that about 74,650 women impacted by the cyclone are pregnant of whom 60 per cent (43,000) are estimated to give birth in the next six months. Of these, about 7,465 are at risk of life-threatening complications of pregnancy and will need access to functioning health facilities and care.</p>\n<p>Water levels in Buzi and Pungue rivers have reportedly receded, but the region remains at risk as rains continue in multiple locations. The Cahora Bassa dam in Tete Province has reached capacity and will be discharged to recover storage capacity in preparation for anticipated additional rains in the coming week. Although this does not produce a high risk of flooding, weather experts have identified some areas that are on alert. Meanwhile, the Marowanyati dam in Zimbabwe has been hit by heavy rains, putting populations in the river basin at high risk. The rainfall could lead to a potential rise in some smaller coastal basins in Mozambique between Beira and Zambezi River mouth.</p>\n<p>Commodity prices in Beira continued to rise and buyers are reportedly unable to afford goods, where available, according to field reports. Almost 80 per cent of the economic infrastructure, including warehouses, storage silos and supermarkets in Beira have been destroyed, leaving behind damaged goods, according to the Logistics Cluster. Stalls in the Maquinino informal market - Beira’s largest - have all been destroyed, impacting the availability of essential products. A box of tomatoes that cost about 500 meticals a week ago now costs between 2,000 and 2,500 meticals, according to the local community.</p>\n<p>The situation in Chimoio remains critical. Two bridges collapsed and another five are still flooded in Mossurize and Sussundenga districts in Manica province, according to Save the Children. Mossurize District is isolated from the rest of the province and entry is only possible via Zimbabwe. Crops in the Chimoio green belt, which provides the livelihood of hundreds of families through the production of cereal and vegetables, have been flooded.</p>\n<p>In Zambezia district, 308 classrooms (88 conventional and 220 traditional) were destroyed during the floods, according to a rapid assessment conducted in the district. Some of the affected children have been integrated in schools near accommodation centres. The Ministry of Education has requested more than 23,000 student kits, 576 teacher kits, 15 Early Childhood Development (ECD) kits, 10 classroom tents and 500 tents. The Ministry of Public Works has requested a variety of items such as water pumps, water treatment systems, water tanks, hygiene kits, plastic rolls and fuel.</p>\n<p>Logistics remain a challenge. The corridor from Mutare (Zimbabwe) to Chimoio is open; Beira and Chimoio airports are fully operational; the Beira sea port and railway services (Sena railway line) between Tete (Moatize) and Beira cities are also operational. Stocks of Jet-A1 fuel are reportedly available in Tete and Quelimane. However, these must be airlifted to Beira where there are limited stocks and no Jet-A1 fuel is currently available in Chimoio. Electricity from power grids in Beira continues to be non-functional, leaving large parts of the city without sustained power. At least 80 per cent of the electrical infrastructure in Dondo district is damaged, according to the Government. On 20 March, the national electricity company airlifted power equipment to Beira to provide alternate power services. Storage capacity in Beira remains constrained and the Logistics Cluster is closely monitoring the situation to avoid bottlenecks at both the port and airport.</p>\n",
+                "date": {
+                    "original": "2019-03-23T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-23T23:25:14+00:00"
+                }
+            }
+        }
+    ]
+}

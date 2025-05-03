@@ -1,0 +1,244 @@
+{
+    "time": 14,
+    "href": "https://api.reliefweb.int/v1/reports/3073323?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3073323?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 7,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3073323",
+            "fields": {
+                "id": 3073323,
+                "title": "Malawi: Floods - Situation Report No. 3 (as of 7th April 2019)",
+                "status": "published",
+                "body": "*This report is produced jointly by the Department of Disaster Management Affairs (DoDMA) of Malawi and the United Nations Office of the Resident Coordinator in Malawi, in collaboration with humanitarian and development partners. It covers the period 23 March – 7 April 2019. The next report will be issued on or around 20 April 2019.* \n\n**Highlights**\n\n • Relief assistance has been deployed to affected districts. 12 UN agencies with over 90 partners have assisted over 90,000 households, affected by the floods • Surge support has arrived in-country to support critical sectors, including shelter and displacement tracking, protection, coordination, early recovery and logistics.\n\n• Emergency Operations Centres were established in Lilongwe and Blantyre to better support and coordinate the on-going response.\n\n• A Flood Response Plan targeting all activated clusters was launched by the government and its partners on 28 March, 2019. Total requirements are US$45.2 million. Contributions and pledges amount to US$19.6million, leaving a gap of US$25.6million.\n\n• An application to the CERF to complement on-going response efforts was submitted. Total amount requested is US$3.3 million.\n\n• A Post Disaster Needs Assessment (PDNA) will be conducted from 8 April after which a report with early recovery needs will be shared.  \nAffected districts\n\n868,895 Affected throughout the country\n\n731,879 People in need\n\n86,976 People displaced in IDP camps\n\n90,000 Households reached with relief assistance Partners providing relief assistance\n\nSituation Overview Following the declaration by the Government of Malawi of the State of Disaster on 8 March, an appeal for support from local and international organisations was made. This triggered response operations aimed at meeting the immediate and life-saving needs of affected people. So far, support has continued to be received from various local and international partners. A total of 12 UN agencies and 90 partners have assisted approximately 90,000 people have been reached with various types of assistance including food,  \nWaSH, health, nutrition, shelter and protection. Flood waters have generally receded but approximately 70% of the affected population are still in camps. This is mainly because houses collapsed completely or were weakened and therefore remain a potential threat. As the response in ongoing to fill the critical gaps in food and shelter NFIs, mosquito nets and reproductive kits, governement and partners are discussiong early recovery options and packages (including seeds) for those households returing to their homes. All areas are now accessible, albeit some isolated pockets remain hard to reach. DoDMA estimates that these areas host approximately 5% of the affected population that is yet to receive assistance. Such areas include Chingale in Zomba district and the Food Security and Logistics Clusters are working together with DoDMA to reach these areas.  \nThe HCT met on 5 April to review the progress on the flood response. The meeting noted tremendous support from partners in responding to the floods but inadequate coordination mainly at district level.  \nInstitutions with capacity to support districts with Information Management (IM) support were encouraged to deploy this capacity to the districts. DoDMA will also deploy staff to key affected districts to boost coordination and information management. Surge support arrived in-country to support critical sectors, including shelter and displacement tracking (IOM), protection (UNHCR), coordination (OCHA), early recovery (UNDP) and logistics (WFP).  \nThe government, through the Department of Disaster Management Affairs launched a Flood Response Plan on 28 March, 2019. Total funding requirements for immediate assistance (March to May 2019) are US$45.2million. Contributions and pledges made so far total from donors, government, bilateral agreements and internal agency arrangements are US$19.3 million, leaving a gap of US$25.6 million. The plan seeks to support response and recovery interventions around Coordination, Food Security,  \nAgriculture, Nutrition, Protection, WASH, Education, Health, Shelter and Camp Management, and Early Recovery. The Plan was developed under the leadership of DoDMA with support from UN partners and civil society organisations. An application to the Central Emergency Response Fund (CERF) to complement on-going response efforts was submitted. Total amount requested is US$3.3 million to support prioritised activities in food, health, nutrition, protection, education, shelter/NFIs and logistics. \n\nAn application to the Central Emergency Response Fund of the UN Office for Coordination of Humanitarian Affairs to complement on-going response efforts has been submitted. Total amount requested is US$3.2 million to support prioritised activities in the following clusters: Food, health, nutrition, protection, shelter/NFIs and logistics. \n\nThe humanitarian response needs to focus on meeting urgent yet diverse needs of affected women - including pregnant and lactating mothers - girls, boys and men, adolescents and youths, the elderly, and people with disabilities, while also protecting them from violence, abuses and exploitation, while maintaining their dignity. To best inform response programming, there is an urgent need to establish gender/age disaggregated data and to apply an age-gender-diversity mainstreaming tool across the clusters. \n\nCoordination and cluster meetings at national and regional level are being held although this needs to be strengthened. Regional meetings are also being held in Blantyre chaired by DoDMA and supported by WFP. However, coordination challenges at district level is affecting the efficacy of the response operations. \n\nMostly, clusters are not meeting regularly and most of the work is left for the Assistant District Disaster Management Officer who is already busy with overall coordination. There are plans to establish Emergency Operations Centres at regional level to better support response operations at district level.  \n\nA Post-Disaster Needs Assessment will be conducted in April. The objective of this assessment is to estimate the physical, economic and human impacts of the 2019 floods on the socio-economic development of the country at the national and district level. It also seeks to inform short, medium and long-term interventions to strengthen the GoM’s recovery, reconstruction and resilience building systems.  \n\nAn Inter-agency Assessment Committee conducted a verification exercise in Machinga, Mangochi, Zomba and Balaka districts. A total of 357,078 people (80,152 households) were affected across the four districts out of a total population of 3,069,152 representing 11.6% with 4,562 households are displaced in various sites including schools, churches. Major impact was on infrastructure and on household items and crops.  \n\nThe findings also noted minimal protection services in sites which may place women and children vulnerable to abuse. Water and sanitation services were critically low putting pressure on inadequate toilets and water points in schools. Response has been triggered and food and NFIs have been provided by government and its partners. However, the supplies are inadequate considering that the displaced are likely to be in camps for a minimum of a month",
+                "file": [
+                    {
+                        "id": "2102381",
+                        "url": "https://reliefweb.int/attachments/c5bf9b20-eb1e-35a6-a92b-1a64696a175e/Situation-Report-No-3-Malawi-Floods-March-April-2019.pdf",
+                        "filename": "Situation-Report-No-3-Malawi-Floods-March-April-2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "927746",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c5/bf/c5bf9b20-eb1e-35a6-a92b-1a64696a175e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c5/bf/c5bf9b20-eb1e-35a6-a92b-1a64696a175e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c5/bf/c5bf9b20-eb1e-35a6-a92b-1a64696a175e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c5/bf/c5bf9b20-eb1e-35a6-a92b-1a64696a175e.png",
+                            "version": "2102381-1-0"
+                        }
+                    }
+                ],
+                "origin": "http://mw.one.un.org/malawi-floods-situation-report-no-3-as-of-7th-april-2019/",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2591?appname=rwint-user-0",
+                        "id": 2591,
+                        "name": "Government of Malawi",
+                        "shortname": "Govt. Malawi",
+                        "longname": "Government of Malawi",
+                        "homepage": "http://www.malawi.gov.mw",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3985?appname=rwint-user-0",
+                        "id": 3985,
+                        "name": "UN Resident Coordinator in Malawi",
+                        "shortname": "UN RC Malawi",
+                        "longname": "United Nations Resident Coordinator in Malawi",
+                        "homepage": "https://malawi.un.org/en/about/about-the-resident-coordinator-office",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3073323",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-floods-situation-report-no-3-7th-april-2019",
+                "body-html": "<p><em>This report is produced jointly by the Department of Disaster Management Affairs (DoDMA) of Malawi and the United Nations Office of the Resident Coordinator in Malawi, in collaboration with humanitarian and development partners. It covers the period 23 March – 7 April 2019. The next report will be issued on or around 20 April 2019.</em></p>\n<p><strong>Highlights</strong></p>\n<p>• Relief assistance has been deployed to affected districts. 12 UN agencies with over 90 partners have assisted over 90,000 households, affected by the floods • Surge support has arrived in-country to support critical sectors, including shelter and displacement tracking, protection, coordination, early recovery and logistics.</p>\n<p>• Emergency Operations Centres were established in Lilongwe and Blantyre to better support and coordinate the on-going response.</p>\n<p>• A Flood Response Plan targeting all activated clusters was launched by the government and its partners on 28 March, 2019. Total requirements are US$45.2 million. Contributions and pledges amount to US$19.6million, leaving a gap of US$25.6million.</p>\n<p>• An application to the CERF to complement on-going response efforts was submitted. Total amount requested is US$3.3 million.</p>\n<p>• A Post Disaster Needs Assessment (PDNA) will be conducted from 8 April after which a report with early recovery needs will be shared.<br />\nAffected districts</p>\n<p>868,895 Affected throughout the country</p>\n<p>731,879 People in need</p>\n<p>86,976 People displaced in IDP camps</p>\n<p>90,000 Households reached with relief assistance Partners providing relief assistance</p>\n<p>Situation Overview Following the declaration by the Government of Malawi of the State of Disaster on 8 March, an appeal for support from local and international organisations was made. This triggered response operations aimed at meeting the immediate and life-saving needs of affected people. So far, support has continued to be received from various local and international partners. A total of 12 UN agencies and 90 partners have assisted approximately 90,000 people have been reached with various types of assistance including food,<br />\nWaSH, health, nutrition, shelter and protection. Flood waters have generally receded but approximately 70% of the affected population are still in camps. This is mainly because houses collapsed completely or were weakened and therefore remain a potential threat. As the response in ongoing to fill the critical gaps in food and shelter NFIs, mosquito nets and reproductive kits, governement and partners are discussiong early recovery options and packages (including seeds) for those households returing to their homes. All areas are now accessible, albeit some isolated pockets remain hard to reach. DoDMA estimates that these areas host approximately 5% of the affected population that is yet to receive assistance. Such areas include Chingale in Zomba district and the Food Security and Logistics Clusters are working together with DoDMA to reach these areas.<br />\nThe HCT met on 5 April to review the progress on the flood response. The meeting noted tremendous support from partners in responding to the floods but inadequate coordination mainly at district level.<br />\nInstitutions with capacity to support districts with Information Management (IM) support were encouraged to deploy this capacity to the districts. DoDMA will also deploy staff to key affected districts to boost coordination and information management. Surge support arrived in-country to support critical sectors, including shelter and displacement tracking (IOM), protection (UNHCR), coordination (OCHA), early recovery (UNDP) and logistics (WFP).<br />\nThe government, through the Department of Disaster Management Affairs launched a Flood Response Plan on 28 March, 2019. Total funding requirements for immediate assistance (March to May 2019) are US$45.2million. Contributions and pledges made so far total from donors, government, bilateral agreements and internal agency arrangements are US$19.3 million, leaving a gap of US$25.6 million. The plan seeks to support response and recovery interventions around Coordination, Food Security,<br />\nAgriculture, Nutrition, Protection, WASH, Education, Health, Shelter and Camp Management, and Early Recovery. The Plan was developed under the leadership of DoDMA with support from UN partners and civil society organisations. An application to the Central Emergency Response Fund (CERF) to complement on-going response efforts was submitted. Total amount requested is US$3.3 million to support prioritised activities in food, health, nutrition, protection, education, shelter/NFIs and logistics.</p>\n<p>An application to the Central Emergency Response Fund of the UN Office for Coordination of Humanitarian Affairs to complement on-going response efforts has been submitted. Total amount requested is US$3.2 million to support prioritised activities in the following clusters: Food, health, nutrition, protection, shelter/NFIs and logistics.</p>\n<p>The humanitarian response needs to focus on meeting urgent yet diverse needs of affected women - including pregnant and lactating mothers - girls, boys and men, adolescents and youths, the elderly, and people with disabilities, while also protecting them from violence, abuses and exploitation, while maintaining their dignity. To best inform response programming, there is an urgent need to establish gender/age disaggregated data and to apply an age-gender-diversity mainstreaming tool across the clusters.</p>\n<p>Coordination and cluster meetings at national and regional level are being held although this needs to be strengthened. Regional meetings are also being held in Blantyre chaired by DoDMA and supported by WFP. However, coordination challenges at district level is affecting the efficacy of the response operations.</p>\n<p>Mostly, clusters are not meeting regularly and most of the work is left for the Assistant District Disaster Management Officer who is already busy with overall coordination. There are plans to establish Emergency Operations Centres at regional level to better support response operations at district level.</p>\n<p>A Post-Disaster Needs Assessment will be conducted in April. The objective of this assessment is to estimate the physical, economic and human impacts of the 2019 floods on the socio-economic development of the country at the national and district level. It also seeks to inform short, medium and long-term interventions to strengthen the GoM’s recovery, reconstruction and resilience building systems.</p>\n<p>An Inter-agency Assessment Committee conducted a verification exercise in Machinga, Mangochi, Zomba and Balaka districts. A total of 357,078 people (80,152 households) were affected across the four districts out of a total population of 3,069,152 representing 11.6% with 4,562 households are displaced in various sites including schools, churches. Major impact was on infrastructure and on household items and crops.</p>\n<p>The findings also noted minimal protection services in sites which may place women and children vulnerable to abuse. Water and sanitation services were critically low putting pressure on inadequate toilets and water points in schools. Response has been triggered and food and NFIs have been provided by government and its partners. However, the supplies are inadequate considering that the displaced are likely to be in camps for a minimum of a month</p>\n",
+                "date": {
+                    "original": "2019-04-07T00:00:00+00:00",
+                    "changed": "2019-11-14T07:53:26+00:00",
+                    "created": "2019-04-08T09:25:29+00:00"
+                }
+            }
+        }
+    ]
+}

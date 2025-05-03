@@ -1,0 +1,246 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3090533?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3090533?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3090533",
+            "fields": {
+                "id": 3090533,
+                "uuid": "c124f34b-aace-3ae1-9f25-8b66ecf3e06b",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 15 (As of 16 April 2019)",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides detailed information on the situation and response by sector. The next report will be issued as of 18 April 2019.*\n\n**HIGHLIGHTS** \n\n• More than 70,610 people remain displaced in 69 accommodation sites across Manica (32); Sofala (29);  \nTete (5) and Zambezia (3), as of 16 April.\n\n• The number of cholera cases increased to 6,032 as of 16 April, up from 5,897 a day earlier, according to the Ministry of Health (MISAU). However, the overall epidemiological trend for the outbreak is decreasing.\n\n• Malaria cases continue to rise, and some 11,565 cases were reported in Sofala Province as of 16 April.\n\n• The Emergency Telecommunications Cluster continues to provide connectivity in the Emergency Operations Centre (EOC) and another 19 sites in Beira, as well as in Buzi, Grudja and Nhamatanda, to support the scaling up of the humanitarian response.\n\n• More than 335,000 children and over 7,800 teachers have been affected by the floods as of 16 April, and need emergency educational supplies, according to the Government and partners.\n\n**SITUATION OVERVIEW** \n\nMore than 70,000 people continued to seek shelter in 69 accommodation centres across Manica (32); Sofala (29); Tete (5) and Zambezia (3), as of 16 April, according to the Government. This is less than half the number of accommodation centres and half the number of people in such sites at the beginning of April, when there were 156 sites hosting more than 146,000 people. Unverified reports indicate that some families have begun to return home to start their lives, while others have moved from accommodation centres to new collective sites. Humanitarian partners are supporting the Government in assessing the status of proposed relocation sites and continue to advocate for safe, dignified, voluntary and informed returns; in addition to provision of basic services. \n\nMany displaced people are living in temporary settlements with limited access to safe water and sanitation, putting them at high risk of diseases such as cholera, malaria and measles. Some 6,032 cholera cases had been reported as of 0700hrs on 16 April in Sofala Province. An oral cholera vaccination campaign that ended on 9 April reached 98.6 per cent of the target, according to health partners. Epidemiological trends by the Ministry of Health show a decrease in the number of daily cholera cases starting on 14 April; attributed to the successful reach of the vaccination campaign. There are reportedly fewer patients in Cholera Treatment Centres (CTC), and most are normally discharged within two hours, according to health partners. WFP is supporting three cholera treatment centers in Beira with food assistance. There are, however, still many cases of diarrhea not related to cholera being reported, according to health partners.  \n\nPlanting for a second 2019 harvest in October-November must be completed in the coming days, according to WFP. FAO has begun the distribution of maize, bean and vegetable seeds and tools to smallholder farming families in Sofala and Manica provinces. WFP is supporting the effort by providing food assistance to the families to ensure seeds are planted rather than consumed. More than 715,000 hectares of crops – primarily maize – were washed away ahead of the main April–May harvest, deepening food insecurity. Other key sources of income, like livestock and fisheries, have also been badly affected.  \n\nGiven the magnitude of the damage caused by the cyclone and ensuing floods, Mozambique’s recovery needs will be significant. A Post-Disaster Needs Assessment has been launched by the Government this week and is expected to highlight areas for investment in improved food/nutrition security and social protection programmes.",
+                "file": [
+                    {
+                        "id": "2053570",
+                        "url": "https://reliefweb.int/attachments/9a824206-d5e8-39cf-be20-05443d2ee588/ROSEA%20SITREP%2015%2C%2016%20April.docx%20FINAL.pdf",
+                        "filename": "ROSEA SITREP 15, 16 April.docx FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "271649",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/9a/82/9a824206-d5e8-39cf-be20-05443d2ee588.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/9a/82/9a824206-d5e8-39cf-be20-05443d2ee588.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/9a/82/9a824206-d5e8-39cf-be20-05443d2ee588.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9a/82/9a824206-d5e8-39cf-be20-05443d2ee588.png",
+                            "version": "2053570-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3090533",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-15-16-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides detailed information on the situation and response by sector. The next report will be issued as of 18 April 2019.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• More than 70,610 people remain displaced in 69 accommodation sites across Manica (32); Sofala (29);<br />\nTete (5) and Zambezia (3), as of 16 April.</p>\n<p>• The number of cholera cases increased to 6,032 as of 16 April, up from 5,897 a day earlier, according to the Ministry of Health (MISAU). However, the overall epidemiological trend for the outbreak is decreasing.</p>\n<p>• Malaria cases continue to rise, and some 11,565 cases were reported in Sofala Province as of 16 April.</p>\n<p>• The Emergency Telecommunications Cluster continues to provide connectivity in the Emergency Operations Centre (EOC) and another 19 sites in Beira, as well as in Buzi, Grudja and Nhamatanda, to support the scaling up of the humanitarian response.</p>\n<p>• More than 335,000 children and over 7,800 teachers have been affected by the floods as of 16 April, and need emergency educational supplies, according to the Government and partners.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>More than 70,000 people continued to seek shelter in 69 accommodation centres across Manica (32); Sofala (29); Tete (5) and Zambezia (3), as of 16 April, according to the Government. This is less than half the number of accommodation centres and half the number of people in such sites at the beginning of April, when there were 156 sites hosting more than 146,000 people. Unverified reports indicate that some families have begun to return home to start their lives, while others have moved from accommodation centres to new collective sites. Humanitarian partners are supporting the Government in assessing the status of proposed relocation sites and continue to advocate for safe, dignified, voluntary and informed returns; in addition to provision of basic services.</p>\n<p>Many displaced people are living in temporary settlements with limited access to safe water and sanitation, putting them at high risk of diseases such as cholera, malaria and measles. Some 6,032 cholera cases had been reported as of 0700hrs on 16 April in Sofala Province. An oral cholera vaccination campaign that ended on 9 April reached 98.6 per cent of the target, according to health partners. Epidemiological trends by the Ministry of Health show a decrease in the number of daily cholera cases starting on 14 April; attributed to the successful reach of the vaccination campaign. There are reportedly fewer patients in Cholera Treatment Centres (CTC), and most are normally discharged within two hours, according to health partners. WFP is supporting three cholera treatment centers in Beira with food assistance. There are, however, still many cases of diarrhea not related to cholera being reported, according to health partners.</p>\n<p>Planting for a second 2019 harvest in October-November must be completed in the coming days, according to WFP. FAO has begun the distribution of maize, bean and vegetable seeds and tools to smallholder farming families in Sofala and Manica provinces. WFP is supporting the effort by providing food assistance to the families to ensure seeds are planted rather than consumed. More than 715,000 hectares of crops – primarily maize – were washed away ahead of the main April–May harvest, deepening food insecurity. Other key sources of income, like livestock and fisheries, have also been badly affected.</p>\n<p>Given the magnitude of the damage caused by the cyclone and ensuing floods, Mozambique’s recovery needs will be significant. A Post-Disaster Needs Assessment has been launched by the Government this week and is expected to highlight areas for investment in improved food/nutrition security and social protection programmes.</p>\n",
+                "date": {
+                    "original": "2019-04-16T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-18T20:10:45+00:00"
+                }
+            }
+        }
+    ]
+}

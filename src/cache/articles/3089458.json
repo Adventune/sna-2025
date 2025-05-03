@@ -1,0 +1,262 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3089458?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3089458?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3089458",
+            "fields": {
+                "id": 3089458,
+                "uuid": "63e8e301-51f4-3649-8340-3395784e0510",
+                "title": "Zimbabwe: Floods Situation Report No. 3, As of 17 April 2019",
+                "status": "published",
+                "body": "*This Situation Report is produced by the office of the UN Resident Coordinator in Zimbabwe and the OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on previous Flash Updates and provides more detailed information on the situation and response. It covers the period from 10 April to 16 April 2019. The next Situation Report will be issued on or around 24 April.*\n\n**HIGHLIGHTS**\n\n• Local authorities estimate that 60,000 people are displaced in the four worst-affected districts (Buhare, Chimanimani, Chipinge and Mutare).\n\n• In light of this week’s wet weather, upcoming cold weather, and expected movement of people for Easter holiday, operational urgencies will include distribution of non-food items, especially blankets, ensuring adequate temporary shelter for all, and oral cholera vaccination.\n\n• Oral cholera vaccination targeting 336,699 people in Chipinge and 139,635 in Chimanimani is under way.\n\n• Food Security Cluster partners have so far assisted an estimated 155,000 people in the worst-affected areas of Chimanimani and Chipinge, out of an initial target of 270,000.\n\n• About 70,000 people have gained access to a sufficient quantity of water for drinking, cooking and personal hygiene, out of an initial target of 270,000.\n\n• Confirmed funding for the cyclone component of the flash appeal is $10.1 million, or 17 per cent of requirements.\n\n• The UN system together with the humanitarian partners are fully engaged with the Government of Zimbabwe to provide all comprehensive humanitarian assistance across all sectors.\n\n**SITUATION OVERVIEW**\n\nOne month after Cyclone Idai affected 270,000 people in eastern Zimbabwe, clusters are activated, and in the most-heavily-affected districts (particularly Chipinge and Chimanimani), aid materials are flowing and coverage is rising, although gaps remain. Humanitarian partners are working to reach all people in need with essentials such as blankets: night-time temperatures (currently around 15 degrees Celsius) will soon fall to 10° C or lower. \n\nWHO reports an increase in acute respiratory infections, which may indicate that some people are suffering exposure.  \nRoads to all wards have become accessible by 4x4, although rainfall may make the dirt roads impassable again. \n\nBad weather is forecast for this week—thunderstorms and up to 3cm of rain—which will ground the WFP helicopter, and might threaten the temporary road repairs. OCHA and Logistics Cluster have therefore advised partners to pre-position all necessary materials in Chipinge and Chimanimani, in case their roads are cut off again. \n\nWHO and partners are administering oral cholera vaccine in all affected areas this week, before the expected visits of many Mozambicans to their relatives in neighbouring districts of Zimbabwe for the Easter holiday. \n\nData from new assessments (including for early recovery) is being assimilated and compiled, which together with upcoming assessments should yield refined figures for people in need and targets. One key ambiguity for assessments to resolve is the location and intentions of displaced people whose houses were destroyed or damaged beyond habitability: many are reportedly staying with relatives or host families, but many of these may be in other districts. Host families are also likely to need support. The Government and Zimbabwe Red Cross Society are preparing three temporary displacement centres with tents, for those who have no host families; CCCM Cluster is engaging to support. Intentions regarding return or resettlement will have to be documented and considered by reconstruction actors: some people’s house plots were destroyed by landslides, others are traumatized and wish to re-settle elsewhere. The Government’s programme for house reconstruction is already in motion. \n\nThe Government launched its humanitarian assistance appeal for the cyclone response, for US$613 million, targeting 16,500 households for multisectoral support through the next harvest in May 2020.",
+                "headline": {
+                    "title": "Zimbabwe: Cyclone Idai component of the Flash Appeal 17 per cent funded",
+                    "summary": "The revised Flash Appeal calls for $294 million (including $60 million for the Cyclone Idai response). Donors have contributed at least $10.1 million for the cyclone-response component.",
+                    "image": {
+                        "id": "1279178",
+                        "width": "1140",
+                        "height": "760",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/38/be/38be85f3-3243-3fe7-b9b1-716332ca6dfd.jpg",
+                        "filename": "UNICEF201960_0.jpg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "172433",
+                        "copyright": "UNICEF/2019/Mukwazhi",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/38/be/38be85f3-3243-3fe7-b9b1-716332ca6dfd.jpg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/38/be/38be85f3-3243-3fe7-b9b1-716332ca6dfd.jpg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/38/be/38be85f3-3243-3fe7-b9b1-716332ca6dfd.jpg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2102429",
+                        "url": "https://reliefweb.int/attachments/ba692a5a-0ec3-33db-8462-7258bdc5b947/Zimbabwe_Sitrep3_17April2019.pdf",
+                        "filename": "Zimbabwe_Sitrep3_17April2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "674272",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/ba/69/ba692a5a-0ec3-33db-8462-7258bdc5b947.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ba/69/ba692a5a-0ec3-33db-8462-7258bdc5b947.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/ba/69/ba692a5a-0ec3-33db-8462-7258bdc5b947.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ba/69/ba692a5a-0ec3-33db-8462-7258bdc5b947.png",
+                            "version": "2102429-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3089458",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-situation-report-no-3-17-april-2019",
+                "redirects": [
+                    "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-situation-report-no-7-17-april-2019"
+                ],
+                "body-html": "<p><em>This Situation Report is produced by the office of the UN Resident Coordinator in Zimbabwe and the OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on previous Flash Updates and provides more detailed information on the situation and response. It covers the period from 10 April to 16 April 2019. The next Situation Report will be issued on or around 24 April.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• Local authorities estimate that 60,000 people are displaced in the four worst-affected districts (Buhare, Chimanimani, Chipinge and Mutare).</p>\n<p>• In light of this week’s wet weather, upcoming cold weather, and expected movement of people for Easter holiday, operational urgencies will include distribution of non-food items, especially blankets, ensuring adequate temporary shelter for all, and oral cholera vaccination.</p>\n<p>• Oral cholera vaccination targeting 336,699 people in Chipinge and 139,635 in Chimanimani is under way.</p>\n<p>• Food Security Cluster partners have so far assisted an estimated 155,000 people in the worst-affected areas of Chimanimani and Chipinge, out of an initial target of 270,000.</p>\n<p>• About 70,000 people have gained access to a sufficient quantity of water for drinking, cooking and personal hygiene, out of an initial target of 270,000.</p>\n<p>• Confirmed funding for the cyclone component of the flash appeal is $10.1 million, or 17 per cent of requirements.</p>\n<p>• The UN system together with the humanitarian partners are fully engaged with the Government of Zimbabwe to provide all comprehensive humanitarian assistance across all sectors.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>One month after Cyclone Idai affected 270,000 people in eastern Zimbabwe, clusters are activated, and in the most-heavily-affected districts (particularly Chipinge and Chimanimani), aid materials are flowing and coverage is rising, although gaps remain. Humanitarian partners are working to reach all people in need with essentials such as blankets: night-time temperatures (currently around 15 degrees Celsius) will soon fall to 10° C or lower.</p>\n<p>WHO reports an increase in acute respiratory infections, which may indicate that some people are suffering exposure.<br />\nRoads to all wards have become accessible by 4x4, although rainfall may make the dirt roads impassable again.</p>\n<p>Bad weather is forecast for this week—thunderstorms and up to 3cm of rain—which will ground the WFP helicopter, and might threaten the temporary road repairs. OCHA and Logistics Cluster have therefore advised partners to pre-position all necessary materials in Chipinge and Chimanimani, in case their roads are cut off again.</p>\n<p>WHO and partners are administering oral cholera vaccine in all affected areas this week, before the expected visits of many Mozambicans to their relatives in neighbouring districts of Zimbabwe for the Easter holiday.</p>\n<p>Data from new assessments (including for early recovery) is being assimilated and compiled, which together with upcoming assessments should yield refined figures for people in need and targets. One key ambiguity for assessments to resolve is the location and intentions of displaced people whose houses were destroyed or damaged beyond habitability: many are reportedly staying with relatives or host families, but many of these may be in other districts. Host families are also likely to need support. The Government and Zimbabwe Red Cross Society are preparing three temporary displacement centres with tents, for those who have no host families; CCCM Cluster is engaging to support. Intentions regarding return or resettlement will have to be documented and considered by reconstruction actors: some people’s house plots were destroyed by landslides, others are traumatized and wish to re-settle elsewhere. The Government’s programme for house reconstruction is already in motion.</p>\n<p>The Government launched its humanitarian assistance appeal for the cyclone response, for US$613 million, targeting 16,500 households for multisectoral support through the next harvest in May 2020.</p>\n",
+                "date": {
+                    "original": "2019-04-17T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-18T11:00:12+00:00"
+                }
+            }
+        }
+    ]
+}

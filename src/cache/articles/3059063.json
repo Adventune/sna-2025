@@ -1,0 +1,226 @@
+{
+    "time": 19,
+    "href": "https://api.reliefweb.int/v1/reports/3059063?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3059063?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 11,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3059063",
+            "fields": {
+                "id": 3059063,
+                "uuid": "298bc1b3-3cf3-30e7-8809-1836e1c07cfd",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 12, 28 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• The official death toll stood at 468 people as of 28 March, according to the Government.\n\n• Nearly 136,000 people were displaced in 159 sites across Sofala (116 sites), Manica (27 sites), Zambezia (11 sites)  Tete (5 sites); of whom more than 7,400 were identified as vulnerable, according to the Government.\n\n• WFP’s food pipeline is sufficient to cover 500,000 people, with a possibility of doubling by next week.\n\n• An additional Cholera Treatment Centre is being established in Beira.\n\n• There is a two to four-week window for the planting of seeds to provide a winter harvest.\n\n**SITUATION OVERVIEW**\n\nAs of 28 March, the official death toll from the impact of Cyclone Idai and subsequent floods stood at 468, according to the Government. There have been no new cases reported in the last two days. The number of students affected increased by more than 8,100 from 27 March, to nearly 99,000 students. More than 3,200 classrooms were destroyed or damaged by the floods, while others are being used as accommodation sites. The Government is planning to relocate internally displaced persons from schools – with priority given to secondary schools – to other sites, to facilitate the reopening of schools.  \n\nNearly 136,000 displaced people were sheltering in 159 sites across Sofala (109,700 people), Manica (15,200 people), Zambezia (8,000 people), Tete (2,650 people) as of 28 March, of whom more than 7,400 are identified as vulnerable, according to the Government. More than 92,300 houses were identified as totally destroyed (51,584), partially destroyed (25,944) or flooded (15,784) as of 28 March; an increase of nearly 1,000 since 27 March.  \n\nThe risk of water-borne and vector-borne diseases remains a major concern, with reports of rising cases of malaria, in addition to cases of cholera and acute watery diarrhoea. Beira and Dondo are both cholera-endemic areas in Mozambique and the risk of spread is therefore high.  \nMore than 5,000 displaced children, women and men from both Malawi and Mozambique who fled their homes due to the Cyclone Idai weather system are reportedly sheltering in Bangula Camp in Nsanje district in the southern tip of Malawi.  \n\nOxfam distributed WASH materials and hygiene kits to more than the 5,000 people at the camp.  \nFlood waters continue to decrease, leading to increasing movement of people, including in and around Chimoio. However, it will still take some time for the rivers to recede below the medium alert level in most areas. Key areas being monitored for potential new flooding are Marromeu, Nhamatanda, Muanza, Mopeia and Maganja da Costa districts in Sofala and Zambezia Provinces. In the downstream part of the Pungwe basin, around Beira, river flows have receded below medium alert levels and are expected to continue to decrease. However, minor waterways in the Cheringoma Plateau waters are reportedly still rising, with peaks forecasted within five days. This region, just north of Beira, has already seen heavy rainfall.",
+                "file": [
+                    {
+                        "id": "2050187",
+                        "url": "https://reliefweb.int/attachments/63635de3-d23c-36cc-b99f-c1cd22d01a1e/ROSEA_20190328_Mozambique%20Floods_Flash_Update%2312%20FINAL.pdf",
+                        "filename": "ROSEA_20190328_Mozambique Floods_Flash_Update#12 FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "160338",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/63/63/63635de3-d23c-36cc-b99f-c1cd22d01a1e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/63/63/63635de3-d23c-36cc-b99f-c1cd22d01a1e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/63/63/63635de3-d23c-36cc-b99f-c1cd22d01a1e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/63/63/63635de3-d23c-36cc-b99f-c1cd22d01a1e.png",
+                            "version": "2050187-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3059063",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-12-28-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The official death toll stood at 468 people as of 28 March, according to the Government.</p>\n<p>• Nearly 136,000 people were displaced in 159 sites across Sofala (116 sites), Manica (27 sites), Zambezia (11 sites)  Tete (5 sites); of whom more than 7,400 were identified as vulnerable, according to the Government.</p>\n<p>• WFP’s food pipeline is sufficient to cover 500,000 people, with a possibility of doubling by next week.</p>\n<p>• An additional Cholera Treatment Centre is being established in Beira.</p>\n<p>• There is a two to four-week window for the planting of seeds to provide a winter harvest.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>As of 28 March, the official death toll from the impact of Cyclone Idai and subsequent floods stood at 468, according to the Government. There have been no new cases reported in the last two days. The number of students affected increased by more than 8,100 from 27 March, to nearly 99,000 students. More than 3,200 classrooms were destroyed or damaged by the floods, while others are being used as accommodation sites. The Government is planning to relocate internally displaced persons from schools – with priority given to secondary schools – to other sites, to facilitate the reopening of schools.</p>\n<p>Nearly 136,000 displaced people were sheltering in 159 sites across Sofala (109,700 people), Manica (15,200 people), Zambezia (8,000 people), Tete (2,650 people) as of 28 March, of whom more than 7,400 are identified as vulnerable, according to the Government. More than 92,300 houses were identified as totally destroyed (51,584), partially destroyed (25,944) or flooded (15,784) as of 28 March; an increase of nearly 1,000 since 27 March.</p>\n<p>The risk of water-borne and vector-borne diseases remains a major concern, with reports of rising cases of malaria, in addition to cases of cholera and acute watery diarrhoea. Beira and Dondo are both cholera-endemic areas in Mozambique and the risk of spread is therefore high.<br />\nMore than 5,000 displaced children, women and men from both Malawi and Mozambique who fled their homes due to the Cyclone Idai weather system are reportedly sheltering in Bangula Camp in Nsanje district in the southern tip of Malawi.</p>\n<p>Oxfam distributed WASH materials and hygiene kits to more than the 5,000 people at the camp.<br />\nFlood waters continue to decrease, leading to increasing movement of people, including in and around Chimoio. However, it will still take some time for the rivers to recede below the medium alert level in most areas. Key areas being monitored for potential new flooding are Marromeu, Nhamatanda, Muanza, Mopeia and Maganja da Costa districts in Sofala and Zambezia Provinces. In the downstream part of the Pungwe basin, around Beira, river flows have receded below medium alert levels and are expected to continue to decrease. However, minor waterways in the Cheringoma Plateau waters are reportedly still rising, with peaks forecasted within five days. This region, just north of Beira, has already seen heavy rainfall.</p>\n",
+                "date": {
+                    "original": "2019-03-29T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-29T11:20:48+00:00"
+                }
+            }
+        }
+    ]
+}

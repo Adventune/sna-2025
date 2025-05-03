@@ -1,0 +1,181 @@
+{
+    "time": 73,
+    "href": "https://api.reliefweb.int/v1/reports/3057153?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3057153?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 15,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3057153",
+            "fields": {
+                "id": 3057153,
+                "title": "Turkey's Humanitarian Support to Mozambique: Report No: 1 (March 26, 2019) by AFAD",
+                "status": "published",
+                "body": "**Turkey’s Humanitarian Response**\n\nThe International Community has taken action in order to respond the cyclone disaster in Mozambique, Malawi and Zimbabwe. With the call from the Republic of Mozambique to the UN OCHA INSARAG Secretariat on 20 March, 2019, the Republic of Turkey was informed about the \nneed for a flood search and rescue team.  \n\nFollowing this request, 50 self-sufficient personnel who are composed of 23 personnel from AFAD, 6 personnel from the Ministry of Health, 2 personnel from the Turkish Red Crescent, 2 personnel from the Anatolian Agency and 17 personnel from AKUT Search and Rescue Association, were transferred by a A 400 Type of military plane of the Turkish General Staff from the Ankara Etimesgut Airport to the Mozambique Maputo Airport; with search and rescue equipment in water such as 6 boats, 2 sets of diving equipment, 1 4x4 rescue vehicle, 1 sprinter rescue vehicle and personal equipment. The plane took ff from Ankara on 23 March, 2019 at 10:30 a.m. and was landed in Mozambique Maputo Airport on 23 March, 2019 at 11.08 p.m.  \n\nTurkish search and rescue teams are currently based in Beira which is the most affected disaster area in Mozambique. In Beira, Turkish teams are working collaboratively with the Mozambique National Disaster Management Institute (INGC) and the UN.",
+                "file": [
+                    {
+                        "id": "2049511",
+                        "url": "https://reliefweb.int/attachments/745c0162-13f3-324c-82e6-e21ba706d4fb/AFAD%20Mozambique%20Report1.pdf",
+                        "filename": "AFAD Mozambique Report1.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "5990668",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/74/5c/745c0162-13f3-324c-82e6-e21ba706d4fb.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/74/5c/745c0162-13f3-324c-82e6-e21ba706d4fb.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/74/5c/745c0162-13f3-324c-82e6-e21ba706d4fb.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/74/5c/745c0162-13f3-324c-82e6-e21ba706d4fb.png",
+                            "version": "2049511-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/236?appname=rwint-user-0",
+                        "id": 236,
+                        "name": "Türkiye",
+                        "shortname": "Türkiye",
+                        "iso3": "tur",
+                        "location": {
+                            "lat": 39.06,
+                            "lon": 35.18
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/629?appname=rwint-user-0",
+                        "id": 629,
+                        "name": "Government of Türkiye",
+                        "shortname": "Govt. Türkiye",
+                        "longname": "Government of Türkiye",
+                        "homepage": "https://www.turkiye.gov.tr/",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3057153",
+                "url_alias": "https://reliefweb.int/report/mozambique/turkeys-humanitarian-support-mozambique-report-no-1-march-26-2019-afad",
+                "body-html": "<p><strong>Turkey’s Humanitarian Response</strong></p>\n<p>The International Community has taken action in order to respond the cyclone disaster in Mozambique, Malawi and Zimbabwe. With the call from the Republic of Mozambique to the UN OCHA INSARAG Secretariat on 20 March, 2019, the Republic of Turkey was informed about the\nneed for a flood search and rescue team.</p>\n<p>Following this request, 50 self-sufficient personnel who are composed of 23 personnel from AFAD, 6 personnel from the Ministry of Health, 2 personnel from the Turkish Red Crescent, 2 personnel from the Anatolian Agency and 17 personnel from AKUT Search and Rescue Association, were transferred by a A 400 Type of military plane of the Turkish General Staff from the Ankara Etimesgut Airport to the Mozambique Maputo Airport; with search and rescue equipment in water such as 6 boats, 2 sets of diving equipment, 1 4x4 rescue vehicle, 1 sprinter rescue vehicle and personal equipment. The plane took ff from Ankara on 23 March, 2019 at 10:30 a.m. and was landed in Mozambique Maputo Airport on 23 March, 2019 at 11.08 p.m.</p>\n<p>Turkish search and rescue teams are currently based in Beira which is the most affected disaster area in Mozambique. In Beira, Turkish teams are working collaboratively with the Mozambique National Disaster Management Institute (INGC) and the UN.</p>\n",
+                "date": {
+                    "original": "2019-03-28T00:00:00+00:00",
+                    "changed": "2019-03-28T13:55:04+00:00",
+                    "created": "2019-03-28T13:16:05+00:00"
+                }
+            }
+        }
+    ]
+}

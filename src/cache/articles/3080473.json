@@ -1,0 +1,215 @@
+{
+    "time": 14,
+    "href": "https://api.reliefweb.int/v1/reports/3080473?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3080473?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 6,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3080473",
+            "fields": {
+                "id": 3080473,
+                "uuid": "3f4d6bcb-4a4c-3518-b8f2-26b9b214a390",
+                "title": "Zimbabwe: Floods Situation Report No. 2, As of 10 April 2019",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates No. 1 and provides more detailed information on the situation and response.*\n  \nIt covers the period from 27 March to 9 April 2019. The next Situation Report will be issued on or around 17 April.\n\n**HIGHLIGHTS** \n\n• 299 deaths have been recorded and 329 people are still missing, according to the Government.\n\n• Latest assessments indicate that the homes of some tens of thousands of people have been destroyed or damaged beyond habitability. Most of these people are staying with hosts in the extended community.\n\n• Revised Flash Appeal requires US$294 million to respond to the drought and Cyclone Idai.\n\n• Food Cluster partners have so far assisted an estimated 30,000 people in the worst-affected areas of Chimanimani and Chipinge.\n\n• Access to a sufficient quantity of water for drinking, cooking and personal hygiene has been restored for 43,000 people.\n\n• Eight clusters have been activated to bolster the humanitarian response effort in support to the Government of Zimbabwe,\n\n270K affected people \n\n$60M Cyclone Idai requirements \n\n>4,000 households displaced \n\n299 deaths \n\n43,000 people have restored access to clean water\n\n**SITUATION OVERVIEW** \n\n• Following the landfall of Cyclone Idai in Mozambique on 14 March, eastern provinces of Zimbabwe experienced torrential rainfall. The combination of high winds and heavy rain in the districts of Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Bikita, Masvingo and Gutu caused riverine and flash flooding, as well as landslides, causing significant loss of life, injury and displacement.\n\n• At least 299 deaths and 186 injuries have been reported, and 329 people were reported missing as of 3 April, according to the government. The international community with operational partners are finalizing targeting and distribution planning, and multi-sectoral support is being delivered. Temporary repairs have been completed on roads and bridges to Chimanimani town and most other cut-off areas; access is open for relief transports to all but three wards. However, the temporary repairs may be fragile and may not withstand heavy traffic or more torrential rain.\n\n• The homes of at least 4,000 households are destroyed or currently uninhabitable. This is expected to increase as Displacement Tracking Matrix (DTM) assessments are finalized. The vast majority are finding emergency accommodation with hosts in the extended community. Households hosting displaced people will require support to continue accommodating them until other permanent or temporary shelter solutions are on line. In the seven districts affected by the Cyclone Idai—Chipinge, Chimanimani, Buhera, Bikita, Mutare, Gutu, and Chiredzi—multisectoral support will be required to mitigate immediate risk, speed recovery and re-build livelihoods. The livelihoods of over 270,000 people across these districts has been affected; those in Chipinge and Chimanimani districts are worst hit.\n\n• This Situation Report takes into account the progress with the humanitarian response as it continues to gain momentum. The improved access affords a more detailed requirement of need after recent sectoral assessments. Sector-specific response, needs and gaps have been updated accordingly.",
+                "file": [
+                    {
+                        "id": "2052284",
+                        "url": "https://reliefweb.int/attachments/09cb7fd9-6b1a-3db9-8a03-b8cad18090ec/Zimbabwe_Sitrep%202_10%20April%202019.pdf",
+                        "filename": "Zimbabwe_Sitrep 2_10 April 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "318341",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/09/cb/09cb7fd9-6b1a-3db9-8a03-b8cad18090ec.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/09/cb/09cb7fd9-6b1a-3db9-8a03-b8cad18090ec.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/09/cb/09cb7fd9-6b1a-3db9-8a03-b8cad18090ec.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/09/cb/09cb7fd9-6b1a-3db9-8a03-b8cad18090ec.png",
+                            "version": "2052284-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3080473",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-situation-report-no-2-10-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates No. 1 and provides more detailed information on the situation and response.</em></p>\n<p>It covers the period from 27 March to 9 April 2019. The next Situation Report will be issued on or around 17 April.</p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• 299 deaths have been recorded and 329 people are still missing, according to the Government.</p>\n<p>• Latest assessments indicate that the homes of some tens of thousands of people have been destroyed or damaged beyond habitability. Most of these people are staying with hosts in the extended community.</p>\n<p>• Revised Flash Appeal requires US$294 million to respond to the drought and Cyclone Idai.</p>\n<p>• Food Cluster partners have so far assisted an estimated 30,000 people in the worst-affected areas of Chimanimani and Chipinge.</p>\n<p>• Access to a sufficient quantity of water for drinking, cooking and personal hygiene has been restored for 43,000 people.</p>\n<p>• Eight clusters have been activated to bolster the humanitarian response effort in support to the Government of Zimbabwe,</p>\n<p>270K affected people</p>\n<p>$60M Cyclone Idai requirements</p>\n<blockquote>\n<p>4,000 households displaced</p>\n</blockquote>\n<p>299 deaths</p>\n<p>43,000 people have restored access to clean water</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>• Following the landfall of Cyclone Idai in Mozambique on 14 March, eastern provinces of Zimbabwe experienced torrential rainfall. The combination of high winds and heavy rain in the districts of Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Bikita, Masvingo and Gutu caused riverine and flash flooding, as well as landslides, causing significant loss of life, injury and displacement.</p>\n<p>• At least 299 deaths and 186 injuries have been reported, and 329 people were reported missing as of 3 April, according to the government. The international community with operational partners are finalizing targeting and distribution planning, and multi-sectoral support is being delivered. Temporary repairs have been completed on roads and bridges to Chimanimani town and most other cut-off areas; access is open for relief transports to all but three wards. However, the temporary repairs may be fragile and may not withstand heavy traffic or more torrential rain.</p>\n<p>• The homes of at least 4,000 households are destroyed or currently uninhabitable. This is expected to increase as Displacement Tracking Matrix (DTM) assessments are finalized. The vast majority are finding emergency accommodation with hosts in the extended community. Households hosting displaced people will require support to continue accommodating them until other permanent or temporary shelter solutions are on line. In the seven districts affected by the Cyclone Idai—Chipinge, Chimanimani, Buhera, Bikita, Mutare, Gutu, and Chiredzi—multisectoral support will be required to mitigate immediate risk, speed recovery and re-build livelihoods. The livelihoods of over 270,000 people across these districts has been affected; those in Chipinge and Chimanimani districts are worst hit.</p>\n<p>• This Situation Report takes into account the progress with the humanitarian response as it continues to gain momentum. The improved access affords a more detailed requirement of need after recent sectoral assessments. Sector-specific response, needs and gaps have been updated accordingly.</p>\n",
+                "date": {
+                    "original": "2019-04-10T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-12T00:20:00+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,234 @@
+{
+    "time": 8,
+    "href": "https://api.reliefweb.int/v1/reports/3097923?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3097923?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3097923",
+            "fields": {
+                "id": 3097923,
+                "uuid": "a274d3d6-8cb8-3960-9fa3-4adf23404419",
+                "title": "Zimbabwe: Cyclone & Floods Situation Report No. 4, As of 24 April 2019",
+                "status": "published",
+                "body": "*This Situation Report is produced by the office of the UN Resident Coordinator in Zimbabwe and the OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. It covers the period from 17 April to 23 April 2019. The next Situation Report will be issued on or around 1 May.* \n\n**HIGHLIGHTS**\n\n• Latest estimates indicate that 10,000 people are displaced in Masvingo, Zaka, Bikita, and Gutu districts, which brings the total estimate of displaced people across the affected districts to 70,000, pending detailed verification.\n\n• Oral cholera vaccination has reached 384,000 people in Chipinge and Chimanimani districts.\n\n• About 8,750 children under age 5 have been screened for acute malnutrition, and those found to be malnourished referred appropriately.\n\n• About 91,000 people have regained access to a sufficient quantity of water for drinking, cooking and personal hygiene.\n\n• Loss of and damage to essential teaching and learning materials have impacted 95 per cent of schools in the affected districts.\n\n• Funding for the cyclone component of the Flash Appeal amounts to US$10.3 million so far (17 per cent of requirements).\n\n• Huge funding gaps exists across all clusters, which can be a challenge in continuing to address the humanitarian needs of the affected people.\n\n• The formal establishment of the cluster coordination among international partners has considerably improved the humanitarian operation. \n\n**SITUATION OVERVIEW**\n\nThe humanitarian response to cyclone-affected districts in the eastern part of the country is increasing as all wards are now accessible by road, although some only by 4X4 vehicles. Many clusters have completed or are about to complete in-depth assessments in all affected districts, which will afford a more refined analysis of the needs and a tailored humanitarian response in the short term, and also contribute to the medium- to long-term recovery plan. \n\nOne suspected cholera case was identified on the border between Mozambique and Zimbabwe. In addition to the ongoing first round of the oral cholera vaccination campaign, cholera preparedness has been stepped up Chipinge to prevent cholera from spreading into Zimbabwe from Mozambique, particularly given the significant movements of people across the border for the recent Easter holidays. \n\nThe priority remains to work with the government in finding the most appropriate steps to address the short-, medium- and longer-term needs of the displaced population whose houses the cyclone destroyed, particularly ensuring that transit camps fulfil international standards.",
+                "file": [
+                    {
+                        "id": "2054546",
+                        "url": "https://reliefweb.int/attachments/0e7d1115-8549-398b-9684-d32d834df233/Zimbabwe_Sitrep4_24April2019.pdf",
+                        "filename": "Zimbabwe_Sitrep4_24April2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "334276",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/0e/7d/0e7d1115-8549-398b-9684-d32d834df233.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/0e/7d/0e7d1115-8549-398b-9684-d32d834df233.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/0e/7d/0e7d1115-8549-398b-9684-d32d834df233.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/0e/7d/0e7d1115-8549-398b-9684-d32d834df233.png",
+                            "version": "2054546-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3097923",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-cyclone-floods-situation-report-no-4-24-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by the office of the UN Resident Coordinator in Zimbabwe and the OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. It covers the period from 17 April to 23 April 2019. The next Situation Report will be issued on or around 1 May.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• Latest estimates indicate that 10,000 people are displaced in Masvingo, Zaka, Bikita, and Gutu districts, which brings the total estimate of displaced people across the affected districts to 70,000, pending detailed verification.</p>\n<p>• Oral cholera vaccination has reached 384,000 people in Chipinge and Chimanimani districts.</p>\n<p>• About 8,750 children under age 5 have been screened for acute malnutrition, and those found to be malnourished referred appropriately.</p>\n<p>• About 91,000 people have regained access to a sufficient quantity of water for drinking, cooking and personal hygiene.</p>\n<p>• Loss of and damage to essential teaching and learning materials have impacted 95 per cent of schools in the affected districts.</p>\n<p>• Funding for the cyclone component of the Flash Appeal amounts to US$10.3 million so far (17 per cent of requirements).</p>\n<p>• Huge funding gaps exists across all clusters, which can be a challenge in continuing to address the humanitarian needs of the affected people.</p>\n<p>• The formal establishment of the cluster coordination among international partners has considerably improved the humanitarian operation.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>The humanitarian response to cyclone-affected districts in the eastern part of the country is increasing as all wards are now accessible by road, although some only by 4X4 vehicles. Many clusters have completed or are about to complete in-depth assessments in all affected districts, which will afford a more refined analysis of the needs and a tailored humanitarian response in the short term, and also contribute to the medium- to long-term recovery plan.</p>\n<p>One suspected cholera case was identified on the border between Mozambique and Zimbabwe. In addition to the ongoing first round of the oral cholera vaccination campaign, cholera preparedness has been stepped up Chipinge to prevent cholera from spreading into Zimbabwe from Mozambique, particularly given the significant movements of people across the border for the recent Easter holidays.</p>\n<p>The priority remains to work with the government in finding the most appropriate steps to address the short-, medium- and longer-term needs of the displaced population whose houses the cyclone destroyed, particularly ensuring that transit camps fulfil international standards.</p>\n",
+                "date": {
+                    "original": "2019-04-24T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-25T10:27:57+00:00"
+                }
+            }
+        }
+    ]
+}

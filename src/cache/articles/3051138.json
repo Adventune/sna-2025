@@ -1,0 +1,235 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3051138?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3051138?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3051138",
+            "fields": {
+                "id": 3051138,
+                "title": "Malawi: Floods - Situation Report No. 2 (as of 23 March 2019)",
+                "status": "published",
+                "body": "This report is produced jointly by the Department of Disaster Management Affairs (DoDMA) of Malawi and the United Nations Office of the Resident Coordinator in Malawi, in collaboration with humanitarian partners. It covers the period from March to 18-22 March 2019. The next report will be issued on or around 29 March 2019.\n\n**Highlights** \n\n• As of 22 March, relief assistance in form of food and non-food items (NFI) was deployed to affected districts, but a significant gap still exists.\n\n• A response plan targeting all activated clusters has been developed. The total cost of the plan is US$42.3 million. Contributions and pledges made amount $11 million, leaving a gap of $31.3 million.\n\n• Partners are preparing an application to the UN Central Emergency Response Fund to complement on- going response efforts.\n\n• An inter-agency assessment team, including national and international partners, deployed to Mangochi, Machinga, Balaka and Zomba districts to conduct verifications of areas reporting internally displaced people.\n\n• The Early Recovery Cluster has been activated. This will work on identifying and addressing recovery needs of the affected population.\n\n• The Humanitarian Country Team (HCT) met on 22 March to maximize coordination with the Department of Disaster Management Affairs (DoDMA) and the various humanitarian partners. The HCT reviewed the draft response plan. \n\n**Situation Overview**\n\nFollowing the declaration of the State of Disaster on 8 March, an appeal for support from local and international organizations was made. This triggered response operations aimed at meeting the immediate and life-saving needs of the affected people. So far, food and non-food items have been provided to the affected populations with an estimated coverage of at least 95 per cent of the sites. The main challenge however is inadequacy of the distributed food. Most of the food items lasted 3 to 7 days and considering that most of the IDPs will likely be displaced for a period of a month to two, food remains a big gap. All affected areas are now passable by road. Mlolo Traditional Authority (T/A) which was cut off and only accessible by boat and air, is now accessible through the Chikwawa-Thabwa road.  \n\nThe government, through the Department of Disaster Management Affairs (DoDMA), has facilitated the development of a Flood Response Plan. The plan is costed at US$42.3 million. Contributions and pledges made so far amount $11 million, leaving a gap of $31.3 million. The plan seeks to support response interventions around Food Security, Agriculture, Nutrition, Protection, WASH, Education, Health, Shelter and Camp Management and Coordination clusters. The HCT met on 22 March and reviewed the response plan.  \n\nDoDMA deployed a national level interagency assessment team to Balaka, Mangochi, Machinga and Zomba districts. The mission is working on verifying the extent of damage, identifying realistic options for humanitarian response and providing clear recommendations to government, international community and humanitarian decision-makers on appropriate response interventions. The verified figures will be used to revise the figures of affected population. So far, the assessment indications show that close to 50 per cent of the people that were initially displaced and seeking temporary shelter in camps have gone back to their communities to try and start the recovery process (rebuilding). In Zomba, displacement camps are mainly in schools and churches. While most have made an arrangement where IDPs use the school blocks in the night, in a few schools such as Sunuzi Primary School in Zomba district, there has been disturbances in school session as four classes are learning outside in order to accommodate the IDPs in the school blocks. A block in Sunuzi primary school also collapsed.  \n\nWhile some schools have adequate toilet facilities to cover the pupils and IDPs, there are some schools that critically need additional toilets. In Nantchegwa primary school in Zomba, there is only one toilet as the others are damaged. This has resulted in open defecation which is a health hazard and may cause diseases such as cholera. Almost all displacement sites do not have bathrooms.  \n\nCritical needs remain food and shelter to accommodate the IDPs. Family tents are the most suitable as IDPs are most likely to require shelter for the next two months. Reconstruction will most likely commence in May after cessation of rains. Other needs include NFIs such as kitchen utensils and mosquito nets.  \n\nWith the recent rains that fell in the southern districts of the country, DoDMA issued a press release for people in Zomba district and city to be on high alert as Chagwa dam in Zomba Mountain was about to collapse. The embarkment on the downstream has significantly eroded causing excessive leakage of water. The dam is currently at full capacity and chances of collapsing are still high and likely to affect settlements located along the Mulunguzi river. Although the number of people at risk is yet to be determined, communities have been alerted. Close monitoring of dam levels is ongoing.  \n\nThe humanitarian response needs to focus on meeting urgent yet diverse needs of affected women— including pregnant and lactating mothers—girls, boys and men, adolescents and youths, the elderly, and people with disabilities, while also protecting them from violence, abuses and exploitation and maintaining their dignity. To best inform response programming, there is an urgent need to establish gender/age disaggregated data and to apply an age-gender-diversity mainstreaming tool across the clusters.",
+                "file": [
+                    {
+                        "id": "2102305",
+                        "url": "https://reliefweb.int/attachments/5b955cf4-61cd-39c1-bfff-c546e133b9d9/SitrepNo2-%20Malawi%20Floods%20-%2023March2019.pdf",
+                        "filename": "SitrepNo2- Malawi Floods - 23March2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "352523",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/5b/95/5b955cf4-61cd-39c1-bfff-c546e133b9d9.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/5b/95/5b955cf4-61cd-39c1-bfff-c546e133b9d9.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/5b/95/5b955cf4-61cd-39c1-bfff-c546e133b9d9.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/5b/95/5b955cf4-61cd-39c1-bfff-c546e133b9d9.png",
+                            "version": "2102305-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2591?appname=rwint-user-0",
+                        "id": 2591,
+                        "name": "Government of Malawi",
+                        "shortname": "Govt. Malawi",
+                        "longname": "Government of Malawi",
+                        "homepage": "http://www.malawi.gov.mw",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3985?appname=rwint-user-0",
+                        "id": 3985,
+                        "name": "UN Resident Coordinator in Malawi",
+                        "shortname": "UN RC Malawi",
+                        "longname": "United Nations Resident Coordinator in Malawi",
+                        "homepage": "https://malawi.un.org/en/about/about-the-resident-coordinator-office",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3051138",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-floods-situation-report-no-2-23-march-2019",
+                "body-html": "<p>This report is produced jointly by the Department of Disaster Management Affairs (DoDMA) of Malawi and the United Nations Office of the Resident Coordinator in Malawi, in collaboration with humanitarian partners. It covers the period from March to 18-22 March 2019. The next report will be issued on or around 29 March 2019.</p>\n<p><strong>Highlights</strong></p>\n<p>• As of 22 March, relief assistance in form of food and non-food items (NFI) was deployed to affected districts, but a significant gap still exists.</p>\n<p>• A response plan targeting all activated clusters has been developed. The total cost of the plan is US$42.3 million. Contributions and pledges made amount $11 million, leaving a gap of $31.3 million.</p>\n<p>• Partners are preparing an application to the UN Central Emergency Response Fund to complement on- going response efforts.</p>\n<p>• An inter-agency assessment team, including national and international partners, deployed to Mangochi, Machinga, Balaka and Zomba districts to conduct verifications of areas reporting internally displaced people.</p>\n<p>• The Early Recovery Cluster has been activated. This will work on identifying and addressing recovery needs of the affected population.</p>\n<p>• The Humanitarian Country Team (HCT) met on 22 March to maximize coordination with the Department of Disaster Management Affairs (DoDMA) and the various humanitarian partners. The HCT reviewed the draft response plan.</p>\n<p><strong>Situation Overview</strong></p>\n<p>Following the declaration of the State of Disaster on 8 March, an appeal for support from local and international organizations was made. This triggered response operations aimed at meeting the immediate and life-saving needs of the affected people. So far, food and non-food items have been provided to the affected populations with an estimated coverage of at least 95 per cent of the sites. The main challenge however is inadequacy of the distributed food. Most of the food items lasted 3 to 7 days and considering that most of the IDPs will likely be displaced for a period of a month to two, food remains a big gap. All affected areas are now passable by road. Mlolo Traditional Authority (T/A) which was cut off and only accessible by boat and air, is now accessible through the Chikwawa-Thabwa road.</p>\n<p>The government, through the Department of Disaster Management Affairs (DoDMA), has facilitated the development of a Flood Response Plan. The plan is costed at US$42.3 million. Contributions and pledges made so far amount $11 million, leaving a gap of $31.3 million. The plan seeks to support response interventions around Food Security, Agriculture, Nutrition, Protection, WASH, Education, Health, Shelter and Camp Management and Coordination clusters. The HCT met on 22 March and reviewed the response plan.</p>\n<p>DoDMA deployed a national level interagency assessment team to Balaka, Mangochi, Machinga and Zomba districts. The mission is working on verifying the extent of damage, identifying realistic options for humanitarian response and providing clear recommendations to government, international community and humanitarian decision-makers on appropriate response interventions. The verified figures will be used to revise the figures of affected population. So far, the assessment indications show that close to 50 per cent of the people that were initially displaced and seeking temporary shelter in camps have gone back to their communities to try and start the recovery process (rebuilding). In Zomba, displacement camps are mainly in schools and churches. While most have made an arrangement where IDPs use the school blocks in the night, in a few schools such as Sunuzi Primary School in Zomba district, there has been disturbances in school session as four classes are learning outside in order to accommodate the IDPs in the school blocks. A block in Sunuzi primary school also collapsed.</p>\n<p>While some schools have adequate toilet facilities to cover the pupils and IDPs, there are some schools that critically need additional toilets. In Nantchegwa primary school in Zomba, there is only one toilet as the others are damaged. This has resulted in open defecation which is a health hazard and may cause diseases such as cholera. Almost all displacement sites do not have bathrooms.</p>\n<p>Critical needs remain food and shelter to accommodate the IDPs. Family tents are the most suitable as IDPs are most likely to require shelter for the next two months. Reconstruction will most likely commence in May after cessation of rains. Other needs include NFIs such as kitchen utensils and mosquito nets.</p>\n<p>With the recent rains that fell in the southern districts of the country, DoDMA issued a press release for people in Zomba district and city to be on high alert as Chagwa dam in Zomba Mountain was about to collapse. The embarkment on the downstream has significantly eroded causing excessive leakage of water. The dam is currently at full capacity and chances of collapsing are still high and likely to affect settlements located along the Mulunguzi river. Although the number of people at risk is yet to be determined, communities have been alerted. Close monitoring of dam levels is ongoing.</p>\n<p>The humanitarian response needs to focus on meeting urgent yet diverse needs of affected women— including pregnant and lactating mothers—girls, boys and men, adolescents and youths, the elderly, and people with disabilities, while also protecting them from violence, abuses and exploitation and maintaining their dignity. To best inform response programming, there is an urgent need to establish gender/age disaggregated data and to apply an age-gender-diversity mainstreaming tool across the clusters.</p>\n",
+                "date": {
+                    "original": "2019-03-23T00:00:00+00:00",
+                    "changed": "2019-11-14T07:53:26+00:00",
+                    "created": "2019-03-25T13:44:26+00:00"
+                }
+            }
+        }
+    ]
+}

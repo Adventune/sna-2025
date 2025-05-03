@@ -1,0 +1,189 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3096218?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3096218?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3096218",
+            "fields": {
+                "id": 3096218,
+                "uuid": "fb29a4d0-3fac-3f6f-a821-b8f91698b4a3",
+                "title": "Mozambique: UNHCR Protection Monitoring Report #4 (April 11, 2019)",
+                "status": "published",
+                "body": "**General background**\n\nSamhora Machel Accommodation Centre is located in the Samhora Machel area in Dondo. At the time of visit there were 78 tents on the site. Women and men are accommodated in separate tents, and boys above the age of 14 expected to move to the men’s tent. According to the camp leader, 650 families were registered as cyclone-affected families. Lists were being prepared and no accurate information was available at the time, including the number of tents occupied by men and those occupied by women. However, the men staying in one of the tent stated that only around 5 tents were occupied by men, while the others were allocated to women.  \n\nThe population in the accommodation centre are from Manelruzi, Dondo, Myamayabu, Kanhadula,  \nSamhora Machel, and Macharote.Up to 12 individuals were accommodated in each tent.  \nThe camp leader stated that there was no permanent presence of INGC or DPGACS at the site.\n\n**General protection**\n\nSimilar to other locations, more women and younger children were observed at the site, while very few men were present. When queried, the women stated that the men were out working. However, with a majority of tents occupied by women, and only around 5 tents reserved for men, whether or not the men were staying in the camp site remains unverified.  \n\nMost families reported that they had not receive any information regarding how long they will remain in the Accommodation Centre and of the plans for ‘resettlement’. The women stated that they preferred to receive lands away from the coast as they did not wish to experience another disaster due to cyclone and storms. Some expressed wish to return home and fix their homes; others had no such options as they were in rented houses.",
+                "file": [
+                    {
+                        "id": "2054302",
+                        "url": "https://reliefweb.int/attachments/f883abd8-789f-344f-8332-3bd840c96bd7/69121.pdf",
+                        "filename": "69121.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "589154",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/f8/83/f883abd8-789f-344f-8332-3bd840c96bd7.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f8/83/f883abd8-789f-344f-8332-3bd840c96bd7.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/f8/83/f883abd8-789f-344f-8332-3bd840c96bd7.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f8/83/f883abd8-789f-344f-8332-3bd840c96bd7.png",
+                            "version": "2054302-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://data2.unhcr.org/en/documents/details/69121",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3096218",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-unhcr-protection-monitoring-report-4-april-11-2019",
+                "body-html": "<p><strong>General background</strong></p>\n<p>Samhora Machel Accommodation Centre is located in the Samhora Machel area in Dondo. At the time of visit there were 78 tents on the site. Women and men are accommodated in separate tents, and boys above the age of 14 expected to move to the men’s tent. According to the camp leader, 650 families were registered as cyclone-affected families. Lists were being prepared and no accurate information was available at the time, including the number of tents occupied by men and those occupied by women. However, the men staying in one of the tent stated that only around 5 tents were occupied by men, while the others were allocated to women.</p>\n<p>The population in the accommodation centre are from Manelruzi, Dondo, Myamayabu, Kanhadula,<br />\nSamhora Machel, and Macharote.Up to 12 individuals were accommodated in each tent.<br />\nThe camp leader stated that there was no permanent presence of INGC or DPGACS at the site.</p>\n<p><strong>General protection</strong></p>\n<p>Similar to other locations, more women and younger children were observed at the site, while very few men were present. When queried, the women stated that the men were out working. However, with a majority of tents occupied by women, and only around 5 tents reserved for men, whether or not the men were staying in the camp site remains unverified.</p>\n<p>Most families reported that they had not receive any information regarding how long they will remain in the Accommodation Centre and of the plans for ‘resettlement’. The women stated that they preferred to receive lands away from the coast as they did not wish to experience another disaster due to cyclone and storms. Some expressed wish to return home and fix their homes; others had no such options as they were in rented houses.</p>\n",
+                "date": {
+                    "original": "2019-04-11T00:00:00+00:00",
+                    "changed": "2019-04-24T11:40:31+00:00",
+                    "created": "2019-04-24T11:26:01+00:00"
+                }
+            }
+        }
+    ]
+}

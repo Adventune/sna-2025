@@ -1,0 +1,206 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3028633?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3028633?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3028633",
+            "fields": {
+                "id": 3028633,
+                "title": "Mozambique: Flooding, Office of the Resident Coordinator – Flash update No. 3 (as of 10 March 2019, 11:00 PM)",
+                "status": "published",
+                "body": "**Highlights**\n\n• At least 10 deaths reported, and 62,975 people were affected by the floods in Zambézia, Tete and Niassa provinces;\n\n• At least 10,512 people are displaced in Zambezia, Tete and Niassa sheltered in 15 transit centers;\n\n• At least 83,318 ha of crop area are flooded affecting 54,853 smallholder farmers;\n\n• The Tropical depression in Mozambique channel evolved to Tropical storm called IDAI and will reach tropical cyclone stage in the coming days;\n\n• National water resources authorities alert that at least 120,000 people are at risk of flooding and heavy rains in the coming days; \n\n**Situation Overview**\n\nThe National Institute of Meteorology (INAM) issued on 10 March 2019 an alert regarding the system formed in the Mozambique channel which evolved from Tropical Depression to Moderate Tropical Storm called IDAI. This system is causing heavy rains (> 100mm in 24h) together with thunderstorms and strong winds. The system is moving towards the coastal region of Sofala and Zambézia provinces which may reach tropical cyclone stage influencing the weather conditions from 13 March 2019. The identified risk areas are the provinces of Zambézia, Sofala, Manica and Tete. The northern region of the country especially Niassa and Cabo Delgado province are also recording heavy rains.  \n\nGiven the weather forecast indicated by INAM, the national water resources authorities informed that in the next 72h might occur moderate to high urban flooding in the cities of Beira, Quelimane and Dondo where an estimated 20,000 people are at risk. Although there was a reduction in the rainfall in the last 24h, there is prevalence of flooded areas in the districts of Namacurra and Maganja da Costa in Zambézia province.  \n\nFurthermore, and as mentioned in the previous update, the Licungo, Zambeze, Pungoe and Buzi river basins might record a rise in the water levels and overcome the alert levels resulting in moderate to high flooding in the flooding plain of those rivers which may affect more than 100,000 people.  \n\nThe Government authorities are leading the response and together with the partners providing humanitarian assistance to the affected population. On 11 March 2019, there will be a high-level meeting which will be chaired by the Prime-Minister to assess the situation and recommend further measures to be taken in a view of likely cyclone landfall in Sofala and Zambézia provinces.",
+                "headline": {
+                    "title": "At least 120,000 people at risk of flooding and heavy rains in Mozambique",
+                    "summary": "At least 10 deaths have been reported, and 62,975 people have been affected by the floods in Zambézia, Tete and Niassa provinces, with 10,512 people displaced.",
+                    "image": {
+                        "id": "1256488",
+                        "width": "760",
+                        "height": "560",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/f4/30/f430b629-bcce-3cd1-9be9-f2dc810f31b4.png",
+                        "filename": "SWI$11_20182019.png",
+                        "mimetype": "image/png",
+                        "filesize": "112494",
+                        "copyright": "Météo-France",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/f4/30/f430b629-bcce-3cd1-9be9-f2dc810f31b4.png",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/f4/30/f430b629-bcce-3cd1-9be9-f2dc810f31b4.png",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/f4/30/f430b629-bcce-3cd1-9be9-f2dc810f31b4.png"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2046618",
+                        "url": "https://reliefweb.int/attachments/31d205d4-0350-37d6-95b7-ec2111fa02fd/Floods%20Tete%20and%20Zambeiza_%20Flash%20update%203.pdf",
+                        "filename": "Floods Tete and Zambeiza_ Flash update 3.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "194870",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/31/d2/31d205d4-0350-37d6-95b7-ec2111fa02fd.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/31/d2/31d205d4-0350-37d6-95b7-ec2111fa02fd.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/31/d2/31d205d4-0350-37d6-95b7-ec2111fa02fd.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/31/d2/31d205d4-0350-37d6-95b7-ec2111fa02fd.png",
+                            "version": "2046618-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1523?appname=rwint-user-0",
+                        "id": 1523,
+                        "name": "UN Resident and Humanitarian Coordinator for Mozambique",
+                        "shortname": "UN RC/HC Mozambique",
+                        "longname": "United Nations Resident and Humanitarian Coordinator for Mozambique",
+                        "homepage": "https://mozambique.un.org/pt/about/about-the-resident-coordinator-office",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3028633",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-flooding-office-resident-coordinator-flash-update-no-3-10-march-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• At least 10 deaths reported, and 62,975 people were affected by the floods in Zambézia, Tete and Niassa provinces;</p>\n<p>• At least 10,512 people are displaced in Zambezia, Tete and Niassa sheltered in 15 transit centers;</p>\n<p>• At least 83,318 ha of crop area are flooded affecting 54,853 smallholder farmers;</p>\n<p>• The Tropical depression in Mozambique channel evolved to Tropical storm called IDAI and will reach tropical cyclone stage in the coming days;</p>\n<p>• National water resources authorities alert that at least 120,000 people are at risk of flooding and heavy rains in the coming days;</p>\n<p><strong>Situation Overview</strong></p>\n<p>The National Institute of Meteorology (INAM) issued on 10 March 2019 an alert regarding the system formed in the Mozambique channel which evolved from Tropical Depression to Moderate Tropical Storm called IDAI. This system is causing heavy rains (&gt; 100mm in 24h) together with thunderstorms and strong winds. The system is moving towards the coastal region of Sofala and Zambézia provinces which may reach tropical cyclone stage influencing the weather conditions from 13 March 2019. The identified risk areas are the provinces of Zambézia, Sofala, Manica and Tete. The northern region of the country especially Niassa and Cabo Delgado province are also recording heavy rains.</p>\n<p>Given the weather forecast indicated by INAM, the national water resources authorities informed that in the next 72h might occur moderate to high urban flooding in the cities of Beira, Quelimane and Dondo where an estimated 20,000 people are at risk. Although there was a reduction in the rainfall in the last 24h, there is prevalence of flooded areas in the districts of Namacurra and Maganja da Costa in Zambézia province.</p>\n<p>Furthermore, and as mentioned in the previous update, the Licungo, Zambeze, Pungoe and Buzi river basins might record a rise in the water levels and overcome the alert levels resulting in moderate to high flooding in the flooding plain of those rivers which may affect more than 100,000 people.</p>\n<p>The Government authorities are leading the response and together with the partners providing humanitarian assistance to the affected population. On 11 March 2019, there will be a high-level meeting which will be chaired by the Prime-Minister to assess the situation and recommend further measures to be taken in a view of likely cyclone landfall in Sofala and Zambézia provinces.</p>\n",
+                "date": {
+                    "original": "2019-03-10T00:00:00+00:00",
+                    "changed": "2019-03-11T12:48:44+00:00",
+                    "created": "2019-03-11T08:53:58+00:00"
+                }
+            }
+        }
+    ]
+}

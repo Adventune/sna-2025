@@ -1,0 +1,243 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3060984?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3060984?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3060984",
+            "fields": {
+                "id": 3060984,
+                "uuid": "003c25d4-b028-3f52-9dfe-8f44e53254e4",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 13, 29 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n- The official death toll had risen to 493 people as of 29 March, according to the Government.\n\n- A new cholera outbreak was reported in Nhamatande; nine Cholera Treatment Centres have been established in Beira and other locations.\n\n- More than 140,000 people were displaced in 161 sites across Sofala (116 sites), Manica (27 sites), Zambezia (13 sites) Tete (5 sites); of whom more than 7,400 were identified as vulnerable, according to the Government.\n\n- UNICEF, WHO, WFP, COSACA and World Vision released a joint statement on infant feeding in the emergency response in Mozambique. \n\n**SITUATION OVERVIEW**\n\nAt least 271 cholera cases had been reported in Beira as of 29 March, and a new outbreak was reported in Nhamatande, according to the Ministry of Health. Health partners are focusing on strengthening disease surveillance and cholera case management. Preparations for the Oral Cholera Vaccination (OCV) campaign scheduled for next week are ongoing. Nine Cholera Treatment Centres (CTCs) -seven of which are already operational- with approximately 400 beds, have been established since 27 March. Meanwhile, in Manica, a rise in malaria cases has been reported in several districts and the risk of cholera remains high in most affected districts. \n\nAs of 28 March, the official death toll had risen by 25 people to 493, according to the Government. The number of students reportedly affected increased by 44,000 from 28 March, to more than 143,400 students. School drop-out was reportedly already high in affected areas and there are concerns that the current emergency might exacerbate the situation. Several students and teachers are traumatized, and education partners have recommended that a full package comprising psychological counseling, school materials, WASH services and infrastructure be provided when rehabilitating schools. \n\nNearly 141,000 displaced people were sheltering in 161 sites across Sofala (109,700 people), Manica (15,200 people), Zambezia (13,200 people), Tete (2,650 people) as of 29 March, of whom more than 7,400 were identified as vulnerable, according to the Government. Nearly 100,000 houses were identified as totally destroyed (55,463), partially destroyed (28,070) or flooded (15,784) as of 29 March; an increase of more than 7,000 since 28 March. Five alternative temporary spaces were identified for displaced people who were due to be relocated out of schools to allow the resumption of education. Partners have highlighted that the proposed relocation of displaced people should be done on a voluntarily basis. \n\nThe amount of crops reportedly affected rose significantly to nearly 670,000 hectares as of 29 March. There is a two- to four-week window for the planting of seeds to provide a winter harvest. The Food Security Cluster has recommended that the distribution of seeds and hoes should be part of the emergency response and be done simultaneously to food rations. In Manica Province, an assessment team reported that lower lands have been more heavily impacted, with widespread damage to productive land due to the sudden overflow of the Buzi and Lutisi rivers. Higher lands and plateaus are facing less damage and do have some crops intact. However, they have faced two consecutive shocks (drought and floods), seriously eroding their adaptation and resilience mechanisms. \n\nAccessibility by road is improving as roads dry up, and most roads from and to Chimoio are now transitable for all types of vehicles, according to the Logistics Cluster. An assessment is ongoing along Dombe Road, which is partially accessible. The Dombe-Matarara is not paved but is transitable for heavy trucks, while the Chimoio-Dombe road is accessible for light vehicle but restricted for trucks because of steep curves. The Caia-Beira road is reportedly now passable with challenges. The Maputo-Beira road is open to all traffic, including heavy traffic, while the 523 is transitable with medium and light vehicles down to Macate and Nharombe. Buzi is still not accessible by road and the assistance by the French Navy who are fixing the road will take several days. Chimoio remains accessible by road from Zimbabwe and from Maputo. However, road conditions may be challenging when travelling north from the country’s south. Private companies are providing transport services to most locations surrounding Chimoio.",
+                "headline": {
+                    "title": "Health partners strengthening cholera case management in Mozambique",
+                    "summary": "At least 271 cholera cases had been reported in Beira, and a new outbreak was reported in Nhamatande. Nine Cholera Treatment Centres with approximately 400 beds, have been established since 27 March.",
+                    "image": {
+                        "id": "1267874",
+                        "width": "765",
+                        "height": "510",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/d1/14/d11439ab-5f35-3b50-81b4-b4f0ea82c1fe.jpg",
+                        "filename": "UN0291173_0.jpg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "52640",
+                        "copyright": "UNICEF/UN0291173/de Wet AFP-Services",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/d1/14/d11439ab-5f35-3b50-81b4-b4f0ea82c1fe.jpg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/d1/14/d11439ab-5f35-3b50-81b4-b4f0ea82c1fe.jpg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/d1/14/d11439ab-5f35-3b50-81b4-b4f0ea82c1fe.jpg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2050185",
+                        "url": "https://reliefweb.int/attachments/155f2059-8cd1-3adb-be7e-72b8341a2d74/ROSEA_20190329_Mozambique%20Floods_Flash_Update%2313%20FINAL...pdf",
+                        "filename": "ROSEA_20190329_Mozambique Floods_Flash_Update#13 FINAL...pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "114328",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/15/5f/155f2059-8cd1-3adb-be7e-72b8341a2d74.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/15/5f/155f2059-8cd1-3adb-be7e-72b8341a2d74.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/15/5f/155f2059-8cd1-3adb-be7e-72b8341a2d74.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/15/5f/155f2059-8cd1-3adb-be7e-72b8341a2d74.png",
+                            "version": "2050185-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3060984",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-13-29-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>\n<p>The official death toll had risen to 493 people as of 29 March, according to the Government.</p>\n</li>\n<li>\n<p>A new cholera outbreak was reported in Nhamatande; nine Cholera Treatment Centres have been established in Beira and other locations.</p>\n</li>\n<li>\n<p>More than 140,000 people were displaced in 161 sites across Sofala (116 sites), Manica (27 sites), Zambezia (13 sites) Tete (5 sites); of whom more than 7,400 were identified as vulnerable, according to the Government.</p>\n</li>\n<li>\n<p>UNICEF, WHO, WFP, COSACA and World Vision released a joint statement on infant feeding in the emergency response in Mozambique.</p>\n</li>\n</ul>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>At least 271 cholera cases had been reported in Beira as of 29 March, and a new outbreak was reported in Nhamatande, according to the Ministry of Health. Health partners are focusing on strengthening disease surveillance and cholera case management. Preparations for the Oral Cholera Vaccination (OCV) campaign scheduled for next week are ongoing. Nine Cholera Treatment Centres (CTCs) -seven of which are already operational- with approximately 400 beds, have been established since 27 March. Meanwhile, in Manica, a rise in malaria cases has been reported in several districts and the risk of cholera remains high in most affected districts.</p>\n<p>As of 28 March, the official death toll had risen by 25 people to 493, according to the Government. The number of students reportedly affected increased by 44,000 from 28 March, to more than 143,400 students. School drop-out was reportedly already high in affected areas and there are concerns that the current emergency might exacerbate the situation. Several students and teachers are traumatized, and education partners have recommended that a full package comprising psychological counseling, school materials, WASH services and infrastructure be provided when rehabilitating schools.</p>\n<p>Nearly 141,000 displaced people were sheltering in 161 sites across Sofala (109,700 people), Manica (15,200 people), Zambezia (13,200 people), Tete (2,650 people) as of 29 March, of whom more than 7,400 were identified as vulnerable, according to the Government. Nearly 100,000 houses were identified as totally destroyed (55,463), partially destroyed (28,070) or flooded (15,784) as of 29 March; an increase of more than 7,000 since 28 March. Five alternative temporary spaces were identified for displaced people who were due to be relocated out of schools to allow the resumption of education. Partners have highlighted that the proposed relocation of displaced people should be done on a voluntarily basis.</p>\n<p>The amount of crops reportedly affected rose significantly to nearly 670,000 hectares as of 29 March. There is a two- to four-week window for the planting of seeds to provide a winter harvest. The Food Security Cluster has recommended that the distribution of seeds and hoes should be part of the emergency response and be done simultaneously to food rations. In Manica Province, an assessment team reported that lower lands have been more heavily impacted, with widespread damage to productive land due to the sudden overflow of the Buzi and Lutisi rivers. Higher lands and plateaus are facing less damage and do have some crops intact. However, they have faced two consecutive shocks (drought and floods), seriously eroding their adaptation and resilience mechanisms.</p>\n<p>Accessibility by road is improving as roads dry up, and most roads from and to Chimoio are now transitable for all types of vehicles, according to the Logistics Cluster. An assessment is ongoing along Dombe Road, which is partially accessible. The Dombe-Matarara is not paved but is transitable for heavy trucks, while the Chimoio-Dombe road is accessible for light vehicle but restricted for trucks because of steep curves. The Caia-Beira road is reportedly now passable with challenges. The Maputo-Beira road is open to all traffic, including heavy traffic, while the 523 is transitable with medium and light vehicles down to Macate and Nharombe. Buzi is still not accessible by road and the assistance by the French Navy who are fixing the road will take several days. Chimoio remains accessible by road from Zimbabwe and from Maputo. However, road conditions may be challenging when travelling north from the country’s south. Private companies are providing transport services to most locations surrounding Chimoio.</p>\n",
+                "date": {
+                    "original": "2019-03-29T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-31T04:35:00+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "time": 587,
+    "href": "https://api.reliefweb.int/v1/reports/3061219?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3061219?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 573,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3061219",
+            "fields": {
+                "id": 3061219,
+                "uuid": "c542684d-57a7-30bb-8342-4be044e521f4",
+                "title": "Mozambique Shelter Cluster National Sitrep, 30 March 2019",
+                "status": "published",
+                "body": "**1.0 Key points** \n\n- Search and rescue phase is over, and emergency distributions are beginning to scale up. distributions in process with over 13,000 people assisted - unable to deliver full household kits due to lack of items, in stock and in pipeline - Current pipeline gap of 33,000 tarpaulins. This may be greater as health / WASH requirements are not clear.\n\n- Distribution capacity is limited. In the short-term stocks of tarpaulins and projected incoming stocks are sufficient for distribution capacity in the next 3 days. Operational partners are urgently required to scale up ability to distribute emergency shelter and NFI.\n\n- Affected populations are beginning their own self recovery where they have land and capacity to do so, but many remain cut off by road, or displaced in evacuation centres and unable to return.\n\n**2.0 Overall situation analysis** \n\nShelter damage assessment lead by the Government of Mozambique is ongoing. On the 21st March, the Mozambique National Institute for Disaster Management (INGC) from the National Operational Emergency Centre (CENOE) have identified 16,491 damaged houses to date. INGC continues to assess damage levels.  \n\nFollowing the winds and flooding many people found shelter in evacuation centres.  \nBased on key informant interviews, many people are keen to return home and are requesting repair support materials including CGI.  \n\nLarge populations remain in often overcrowded collective centres. This combined with government priority to reopen secondary schools, followed by primary schools. As a result transit camps are being established. This process is actively being followed up by protection and CCCM clusters, and sites planned where required.  \n\nThe cluster is targeting 400,000 people in 80,000 sites. – revised from previous sitrep to reflect Flash Appeal and real numbers which are coming in. 22,346 people in 32 evacuation centres in Beira City have been mapped by DTM. 5 relocation sites have been identified in beira by INGC.  \nAlso according to official figures as of March 28, more than 92,300 houses were identified as totally destroyed (51,584), partially destroyed (25,944) or flooded (15,784).  \n\nREACH and UNOSAT have published maps of Beira damage assessments.",
+                "file": [
+                    {
+                        "id": "2102327",
+                        "url": "https://reliefweb.int/attachments/bdfecbc9-81af-3089-b335-7150d697a07e/2019-03-30-shelter_cluster_sitrep_v4.pdf",
+                        "filename": "2019-03-30-shelter_cluster_sitrep_v4.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "237484",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/bd/fe/bdfecbc9-81af-3089-b335-7150d697a07e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/bd/fe/bdfecbc9-81af-3089-b335-7150d697a07e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/bd/fe/bdfecbc9-81af-3089-b335-7150d697a07e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/bd/fe/bdfecbc9-81af-3089-b335-7150d697a07e.png",
+                            "version": "2102327-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.sheltercluster.org/mozambique-tropical-cyclone-idai-2019/documents/shelter-cluster-sitrep-30th-march",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13726?appname=rwint-user-0",
+                        "id": 13726,
+                        "name": "Shelter Cluster",
+                        "shortname": "Shelter Cluster",
+                        "homepage": "https://www.sheltercluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/22126?appname=rwint-user-0",
+                        "id": 22126,
+                        "name": "Mozambique Red Cross Society",
+                        "shortname": "Mozambique Red Cross Society",
+                        "homepage": "https://www.redcross.org.mz/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3061219",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-shelter-cluster-national-sitrep-30-march-2019",
+                "body-html": "<p><strong>1.0 Key points</strong></p>\n<ul>\n<li>\n<p>Search and rescue phase is over, and emergency distributions are beginning to scale up. distributions in process with over 13,000 people assisted - unable to deliver full household kits due to lack of items, in stock and in pipeline - Current pipeline gap of 33,000 tarpaulins. This may be greater as health / WASH requirements are not clear.</p>\n</li>\n<li>\n<p>Distribution capacity is limited. In the short-term stocks of tarpaulins and projected incoming stocks are sufficient for distribution capacity in the next 3 days. Operational partners are urgently required to scale up ability to distribute emergency shelter and NFI.</p>\n</li>\n<li>\n<p>Affected populations are beginning their own self recovery where they have land and capacity to do so, but many remain cut off by road, or displaced in evacuation centres and unable to return.</p>\n</li>\n</ul>\n<p><strong>2.0 Overall situation analysis</strong></p>\n<p>Shelter damage assessment lead by the Government of Mozambique is ongoing. On the 21st March, the Mozambique National Institute for Disaster Management (INGC) from the National Operational Emergency Centre (CENOE) have identified 16,491 damaged houses to date. INGC continues to assess damage levels.</p>\n<p>Following the winds and flooding many people found shelter in evacuation centres.<br />\nBased on key informant interviews, many people are keen to return home and are requesting repair support materials including CGI.</p>\n<p>Large populations remain in often overcrowded collective centres. This combined with government priority to reopen secondary schools, followed by primary schools. As a result transit camps are being established. This process is actively being followed up by protection and CCCM clusters, and sites planned where required.</p>\n<p>The cluster is targeting 400,000 people in 80,000 sites. – revised from previous sitrep to reflect Flash Appeal and real numbers which are coming in. 22,346 people in 32 evacuation centres in Beira City have been mapped by DTM. 5 relocation sites have been identified in beira by INGC.<br />\nAlso according to official figures as of March 28, more than 92,300 houses were identified as totally destroyed (51,584), partially destroyed (25,944) or flooded (15,784).</p>\n<p>REACH and UNOSAT have published maps of Beira damage assessments.</p>\n",
+                "date": {
+                    "original": "2019-03-30T00:00:00+00:00",
+                    "changed": "2019-11-14T07:53:26+00:00",
+                    "created": "2019-03-31T15:35:10+00:00"
+                }
+            }
+        }
+    ]
+}

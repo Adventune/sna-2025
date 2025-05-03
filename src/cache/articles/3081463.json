@@ -1,0 +1,200 @@
+{
+    "time": 36,
+    "href": "https://api.reliefweb.int/v1/reports/3081463?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3081463?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 29,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3081463",
+            "fields": {
+                "id": 3081463,
+                "uuid": "cffa8b82-d719-3122-809a-7f4d2f6ec20d",
+                "title": "Southern Africa Regional Technical Cash Working Group (SARTCWG) - Cyclone Idai regional coordination, Zimbabwe: Cash Working Group and Social Protection Working Group Updates, Sit Rep 1 - 05/04/2019",
+                "status": "published",
+                "body": "The situation in Zimbabwe is evolving rapidly, The information included in this sitrep below reflects the current understanding of the different groups as of 4 April 2019.  \n\nAn active Social Protection Working group exists in Harare and a national CWG in Harare is being reactivated since the start of the emergency.  \n\nThere already exists significant cash transfer programs in Zimbabwe as part of the El Niño response ongoing from 2018",
+                "file": [
+                    {
+                        "id": "2052310",
+                        "url": "https://reliefweb.int/attachments/87ac21ac-99b9-38a5-9285-923c257e2c6f/SARTCWG-Zimbabwe-Sit-Rep-1-08042019-v2.pdf",
+                        "filename": "SARTCWG-Zimbabwe-Sit-Rep-1-08042019-v2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "351148",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/87/ac/87ac21ac-99b9-38a5-9285-923c257e2c6f.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/87/ac/87ac21ac-99b9-38a5-9285-923c257e2c6f.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/87/ac/87ac21ac-99b9-38a5-9285-923c257e2c6f.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/87/ac/87ac21ac-99b9-38a5-9285-923c257e2c6f.png",
+                            "version": "2052310-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2926?appname=rwint-user-0",
+                        "id": 2926,
+                        "name": "World Vision",
+                        "shortname": "World Vision",
+                        "longname": "World Vision",
+                        "homepage": "https://www.wvi.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/42909?appname=rwint-user-0",
+                        "id": 42909,
+                        "name": "Norwegian Capacity",
+                        "shortname": "NORCAP",
+                        "longname": "Norwegian Capacity",
+                        "homepage": "https://www.nrc.no/norcap/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3081463",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/southern-africa-regional-technical-cash-working-group-sartcwg-cyclone-idai-regional",
+                "body-html": "<p>The situation in Zimbabwe is evolving rapidly, The information included in this sitrep below reflects the current understanding of the different groups as of 4 April 2019.</p>\n<p>An active Social Protection Working group exists in Harare and a national CWG in Harare is being reactivated since the start of the emergency.</p>\n<p>There already exists significant cash transfer programs in Zimbabwe as part of the El Niño response ongoing from 2018</p>\n",
+                "date": {
+                    "original": "2019-04-05T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-12T13:03:10+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "time": 16,
+    "href": "https://api.reliefweb.int/v1/reports/3031758?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3031758?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 10,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3031758",
+            "fields": {
+                "id": 3031758,
+                "uuid": "845c7192-fe80-3e12-ae6c-a1d17261dc93",
+                "title": "Malawi - Floods Briefing note – 12 March 2019",
+                "status": "published",
+                "body": "Heavy rains over 5-8 March caused flooding in the Southern region of Malawi (Floodlist 8/3/2019; OCHA 9/3/2019). As of 10 March, at least 14 districts have been impacted, affecting approximately 468,650 people and displacing more than 31,700 people. At least 30 people have been killed and over 370 injured. Assessments are ongoing. (Xinhua 11/3/2019; Department of Disaster Management Affairs (DoDMA) 10/3/2019). On 8 March, the president declared a state of disaster in the areas affected by ongoing rain and flooding (OCHA 9/3/2019). Priority needs are shelter, WASH, food, livelihood and health assistance.\n\n**Anticipated scope and scale**\n\nMachinga and Zomba districts are among the worst hit, with more than 50,000 people affected per district, followed by Ntcheu, Phalombe, Nsanje and Blantyre City district (OCHA 11/3/2019). More rainfall and thunderstorms are expected, which will worsen the flood situation (ECHO 10/3/2019). The coping capacity of the affected population is limited, especially among refugees, due to the impact of previous floods in 2019 and dry spells in 2018. Food shortages and anticipated reduced harvest will likely extend the ongoing lean season (FEWS NET 11/3/2019). There is a high risk of cholera or diarrhoea due to inadequate WASH facilities. A lack of mosquito nets increases the risk of widespread vector-borne diseases (Nyasa Times 11/3/2019; IRCR 11/2/2019).\n\n**Key priorities**\n\n+31,700  \npeople displaced  \n+468,650   \npeople affected     \nInterventions urgently needed   \nto prevent disease outbreaks  \n\n**Humanitarian constraints**\n\nAccess is severely restricted in flood-affected areas, in particular along the east banks of Shire river. Helicopters and boats are used to reach many rural affected communities. Ongoing power outages will likely further affect operations.\n\n**Crisis impact**\n\nOver 5-8 March heavy rains in southern and central parts of Malawi caused flooding and rivers to overflow, affecting at least 468,650 people (93,730 households) across 14 districts (OCHA 9/3/2018; Reuters 10/3/2019; Flood List 8/3/2019; DoDMA 11/3/2019). Machinga and Zomba districts have been most impacted, accounting for more than 50,000 affected people per district. Some 25,000 - 50,000 people have also been affected in each of the districts of Ntcheu, Phalombe and Nsanje and an estimated 10,000 - 25,000 people have been affected in Mwanza, Chiwawa, Blantyre, Balaka and Mulanje districts (OCHA 11/3/2019). Affected population estimates from other districts are not available. A minimum of 31,700 people (6,341 households) are displaced. At least 30 people have lost their lives and over 370 people have been injured as a result of the floods and buildings collapsing. An unknown number of people remain missing. (DoDMA 11/3/2019; Xinhua 11/3/2019; Burunga 11/3/2019; OCHA 11/3/2019)\n\nThe number of people reported affected, injured, and dead is likely to increase over the coming days, as results from assessments are made available. The numbers are also likely to increase as heavy rain and thunderstorms following Tropical Cyclone Idai are forecast to continue. (Fewsnet 8/3/2019; Xinhua 11/3/2019; Al Jazeera 11/3/2019; ECHO 10/3/2019). People’s coping capacity is limited as it has been raining heavily in the same area since the end of January. Renewed rains in March marked an increase in level of precipitation compared to previous rainfall in 2019, following tropical disturbances which fell across the northern Mozambique channel at beginning of March (Xinhua 11/3/2019; Manila Bulletin 11/3/2019; GoM 9/3/2019).\n\n**Shelter**: An estimated 31,700 people (6,341 households), including many refugees residing in camps, are displaced. Most are estimated to need emergency shelter, however information remains unclear as an actual count did not happen (DoDMA 11/3/2019). In Blantyre, around 1,400 houses have collapsed (MANA News Agency 11/3/2019). Many displaced people have found refuge in makeshift sites in schools and churches (GoM 10/03/2019). The number of displaced people is likely to increase as more buildings are at risk of collapsing due to continuing rains and flooding. Evacuation is ongoing. The total number of people evacuated is unclear; however, they are most likely included in the total number displaced. A local newspaper reported that the local government in Mulanje district commissioned 27 evacuation camps for those affected by flooding in the district (MANA News Agency 11/3/2019).\n\nSome dams built to prevent flooding have collapsed, leaving many communities inundated (MANA News Agency 11/3/2019; Burunga 11/3/2019).\n\nFurther information about the displaced population, and the geographical whereabouts of the affected and displaced people, as well as a gender/age-segregated breakdown, is lacking.\n\n**WASH**: The water supply has been impacted by rain and flooding (OCHA 9/3/2019). Contamination forms a high risk. Displaced people are reported to have no or only very limited access to clean and safe drinking water nor adequate WASH facilities (GoM 11/3/2019). Chlorine to treat drinking water is lacking (Manila Bulletin 11/3/2019).\n\n**Food**: Most of the affected families, and the displaced population in particular, need food. Local media reports food shortages in refugee camps (Burunga 11/3/2019; MANA News Agency 11/3/2019). Many households’ food reserves have been destroyed or damaged, crops have been washed away and livestock lost (Nyasa Times 10/3/2019; Xinhua 11/3/2019; Burunga 11/3/2019; Manila Bulletin 11/3/2019; GoM 10/03/2019). The extent of damage and losses is unclear. However it is expected that the 2018/2019 food harvest, normally accessible in early April, will be limited due to fewer crops, and food security levels among people affected might be impacted negatively in the upcoming months. This might possibly extend the 2019 lean season (typically from November to February) (CIA Factbook 8/2/2019; FEWS NET 11/3/2019).\n\nCurrently affected districts are facing Stressed level (IPC Phase 2) and nutrition levels will further deteriorate (FEWS NET 11/3/2019). Fewer jobs in agricultural production will be available, reducing purchasing power countrywide and limited access to available and affordable food (FEWS NET 11/3/2019).\n\nDue to dry spells in 2018, in the southern districts in particular, the maize harvest in 2017/2018 was lower than average, affecting mostly poor households, whose food stocks got depleted. Their coping strategies to respond to renewed harvest losses is severely limited as they are already relying on market purchases and humanitarian assistance to access goods. The maize price in the southern districts is already 8% higher than the 5-year average and is likely to rise further facing potentially reduced harvest 2019 (FEWS NET 11/3/2019).",
+                "file": [
+                    {
+                        "id": "2047114",
+                        "url": "https://reliefweb.int/attachments/c687393a-1b5a-381b-895b-11f3dc8eb422/20190312_acaps_start_malawi_floods.pdf",
+                        "filename": "20190312_acaps_start_malawi_floods.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "583789",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c6/87/c687393a-1b5a-381b-895b-11f3dc8eb422.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c6/87/c687393a-1b5a-381b-895b-11f3dc8eb422.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c6/87/c687393a-1b5a-381b-895b-11f3dc8eb422.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c6/87/c687393a-1b5a-381b-895b-11f3dc8eb422.png",
+                            "version": "2047114-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://acaps.org/country/malawi/special-reports#container-1101",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/9417?appname=rwint-user-0",
+                        "id": 9417,
+                        "name": "ACAPS",
+                        "shortname": "ACAPS",
+                        "longname": "ACAPS",
+                        "spanish_name": "ACAPS",
+                        "homepage": "https://www.acaps.org/en/",
+                        "type": {
+                            "id": 270,
+                            "name": "Academic and Research Institution"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47463,
+                        "name": "Southern Africa: Drought - 2018-2022",
+                        "status": "past",
+                        "glide": "DR-2018-000429-ZWE",
+                        "type": [
+                            {
+                                "id": 4672,
+                                "name": "Drought",
+                                "code": "DR",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4672,
+                        "name": "Drought",
+                        "code": "DR"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3031758",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-floods-briefing-note-12-march-2019",
+                "body-html": "<p>Heavy rains over 5-8 March caused flooding in the Southern region of Malawi (Floodlist 8/3/2019; OCHA 9/3/2019). As of 10 March, at least 14 districts have been impacted, affecting approximately 468,650 people and displacing more than 31,700 people. At least 30 people have been killed and over 370 injured. Assessments are ongoing. (Xinhua 11/3/2019; Department of Disaster Management Affairs (DoDMA) 10/3/2019). On 8 March, the president declared a state of disaster in the areas affected by ongoing rain and flooding (OCHA 9/3/2019). Priority needs are shelter, WASH, food, livelihood and health assistance.</p>\n<p><strong>Anticipated scope and scale</strong></p>\n<p>Machinga and Zomba districts are among the worst hit, with more than 50,000 people affected per district, followed by Ntcheu, Phalombe, Nsanje and Blantyre City district (OCHA 11/3/2019). More rainfall and thunderstorms are expected, which will worsen the flood situation (ECHO 10/3/2019). The coping capacity of the affected population is limited, especially among refugees, due to the impact of previous floods in 2019 and dry spells in 2018. Food shortages and anticipated reduced harvest will likely extend the ongoing lean season (FEWS NET 11/3/2019). There is a high risk of cholera or diarrhoea due to inadequate WASH facilities. A lack of mosquito nets increases the risk of widespread vector-borne diseases (Nyasa Times 11/3/2019; IRCR 11/2/2019).</p>\n<p><strong>Key priorities</strong></p>\n<p>+31,700<br />\npeople displaced<br />\n+468,650<br />\npeople affected<br />\nInterventions urgently needed<br />\nto prevent disease outbreaks</p>\n<p><strong>Humanitarian constraints</strong></p>\n<p>Access is severely restricted in flood-affected areas, in particular along the east banks of Shire river. Helicopters and boats are used to reach many rural affected communities. Ongoing power outages will likely further affect operations.</p>\n<p><strong>Crisis impact</strong></p>\n<p>Over 5-8 March heavy rains in southern and central parts of Malawi caused flooding and rivers to overflow, affecting at least 468,650 people (93,730 households) across 14 districts (OCHA 9/3/2018; Reuters 10/3/2019; Flood List 8/3/2019; DoDMA 11/3/2019). Machinga and Zomba districts have been most impacted, accounting for more than 50,000 affected people per district. Some 25,000 - 50,000 people have also been affected in each of the districts of Ntcheu, Phalombe and Nsanje and an estimated 10,000 - 25,000 people have been affected in Mwanza, Chiwawa, Blantyre, Balaka and Mulanje districts (OCHA 11/3/2019). Affected population estimates from other districts are not available. A minimum of 31,700 people (6,341 households) are displaced. At least 30 people have lost their lives and over 370 people have been injured as a result of the floods and buildings collapsing. An unknown number of people remain missing. (DoDMA 11/3/2019; Xinhua 11/3/2019; Burunga 11/3/2019; OCHA 11/3/2019)</p>\n<p>The number of people reported affected, injured, and dead is likely to increase over the coming days, as results from assessments are made available. The numbers are also likely to increase as heavy rain and thunderstorms following Tropical Cyclone Idai are forecast to continue. (Fewsnet 8/3/2019; Xinhua 11/3/2019; Al Jazeera 11/3/2019; ECHO 10/3/2019). People’s coping capacity is limited as it has been raining heavily in the same area since the end of January. Renewed rains in March marked an increase in level of precipitation compared to previous rainfall in 2019, following tropical disturbances which fell across the northern Mozambique channel at beginning of March (Xinhua 11/3/2019; Manila Bulletin 11/3/2019; GoM 9/3/2019).</p>\n<p><strong>Shelter</strong>: An estimated 31,700 people (6,341 households), including many refugees residing in camps, are displaced. Most are estimated to need emergency shelter, however information remains unclear as an actual count did not happen (DoDMA 11/3/2019). In Blantyre, around 1,400 houses have collapsed (MANA News Agency 11/3/2019). Many displaced people have found refuge in makeshift sites in schools and churches (GoM 10/03/2019). The number of displaced people is likely to increase as more buildings are at risk of collapsing due to continuing rains and flooding. Evacuation is ongoing. The total number of people evacuated is unclear; however, they are most likely included in the total number displaced. A local newspaper reported that the local government in Mulanje district commissioned 27 evacuation camps for those affected by flooding in the district (MANA News Agency 11/3/2019).</p>\n<p>Some dams built to prevent flooding have collapsed, leaving many communities inundated (MANA News Agency 11/3/2019; Burunga 11/3/2019).</p>\n<p>Further information about the displaced population, and the geographical whereabouts of the affected and displaced people, as well as a gender/age-segregated breakdown, is lacking.</p>\n<p><strong>WASH</strong>: The water supply has been impacted by rain and flooding (OCHA 9/3/2019). Contamination forms a high risk. Displaced people are reported to have no or only very limited access to clean and safe drinking water nor adequate WASH facilities (GoM 11/3/2019). Chlorine to treat drinking water is lacking (Manila Bulletin 11/3/2019).</p>\n<p><strong>Food</strong>: Most of the affected families, and the displaced population in particular, need food. Local media reports food shortages in refugee camps (Burunga 11/3/2019; MANA News Agency 11/3/2019). Many households’ food reserves have been destroyed or damaged, crops have been washed away and livestock lost (Nyasa Times 10/3/2019; Xinhua 11/3/2019; Burunga 11/3/2019; Manila Bulletin 11/3/2019; GoM 10/03/2019). The extent of damage and losses is unclear. However it is expected that the 2018/2019 food harvest, normally accessible in early April, will be limited due to fewer crops, and food security levels among people affected might be impacted negatively in the upcoming months. This might possibly extend the 2019 lean season (typically from November to February) (CIA Factbook 8/2/2019; FEWS NET 11/3/2019).</p>\n<p>Currently affected districts are facing Stressed level (IPC Phase 2) and nutrition levels will further deteriorate (FEWS NET 11/3/2019). Fewer jobs in agricultural production will be available, reducing purchasing power countrywide and limited access to available and affordable food (FEWS NET 11/3/2019).</p>\n<p>Due to dry spells in 2018, in the southern districts in particular, the maize harvest in 2017/2018 was lower than average, affecting mostly poor households, whose food stocks got depleted. Their coping strategies to respond to renewed harvest losses is severely limited as they are already relying on market purchases and humanitarian assistance to access goods. The maize price in the southern districts is already 8% higher than the 5-year average and is likely to rise further facing potentially reduced harvest 2019 (FEWS NET 11/3/2019).</p>\n",
+                "date": {
+                    "original": "2019-03-12T00:00:00+00:00",
+                    "changed": "2019-03-13T21:10:50+00:00",
+                    "created": "2019-03-12T16:58:32+00:00"
+                }
+            }
+        }
+    ]
+}

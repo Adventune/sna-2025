@@ -1,0 +1,211 @@
+{
+    "time": 2788,
+    "href": "https://api.reliefweb.int/v1/reports/3056898?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3056898?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2781,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3056898",
+            "fields": {
+                "id": 3056898,
+                "uuid": "40c426e4-e047-3426-b761-0a74a0c74a46",
+                "title": "Zimbabwe: Floods Situation Report No. 1, As of 27 March 2019",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates No. 1 through No. 6 and provides more detailed information on the situation and response. It covers the period from 16 to 26 March 2019. The next Situation Report will be issued on or around 3 April.*\n\n**HIGHLIGHTS**\n\n• 181 deaths have been recorded and 330 people are reportedly still missing, as of 25 March.\n\n• Search and rescue are ongoing, especially in Chimanimani, where several wards/villages remain inaccessible by road.\n\n• Over 270,000 people are in need of humanitarian assistance, including an estimated 90,000 people (18,000 households) in four districts who need emergency shelter and non-food items.\n\n• Some 60,000 children are in need of immediate protection services, and 100,000 children are in need of welfare and civil registration services in nine floodaffected districts.\n\n• About 95 per cent of the roads and bridges have been damaged in Chimanimani. \n\n**SITUATION OVERVIEW**\n\nFollowing the landfall of Cyclone Idai in Mozambique on 14 March, eastern provinces of Zimbabwe experienced torrential rainfall. The combination of high winds and heavy precipitation in the districts of Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Bikita, Masvingo and Gutu resulted in riverine and flash flooding, as well as landslides, causing significant loss of life, injury and displacement.  \n\nAt least 181 deaths and 175 injuries have been reported and 330 people were reportedly missing in Zimbabwe as of 25 March, according to the government. The death toll is expected to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known. Destruction to infrastructure and property has been severe, and the livelihoods over 270,000 people across these districts has been affected.  \n\nAn estimated 270,000 people have been affected by flooding and are in need of humanitarian assistance in the seven districts—Chipinge, Chimanimani, Buhera, Bikita, Mutare, Gutu, and Chiredzi. The vast majority of people affected are in Chipinge (122,000) and Chimanimani (115,000) districts.  \n\nThis Situation Report provides initial estimates of the humanitarian impact of the Cyclone Idai weather system. Sectorspecific needs and requirements will be updated to reflect new data from on-going sector assessments and further analysis.",
+                "file": [
+                    {
+                        "id": "2049483",
+                        "url": "https://reliefweb.int/attachments/b16bfdb7-b5ce-30a3-8025-618a237c5211/ZIMBABWE_20190327_Sitrep%231.pdf",
+                        "filename": "ZIMBABWE_20190327_Sitrep#1.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "278010",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/b1/6b/b16bfdb7-b5ce-30a3-8025-618a237c5211.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b1/6b/b16bfdb7-b5ce-30a3-8025-618a237c5211.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/b1/6b/b16bfdb7-b5ce-30a3-8025-618a237c5211.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b1/6b/b16bfdb7-b5ce-30a3-8025-618a237c5211.png",
+                            "version": "2049483-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3056898",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-situation-report-no-1-27-march-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates No. 1 through No. 6 and provides more detailed information on the situation and response. It covers the period from 16 to 26 March 2019. The next Situation Report will be issued on or around 3 April.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• 181 deaths have been recorded and 330 people are reportedly still missing, as of 25 March.</p>\n<p>• Search and rescue are ongoing, especially in Chimanimani, where several wards/villages remain inaccessible by road.</p>\n<p>• Over 270,000 people are in need of humanitarian assistance, including an estimated 90,000 people (18,000 households) in four districts who need emergency shelter and non-food items.</p>\n<p>• Some 60,000 children are in need of immediate protection services, and 100,000 children are in need of welfare and civil registration services in nine floodaffected districts.</p>\n<p>• About 95 per cent of the roads and bridges have been damaged in Chimanimani.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>Following the landfall of Cyclone Idai in Mozambique on 14 March, eastern provinces of Zimbabwe experienced torrential rainfall. The combination of high winds and heavy precipitation in the districts of Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Bikita, Masvingo and Gutu resulted in riverine and flash flooding, as well as landslides, causing significant loss of life, injury and displacement.</p>\n<p>At least 181 deaths and 175 injuries have been reported and 330 people were reportedly missing in Zimbabwe as of 25 March, according to the government. The death toll is expected to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known. Destruction to infrastructure and property has been severe, and the livelihoods over 270,000 people across these districts has been affected.</p>\n<p>An estimated 270,000 people have been affected by flooding and are in need of humanitarian assistance in the seven districts—Chipinge, Chimanimani, Buhera, Bikita, Mutare, Gutu, and Chiredzi. The vast majority of people affected are in Chipinge (122,000) and Chimanimani (115,000) districts.</p>\n<p>This Situation Report provides initial estimates of the humanitarian impact of the Cyclone Idai weather system. Sectorspecific needs and requirements will be updated to reflect new data from on-going sector assessments and further analysis.</p>\n",
+                "date": {
+                    "original": "2019-03-27T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-28T10:31:53+00:00"
+                }
+            }
+        }
+    ]
+}

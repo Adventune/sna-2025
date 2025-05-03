@@ -1,0 +1,184 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3036183?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3036183?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3036183",
+            "fields": {
+                "id": 3036183,
+                "uuid": "ce421ba4-7994-328b-925d-fc6c0de810d8",
+                "title": "Mozambique: Tropical Cyclone Idai - Emergency Plan of Action (EPoA), DREF n°: MDRMZ014 / PMZ045",
+                "status": "published",
+                "body": "**Situation Analysis**\n\n**Description of the disaster** \n\nThis DREF operation is being launched in preparedness of Tropical Cyclone IDAI, which is expected to make landfall on 15 March 2019. The overall objective of the operation is to meet the immediate shelter, WASH and health needs of 1,500 households (7,500 people) affected by flooding and incoming Cyclone IDAI in Zambezia, Sofala, Manica, and Tete provinces of Mozambique. Hygiene promotion will, however, allow the operation to reach the totality of displaced households which amounts to 17,095 people (3,419 households) currently sheltered in accommodation centres.  \n\nMozambique is a country prone to hydrological disasters which normally have severe impact on the country’s population and infrastructure. On 9 March 2019, Tropical Cyclone Idai formed over the Northern Mozambique Channel and is predicted to make landfall through Sofala province with Intense Tropical Cyclone category on 15 March 2019. In recent days, severe flooding has impacted Zambezia, Tete, and Niassa provinces and by 12 March 2019, fifteen people were already reported dead from the effects of the floods, while 103,169 (approximately 20,633 households) have been affected. As mentioned above, more than 17,095 people (3,419 households) are currently displaced and are being sheltered in 15 transit centres (11 in Zambezia, 2 in Tete and 2 in Niassa). Zambezia province has been hardest hit out of the three provinces impacted so far.\n\nAs of 13 March, meteorological services announced that the situation is set to worsen in the coming days. Indeed, the windspeed of Idai will be between 188-220 km/h and is expected to release rainfall above 150 mm within 24 hours. At its peak intensity, Idai's strength may be equal to a Category 4 hurricane. The expected heavy rain could further affect Zambezia and Sofala provinces, which will exacerbate an already dire flood crisis. National water resources authorities alert that at least 160,000 people are at risk of flooding due to forecasted heavy rains in the coming days in Zambezi, Licungo, Buzi and Pungoe river basins. Initial estimates from the Mozambique Government anticipate that USD $18 million will be required for food and non-food items on the potential response to population at risk.\n\nWith flooding already affecting tens of thousands of people and Cyclone Idai expected to imminently make landfall, with the potential to cause further destruction and displacement, Mozambique Red Cross (CVM) seeks support from the IFRC Disaster Relief Emergency Fund (DREF) to preposition materials needed to respond and to anticipate urgent needs on the ground. This will enable the CVM to respond to the projected flooding as well as to replenish materials that have already been distributed to the affected families as part of their early actions. The DREF will also ensure that the NS has resources to conduct detailed assessments of the needs on the ground which will in-turn inform any strategy changes in the operation.",
+                "file": [
+                    {
+                        "id": "2047304",
+                        "url": "https://reliefweb.int/attachments/73a0b96a-bcb8-3039-bd33-b746959a17ca/MDRMZ014do.pdf",
+                        "filename": "MDRMZ014do.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1681819",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/73/a0/73a0b96a-bcb8-3039-bd33-b746959a17ca.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/73/a0/73a0b96a-bcb8-3039-bd33-b746959a17ca.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/73/a0/73a0b96a-bcb8-3039-bd33-b746959a17ca.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/73/a0/73a0b96a-bcb8-3039-bd33-b746959a17ca.png",
+                            "version": "2047304-1-0"
+                        }
+                    }
+                ],
+                "origin": "http://ifrc.org/en/publications-and-reports/appeals/",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3036183",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-emergency-plan-action-epoa-dref-n-mdrmz014-pmz045",
+                "body-html": "<p><strong>Situation Analysis</strong></p>\n<p><strong>Description of the disaster</strong></p>\n<p>This DREF operation is being launched in preparedness of Tropical Cyclone IDAI, which is expected to make landfall on 15 March 2019. The overall objective of the operation is to meet the immediate shelter, WASH and health needs of 1,500 households (7,500 people) affected by flooding and incoming Cyclone IDAI in Zambezia, Sofala, Manica, and Tete provinces of Mozambique. Hygiene promotion will, however, allow the operation to reach the totality of displaced households which amounts to 17,095 people (3,419 households) currently sheltered in accommodation centres.</p>\n<p>Mozambique is a country prone to hydrological disasters which normally have severe impact on the country’s population and infrastructure. On 9 March 2019, Tropical Cyclone Idai formed over the Northern Mozambique Channel and is predicted to make landfall through Sofala province with Intense Tropical Cyclone category on 15 March 2019. In recent days, severe flooding has impacted Zambezia, Tete, and Niassa provinces and by 12 March 2019, fifteen people were already reported dead from the effects of the floods, while 103,169 (approximately 20,633 households) have been affected. As mentioned above, more than 17,095 people (3,419 households) are currently displaced and are being sheltered in 15 transit centres (11 in Zambezia, 2 in Tete and 2 in Niassa). Zambezia province has been hardest hit out of the three provinces impacted so far.</p>\n<p>As of 13 March, meteorological services announced that the situation is set to worsen in the coming days. Indeed, the windspeed of Idai will be between 188-220 km/h and is expected to release rainfall above 150 mm within 24 hours. At its peak intensity, Idai's strength may be equal to a Category 4 hurricane. The expected heavy rain could further affect Zambezia and Sofala provinces, which will exacerbate an already dire flood crisis. National water resources authorities alert that at least 160,000 people are at risk of flooding due to forecasted heavy rains in the coming days in Zambezi, Licungo, Buzi and Pungoe river basins. Initial estimates from the Mozambique Government anticipate that USD $18 million will be required for food and non-food items on the potential response to population at risk.</p>\n<p>With flooding already affecting tens of thousands of people and Cyclone Idai expected to imminently make landfall, with the potential to cause further destruction and displacement, Mozambique Red Cross (CVM) seeks support from the IFRC Disaster Relief Emergency Fund (DREF) to preposition materials needed to respond and to anticipate urgent needs on the ground. This will enable the CVM to respond to the projected flooding as well as to replenish materials that have already been distributed to the affected families as part of their early actions. The DREF will also ensure that the NS has resources to conduct detailed assessments of the needs on the ground which will in-turn inform any strategy changes in the operation.</p>\n",
+                "date": {
+                    "original": "2019-03-14T00:00:00+00:00",
+                    "changed": "2019-03-14T21:02:30+00:00",
+                    "created": "2019-03-14T20:28:59+00:00"
+                }
+            }
+        }
+    ]
+}

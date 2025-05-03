@@ -1,0 +1,164 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3038908?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3038908?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3038908",
+            "fields": {
+                "id": 3038908,
+                "title": "Mozambique: Tropical Cyclone Idai Situation Update, 17 March 2019",
+                "status": "published",
+                "body": "**1. Situation Update**  \n\n•Following Tropical Cyclone Idai, heavy rains are expected to continuein the affected areas of central Mozambique.Accordingto WFP, the most affected-provinces by the Cyclone Idai are Sofala, Manica, Zambezia, Imhambane and Tete.   \n\n•The National Disaster Management Institute (INGC) estimates that 600,000 people are currently at risk and in urgent need of humanitarian assistance in the affected areas.   \n\n•The Logistics Cluster has not been activated yet. The Global Logistics Cluster has sent an assessmentteam of two people. ACoordinator and Information ManagementOfficerwere deployed to Mozambique on 15 Marchto assess the needs for coordination and commonlogistics services in the north and central part of the country.The team is expected to arriveto Beiraon 18March.   \n\n•WFP, as global lead of the Logistics Cluster, will convene an inter-agency logistics meeting in support of the government-led response in Maputoon 18 March at 09:00 at the WFP Country Office,to discuss partners’ needs in response to the cyclone.",
+                "file": [
+                    {
+                        "id": "2047567",
+                        "url": "https://reliefweb.int/attachments/3f2cfee6-96a8-318e-9c50-9d75da4b0a15/logistics_cluster_mozambique_situation_update_190317.pdf",
+                        "filename": "logistics_cluster_mozambique_situation_update_190317.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "215357",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/3f/2c/3f2cfee6-96a8-318e-9c50-9d75da4b0a15.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/3f/2c/3f2cfee6-96a8-318e-9c50-9d75da4b0a15.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/3f/2c/3f2cfee6-96a8-318e-9c50-9d75da4b0a15.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3f/2c/3f2cfee6-96a8-318e-9c50-9d75da4b0a15.png",
+                            "version": "2047567-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://logcluster.org/document/mozambique-situation-update-17-march-2019",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3594?appname=rwint-user-0",
+                        "id": 3594,
+                        "name": "Logistics Cluster",
+                        "shortname": "Logistics Cluster",
+                        "homepage": "https://www.logcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3038908",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-situation-update-17-march-2019",
+                "body-html": "<p><strong>1. Situation Update</strong></p>\n<p>•Following Tropical Cyclone Idai, heavy rains are expected to continuein the affected areas of central Mozambique.Accordingto WFP, the most affected-provinces by the Cyclone Idai are Sofala, Manica, Zambezia, Imhambane and Tete.</p>\n<p>•The National Disaster Management Institute (INGC) estimates that 600,000 people are currently at risk and in urgent need of humanitarian assistance in the affected areas.</p>\n<p>•The Logistics Cluster has not been activated yet. The Global Logistics Cluster has sent an assessmentteam of two people. ACoordinator and Information ManagementOfficerwere deployed to Mozambique on 15 Marchto assess the needs for coordination and commonlogistics services in the north and central part of the country.The team is expected to arriveto Beiraon 18March.</p>\n<p>•WFP, as global lead of the Logistics Cluster, will convene an inter-agency logistics meeting in support of the government-led response in Maputoon 18 March at 09:00 at the WFP Country Office,to discuss partners’ needs in response to the cyclone.</p>\n",
+                "date": {
+                    "original": "2019-03-17T00:00:00+00:00",
+                    "changed": "2019-03-18T01:06:39+00:00",
+                    "created": "2019-03-17T22:41:00+00:00"
+                }
+            }
+        }
+    ]
+}

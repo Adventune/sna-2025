@@ -1,0 +1,246 @@
+{
+    "time": 1748,
+    "href": "https://api.reliefweb.int/v1/reports/3074373?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3074373?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1740,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3074373",
+            "fields": {
+                "id": 3074373,
+                "uuid": "4977d511-f9e4-39d2-a74a-fbb1c29719ab",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 6 (as of 7 April 2019)",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The next report will be issued on 8 April 2019.*\n\n**HIGHLIGHTS**\n\n•  Distribution of seeds for the winter harvest will start on 8 April in Manica province.\n\n•  More than 756,200 individuals have received food assistance since Cyclone Idai made landfall, including 10,000 people receiving ready-to-eat meals in Beira city. \n\n•  The number of houses recorded as destroyed or damaged has increased to 239,682. \n\n•  Some 389 new cases of cholera were reported on 7 April, in Beira (246 cases), Nhamatanda (75 cases) and Dondo (26 cases) and Buzi (42 cases), including one death.\n\n•  At least 593,000 people had received the Oral Cholera Vaccine as of 7 April, representing 73 per cent of the total target. \n\n**SITUATION OVERVIEW**\n\nAs of 7 April, the official death toll remained at 602 people. The number of houses recorded as destroyed or damaged, meanwhile, increased to 239,682, including 111,163 houses totally destroyed, 112,735 partially destroyed, and 15,784 flooded. There has reportedly been an increase in women-headed households as a result of the disaster, according to humanitarian partners and authorities, although exact numbers are yet to be verified or confirmed.\n\nAt least 160,927 people were sheltering in 164 sites across Manica (43); Sofala (113); Tete (5) and Zambezia (3), according to government figures. The number of sites reported in Manica more than doubled from 6 to 7 April (20 to 43), while the number of people accommodated in the sites in Manica increased from 13,115 to 24,419. The previous reported figures for Manica had not included data on several sites, including in Sussundenga district and particularly in Dombe posto.\n\nSome 389 new cholera cases were recorded on 7 April, bringing the total number of registered cases to 3,161, according to the Ministry of Health. Beira recorded the majority of the new cases (246 cases recorded on 7 April), followed by Nhamatanda (75 cases), Buzi (42 cases) and Dondo (26 cases). More than 593,000 people were vaccinated as of 7 April, representing 73 per cent of the people targeted.",
+                "file": [
+                    {
+                        "id": "2051588",
+                        "url": "https://reliefweb.int/attachments/4642fe02-1d45-3abb-b070-55073547a8f4/ROSEA_20190408_Mozambique_SitRep%236_7April.pdf",
+                        "filename": "ROSEA_20190408_Mozambique_SitRep#6_7April.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "357318",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/46/42/4642fe02-1d45-3abb-b070-55073547a8f4.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/46/42/4642fe02-1d45-3abb-b070-55073547a8f4.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/46/42/4642fe02-1d45-3abb-b070-55073547a8f4.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/46/42/4642fe02-1d45-3abb-b070-55073547a8f4.png",
+                            "version": "2051588-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3074373",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-6-7-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The next report will be issued on 8 April 2019.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>•  Distribution of seeds for the winter harvest will start on 8 April in Manica province.</p>\n<p>•  More than 756,200 individuals have received food assistance since Cyclone Idai made landfall, including 10,000 people receiving ready-to-eat meals in Beira city.</p>\n<p>•  The number of houses recorded as destroyed or damaged has increased to 239,682.</p>\n<p>•  Some 389 new cases of cholera were reported on 7 April, in Beira (246 cases), Nhamatanda (75 cases) and Dondo (26 cases) and Buzi (42 cases), including one death.</p>\n<p>•  At least 593,000 people had received the Oral Cholera Vaccine as of 7 April, representing 73 per cent of the total target.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>As of 7 April, the official death toll remained at 602 people. The number of houses recorded as destroyed or damaged, meanwhile, increased to 239,682, including 111,163 houses totally destroyed, 112,735 partially destroyed, and 15,784 flooded. There has reportedly been an increase in women-headed households as a result of the disaster, according to humanitarian partners and authorities, although exact numbers are yet to be verified or confirmed.</p>\n<p>At least 160,927 people were sheltering in 164 sites across Manica (43); Sofala (113); Tete (5) and Zambezia (3), according to government figures. The number of sites reported in Manica more than doubled from 6 to 7 April (20 to 43), while the number of people accommodated in the sites in Manica increased from 13,115 to 24,419. The previous reported figures for Manica had not included data on several sites, including in Sussundenga district and particularly in Dombe posto.</p>\n<p>Some 389 new cholera cases were recorded on 7 April, bringing the total number of registered cases to 3,161, according to the Ministry of Health. Beira recorded the majority of the new cases (246 cases recorded on 7 April), followed by Nhamatanda (75 cases), Buzi (42 cases) and Dondo (26 cases). More than 593,000 people were vaccinated as of 7 April, representing 73 per cent of the people targeted.</p>\n",
+                "date": {
+                    "original": "2019-04-07T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-08T21:16:01+00:00"
+                }
+            }
+        }
+    ]
+}

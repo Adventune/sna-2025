@@ -1,0 +1,210 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3049953?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3049953?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3049953",
+            "fields": {
+                "id": 3049953,
+                "uuid": "505601bc-62a7-3afa-b08b-437569b42cfc",
+                "title": "UNICEF Zimbabwe Cyclone Idai Situation Report #2 (15 - 24 March 2019)",
+                "status": "published",
+                "body": " As of 21 March 2019, a total of 250,000 people are reported to be affected by the floods in nine districts. An estimated 48 per cent of the affected population is under 18 years of age. \n\n There is limited road access in the Chimanimani, the worst affected district. \n\n An estimated 60,000 children are in need of immediate protection services, and 100,000 children are in need of welfare and civil registration services in nine flood affected districts. \n\n Initial estimates indicate that 54 classrooms from 114 schools have been affected by the floods, impacting about 30,000 learners. \n\n Over 5,000 households have been reached with critical WASH Hygiene kits in affected districts. \n\n The Government of Zimbabwe declared 23 and 24 March as National days of mourning the flood victims.\n\n**SITUATION IN NUMBERS**\n\n**250,000** People affected by Cyclone Idai/Floods\n\n**120,000** Children affected by Cyclone Idai/Floods\n\n**154** Deaths reported (Source: DCP-March 2019)\n\n**189** People missing (Source: DCP-March 2019)\n\n**UNICEF 2019 Flood Response Appeal US $ 10 million** *(Initial estimate. UNICEF HAC currently under review to reflect these needs)\n\n**Situation Overview**\n\nZimbabwe experienced torrential rainfall caused by Cyclone Idai from the 15 to 17 of March 2019. Cyclone Idai caused high winds and heavy precipitation in Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Bikita, Masvingo and Gutu Districts causing riverine and flash flooding and subsequent deaths, and destruction of livelihoods and property. To date, Chimanimani district is the most affected.  \nAn estimated 50,000 households/250,000 people, including 120,000 children, have been affected by the flooding and landslides after local rivers and their tributaries burst their banks. The flooding has caused significant damage to homes, schools, and other property, and in some cases led to death.  \nAs of 22 March, 154 people had been reported dead and 189 people are reported missing. The number of deaths is expected to increase as the search and rescue efforts continue. The water supply in Chimanimani and Chipinge have suffered significant damage and will require rehabilitation.\n\nOver 250 boreholes and 18 urban and peri-urban water supply systems were damaged. Following the cyclone, about 5,000 metres of the water distribution network was washed away in Chimanimani town, depriving more than 9,000 residents of safe water. Thirteen health care facilities in Chimanimani district are inaccessible, including Mutambara Mission Hospital and Chimanimani District hospital. This can increase the risk of water born disease outbreaks; before the flood, the Chipinge and Chimanimani districts had low sanitation coverage (43 per cent and 46 per cent respectively).",
+                "file": [
+                    {
+                        "id": "2050171",
+                        "url": "https://reliefweb.int/attachments/dfebdf80-39aa-3a15-96b5-deb59911a968/UNICEF%20Zimbabwe%20Humanitarian%20Situation%20Report%20%28Cyclone%20Idai%29%20-%2024%20March%202019.pdf",
+                        "filename": "UNICEF Zimbabwe Humanitarian Situation Report (Cyclone Idai) - 24 March 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1275723",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/df/eb/dfebdf80-39aa-3a15-96b5-deb59911a968.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/df/eb/dfebdf80-39aa-3a15-96b5-deb59911a968.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/df/eb/dfebdf80-39aa-3a15-96b5-deb59911a968.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/df/eb/dfebdf80-39aa-3a15-96b5-deb59911a968.png",
+                            "version": "2050171-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3049953",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/unicef-zimbabwe-cyclone-idai-situation-report-2-15-24-march-2019",
+                "redirects": [
+                    "https://reliefweb.int/report/zimbabwe/unicef-zimbabwe-humanitarian-situation-report-cyclone-idai-24-march-2019"
+                ],
+                "body-html": "<p> As of 21 March 2019, a total of 250,000 people are reported to be affected by the floods in nine districts. An estimated 48 per cent of the affected population is under 18 years of age.</p>\n<p> There is limited road access in the Chimanimani, the worst affected district.</p>\n<p> An estimated 60,000 children are in need of immediate protection services, and 100,000 children are in need of welfare and civil registration services in nine flood affected districts.</p>\n<p> Initial estimates indicate that 54 classrooms from 114 schools have been affected by the floods, impacting about 30,000 learners.</p>\n<p> Over 5,000 households have been reached with critical WASH Hygiene kits in affected districts.</p>\n<p> The Government of Zimbabwe declared 23 and 24 March as National days of mourning the flood victims.</p>\n<p><strong>SITUATION IN NUMBERS</strong></p>\n<p><strong>250,000</strong> People affected by Cyclone Idai/Floods</p>\n<p><strong>120,000</strong> Children affected by Cyclone Idai/Floods</p>\n<p><strong>154</strong> Deaths reported (Source: DCP-March 2019)</p>\n<p><strong>189</strong> People missing (Source: DCP-March 2019)</p>\n<p><strong>UNICEF 2019 Flood Response Appeal US $ 10 million</strong> *(Initial estimate. UNICEF HAC currently under review to reflect these needs)</p>\n<p><strong>Situation Overview</strong></p>\n<p>Zimbabwe experienced torrential rainfall caused by Cyclone Idai from the 15 to 17 of March 2019. Cyclone Idai caused high winds and heavy precipitation in Chimanimani, Chipinge, Buhera, Nyanga, Makoni, Mutare Rural, Bikita, Masvingo and Gutu Districts causing riverine and flash flooding and subsequent deaths, and destruction of livelihoods and property. To date, Chimanimani district is the most affected.<br />\nAn estimated 50,000 households/250,000 people, including 120,000 children, have been affected by the flooding and landslides after local rivers and their tributaries burst their banks. The flooding has caused significant damage to homes, schools, and other property, and in some cases led to death.<br />\nAs of 22 March, 154 people had been reported dead and 189 people are reported missing. The number of deaths is expected to increase as the search and rescue efforts continue. The water supply in Chimanimani and Chipinge have suffered significant damage and will require rehabilitation.</p>\n<p>Over 250 boreholes and 18 urban and peri-urban water supply systems were damaged. Following the cyclone, about 5,000 metres of the water distribution network was washed away in Chimanimani town, depriving more than 9,000 residents of safe water. Thirteen health care facilities in Chimanimani district are inaccessible, including Mutambara Mission Hospital and Chimanimani District hospital. This can increase the risk of water born disease outbreaks; before the flood, the Chipinge and Chimanimani districts had low sanitation coverage (43 per cent and 46 per cent respectively).</p>\n",
+                "date": {
+                    "original": "2019-03-24T00:00:00+00:00",
+                    "changed": "2019-04-01T22:57:05+00:00",
+                    "created": "2019-03-24T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

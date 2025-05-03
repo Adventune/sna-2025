@@ -1,0 +1,165 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3038708?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3038708?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3038708",
+            "fields": {
+                "id": 3038708,
+                "title": "Mozambique: Cyclone Idai - ETC Situation Report #1 (Reporting Period: 14/03/2019 to 16/03/2019)",
+                "status": "published",
+                "body": "**Highlights**\n\n• Category 3 Tropical Cyclone Idai made landfall in Beira, Mozambique’s fourth largest city, on 14 March evening leaving Beira with no communications and power services.\n\n• An IT emergency specialist from WFP’s Fast IT and Telecommunications Emergency Support Team (FITTEST) was deployed as ETC Coordinator on 15 March to conduct an initial Information and Communications Technology (ICT). The Emergency Telecommunications Cluster (ETC) has not been yet activated.\n\n• The Crisis Connectivity Charter has been activated and communications equipment is on the way to Mozambique from Dubai where the equipment was prepositioned.\n\n• ETC partners Ericsson Response, Government of Luxembourg and Télécoms Sans Frontières (TSF) have mobilized personnel and equipment to Mozambique to help provide communications services.\n\n**Situation Overview**\n\nMozambique is among the most disaster-prone countries in the world. The occurrence of natural disasters such as floods, cyclones, drought and earthquakes frequently has a significant impact on its people and the economy.  \nTropical Cyclone Idai - a category 3 cyclone - made landfall in Beira, Mozambique’s fourth largest city, on 14 March evening, resulting in wind speeds of up to 224km/h and heavy rains. Cyclone Idai is the strongest tropical cyclone to affect Central and North Mozambique since Tropical Cyclone Eline which struck the country in February 2000, claiming at least 800 lives.",
+                "file": [
+                    {
+                        "id": "2051280",
+                        "url": "https://reliefweb.int/attachments/c15be5f1-eaf9-3c61-b7df-042815fb16c0/Mozambique-%20ETC%20Situation%20Report_16%20March%202019_0.pdf",
+                        "filename": "Mozambique- ETC Situation Report_16 March 2019_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "190000",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c1/5b/c15be5f1-eaf9-3c61-b7df-042815fb16c0.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c1/5b/c15be5f1-eaf9-3c61-b7df-042815fb16c0.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c1/5b/c15be5f1-eaf9-3c61-b7df-042815fb16c0.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c1/5b/c15be5f1-eaf9-3c61-b7df-042815fb16c0.png",
+                            "version": "2051280-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-1",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3038708",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-etc-situation-report-1-reporting-period-14032019-16032019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• Category 3 Tropical Cyclone Idai made landfall in Beira, Mozambique’s fourth largest city, on 14 March evening leaving Beira with no communications and power services.</p>\n<p>• An IT emergency specialist from WFP’s Fast IT and Telecommunications Emergency Support Team (FITTEST) was deployed as ETC Coordinator on 15 March to conduct an initial Information and Communications Technology (ICT). The Emergency Telecommunications Cluster (ETC) has not been yet activated.</p>\n<p>• The Crisis Connectivity Charter has been activated and communications equipment is on the way to Mozambique from Dubai where the equipment was prepositioned.</p>\n<p>• ETC partners Ericsson Response, Government of Luxembourg and Télécoms Sans Frontières (TSF) have mobilized personnel and equipment to Mozambique to help provide communications services.</p>\n<p><strong>Situation Overview</strong></p>\n<p>Mozambique is among the most disaster-prone countries in the world. The occurrence of natural disasters such as floods, cyclones, drought and earthquakes frequently has a significant impact on its people and the economy.<br />\nTropical Cyclone Idai - a category 3 cyclone - made landfall in Beira, Mozambique’s fourth largest city, on 14 March evening, resulting in wind speeds of up to 224km/h and heavy rains. Cyclone Idai is the strongest tropical cyclone to affect Central and North Mozambique since Tropical Cyclone Eline which struck the country in February 2000, claiming at least 800 lives.</p>\n",
+                "date": {
+                    "original": "2019-03-17T00:00:00+00:00",
+                    "changed": "2019-04-06T13:53:16+00:00",
+                    "created": "2019-03-17T13:15:13+00:00"
+                }
+            }
+        }
+    ]
+}

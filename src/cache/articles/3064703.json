@@ -1,0 +1,219 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3064703?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3064703?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3064703",
+            "fields": {
+                "id": 3064703,
+                "uuid": "6015e216-7009-3c31-8495-7a937ca1fda8",
+                "title": "Malawi Floods: Emergency Plan of Action (EPoA) - DREF: MDRMW014 ( update n° 1: 01 April 2019)",
+                "status": "published",
+                "body": "**Description of the disaster**\n\nAccording to 2018/19 seasonal forecast, Malawi was expected to receive normal to above normal amounts of rainfall as most of the southern areas of the country were expected to receive normal to below normal rainfall while the northern part was expecting normal to above rainfall from October 2018 to March 2019. Despite this prediction, the Southern Region received early rainfall, which has been increasing since its onset in January 2019 until March 2019. These rainfalls were a result of the effects of Tropical Cyclone Desmond which was developing between Mozambique and Madagascar with forecast that it would affect Mozambique and Southern parts of Malawi. Although the cyclone did not reach Malawi, its effects resulted in continuous rainfall in the southern part of the country since 22nd January through to 26th January 2019. Within this period, extensive rainfall was received in Blantyre, Chikwawa and Nsanje, according to the Department of Climate Change and Met service, with Chikawa District being most hit, as detailed in the Emergency Plan of Action (EPoA) of this operation. Based on the preliminary assessment report by the Village Civil Protection Committee (VCPC) and Red Cross volunteer’s observation on the ground, the most affected Traditional Authorities are Makhuwira and Paramount Chief Lundu in Chikwawa. The assessment reported that a total of 15,974 people were affected, 3,154 houses damaged or destroyed and 5,078 people reported to be displaced across at least seven camps set up by communities and government through the VCPCs.\n\nAs of 5 March 2019, a Tropical Cyclone formed in the Mozambique Channel and drifted to Malawi, resulting in heavy rains accompanied by strong winds. The heavy and persistent rain led to severe flooding across most districts in southern Malawi. According to the Government, more than 774,680 people have been affected, including more than 86,976 displaced, with 56 deaths and 672 injuries recorded.  \nFifteen (15) districts have been impacted (refer to table 1 below). The districts affected by this new situation include Chikwawa where the initial DREF is under implementation and Zomba, which is among the most hit districts.\n\nWith agriculture being the main source of livelihood for rural population in the country, the heavy rains and floods have impacted agricultural activities, as fields are inundated, and planted crops have been destroyed. Post-flood assessments will indicate the impact on people’s livelihoods. However, as agricultural production accounted for one-third of Malawi’s GDP in 2017 and about 80% of its export revenue, it is likely that the potential loss of harvest, will impact their livelihoods in the medium and long-term.",
+                "file": [
+                    {
+                        "id": "2050317",
+                        "url": "https://reliefweb.int/attachments/d81b5680-01e3-35b5-8130-434997c8dcb8/MDRMW014ou1.pdf",
+                        "filename": "MDRMW014ou1.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1710473",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/d8/1b/d81b5680-01e3-35b5-8130-434997c8dcb8.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d8/1b/d81b5680-01e3-35b5-8130-434997c8dcb8.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/d8/1b/d81b5680-01e3-35b5-8130-434997c8dcb8.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d8/1b/d81b5680-01e3-35b5-8130-434997c8dcb8.png",
+                            "version": "2050317-1-0"
+                        }
+                    }
+                ],
+                "origin": "http://adore.ifrc.org/Download.aspx?FileId=234871",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3064703",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-floods-emergency-plan-action-epoa-dref-mdrmw014-update-n-1-01-april-2019",
+                "body-html": "<p><strong>Description of the disaster</strong></p>\n<p>According to 2018/19 seasonal forecast, Malawi was expected to receive normal to above normal amounts of rainfall as most of the southern areas of the country were expected to receive normal to below normal rainfall while the northern part was expecting normal to above rainfall from October 2018 to March 2019. Despite this prediction, the Southern Region received early rainfall, which has been increasing since its onset in January 2019 until March 2019. These rainfalls were a result of the effects of Tropical Cyclone Desmond which was developing between Mozambique and Madagascar with forecast that it would affect Mozambique and Southern parts of Malawi. Although the cyclone did not reach Malawi, its effects resulted in continuous rainfall in the southern part of the country since 22nd January through to 26th January 2019. Within this period, extensive rainfall was received in Blantyre, Chikwawa and Nsanje, according to the Department of Climate Change and Met service, with Chikawa District being most hit, as detailed in the Emergency Plan of Action (EPoA) of this operation. Based on the preliminary assessment report by the Village Civil Protection Committee (VCPC) and Red Cross volunteer’s observation on the ground, the most affected Traditional Authorities are Makhuwira and Paramount Chief Lundu in Chikwawa. The assessment reported that a total of 15,974 people were affected, 3,154 houses damaged or destroyed and 5,078 people reported to be displaced across at least seven camps set up by communities and government through the VCPCs.</p>\n<p>As of 5 March 2019, a Tropical Cyclone formed in the Mozambique Channel and drifted to Malawi, resulting in heavy rains accompanied by strong winds. The heavy and persistent rain led to severe flooding across most districts in southern Malawi. According to the Government, more than 774,680 people have been affected, including more than 86,976 displaced, with 56 deaths and 672 injuries recorded.<br />\nFifteen (15) districts have been impacted (refer to table 1 below). The districts affected by this new situation include Chikwawa where the initial DREF is under implementation and Zomba, which is among the most hit districts.</p>\n<p>With agriculture being the main source of livelihood for rural population in the country, the heavy rains and floods have impacted agricultural activities, as fields are inundated, and planted crops have been destroyed. Post-flood assessments will indicate the impact on people’s livelihoods. However, as agricultural production accounted for one-third of Malawi’s GDP in 2017 and about 80% of its export revenue, it is likely that the potential loss of harvest, will impact their livelihoods in the medium and long-term.</p>\n",
+                "date": {
+                    "original": "2019-04-01T00:00:00+00:00",
+                    "changed": "2019-04-02T13:51:05+00:00",
+                    "created": "2019-04-02T13:35:49+00:00"
+                }
+            }
+        }
+    ]
+}

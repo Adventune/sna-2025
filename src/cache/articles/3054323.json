@@ -1,0 +1,207 @@
+{
+    "time": 1158,
+    "href": "https://api.reliefweb.int/v1/reports/3054323?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3054323?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1150,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3054323",
+            "fields": {
+                "id": 3054323,
+                "uuid": "1752044f-60eb-3f94-ad6c-2553ef0fe13d",
+                "title": "Zimbabwe: Floods Flash Update No. 6, 26 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS** \n\n• The death toll has risen to 172 people and 327 are still missing, according to government reports.\n\n• About 270,000 people have been affected by flooding and landslides.\n\n• Nearly 4,500 people are displaced and at least 16,000 families are in need of shelter assistance.\n\n• The majority of health care facilities in Chimanimani district are inaccessible. \n\n**SITUATION OVERVIEW**\n\nAt least 172 deaths have been reported and 327 people are reportedly missing in Zimbabwe following flooding caused by Tropical Cyclone Idai’s trajectory, according to the Ministry for Information, Publicity and Broadcasting. The death toll is expected to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known. \n\nHumanitarian partners estimate that 270,000 people were affected by flooding and landslides, when local rivers and their tributaries burst their banks, inundating homes and schools and causing considerable damage to property and livelihoods. Out of the 270,000 affected people, nearly 240,000 are in Chimanimani and Chipinge districts.  \n\nNearly 4,500 people are displaced, according to the Government. About 16,000 households are in need of shelter assistance in Chimanimani (8,000 households), Chipinge (3,000 households), Buhera (1,000 households) and Mutare (4,000 households). A temporary camp has been established at Skyline, and two additional temporary camps will be established at Wengezi and Ngangu. The displaced people in Chimanimani are currently sheltering at Ngangu primary and secondary schools, Chimanimani Hotel and Ngangu clinic.  \n\nAccording to a rapid assessment conducted on 18 and 19 March, the majority of health care facilities in Chimanimani district were inaccessible, including the district hospital Mutambara Mission and access to the provincial hospital is limited due major destruction of roads and bridges. Facilities of Chipinge district are all accessible. \n\nDisruption of essential health, HIV prevention, treatment, care and support, food and other social services may lead to increased vulnerability of people living with HIV: inability to adhere to treatment; risk of malnutrition, opportunistic infections and disease outbreaks; leading to poor health and in some cases mortality. An HIV rapid assessment is planned to better understand the actual impact of the cyclone on HIV programs, people living with HIV and AIDS affected households. \n\nThe flooding compromised access to safe water, basic sanitation and hygiene practices in both rural and urban areas, which is increasing the risk of water-borne diseases. The country is facing an outbreak of cholera and typhoid since September 2018.\n\n**RESPONSE** \n\nThe United Nations World Food Programme (WFP) has received a €250,000 contribution (US$284,414) from the European Union, which will help support the deployment of a UN Humanitarian Air Service (UNHAS) helicopter from 25 March that will work to deliver much-needed assistance (medicine, shelter equipment, food and nutrition assistance) and transport of personnel to the areas of Chimanimani and Chipinge, the two most-affected districts. On 26 March, the helicopter was loaded with food and non-food items – including jerry cans, latrines, plastic sheeting and water purification tablets - and deployed to assess previously unreached locations. For the next three weeks, the helicopter will do five rotations per day into the most affected areas in Chipinge and Chimanimani. It can carry three metric tons or 19 people. \n\nTo date, IOM has distributed 1,000 tarpaulins and 200 non-food items kits for Manicaland (Tanganda, Chipinge and Chimanimani) for initial response.  \n\nThe Government has arranged a storage facility at Silverstream that humanitarian partners can use for emergency response purposes. \n\nAccess remains a challenge in the districts of Mutare, Chimanimani and Chimanimani, with large trucks not able to transit in some roads. In Chimanimani, a makeshift bridge has been constructed to access Copa and Chimanimani town from Chipinge, but is only accessible using 4x4 vehicles.",
+                "file": [
+                    {
+                        "id": "2049239",
+                        "url": "https://reliefweb.int/attachments/2ca5e9f9-3bff-3fbe-9e74-99736cf62c5a/ROSEA_20190326_Zimbabwe%20Floods_Flash_Update%236%20%281%29.pdf",
+                        "filename": "ROSEA_20190326_Zimbabwe Floods_Flash_Update#6 (1).pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "175609",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/2c/a5/2ca5e9f9-3bff-3fbe-9e74-99736cf62c5a.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/2c/a5/2ca5e9f9-3bff-3fbe-9e74-99736cf62c5a.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/2c/a5/2ca5e9f9-3bff-3fbe-9e74-99736cf62c5a.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2c/a5/2ca5e9f9-3bff-3fbe-9e74-99736cf62c5a.png",
+                            "version": "2049239-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3054323",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-flash-update-no-6-26-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The death toll has risen to 172 people and 327 are still missing, according to government reports.</p>\n<p>• About 270,000 people have been affected by flooding and landslides.</p>\n<p>• Nearly 4,500 people are displaced and at least 16,000 families are in need of shelter assistance.</p>\n<p>• The majority of health care facilities in Chimanimani district are inaccessible.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>At least 172 deaths have been reported and 327 people are reportedly missing in Zimbabwe following flooding caused by Tropical Cyclone Idai’s trajectory, according to the Ministry for Information, Publicity and Broadcasting. The death toll is expected to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known.</p>\n<p>Humanitarian partners estimate that 270,000 people were affected by flooding and landslides, when local rivers and their tributaries burst their banks, inundating homes and schools and causing considerable damage to property and livelihoods. Out of the 270,000 affected people, nearly 240,000 are in Chimanimani and Chipinge districts.</p>\n<p>Nearly 4,500 people are displaced, according to the Government. About 16,000 households are in need of shelter assistance in Chimanimani (8,000 households), Chipinge (3,000 households), Buhera (1,000 households) and Mutare (4,000 households). A temporary camp has been established at Skyline, and two additional temporary camps will be established at Wengezi and Ngangu. The displaced people in Chimanimani are currently sheltering at Ngangu primary and secondary schools, Chimanimani Hotel and Ngangu clinic.</p>\n<p>According to a rapid assessment conducted on 18 and 19 March, the majority of health care facilities in Chimanimani district were inaccessible, including the district hospital Mutambara Mission and access to the provincial hospital is limited due major destruction of roads and bridges. Facilities of Chipinge district are all accessible.</p>\n<p>Disruption of essential health, HIV prevention, treatment, care and support, food and other social services may lead to increased vulnerability of people living with HIV: inability to adhere to treatment; risk of malnutrition, opportunistic infections and disease outbreaks; leading to poor health and in some cases mortality. An HIV rapid assessment is planned to better understand the actual impact of the cyclone on HIV programs, people living with HIV and AIDS affected households.</p>\n<p>The flooding compromised access to safe water, basic sanitation and hygiene practices in both rural and urban areas, which is increasing the risk of water-borne diseases. The country is facing an outbreak of cholera and typhoid since September 2018.</p>\n<p><strong>RESPONSE</strong></p>\n<p>The United Nations World Food Programme (WFP) has received a €250,000 contribution (US$284,414) from the European Union, which will help support the deployment of a UN Humanitarian Air Service (UNHAS) helicopter from 25 March that will work to deliver much-needed assistance (medicine, shelter equipment, food and nutrition assistance) and transport of personnel to the areas of Chimanimani and Chipinge, the two most-affected districts. On 26 March, the helicopter was loaded with food and non-food items – including jerry cans, latrines, plastic sheeting and water purification tablets - and deployed to assess previously unreached locations. For the next three weeks, the helicopter will do five rotations per day into the most affected areas in Chipinge and Chimanimani. It can carry three metric tons or 19 people.</p>\n<p>To date, IOM has distributed 1,000 tarpaulins and 200 non-food items kits for Manicaland (Tanganda, Chipinge and Chimanimani) for initial response.</p>\n<p>The Government has arranged a storage facility at Silverstream that humanitarian partners can use for emergency response purposes.</p>\n<p>Access remains a challenge in the districts of Mutare, Chimanimani and Chimanimani, with large trucks not able to transit in some roads. In Chimanimani, a makeshift bridge has been constructed to access Copa and Chimanimani town from Chipinge, but is only accessible using 4x4 vehicles.</p>\n",
+                "date": {
+                    "original": "2019-03-26T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-27T07:28:42+00:00"
+                }
+            }
+        }
+    ]
+}

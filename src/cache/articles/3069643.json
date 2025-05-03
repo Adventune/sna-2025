@@ -1,0 +1,204 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3069643?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3069643?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 5,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3069643",
+            "fields": {
+                "id": 3069643,
+                "title": "Cyclone Idai, Situation Report No. 2, April 4, 2019",
+                "status": "published",
+                "body": "**SITUATION OVERVIEW**\n\nOn March 14, Cyclone Idai made landfall near the port city of Beira in Mozambique. The cyclone moved across Mozambique and then inland, affecting parts of Malawi and Zimbabwe. The powerful storm brought widespread flooding and destruction. This is the most severe natural disaster to affect southern Africa in over three decades.\n\nMore than two weeks after the cyclone hit, communities are still searching for lost loved ones and are beginning to take stake of their losses. There are more than 800 confirmed fatalities, and that number is expected to increase as hundreds of people are still declared missing. There are currently 228,000 people being housed in crowded shelter camps, raising concerns among aid workers and government officials about the risk of disease outbreak. The World Health Organization (WHO) is working closely with the government of Mozambique to provide cholera vaccinations, as there have already been 270 confirmed cases of the disease.\n\nIn Zimbabwe, the hardest hit areas are the rural, agricultural communities of Chimanimani and Chipinge, which already suffer from high rates of poverty. More than 250,000 people were affected, many of whom lost their houses, livestock and crops . In the village of Copa, 300 houses were destroyed and dozens of people are still missing. Some affected villages are still inaccessible due to hazardous road conditions.\n\nBecause the floods occurred at the height of harvest season, thousands of people will need to rely on food aid for the next 6-9 months while they replant and recover their crops.\n\n**INTERNATIONAL HUMANITARIAN RESPONSE EFFORTS**\n\nOn March 22, the Interagency Standing Committee (IASC) for the United Nations declared Scale-Up level (formerly called Level 3) in Mozambique, declaring it the highest level of priority for UN Agencies. The International Red Cross is supporting search and rescue efforts through their local chapters and the governments of Mozambique, Zimbabwe and Malawi. The U.S. and several European countries have committed funding for humanitarian relief efforts.\n\nIn Zimbabwe, the government is coordinating with several INGOs on food distribution and needs assessments. Civil protection units have been assigned to help coordinate the response but they have been largely overwhelmed by the need. Lutheran World Relief and IMA World Health has been active in humanitarian coordination clusters on the ground to assess the most pressing needs.",
+                "file": [
+                    {
+                        "id": "2050969",
+                        "url": "https://reliefweb.int/attachments/35e3d45a-fa93-320e-9383-de5eee8c1e10/Cyclone-Idai-SitRep_%232%20final.pdf",
+                        "filename": "Cyclone-Idai-SitRep_#2 final.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "467580",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/35/e3/35e3d45a-fa93-320e-9383-de5eee8c1e10.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/35/e3/35e3d45a-fa93-320e-9383-de5eee8c1e10.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/35/e3/35e3d45a-fa93-320e-9383-de5eee8c1e10.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/35/e3/35e3d45a-fa93-320e-9383-de5eee8c1e10.png",
+                            "version": "2050969-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1993?appname=rwint-user-0",
+                        "id": 1993,
+                        "name": "Lutheran World Relief",
+                        "shortname": "LWR",
+                        "longname": "Lutheran World Relief - Maryland",
+                        "homepage": "http://www.lwr.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3069643",
+                "url_alias": "https://reliefweb.int/report/mozambique/cyclone-idai-situation-report-no-2-april-4-2019",
+                "body-html": "<p><strong>SITUATION OVERVIEW</strong></p>\n<p>On March 14, Cyclone Idai made landfall near the port city of Beira in Mozambique. The cyclone moved across Mozambique and then inland, affecting parts of Malawi and Zimbabwe. The powerful storm brought widespread flooding and destruction. This is the most severe natural disaster to affect southern Africa in over three decades.</p>\n<p>More than two weeks after the cyclone hit, communities are still searching for lost loved ones and are beginning to take stake of their losses. There are more than 800 confirmed fatalities, and that number is expected to increase as hundreds of people are still declared missing. There are currently 228,000 people being housed in crowded shelter camps, raising concerns among aid workers and government officials about the risk of disease outbreak. The World Health Organization (WHO) is working closely with the government of Mozambique to provide cholera vaccinations, as there have already been 270 confirmed cases of the disease.</p>\n<p>In Zimbabwe, the hardest hit areas are the rural, agricultural communities of Chimanimani and Chipinge, which already suffer from high rates of poverty. More than 250,000 people were affected, many of whom lost their houses, livestock and crops . In the village of Copa, 300 houses were destroyed and dozens of people are still missing. Some affected villages are still inaccessible due to hazardous road conditions.</p>\n<p>Because the floods occurred at the height of harvest season, thousands of people will need to rely on food aid for the next 6-9 months while they replant and recover their crops.</p>\n<p><strong>INTERNATIONAL HUMANITARIAN RESPONSE EFFORTS</strong></p>\n<p>On March 22, the Interagency Standing Committee (IASC) for the United Nations declared Scale-Up level (formerly called Level 3) in Mozambique, declaring it the highest level of priority for UN Agencies. The International Red Cross is supporting search and rescue efforts through their local chapters and the governments of Mozambique, Zimbabwe and Malawi. The U.S. and several European countries have committed funding for humanitarian relief efforts.</p>\n<p>In Zimbabwe, the government is coordinating with several INGOs on food distribution and needs assessments. Civil protection units have been assigned to help coordinate the response but they have been largely overwhelmed by the need. Lutheran World Relief and IMA World Health has been active in humanitarian coordination clusters on the ground to assess the most pressing needs.</p>\n",
+                "date": {
+                    "original": "2019-04-04T00:00:00+00:00",
+                    "changed": "2019-04-04T21:35:09+00:00",
+                    "created": "2019-04-04T19:40:53+00:00"
+                }
+            }
+        }
+    ]
+}

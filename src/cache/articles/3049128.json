@@ -1,0 +1,204 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3049128?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3049128?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3049128",
+            "fields": {
+                "id": 3049128,
+                "uuid": "705eb8ba-f81d-377c-8092-54d3fecb7d46",
+                "title": "Mozambique Shelter Cluster National Sitrep, 22 March 2019",
+                "status": "published",
+                "body": "**1.0  Key points**\n\n- Shelter cluster actors are preparing teams in Beira for first major distributions.\n\n- 1000 shelter kits and 155 tents have arrived in the field hubs.\n\n- 25,070 tarpaulins, and 7000 full shelter kits have arrived in Mozambique.\n\n- confirmed pipeline and delivery of 59370 tarpaulins, 32153 blankets and 1484 family tents.\n\n**2.  Overall situation analysis**\n\nShelter damage assessment lead by the Government of Mozambique is ongoing. On the 21st March, the Mozambique National Institute for Disaster Management (INGC) from the National Operational Emergency Centre (CENOE) have identified 16,491 damaged houses to date. INGC continues to assess damage levels. The response remains in a Search and rescue phase.  \n\nFollowing the winds and flooding many people found shelter in evacuation centres. As of 21st march, 8996 Households (30574 people) were in evacuation centres.  \n\nBased on key informant interviews, many people are keen to return home and are requesting repair support materials including CGI.  \n\nAlthough there have been some returns, informal assessments indicate that approximately 2/3 suffered roofing damage the remaining 1/3 suffered entire structural failure. Wattle and daub structures were more vulnerable to wind damage. Fuller damage assessments are required to better classify the types of damage.\n\n**3.   Activity updates**\n\n- Initial distributions have started, albeit at a limited scale.\n\n- INGC assessments are ongoing.\n\n- Deliveries to Beira and other field locations to date from CVC (ICRC, IFRC, MRC), DFID/IOM, CHEMO consortium (world vision, FH, HI, Adra, caritas, Plan international, Helvetas), COSACA (CONCERN, Save The Children, OXFAM, CARE), PIROI/CVM \n\n- Additional confirmed deliveries to Beira before end October from Switzerland/IOM, Italy/IOM, SOS attitude, Electriciens Sans frontiers CVM/IFRC and CHEMO consortium.\n\n- CVM and Cosaca planning smaller deliveries to other hubs than Beira.\n\n- incoming flights DfID/IOM and PIROI/CVM were received in Beira.\n\n**4.  Achievements**\n\n- First distributions of incoming tents have been made.\n\n- Draft strategy has been shared for review.\n\n- Established coordination cell in Beira co lead by INGC, IOM and IFRC - 32 family tents were distributed in Guara Guara and 80 family NFI kits and 110 buckets were distributed in La Fabrica, Beira, 25 tents were distributed in Fabrica, Beira,and 10 family kits were sent Samora Machel.\n\n- Data was collected from the authorities, distributions were planned and rapid relocation site assessments were conducted in Gondo and Beira.",
+                "file": [
+                    {
+                        "id": "2048547",
+                        "url": "https://reliefweb.int/attachments/5a8da91a-d153-3c58-ab68-44ed18c92e5e/shelter_cluster_sitituation_report_22-03-19.pdf",
+                        "filename": "shelter_cluster_sitituation_report_22-03-19.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "90107",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/5a/8d/5a8da91a-d153-3c58-ab68-44ed18c92e5e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/5a/8d/5a8da91a-d153-3c58-ab68-44ed18c92e5e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/5a/8d/5a8da91a-d153-3c58-ab68-44ed18c92e5e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/5a/8d/5a8da91a-d153-3c58-ab68-44ed18c92e5e.png",
+                            "version": "2048547-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.sheltercluster.org/mozambique-tropical-cyclone-idai-2019/documents/shelter-cluster-situation-report-22-03-19",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13726?appname=rwint-user-0",
+                        "id": 13726,
+                        "name": "Shelter Cluster",
+                        "shortname": "Shelter Cluster",
+                        "homepage": "https://www.sheltercluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/22126?appname=rwint-user-0",
+                        "id": 22126,
+                        "name": "Mozambique Red Cross Society",
+                        "shortname": "Mozambique Red Cross Society",
+                        "homepage": "https://www.redcross.org.mz/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3049128",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-shelter-cluster-national-sitrep-22-march-2019",
+                "body-html": "<p><strong>1.0  Key points</strong></p>\n<ul>\n<li>\n<p>Shelter cluster actors are preparing teams in Beira for first major distributions.</p>\n</li>\n<li>\n<p>1000 shelter kits and 155 tents have arrived in the field hubs.</p>\n</li>\n<li>\n<p>25,070 tarpaulins, and 7000 full shelter kits have arrived in Mozambique.</p>\n</li>\n<li>\n<p>confirmed pipeline and delivery of 59370 tarpaulins, 32153 blankets and 1484 family tents.</p>\n</li>\n</ul>\n<p><strong>2.  Overall situation analysis</strong></p>\n<p>Shelter damage assessment lead by the Government of Mozambique is ongoing. On the 21st March, the Mozambique National Institute for Disaster Management (INGC) from the National Operational Emergency Centre (CENOE) have identified 16,491 damaged houses to date. INGC continues to assess damage levels. The response remains in a Search and rescue phase.</p>\n<p>Following the winds and flooding many people found shelter in evacuation centres. As of 21st march, 8996 Households (30574 people) were in evacuation centres.</p>\n<p>Based on key informant interviews, many people are keen to return home and are requesting repair support materials including CGI.</p>\n<p>Although there have been some returns, informal assessments indicate that approximately 2/3 suffered roofing damage the remaining 1/3 suffered entire structural failure. Wattle and daub structures were more vulnerable to wind damage. Fuller damage assessments are required to better classify the types of damage.</p>\n<p><strong>3.   Activity updates</strong></p>\n<ul>\n<li>\n<p>Initial distributions have started, albeit at a limited scale.</p>\n</li>\n<li>\n<p>INGC assessments are ongoing.</p>\n</li>\n<li>\n<p>Deliveries to Beira and other field locations to date from CVC (ICRC, IFRC, MRC), DFID/IOM, CHEMO consortium (world vision, FH, HI, Adra, caritas, Plan international, Helvetas), COSACA (CONCERN, Save The Children, OXFAM, CARE), PIROI/CVM</p>\n</li>\n<li>\n<p>Additional confirmed deliveries to Beira before end October from Switzerland/IOM, Italy/IOM, SOS attitude, Electriciens Sans frontiers CVM/IFRC and CHEMO consortium.</p>\n</li>\n<li>\n<p>CVM and Cosaca planning smaller deliveries to other hubs than Beira.</p>\n</li>\n<li>\n<p>incoming flights DfID/IOM and PIROI/CVM were received in Beira.</p>\n</li>\n</ul>\n<p><strong>4.  Achievements</strong></p>\n<ul>\n<li>\n<p>First distributions of incoming tents have been made.</p>\n</li>\n<li>\n<p>Draft strategy has been shared for review.</p>\n</li>\n<li>\n<p>Established coordination cell in Beira co lead by INGC, IOM and IFRC - 32 family tents were distributed in Guara Guara and 80 family NFI kits and 110 buckets were distributed in La Fabrica, Beira, 25 tents were distributed in Fabrica, Beira,and 10 family kits were sent Samora Machel.</p>\n</li>\n<li>\n<p>Data was collected from the authorities, distributions were planned and rapid relocation site assessments were conducted in Gondo and Beira.</p>\n</li>\n</ul>\n",
+                "date": {
+                    "original": "2019-03-22T00:00:00+00:00",
+                    "changed": "2019-03-23T08:28:17+00:00",
+                    "created": "2019-03-23T02:09:16+00:00"
+                }
+            }
+        }
+    ]
+}

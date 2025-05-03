@@ -1,0 +1,269 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3082223?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3082223?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3082223",
+            "fields": {
+                "id": 3082223,
+                "title": "Southern Africa – Tropical Cyclone Idai Fact Sheet #7, Fiscal Year (FY) 2019, April 12, 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n- Health agencies reach more than 803,000 people Mozambique in cholera vaccination campaign\n\n- USAID completes transport of commodities and DoD transitions air operations to humanitarian agencies\n\n- Tropical Cyclone Idai-related death toll in Zimbabwe increases to 344\n\n- USAID provides more than $3.5 million in additional funding for flood-affected populations in Malawi \n\n**KEY DEVELOPMENTS** \n\n- As of April 12, the Government of the Republic of Mozambique (GRM) reported that the official count for Tropical Cyclone Idai and flooding-related deaths had remained at 602 deaths. More than 73,600 people were sheltering in an estimated 77 accommodation centers across Manica, Sofala, Tete, and Zambézia provinces as of April 12, the GRM reports. The number of people in accommodation centers represents a 50 percent decrease since April 4; the UN reports that the reason for the decline is likely due to the GRM’s reclassification of accommodation centers. In addition, the number of schools impacted by the cyclone had increased to more than 3,500, affecting approximately 335,100 students, according to the GRM.\n\n- The GRM Ministry of Health (MoH) had reported more than 4,660 cholera cases, including seven cholera-related deaths, in Sofala’s Beira and Dondo towns and Buzi and Nhamatanda districts as of April 12. Health agencies completed a cholera vaccination campaign on April 10, reaching more than 803,100 people.\n\n- As of April 9, Tropical Cyclone Idai had resulted in 344 deaths and displaced more than 59,100 people in Zimbabwe, according to international media and relief agencies.  \nFlooding and winds related to the cyclone also severely damaged water and sanitation systems in a refugee camp in Chipinge District.\n\n- USAID recently provided more than $3.5 million to the UN World Food Program (WFP), Catholic Relief Services (CRS), and CARE to support the provision of humanitarian assistance to populations in Malawi affected by Tropical Cyclone Idai. WFP plans to distribute cash transfers for the purchase of food to approximately 205,000 individuals in internally displaced person (IDP) camps and cyclone-affected communities for two months, while CRS and CARE are supporting agriculture recovery activities in affected areas.",
+                "file": [
+                    {
+                        "id": "2052400",
+                        "url": "https://reliefweb.int/attachments/e65f258f-28b9-3a87-b8f9-8dbe11240499/04.12.19%20-%20USAID-DCHA%20Southern%20Africa%20Tropical%20Cyclone%20Idai%20Fact%20Sheet%20%237.pdf",
+                        "filename": "04.12.19 - USAID-DCHA Southern Africa Tropical Cyclone Idai Fact Sheet #7.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "225843",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/e6/5f/e65f258f-28b9-3a87-b8f9-8dbe11240499.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e6/5f/e65f258f-28b9-3a87-b8f9-8dbe11240499.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/e6/5f/e65f258f-28b9-3a87-b8f9-8dbe11240499.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e6/5f/e65f258f-28b9-3a87-b8f9-8dbe11240499.png",
+                            "version": "2052400-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/245?appname=rwint-user-0",
+                        "id": 245,
+                        "name": "United States of America",
+                        "shortname": "USA",
+                        "iso3": "usa",
+                        "location": {
+                            "lat": 39.38,
+                            "lon": -97.92
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1751?appname=rwint-user-0",
+                        "id": 1751,
+                        "name": "US Agency for International Development",
+                        "shortname": "USAID",
+                        "longname": "United States Agency for International Development",
+                        "spanish_name": "Agencia de los Estados Unidos para el Desarrollo Internacional",
+                        "homepage": "http://www.usaid.gov/",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3082223",
+                "url_alias": "https://reliefweb.int/report/mozambique/southern-africa-tropical-cyclone-idai-fact-sheet-7-fiscal-year-fy-2019-april-12",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>\n<p>Health agencies reach more than 803,000 people Mozambique in cholera vaccination campaign</p>\n</li>\n<li>\n<p>USAID completes transport of commodities and DoD transitions air operations to humanitarian agencies</p>\n</li>\n<li>\n<p>Tropical Cyclone Idai-related death toll in Zimbabwe increases to 344</p>\n</li>\n<li>\n<p>USAID provides more than $3.5 million in additional funding for flood-affected populations in Malawi</p>\n</li>\n</ul>\n<p><strong>KEY DEVELOPMENTS</strong></p>\n<ul>\n<li>\n<p>As of April 12, the Government of the Republic of Mozambique (GRM) reported that the official count for Tropical Cyclone Idai and flooding-related deaths had remained at 602 deaths. More than 73,600 people were sheltering in an estimated 77 accommodation centers across Manica, Sofala, Tete, and Zambézia provinces as of April 12, the GRM reports. The number of people in accommodation centers represents a 50 percent decrease since April 4; the UN reports that the reason for the decline is likely due to the GRM’s reclassification of accommodation centers. In addition, the number of schools impacted by the cyclone had increased to more than 3,500, affecting approximately 335,100 students, according to the GRM.</p>\n</li>\n<li>\n<p>The GRM Ministry of Health (MoH) had reported more than 4,660 cholera cases, including seven cholera-related deaths, in Sofala’s Beira and Dondo towns and Buzi and Nhamatanda districts as of April 12. Health agencies completed a cholera vaccination campaign on April 10, reaching more than 803,100 people.</p>\n</li>\n<li>\n<p>As of April 9, Tropical Cyclone Idai had resulted in 344 deaths and displaced more than 59,100 people in Zimbabwe, according to international media and relief agencies.<br />\nFlooding and winds related to the cyclone also severely damaged water and sanitation systems in a refugee camp in Chipinge District.</p>\n</li>\n<li>\n<p>USAID recently provided more than $3.5 million to the UN World Food Program (WFP), Catholic Relief Services (CRS), and CARE to support the provision of humanitarian assistance to populations in Malawi affected by Tropical Cyclone Idai. WFP plans to distribute cash transfers for the purchase of food to approximately 205,000 individuals in internally displaced person (IDP) camps and cyclone-affected communities for two months, while CRS and CARE are supporting agriculture recovery activities in affected areas.</p>\n</li>\n</ul>\n",
+                "date": {
+                    "original": "2019-04-12T00:00:00+00:00",
+                    "changed": "2019-04-12T23:37:56+00:00",
+                    "created": "2019-04-12T21:14:30+00:00"
+                }
+            }
+        }
+    ]
+}

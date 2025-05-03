@@ -1,0 +1,223 @@
+{
+    "time": 525,
+    "href": "https://api.reliefweb.int/v1/reports/3056168?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3056168?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 518,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3056168",
+            "fields": {
+                "id": 3056168,
+                "title": "Cyclone Idai & Malawi flooding: Crisis update - 27 March 2019",
+                "status": "published",
+                "body": "**Background** \n\nA weather system that produced heavy rains flooded parts of Malawi in early March 2019, before developing into Cyclone Idai which struck Mozambique and Zimbabwe on 14-16 March, 2019. \n\nThe flooding and damage has destroyed homes and infrastructure, displaced thousands of people and the humanitarian needs are enormous.\n\nWe have emergency response teams on the ground in all three countries. In recent days, assessments have been carried out and we are now undertaking medical activities and responding to humanitarian needs, including providing non-medical items such as buckets and soap, and ensuring safe water and sanitation.\n\nTeams in all the affected countries are mobilising to provide medical and non-medical assistance. In our warehouse in Brussels, an enormous supply and logistics operation is underway, with tons of supplies being sent to the affected areas, particularly Mozambique. \n\n**Mozambique** \n\nMozambique, and particularly the city of Beira, in the centre of the country, has been the hardest hit by Cyclone Idai, which struck on 14 March.\n\n**SITUATION - BEIRA AND SURROUNDS** \n\n- Ninety percent of the area around Beira has been damaged, with roads, electricity and communications having been cut off. \n\n- Buildings have been submerged and severely damaged; many people are staying with family or friends or in transit centres because their homes are uninhabitable. \n\n- Healthcare infrastructure has been damaged, including the hospital; our staff have not yet seen a health centre that is undamaged and fully functional. \n\n- While clean-up efforts by communities are underway, clearing the streets of debris and uprooted trees, extensive repair work to buildings and infrastructure is much needed. \n\n- The cyclone substantially damaged the city’s water supply system, resulting in many people having to drink from contaminated wells or stagnant water. \n\n- As a result of the lack of access to clean water, the Government announced the first recorded cases of cholera on 27 March. \n\n- The flooded area is massive, extending beyond the direct path of the cyclone. \n\n- Authorities have so far confirmed that 447 people have died, with the toll expected to be much higher; over 1,500 people have been injured. \n\n**RESPONSE** \n\nWe currently have four emergency teams, and 35 emergency-experienced staff, on the ground in the flood-affected areas. More staff are en route as we scale up our response. Three charter flights with 43.3 tons of cargo have left Belgium and are arriving in Beira; four more cargo flights are booked in the coming days from Belgium and Dubai, with more planned for the coming weeks. \n\n**Beira and surrounds**\n\nMedical and non-medical activities have begun in Beira and in areas on the outskirts of the city.\n\n- Our teams are providing medical consultations via mobile clinics in several neighbourhoods of the city, including going door-to-door, looking particularly for cases of severe watery diarrhoea and cholera. \n\n- We are working at full capacity in one partly-rehabilitated health centre, and are getting up to speed in two other partly-rehabilitated centres. \n\n- Staff are treating more than 200 patients with suspected cholera per day. \n\n- We are also in discussion with the health ministry about supporting a large cholera vaccination campaign in the area. \n\n- Consultations have included treating small wounds, stomach issues (particularly intestinal worms), and respiratory tract infections. \n\n- Teams are also carrying out non-medical activities, including re-roofing two health centres in the poorest and most-affected neighbourhoods. \n\n**Zimbabwe** \n\nCyclone Idai hit Chimanimani, a small district of approximately 30,000 people in Manicaland province, late Friday 15 March, after passing through Mozambique. \n\n**SITUATION** \n\n- The damage in Chimanimani district is massive, with many roads completely wiped away for several kilometres, and the only way to reach some communities is now by foot. \n\n- Access to safe drinking water is an issue with many pipes washed away. \n\n- Official figures, as of 22 March, estimate there have been 154 deaths, 162 injuries, and nearly 5,000 displaced people as a result. \n\n**RESPONSE**     \n\nWe have sent an emergency response team to the mountainous areas of Manicaland province, including the districts of Chimanimani and Chipinge.\n\n**Chimanimani and surrounds**  \n\nAn MSF team was finally able to access the district; this is the first time many parts have been accessed from outside help since the cyclone hit. With many roads washed away or flooded, the teams are walking between 3 to 12 kilometres to reach stranded communities, who have no safe water supply.\n\n- We are providing consultations and medical supplies in the stablisation centre set up on the outskirts of Chimanimani.    \n\n- Our priority has moved to inside Chimanimani and our staff are working with MoH staff out of the hospital.    \n\n- Two outreach teams are also moving around Chimanimani, trying to access health clinics and surrounding settlements to assess health needs, and distribute medicines to clinics and village health workers.    \n\n- Teams are responding to health needs including treating trauma injuries, refilling antiretroviral treatment for people living with HIV, and providing medication for people with chronic diseases.    \n\nLonger term, the consequences of blocked access should be considered: electricity was disrupted affecting routine vaccination services; impending stockouts of medical supplies and drugs; treatment interruptions for HIV, TB and chronic disease patients; and a lack of detergents and chlorine.\n\n**Chipinge**\n\nA team has reached Copper, a valley to the south, which was one of the hardest hit areas, to conduct an assessment.\n\n- Sexual & reproductive healthcare for adolescents in Harare (Zimbabwe)    \n\n**Malawi**  \n\nExtremely heavy rains in lower Shire River districts of Chikwawa and Nsanje, in Malawi’s far south, has been compounded by further rains from Cyclone Idai.\n\n**SITUATION**   \n\n- Flooding affected the majority of Nsanje district, in southern Malawi; rains have now largely stopped and access to the flooded areas is improving.    \n\n- Some areas remain under water or cut off with limited phone communication.    \n\n- Around 16,000 households are affected, according to the national disaster report; a huge number of houses have collapsed.    \n\n- Many thousands of people are in displacement camps and makeshifts sites such as schools and churches. Big reconstruction efforts will be required in coming weeks.    \n\n- There's been huge destruction of agricultural crops and animals; an estimated 50 percent of the area’s crops might have been lost.    \n\n- Electricity has returned to Makhanga district, on the eastern bank of the Shire river, which remains the worst-affected area and is still cut off from all road access. \n\n**RESPONSE**   \n\nWe are responding in several areas with mobile clinics, and water and sanitation activities, and continue to work with local Malawian authorities and the Disaster Management department, plus local and international organisations. Most of our response is occurring in hard-hit Makhanga.\n\nSo far, our teams have not detected acute medical needs, but we’re concerned about the many people on chronic medication, including for HIV and TB treatment. To date, there are no reports of waterborne diseases, including cholera, but this remains a concern.\n\n**Overal**  l\n\n- Outreach teams have visited communities to clean and repair boreholes plus test the water quality to ensure access to clean water.    \n\n- Teams are building basic latrines, showers, shelters; are distributing non-food items and hygiene kits; and educating communities on hygiene and safe water practices.    \n\n**Makhanga**  \n\n- A team of 18 people is supporting the health ministry, moving by boat, to cover the needs of an estimated 18,000 people with health, sanitation and non-food-item supplies.    \n\n- In Makhanga health centre, we continue to ensure primary health, HIV services and basic disease surveillance; we are currently undertaking approximately 150 consultations per day.    \n\n- We have so far reached more than 2,000 households with hygiene kits, which includes buckets, cups, and soap.     \n\n- Due to the concern about cholera, we will construct a basic, four-bed cholera treatment unit and conduct training, to be prepared just in case the need arises.",
+                "image": {
+                    "id": "1266113",
+                    "width": "2416",
+                    "height": "1158",
+                    "url": "https://reliefweb.int/sites/default/files/images/reports/93/f6/93f6d402-7338-31c1-b2ea-e2c46caaea99.png",
+                    "filename": "Screen Shot 2019-03-28 at 07.11.24.png",
+                    "mimetype": "image/png",
+                    "filesize": "4207721",
+                    "copyright": " MSF/CAITLIN RYAN",
+                    "caption": "Local residents make their way through damaged and water-logged areas on the outskirts of Beira, Mozambique, in the days after Cyclone Idai. March, 2019.",
+                    "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/93/f6/93f6d402-7338-31c1-b2ea-e2c46caaea99.png",
+                    "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/93/f6/93f6d402-7338-31c1-b2ea-e2c46caaea99.png",
+                    "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/93/f6/93f6d402-7338-31c1-b2ea-e2c46caaea99.png"
+                },
+                "origin": "https://www.msf.org/crisis-update-cyclone-idai",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2904?appname=rwint-user-0",
+                        "id": 2904,
+                        "name": "Médecins Sans Frontières",
+                        "shortname": "MSF",
+                        "longname": "Médecins Sans Frontières",
+                        "spanish_name": "Médicos Sin Fronteras",
+                        "homepage": "https://www.msf.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4728,
+                        "name": "Land Slide",
+                        "code": "LS"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3056168",
+                "url_alias": "https://reliefweb.int/report/mozambique/cyclone-idai-malawi-flooding-crisis-update-27-march-2019",
+                "body-html": "<p><strong>Background</strong></p>\n<p>A weather system that produced heavy rains flooded parts of Malawi in early March 2019, before developing into Cyclone Idai which struck Mozambique and Zimbabwe on 14-16 March, 2019.</p>\n<p>The flooding and damage has destroyed homes and infrastructure, displaced thousands of people and the humanitarian needs are enormous.</p>\n<p>We have emergency response teams on the ground in all three countries. In recent days, assessments have been carried out and we are now undertaking medical activities and responding to humanitarian needs, including providing non-medical items such as buckets and soap, and ensuring safe water and sanitation.</p>\n<p>Teams in all the affected countries are mobilising to provide medical and non-medical assistance. In our warehouse in Brussels, an enormous supply and logistics operation is underway, with tons of supplies being sent to the affected areas, particularly Mozambique.</p>\n<p><strong>Mozambique</strong></p>\n<p>Mozambique, and particularly the city of Beira, in the centre of the country, has been the hardest hit by Cyclone Idai, which struck on 14 March.</p>\n<p><strong>SITUATION - BEIRA AND SURROUNDS</strong></p>\n<ul>\n<li>\n<p>Ninety percent of the area around Beira has been damaged, with roads, electricity and communications having been cut off.</p>\n</li>\n<li>\n<p>Buildings have been submerged and severely damaged; many people are staying with family or friends or in transit centres because their homes are uninhabitable.</p>\n</li>\n<li>\n<p>Healthcare infrastructure has been damaged, including the hospital; our staff have not yet seen a health centre that is undamaged and fully functional.</p>\n</li>\n<li>\n<p>While clean-up efforts by communities are underway, clearing the streets of debris and uprooted trees, extensive repair work to buildings and infrastructure is much needed.</p>\n</li>\n<li>\n<p>The cyclone substantially damaged the city’s water supply system, resulting in many people having to drink from contaminated wells or stagnant water.</p>\n</li>\n<li>\n<p>As a result of the lack of access to clean water, the Government announced the first recorded cases of cholera on 27 March.</p>\n</li>\n<li>\n<p>The flooded area is massive, extending beyond the direct path of the cyclone.</p>\n</li>\n<li>\n<p>Authorities have so far confirmed that 447 people have died, with the toll expected to be much higher; over 1,500 people have been injured.</p>\n</li>\n</ul>\n<p><strong>RESPONSE</strong></p>\n<p>We currently have four emergency teams, and 35 emergency-experienced staff, on the ground in the flood-affected areas. More staff are en route as we scale up our response. Three charter flights with 43.3 tons of cargo have left Belgium and are arriving in Beira; four more cargo flights are booked in the coming days from Belgium and Dubai, with more planned for the coming weeks.</p>\n<p><strong>Beira and surrounds</strong></p>\n<p>Medical and non-medical activities have begun in Beira and in areas on the outskirts of the city.</p>\n<ul>\n<li>\n<p>Our teams are providing medical consultations via mobile clinics in several neighbourhoods of the city, including going door-to-door, looking particularly for cases of severe watery diarrhoea and cholera.</p>\n</li>\n<li>\n<p>We are working at full capacity in one partly-rehabilitated health centre, and are getting up to speed in two other partly-rehabilitated centres.</p>\n</li>\n<li>\n<p>Staff are treating more than 200 patients with suspected cholera per day.</p>\n</li>\n<li>\n<p>We are also in discussion with the health ministry about supporting a large cholera vaccination campaign in the area.</p>\n</li>\n<li>\n<p>Consultations have included treating small wounds, stomach issues (particularly intestinal worms), and respiratory tract infections.</p>\n</li>\n<li>\n<p>Teams are also carrying out non-medical activities, including re-roofing two health centres in the poorest and most-affected neighbourhoods.</p>\n</li>\n</ul>\n<p><strong>Zimbabwe</strong></p>\n<p>Cyclone Idai hit Chimanimani, a small district of approximately 30,000 people in Manicaland province, late Friday 15 March, after passing through Mozambique.</p>\n<p><strong>SITUATION</strong></p>\n<ul>\n<li>\n<p>The damage in Chimanimani district is massive, with many roads completely wiped away for several kilometres, and the only way to reach some communities is now by foot.</p>\n</li>\n<li>\n<p>Access to safe drinking water is an issue with many pipes washed away.</p>\n</li>\n<li>\n<p>Official figures, as of 22 March, estimate there have been 154 deaths, 162 injuries, and nearly 5,000 displaced people as a result.</p>\n</li>\n</ul>\n<p><strong>RESPONSE</strong></p>\n<p>We have sent an emergency response team to the mountainous areas of Manicaland province, including the districts of Chimanimani and Chipinge.</p>\n<p><strong>Chimanimani and surrounds</strong></p>\n<p>An MSF team was finally able to access the district; this is the first time many parts have been accessed from outside help since the cyclone hit. With many roads washed away or flooded, the teams are walking between 3 to 12 kilometres to reach stranded communities, who have no safe water supply.</p>\n<ul>\n<li>\n<p>We are providing consultations and medical supplies in the stablisation centre set up on the outskirts of Chimanimani.</p>\n</li>\n<li>\n<p>Our priority has moved to inside Chimanimani and our staff are working with MoH staff out of the hospital.</p>\n</li>\n<li>\n<p>Two outreach teams are also moving around Chimanimani, trying to access health clinics and surrounding settlements to assess health needs, and distribute medicines to clinics and village health workers.</p>\n</li>\n<li>\n<p>Teams are responding to health needs including treating trauma injuries, refilling antiretroviral treatment for people living with HIV, and providing medication for people with chronic diseases.</p>\n</li>\n</ul>\n<p>Longer term, the consequences of blocked access should be considered: electricity was disrupted affecting routine vaccination services; impending stockouts of medical supplies and drugs; treatment interruptions for HIV, TB and chronic disease patients; and a lack of detergents and chlorine.</p>\n<p><strong>Chipinge</strong></p>\n<p>A team has reached Copper, a valley to the south, which was one of the hardest hit areas, to conduct an assessment.</p>\n<ul>\n<li>Sexual &amp; reproductive healthcare for adolescents in Harare (Zimbabwe)</li>\n</ul>\n<p><strong>Malawi</strong></p>\n<p>Extremely heavy rains in lower Shire River districts of Chikwawa and Nsanje, in Malawi’s far south, has been compounded by further rains from Cyclone Idai.</p>\n<p><strong>SITUATION</strong></p>\n<ul>\n<li>\n<p>Flooding affected the majority of Nsanje district, in southern Malawi; rains have now largely stopped and access to the flooded areas is improving.</p>\n</li>\n<li>\n<p>Some areas remain under water or cut off with limited phone communication.</p>\n</li>\n<li>\n<p>Around 16,000 households are affected, according to the national disaster report; a huge number of houses have collapsed.</p>\n</li>\n<li>\n<p>Many thousands of people are in displacement camps and makeshifts sites such as schools and churches. Big reconstruction efforts will be required in coming weeks.</p>\n</li>\n<li>\n<p>There's been huge destruction of agricultural crops and animals; an estimated 50 percent of the area’s crops might have been lost.</p>\n</li>\n<li>\n<p>Electricity has returned to Makhanga district, on the eastern bank of the Shire river, which remains the worst-affected area and is still cut off from all road access.</p>\n</li>\n</ul>\n<p><strong>RESPONSE</strong></p>\n<p>We are responding in several areas with mobile clinics, and water and sanitation activities, and continue to work with local Malawian authorities and the Disaster Management department, plus local and international organisations. Most of our response is occurring in hard-hit Makhanga.</p>\n<p>So far, our teams have not detected acute medical needs, but we’re concerned about the many people on chronic medication, including for HIV and TB treatment. To date, there are no reports of waterborne diseases, including cholera, but this remains a concern.</p>\n<p><strong>Overal</strong>  l</p>\n<ul>\n<li>\n<p>Outreach teams have visited communities to clean and repair boreholes plus test the water quality to ensure access to clean water.</p>\n</li>\n<li>\n<p>Teams are building basic latrines, showers, shelters; are distributing non-food items and hygiene kits; and educating communities on hygiene and safe water practices.</p>\n</li>\n</ul>\n<p><strong>Makhanga</strong></p>\n<ul>\n<li>\n<p>A team of 18 people is supporting the health ministry, moving by boat, to cover the needs of an estimated 18,000 people with health, sanitation and non-food-item supplies.</p>\n</li>\n<li>\n<p>In Makhanga health centre, we continue to ensure primary health, HIV services and basic disease surveillance; we are currently undertaking approximately 150 consultations per day.</p>\n</li>\n<li>\n<p>We have so far reached more than 2,000 households with hygiene kits, which includes buckets, cups, and soap.</p>\n</li>\n<li>\n<p>Due to the concern about cholera, we will construct a basic, four-bed cholera treatment unit and conduct training, to be prepared just in case the need arises.</p>\n</li>\n</ul>\n",
+                "date": {
+                    "original": "2019-03-27T00:00:00+00:00",
+                    "changed": "2020-11-04T06:45:42+00:00",
+                    "created": "2019-03-27T22:24:03+00:00"
+                }
+            }
+        }
+    ]
+}

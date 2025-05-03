@@ -1,0 +1,178 @@
+{
+    "time": 375,
+    "href": "https://api.reliefweb.int/v1/reports/3080973?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3080973?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 310,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3080973",
+            "fields": {
+                "id": 3080973,
+                "title": "Mozambique: Cyclone Idai - ETC Situation Report #9 (Reporting Period: 07/04/19 to 10/04/19)",
+                "status": "published",
+                "body": "**Highlights**\n\nThe ETC together with the Communicating with Disaster Affected Communities (CDAC) Network conducted a technical assessment at Radio Nhamatanda and a focus group discussion to determine the information needs of the affected community.\n\n• Critical Emergency Telecommunications Cluster (ETC) equipment, including satellite terminals, was finally released from customs and arrived on the ground in Beira.\n\n• To date, 1,312 humanitarians are registered to access ETC Internet connectivity to enable them to do their work.\n\n• The ETC continues to provide connectivity in the Emergency Operations Centre (EOC) and 14x additional sites in Beira, as well as in two forward operations bases in Matarara and Buzi to support the increasing humanitarian response.\n\n• The ETC has so far received US$600,000 meaning it is 50% funded. It requires US$1.2 million to provide critical communications services in up to four EOCs for six months along with a number of connection sites for accommodation centres, health centres, distribution points and humanitarian hubs.  \n\n**Situation Overview** \n\nAs of 7 April, the official death toll is 602 people. The number of houses recorded as destroyed or damaged, meanwhile, increased to 239,682, including 111,163 houses totally destroyed, 112,735 partially destroyed, and 15,784 flooded. There has also been an increase in women-headed households following Cyclone Idai but exact numbers have not been confirmed.  \n\nCholera is still a risk in Mozambique with around 4,000 cases now confirmed, with eight deaths, the majority of which are in Beira.",
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-9",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3080973",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-etc-situation-report-9-reporting-period-070419-100419",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>The ETC together with the Communicating with Disaster Affected Communities (CDAC) Network conducted a technical assessment at Radio Nhamatanda and a focus group discussion to determine the information needs of the affected community.</p>\n<p>• Critical Emergency Telecommunications Cluster (ETC) equipment, including satellite terminals, was finally released from customs and arrived on the ground in Beira.</p>\n<p>• To date, 1,312 humanitarians are registered to access ETC Internet connectivity to enable them to do their work.</p>\n<p>• The ETC continues to provide connectivity in the Emergency Operations Centre (EOC) and 14x additional sites in Beira, as well as in two forward operations bases in Matarara and Buzi to support the increasing humanitarian response.</p>\n<p>• The ETC has so far received US$600,000 meaning it is 50% funded. It requires US$1.2 million to provide critical communications services in up to four EOCs for six months along with a number of connection sites for accommodation centres, health centres, distribution points and humanitarian hubs.</p>\n<p><strong>Situation Overview</strong></p>\n<p>As of 7 April, the official death toll is 602 people. The number of houses recorded as destroyed or damaged, meanwhile, increased to 239,682, including 111,163 houses totally destroyed, 112,735 partially destroyed, and 15,784 flooded. There has also been an increase in women-headed households following Cyclone Idai but exact numbers have not been confirmed.</p>\n<p>Cholera is still a risk in Mozambique with around 4,000 cases now confirmed, with eight deaths, the majority of which are in Beira.</p>\n",
+                "date": {
+                    "original": "2019-04-10T00:00:00+00:00",
+                    "changed": "2019-04-12T10:40:59+00:00",
+                    "created": "2019-04-12T09:31:33+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3037298?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3037298?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3037298",
+            "fields": {
+                "id": 3037298,
+                "uuid": "453f2243-14f8-3b2a-a9a7-6b520969f667",
+                "title": "Mozambique: Cyclone Idai Flash Update No. 1, 15 March 2019",
+                "status": "published",
+                "body": "HIGHLIGHTS \n\n• Tropical Cyclone Idai made landfall during the night of 14 to 15 March 2019.\n\n• Electricity and communications have been cut in Beira, Mozambique’s fourth largest city.\n\n• An assessment team, led by the Director of the National Disaster Management Institute (INGC), is en route to Beira.  \n\nSITUATION OVERVIEW \n\nTropical Cyclone Idai made landfall during the night of 14 to 15 March 2019 near Beira City, Sofala Province, in central Mozambique. The cyclone brought torrential rains and winds to Sofala, Zambezia,  Manica and Inhambane provinces.  \n\nBeira and other districts of Sofala province are facing power and communication outages, according to initial reports from the National Institute of Meteorology (INAM) and Directorate of Analysis and Weather Forecast (DAPT). Several villages have been cut off from the mainland by tidal surge, according to media reports.  \n\nThe full extent of the damage caused by Cyclone Idai’s landfall is not yet known. However, preliminary information indicates that destruction and interruption of services are highly likely, including: 1) damage to schools and health facilities, including materials and supplies; 2) damages to crops, including about 168,000 hectares of crops already impacted by flooding in early March, which will undermine food security and nutrition, including amongst the most vulnerable people already affected by the earlier floods and drought; 3) water supply destruction and interruption due to heavy winds and floods; 4) heightened risk of water borne diseases due to damage to sanitation facilities and prevalence of unsafe water; 5) destruction of houses and loss of non-food items; and 6) heightened protection risks, particularly for women and children, including increased risk of gender-based violence and possible displacement.  \n\nThe cyclone is expected to be weakening, and winds to reduce from 140 km/h to at least 70 km/h by the afternoon of 15 March and continue its movement towards Manica province as a Tropical Depression. \n \nRESPONSE \n\nAn inter-agency team, led by the INGC Director, is moving towards Beira to assess the situation and is expected to arrive in the evening of 15 March.  \n\nThe [UN and humanitarian partners in Mozambique have appealed for US$40.8 million](https://reliefweb.int/node/3037163/) to provide critical emergency relief to 400,000 people who are estimated to be affected by Tropical Cyclone Idai, based on projections of people living in the Cyclone’s path.  \n\nIn order to kick-start the emergency response, the UN and NGOs have prioritized the most time-critical life-saving activities in the education, health, WASH, food security, protection and nutrition sectors. Several organizations have deployed staff from Headquarters and the region to support the in-country response. The logistics sector has been activated and will provide one helicopter for an initial period of four weeks to reach inaccessible areas with life-saving assistance. The cluster is also facilitating storage space and road transport between Maputo, Biera, Nampula to Caia or Quelimane. WFP has transported 20 tonnes of high energy biscuits, which are due to arrive in country imminently.",
+                "headline": {
+                    "title": "UN and partners seek $41 million for Cyclone Idai response",
+                    "summary": "Based on preliminary information, it is estimated that 600,000 people will be severely impacted, including 100,000 people already affected by flooding in early March.",
+                    "image": {
+                        "id": "1259238",
+                        "width": "1193",
+                        "height": "660",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/ff/d2/ffd26a08-a042-3414-8815-188d2fb66293.jpg",
+                        "filename": "D1eMI6BXQAAbO7r.jpg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "116562",
+                        "copyright": "WFP Mozambique",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/ff/d2/ffd26a08-a042-3414-8815-188d2fb66293.jpg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/ff/d2/ffd26a08-a042-3414-8815-188d2fb66293.jpg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/ff/d2/ffd26a08-a042-3414-8815-188d2fb66293.jpg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2047551",
+                        "url": "https://reliefweb.int/attachments/adca6d65-4925-382f-973f-d0b8f16a4ba1/ROSEA_20190315_Mozambique_CycloneIdai_FlashUpdate.pdf",
+                        "filename": "ROSEA_20190315_Mozambique_CycloneIdai_FlashUpdate.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "160851",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/ad/ca/adca6d65-4925-382f-973f-d0b8f16a4ba1.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ad/ca/adca6d65-4925-382f-973f-d0b8f16a4ba1.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/ad/ca/adca6d65-4925-382f-973f-d0b8f16a4ba1.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ad/ca/adca6d65-4925-382f-973f-d0b8f16a4ba1.png",
+                            "version": "2047551-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3037298",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-flash-update-no-1-15-march-2019",
+                "body-html": "<p>HIGHLIGHTS</p>\n<p>• Tropical Cyclone Idai made landfall during the night of 14 to 15 March 2019.</p>\n<p>• Electricity and communications have been cut in Beira, Mozambique’s fourth largest city.</p>\n<p>• An assessment team, led by the Director of the National Disaster Management Institute (INGC), is en route to Beira.</p>\n<p>SITUATION OVERVIEW</p>\n<p>Tropical Cyclone Idai made landfall during the night of 14 to 15 March 2019 near Beira City, Sofala Province, in central Mozambique. The cyclone brought torrential rains and winds to Sofala, Zambezia,  Manica and Inhambane provinces.</p>\n<p>Beira and other districts of Sofala province are facing power and communication outages, according to initial reports from the National Institute of Meteorology (INAM) and Directorate of Analysis and Weather Forecast (DAPT). Several villages have been cut off from the mainland by tidal surge, according to media reports.</p>\n<p>The full extent of the damage caused by Cyclone Idai’s landfall is not yet known. However, preliminary information indicates that destruction and interruption of services are highly likely, including: 1) damage to schools and health facilities, including materials and supplies; 2) damages to crops, including about 168,000 hectares of crops already impacted by flooding in early March, which will undermine food security and nutrition, including amongst the most vulnerable people already affected by the earlier floods and drought; 3) water supply destruction and interruption due to heavy winds and floods; 4) heightened risk of water borne diseases due to damage to sanitation facilities and prevalence of unsafe water; 5) destruction of houses and loss of non-food items; and 6) heightened protection risks, particularly for women and children, including increased risk of gender-based violence and possible displacement.</p>\n<p>The cyclone is expected to be weakening, and winds to reduce from 140 km/h to at least 70 km/h by the afternoon of 15 March and continue its movement towards Manica province as a Tropical Depression.</p>\n<p>RESPONSE</p>\n<p>An inter-agency team, led by the INGC Director, is moving towards Beira to assess the situation and is expected to arrive in the evening of 15 March.</p>\n<p>The <a href=\"https://reliefweb.int/node/3037163/\">UN and humanitarian partners in Mozambique have appealed for US$40.8 million</a> to provide critical emergency relief to 400,000 people who are estimated to be affected by Tropical Cyclone Idai, based on projections of people living in the Cyclone’s path.</p>\n<p>In order to kick-start the emergency response, the UN and NGOs have prioritized the most time-critical life-saving activities in the education, health, WASH, food security, protection and nutrition sectors. Several organizations have deployed staff from Headquarters and the region to support the in-country response. The logistics sector has been activated and will provide one helicopter for an initial period of four weeks to reach inaccessible areas with life-saving assistance. The cluster is also facilitating storage space and road transport between Maputo, Biera, Nampula to Caia or Quelimane. WFP has transported 20 tonnes of high energy biscuits, which are due to arrive in country imminently.</p>\n",
+                "date": {
+                    "original": "2019-03-15T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-15T13:18:35+00:00"
+                }
+            }
+        }
+    ]
+}

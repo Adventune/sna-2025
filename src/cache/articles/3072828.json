@@ -1,0 +1,242 @@
+{
+    "time": 302,
+    "href": "https://api.reliefweb.int/v1/reports/3072828?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3072828?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 239,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3072828",
+            "fields": {
+                "id": 3072828,
+                "uuid": "9a3d65e4-4324-325e-b488-b5904a474d1d",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 5 (as of 6 April 2019)",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The next report will be issued on 7 April 2019.*\n\n**Highlights**\n\nThe death toll has risen above 600 people, with 602 deaths recorded as of 6 April, according to the Government.\n\n• The number of houses recorded as destroyed or damaged has increased to more than 239,600. More than 93,700 people had been reached with some form of shelter and non-food item assistance as of 6 April.\n\n• Some 342 new cases of cholera were reported on 6 April, in Beira (220 cases), Nhamatanda (50 cases) and Dondo (54 cases) and Buzi (18 cases).\n\n• More than 429,100 people had received the Oral Cholera Vaccine as of 6 April, representing 51 per cent of the total targeted.\n\n• More than 668,600 people have received food assistance to date, including 10,000 people receiving ready-to-eat meals in Beira City.\n\n• Referral pathways have been established in Beira for survivors of gender-based violence.\n\n**Situation Overview**\n\nThe death toll rose to 602 people as at 6 April, according to government reports. The number of houses recorded as destroyed and damaged increased by nearly 23,000 from 5 April to 239,682, including 111,163 totally destroyed, 112,735 partially destroyed, and 15,784 flooded. Meanwhile, the number of internally displaced people living in collective sites was 142,327 as of 6 April, according to government figures. Beyond those sheltering in collective sites, many more displaced people are living within host communities and with family members.  \n\nThe situation in Buzi is particularly concerning. According to an inter-agency [Mozambique Rapid Assessment](https://reliefweb.int/node/3072233/), carried out in collaboration with the INGC, an estimated 75 per cent of settlements in Buzi province were flooded, with many homes flooded for seven days and much cropland still underwater after three weeks. Wind damage from the cyclone was extensive across the north of the district, and extensive destruction of crops and livestock has reduced food security. Health infrastructure was reportedly destroyed in Macarungo and Estaquinha and damaged in Vile cede Buzi, Chicoio and Barada, restricting access to essential healthcare. Contamination of water supplies and significant reduction in sanitation and hygiene practices were reported, and cases of acute watery diarrhoea were reported in all locations, except Macurungo.  Respondents reported malnutrition in six out of 10 locations. All locations reported malaria.\n\nSome 342 new cholera cases were recorded on 6 April, bringing the total number of registered cases to 2,772, according to the Ministry of Health. Beira recorded the majority of the new cases (220 cases recorded on 6 April), followed by Dondo (54 cases), Nhamatanda (50 cases) and Buzi (18 cases). At least 429,177 people were vaccinated as of 6 April, representing 51 per cent of people targeted. Malaria also remains a significant concern, with 412 cases recorded on 6 April alone. Malaria is endemic in many of the areas impacted by Cyclone Idai.",
+                "file": [
+                    {
+                        "id": "2051402",
+                        "url": "https://reliefweb.int/attachments/e98eeb96-ecc3-3d23-a2c6-4422ce6cbb42/ROSEA_20190407_Mozambique%20SitRep%20%235_6%20April.pdf",
+                        "filename": "ROSEA_20190407_Mozambique SitRep #5_6 April.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "395336",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/e9/8e/e98eeb96-ecc3-3d23-a2c6-4422ce6cbb42.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e9/8e/e98eeb96-ecc3-3d23-a2c6-4422ce6cbb42.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/e9/8e/e98eeb96-ecc3-3d23-a2c6-4422ce6cbb42.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e9/8e/e98eeb96-ecc3-3d23-a2c6-4422ce6cbb42.png",
+                            "version": "2051402-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3072828",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-5-6-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The next report will be issued on 7 April 2019.</em></p>\n<p><strong>Highlights</strong></p>\n<p>The death toll has risen above 600 people, with 602 deaths recorded as of 6 April, according to the Government.</p>\n<p>• The number of houses recorded as destroyed or damaged has increased to more than 239,600. More than 93,700 people had been reached with some form of shelter and non-food item assistance as of 6 April.</p>\n<p>• Some 342 new cases of cholera were reported on 6 April, in Beira (220 cases), Nhamatanda (50 cases) and Dondo (54 cases) and Buzi (18 cases).</p>\n<p>• More than 429,100 people had received the Oral Cholera Vaccine as of 6 April, representing 51 per cent of the total targeted.</p>\n<p>• More than 668,600 people have received food assistance to date, including 10,000 people receiving ready-to-eat meals in Beira City.</p>\n<p>• Referral pathways have been established in Beira for survivors of gender-based violence.</p>\n<p><strong>Situation Overview</strong></p>\n<p>The death toll rose to 602 people as at 6 April, according to government reports. The number of houses recorded as destroyed and damaged increased by nearly 23,000 from 5 April to 239,682, including 111,163 totally destroyed, 112,735 partially destroyed, and 15,784 flooded. Meanwhile, the number of internally displaced people living in collective sites was 142,327 as of 6 April, according to government figures. Beyond those sheltering in collective sites, many more displaced people are living within host communities and with family members.</p>\n<p>The situation in Buzi is particularly concerning. According to an inter-agency <a href=\"https://reliefweb.int/node/3072233/\">Mozambique Rapid Assessment</a>, carried out in collaboration with the INGC, an estimated 75 per cent of settlements in Buzi province were flooded, with many homes flooded for seven days and much cropland still underwater after three weeks. Wind damage from the cyclone was extensive across the north of the district, and extensive destruction of crops and livestock has reduced food security. Health infrastructure was reportedly destroyed in Macarungo and Estaquinha and damaged in Vile cede Buzi, Chicoio and Barada, restricting access to essential healthcare. Contamination of water supplies and significant reduction in sanitation and hygiene practices were reported, and cases of acute watery diarrhoea were reported in all locations, except Macurungo.  Respondents reported malnutrition in six out of 10 locations. All locations reported malaria.</p>\n<p>Some 342 new cholera cases were recorded on 6 April, bringing the total number of registered cases to 2,772, according to the Ministry of Health. Beira recorded the majority of the new cases (220 cases recorded on 6 April), followed by Dondo (54 cases), Nhamatanda (50 cases) and Buzi (18 cases). At least 429,177 people were vaccinated as of 6 April, representing 51 per cent of people targeted. Malaria also remains a significant concern, with 412 cases recorded on 6 April alone. Malaria is endemic in many of the areas impacted by Cyclone Idai.</p>\n",
+                "date": {
+                    "original": "2019-04-06T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-07T20:18:51+00:00"
+                }
+            }
+        }
+    ]
+}

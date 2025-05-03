@@ -1,0 +1,203 @@
+{
+    "time": 4408,
+    "href": "https://api.reliefweb.int/v1/reports/3049478?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3049478?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4362,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3049478",
+            "fields": {
+                "id": 3049478,
+                "uuid": "77b705f2-4189-3d9c-bd76-9f7f1290a12d",
+                "title": "Zimbabwe: Floods Flash Update No. 5, 23 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS** \n\n• At least 250,000 people are reported to have been affected by the cyclone, according to preliminary assessments.\n\n• The official death toll rose to 154 people on 21 March and at least 187 were still missing; search and rescue operations are still underway in Kopa and Rusitu areas of Chimanimani.\n\n• Access to affected areas that were cut-off has improved following the clearing of the road from Chipinge to Chimanimani Town. \n\n**SITUATION OVERVIEW** \n\nAt least 154 deaths have been reported and 187 people are registered as missing, following flooding caused by Tropical Cyclone Idai’s trajectory. A further 162 people are reportedly injured and 136 are still marooned, according to government reports. The death toll is expected to rise as areas previously cut-off become reachable, and an additional 500 people are still missing in Rusitu Valley in Chimanimani District, where rescue efforts have been hampered by damaged roads, according to IOM. \n\nIn Chimanimani and Chipinge districts, an estimated 250,000 people have been impacted, according to the preliminary findings of an inter-sector joint rapid needs assessment mission. The mission reported further that an estimated 37 per cent (121,000 people) of the rural population in Chipinge district require urgent food assistance, while 77 per cent (114,000 people) are in need of food assistance in Chimanimani. At least 35,000 households - with over 120,000 women and over 60,000 children - are in urgent need of protection interventions in the two assessed districts (Chimanimani and Chipinge). An estimated additional 100,000 children are in need of welfare and civil registration services in nine districts. \n\nInfrastructure has sustained significant damage. Some 95 per cent of the road networks in the affected areas have been damaged, according to government reports, with bridges reportedly damaged at Mhandarume, Matsororo, Mvumvumvu, Biriri, Muusha Primary School and Nyahode. In addition, some 48 schools, 18 water points and 10 bridges have been damaged or destroyed, according to preliminary government reports. Manyera dam wall in Vumba has reportedly weakened and increased community awareness is required. At least 200 poles have been washed away along the Chipinge to Chimanimani electricity line, leaving many people without power.",
+                "file": [
+                    {
+                        "id": "2048581",
+                        "url": "https://reliefweb.int/attachments/577c4f9c-3afb-39be-8532-732dd939b375/ROSEA_20190323_Zimbabwe%20Floods_Flash_Update%20%235%20FINAL.pdf",
+                        "filename": "ROSEA_20190323_Zimbabwe Floods_Flash_Update #5 FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "111764",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/57/7c/577c4f9c-3afb-39be-8532-732dd939b375.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/57/7c/577c4f9c-3afb-39be-8532-732dd939b375.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/57/7c/577c4f9c-3afb-39be-8532-732dd939b375.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/57/7c/577c4f9c-3afb-39be-8532-732dd939b375.png",
+                            "version": "2048581-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3049478",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-flash-update-no-5-23-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• At least 250,000 people are reported to have been affected by the cyclone, according to preliminary assessments.</p>\n<p>• The official death toll rose to 154 people on 21 March and at least 187 were still missing; search and rescue operations are still underway in Kopa and Rusitu areas of Chimanimani.</p>\n<p>• Access to affected areas that were cut-off has improved following the clearing of the road from Chipinge to Chimanimani Town.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>At least 154 deaths have been reported and 187 people are registered as missing, following flooding caused by Tropical Cyclone Idai’s trajectory. A further 162 people are reportedly injured and 136 are still marooned, according to government reports. The death toll is expected to rise as areas previously cut-off become reachable, and an additional 500 people are still missing in Rusitu Valley in Chimanimani District, where rescue efforts have been hampered by damaged roads, according to IOM.</p>\n<p>In Chimanimani and Chipinge districts, an estimated 250,000 people have been impacted, according to the preliminary findings of an inter-sector joint rapid needs assessment mission. The mission reported further that an estimated 37 per cent (121,000 people) of the rural population in Chipinge district require urgent food assistance, while 77 per cent (114,000 people) are in need of food assistance in Chimanimani. At least 35,000 households - with over 120,000 women and over 60,000 children - are in urgent need of protection interventions in the two assessed districts (Chimanimani and Chipinge). An estimated additional 100,000 children are in need of welfare and civil registration services in nine districts.</p>\n<p>Infrastructure has sustained significant damage. Some 95 per cent of the road networks in the affected areas have been damaged, according to government reports, with bridges reportedly damaged at Mhandarume, Matsororo, Mvumvumvu, Biriri, Muusha Primary School and Nyahode. In addition, some 48 schools, 18 water points and 10 bridges have been damaged or destroyed, according to preliminary government reports. Manyera dam wall in Vumba has reportedly weakened and increased community awareness is required. At least 200 poles have been washed away along the Chipinge to Chimanimani electricity line, leaving many people without power.</p>\n",
+                "date": {
+                    "original": "2019-03-23T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-23T23:33:06+00:00"
+                }
+            }
+        }
+    ]
+}

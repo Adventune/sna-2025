@@ -1,0 +1,204 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3093773?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3093773?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3093773",
+            "fields": {
+                "id": 3093773,
+                "uuid": "00fa2d2c-4fd5-3a4b-be61-274a4ef2d41f",
+                "title": "Mozambique Cyclone Idai Response: Situation Report No. 4, 09 15 April 2019",
+                "status": "published",
+                "body": "**70,610 persons** Displaced across 69 evacuation sites as reported by INGC\n\n**77,019 persons** Reported across 67 sites in Beira,  \nDondo, Nhamatanda in DTM’s multisectoral location assessment\n\n**85,864 persons** Provided with shelter assistance in Beira and affected areas (17,054 HHs)\n\n**Appeal Status**\n\n13% RECEIVED: $4.6M REQUESTED: 36.4 M\n\n14% ASSISTED: 84,864 TARGETED: 600,000\n\nHIGHLIGHTS\n\nAs of 14 April, through the IOM managed Common Pipeline, Shelter Cluster partners have assisted 28,941 households (154,568 individuals) with various shelter and essential household items, including 35,515 tarpaulins, 13,264 blankets, and 4,660 kitchen sets. \n\nIOM’s Health team has identified and referred 15 Tuberculosis (TB) patients eligible to return home to Buzi from Beira in coordination with the Provincial TB Supervisor. IOM is also assisting local health facilities to set up temporary health screening and consultation areas in Macurungo.\n\nIOM’s Protection team led a training on Prevention of Sexual Exploitation and Abuse (PSEA) for Camp Management and Camp Coordination (CCCM) staff at the Ifapa temporary displacement site in Beira city on 14 April and in coordination with INGC and the Ifapa site manager. \n\nSITUATION OVERVIEW\n\nTropical Cyclone Idai made landfall in central Mozambique on 14 March 2019. An estimated 1.85 million people across Mozambique have been affected, according to the UN. As of 14 April, 603 people are confirmed dead and 1,643 injured according to the National Institute for Disaster Management (INGC). 239,731 houses were identified by authorities as totally destroyed (111,202), partially destroyed (112,745) or flooded (15,784). 70,610 displaced people are sheltering in 69 sites across Sofala, Manica, Zambezia and Tete. A World Bank commissioned rapid remote assessment to estimate the financial impacts of Cyclone Idai suggests as much as USD 773 million in damages to buildings, infrastructure and agriculture.\n\nOn 14 April, the Ministry of Health confirmed 4,979 cases of cholera; 4,946 cases have received treatment and are in recovery. Most of the cases reported have been in Beira, followed by Nhamatanda and Dondo. The Oral Cholera Vaccination (OCV) campaign ended on 9 April, with 803,125 people vaccinated. 11 Cholera Treatment Centres have been established by health cluster partners and government in response. IOM’s emergency health and Water, Sanitation and Hygiene (WASH) programming experts are being deployed from across the region to Mozambique in order to support these urgent concerns.\n\nIOM’s main office in Maputo is coordinating response activities with sub-offices in Tete and Beira to support the emergency response. In addition, IOM has deployed over 30 international technical experts on Shelter, Camp Management, Health,  Protection, Water, Sanitation and Hygiene and Early Recovery to enhance response capacity and initiate new activities.  IOM is co-leading the Shelter-NFI Cluster with IFRC and supporting INGC within the Camp Coordination and Camp Management (CCCM) Task Force.\n\nIn order to respond to the humanitarian needs of 1.85 million people affected by Cyclone Idai in Mozambique, IOM is appealing for USD 36.4 million for its emergency response for the next six months to September 2019. The UN is urgently seeking an additional USD 282 million of relief aid over the next three months to 30 June 2019. As of 14 April, the Humanitarian Response Plan is funded at USD 78.5M, 23.3% of funding requirements of USD 337M.",
+                "file": [
+                    {
+                        "id": "2102443",
+                        "url": "https://reliefweb.int/attachments/43abf0d4-9f4b-3c1a-8d77-dc3664a93f69/iom-mozambique-cyclone-idai-response-sitrep4-09-15april2019.pdf",
+                        "filename": "iom-mozambique-cyclone-idai-response-sitrep4-09-15april2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "413892",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/43/ab/43abf0d4-9f4b-3c1a-8d77-dc3664a93f69.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/43/ab/43abf0d4-9f4b-3c1a-8d77-dc3664a93f69.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/43/ab/43abf0d4-9f4b-3c1a-8d77-dc3664a93f69.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/43/ab/43abf0d4-9f4b-3c1a-8d77-dc3664a93f69.png",
+                            "version": "2102443-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.iom.int/sitreps/mozambique-cyclone-idai-response-situation-report-no-4-09-15-april-2019",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    },
+                    {
+                        "id": 49458,
+                        "name": "Camp Coordination and Camp Management"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3093773",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-response-situation-report-no-4-09-15-april-2019",
+                "body-html": "<p><strong>70,610 persons</strong> Displaced across 69 evacuation sites as reported by INGC</p>\n<p><strong>77,019 persons</strong> Reported across 67 sites in Beira,<br />\nDondo, Nhamatanda in DTM’s multisectoral location assessment</p>\n<p><strong>85,864 persons</strong> Provided with shelter assistance in Beira and affected areas (17,054 HHs)</p>\n<p><strong>Appeal Status</strong></p>\n<p>13% RECEIVED: $4.6M REQUESTED: 36.4 M</p>\n<p>14% ASSISTED: 84,864 TARGETED: 600,000</p>\n<p>HIGHLIGHTS</p>\n<p>As of 14 April, through the IOM managed Common Pipeline, Shelter Cluster partners have assisted 28,941 households (154,568 individuals) with various shelter and essential household items, including 35,515 tarpaulins, 13,264 blankets, and 4,660 kitchen sets.</p>\n<p>IOM’s Health team has identified and referred 15 Tuberculosis (TB) patients eligible to return home to Buzi from Beira in coordination with the Provincial TB Supervisor. IOM is also assisting local health facilities to set up temporary health screening and consultation areas in Macurungo.</p>\n<p>IOM’s Protection team led a training on Prevention of Sexual Exploitation and Abuse (PSEA) for Camp Management and Camp Coordination (CCCM) staff at the Ifapa temporary displacement site in Beira city on 14 April and in coordination with INGC and the Ifapa site manager.</p>\n<p>SITUATION OVERVIEW</p>\n<p>Tropical Cyclone Idai made landfall in central Mozambique on 14 March 2019. An estimated 1.85 million people across Mozambique have been affected, according to the UN. As of 14 April, 603 people are confirmed dead and 1,643 injured according to the National Institute for Disaster Management (INGC). 239,731 houses were identified by authorities as totally destroyed (111,202), partially destroyed (112,745) or flooded (15,784). 70,610 displaced people are sheltering in 69 sites across Sofala, Manica, Zambezia and Tete. A World Bank commissioned rapid remote assessment to estimate the financial impacts of Cyclone Idai suggests as much as USD 773 million in damages to buildings, infrastructure and agriculture.</p>\n<p>On 14 April, the Ministry of Health confirmed 4,979 cases of cholera; 4,946 cases have received treatment and are in recovery. Most of the cases reported have been in Beira, followed by Nhamatanda and Dondo. The Oral Cholera Vaccination (OCV) campaign ended on 9 April, with 803,125 people vaccinated. 11 Cholera Treatment Centres have been established by health cluster partners and government in response. IOM’s emergency health and Water, Sanitation and Hygiene (WASH) programming experts are being deployed from across the region to Mozambique in order to support these urgent concerns.</p>\n<p>IOM’s main office in Maputo is coordinating response activities with sub-offices in Tete and Beira to support the emergency response. In addition, IOM has deployed over 30 international technical experts on Shelter, Camp Management, Health,  Protection, Water, Sanitation and Hygiene and Early Recovery to enhance response capacity and initiate new activities.  IOM is co-leading the Shelter-NFI Cluster with IFRC and supporting INGC within the Camp Coordination and Camp Management (CCCM) Task Force.</p>\n<p>In order to respond to the humanitarian needs of 1.85 million people affected by Cyclone Idai in Mozambique, IOM is appealing for USD 36.4 million for its emergency response for the next six months to September 2019. The UN is urgently seeking an additional USD 282 million of relief aid over the next three months to 30 June 2019. As of 14 April, the Humanitarian Response Plan is funded at USD 78.5M, 23.3% of funding requirements of USD 337M.</p>\n",
+                "date": {
+                    "original": "2019-04-15T00:00:00+00:00",
+                    "changed": "2019-11-14T07:53:26+00:00",
+                    "created": "2019-04-23T09:52:27+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3080238?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3080238?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3080238",
+            "fields": {
+                "id": 3080238,
+                "uuid": "da31d920-5bf2-3f9f-8468-9f365582ac3f",
+                "title": "Malawi — Tropical Cyclone Idai Multi-Sectoral Location Assessments: Chikwawa, ​Nsanje, Phalombe, And Zomba, 10 April 2019 | ROUND II",
+                "status": "published",
+                "body": "**OVERVIEW**\n\nSince the beginning of March 2019, Malawi has experienced floods and sustained heavy rains caused by the tropical cyclone Idai weather system. From 1 — 6 April 2019 IOM, in close coordination with the Government of Malawi through the Department of Disaster Management Affairs (DoDMA), conducted DTM Round II multi-sectoral location assessments in 103 displacement sites in Chikwawa, Nsanje, Phalombe, Zomba districts. \n\n**DEMOGRAPHICS**\n\nDuring the reporting period 110,110 individuals (24,887 households) were recorded across 103 displacement sites.  \nAn additional 40 sites in the 4 districts were assessed and verified in this data collection round.  \nThe total displaced population is composed of 58% females and 42% males. Observing Figure 1, subdivided by age and sex, largest cohort is 18-59 years (27% female and 18% male), followed by 6-12 years (9% female, 7% male), and 13-17 years (9% female, 7% male). Children under 18 make up to 50% of the IDP population and 18% of them are under five years old (the average household size is 4.4).  \nIn 32 sites the majority of IDPs indicated that they are displaced from Chikwawa district. In 27 sites the majority of IDPs were from Nsanje. In 20 sites most IDPs are from Phalombe, while in the remaining 24 sites most IDPs are from Zomba. All the sites had a majority of IDPs from the same district as they were located (e.g. all the site in Chikwawa have a majority of IDPs from Chikwawa).  \nAn estimated 126 Mozambican households (349 individuals in total) were identified in one site in Nsanje district.\n\n**SITE INFORMATION**\n\nAll the displacement sites that were assessed are classified as collective centres. 53 of the displacement sites are schools, 16 are community centres, with the remaining 34 being classified as other. 38 sites reported having a site management agency, and the remaining 65 reported no agency. All the sites are reported to be accessible. \n\n**RETURN INTENTIONS**\n\nIn 52 of the 103 sites the majority of IDPs expected to be displaced between 1 and 3 months, while in 46 sites, IDPs expected to be displaced for more than 3 months.  \nFive (5) sites expect their overall displacement to be one month or shorter.  \nIn 74 of 103 sites it was reported that damaged/destroyed housing is the primary reason preventing people from returning to their area of origin. The remaining reasons reported are basic infrastructure damage (25), and lack of food (4).",
+                "file": [
+                    {
+                        "id": "2052210",
+                        "url": "https://reliefweb.int/attachments/7da5e11a-0ccc-3f9b-88e5-4149420cbc99/malawi_site%20assessments_100419_v1%20%281%29.pdf",
+                        "filename": "malawi_site assessments_100419_v1 (1).pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1472372",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/7d/a5/7da5e11a-0ccc-3f9b-88e5-4149420cbc99.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/7d/a5/7da5e11a-0ccc-3f9b-88e5-4149420cbc99.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/7d/a5/7da5e11a-0ccc-3f9b-88e5-4149420cbc99.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/7d/a5/7da5e11a-0ccc-3f9b-88e5-4149420cbc99.png",
+                            "version": "2052210-1-0"
+                        }
+                    }
+                ],
+                "origin": "http://www.globaldtm.info/malawi-tropical-cyclone-idai-site-multi-sectoral-locatoin-assessments-chikwawa-nsanje-phalombe-and-zomba-11-april-2019/",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3080238",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-tropical-cyclone-idai-multi-sectoral-location-assessments-chikwawa-nsanje-0",
+                "body-html": "<p><strong>OVERVIEW</strong></p>\n<p>Since the beginning of March 2019, Malawi has experienced floods and sustained heavy rains caused by the tropical cyclone Idai weather system. From 1 — 6 April 2019 IOM, in close coordination with the Government of Malawi through the Department of Disaster Management Affairs (DoDMA), conducted DTM Round II multi-sectoral location assessments in 103 displacement sites in Chikwawa, Nsanje, Phalombe, Zomba districts.</p>\n<p><strong>DEMOGRAPHICS</strong></p>\n<p>During the reporting period 110,110 individuals (24,887 households) were recorded across 103 displacement sites.<br />\nAn additional 40 sites in the 4 districts were assessed and verified in this data collection round.<br />\nThe total displaced population is composed of 58% females and 42% males. Observing Figure 1, subdivided by age and sex, largest cohort is 18-59 years (27% female and 18% male), followed by 6-12 years (9% female, 7% male), and 13-17 years (9% female, 7% male). Children under 18 make up to 50% of the IDP population and 18% of them are under five years old (the average household size is 4.4).<br />\nIn 32 sites the majority of IDPs indicated that they are displaced from Chikwawa district. In 27 sites the majority of IDPs were from Nsanje. In 20 sites most IDPs are from Phalombe, while in the remaining 24 sites most IDPs are from Zomba. All the sites had a majority of IDPs from the same district as they were located (e.g. all the site in Chikwawa have a majority of IDPs from Chikwawa).<br />\nAn estimated 126 Mozambican households (349 individuals in total) were identified in one site in Nsanje district.</p>\n<p><strong>SITE INFORMATION</strong></p>\n<p>All the displacement sites that were assessed are classified as collective centres. 53 of the displacement sites are schools, 16 are community centres, with the remaining 34 being classified as other. 38 sites reported having a site management agency, and the remaining 65 reported no agency. All the sites are reported to be accessible.</p>\n<p><strong>RETURN INTENTIONS</strong></p>\n<p>In 52 of the 103 sites the majority of IDPs expected to be displaced between 1 and 3 months, while in 46 sites, IDPs expected to be displaced for more than 3 months.<br />\nFive (5) sites expect their overall displacement to be one month or shorter.<br />\nIn 74 of 103 sites it was reported that damaged/destroyed housing is the primary reason preventing people from returning to their area of origin. The remaining reasons reported are basic infrastructure damage (25), and lack of food (4).</p>\n",
+                "date": {
+                    "original": "2019-04-10T00:00:00+00:00",
+                    "changed": "2019-04-11T19:55:18+00:00",
+                    "created": "2019-04-11T19:34:09+00:00"
+                }
+            }
+        }
+    ]
+}

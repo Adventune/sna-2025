@@ -1,0 +1,213 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3068858?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3068858?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3068858",
+            "fields": {
+                "id": 3068858,
+                "uuid": "5a362902-2088-3ed7-8a80-058b432533cb",
+                "title": "Tropical Cyclone Idai Flash Update, 1 April 2019",
+                "status": "published",
+                "body": "UNHCR RESPONSE IN MOZAMBIQUE, MALAWI AND ZIMBABWE \n\n**Situation Overview** \n\nTropical Cyclone Idai made landfall near Beira City in central **Mozambique** on 14 March 2019. Initial reports indicate over 500 deaths, 1,500 injured and significant damage to infrastructure in Beira and surrounding areas. Nearly 140,000 people are currently housed in some 155 informal sites across Manica, Sofala, Tete and Zambezia Provinces. Some 8,700 refugees and asylum-seekers in Maratane refugee camp in Nampula Province have not been affected. \n\nIn **Malawi**, some 870,000 people have been affected, over 730,000 are in urgent need of food and relief items and over 87,000 people have been displaced from homes. More than 170 makeshift camps have been set up to host the affected population. In addition, more than 4,400 Mozambican nationals have been forced to seek safety in Nsanje District, which is one of the hardest hit areas in Malawi due to flooding. Dzaleka refugee camp in Dowa District hosting 37,000 refugees and asylum-seekers has not been affected.\n\nIn the Chimanimani and Chipinge Districts of **Zimbabwe**, high winds and heavy rains triggered riverine and flash flooding. At least 200 deaths have been reported by authorities. Over 270,000 people have been affected by the damage caused by the cyclone. Infrastructure, including schools, roads and bridges have been seriously impacted in Chimanimani District. Tongogara refugee camp hosting 13,000 refugees and asylum-seekers as well as neighbouring communities in Chipinge District have also been severely affected – many houses, latrines and water boreholes have been completely or partially damaged increasing the risk of disease. \n\n**UNHCR’s Initial Response** \n\nTropical Cyclone Idai has caused extensive loss of life, large-scale destruction of infrastructure and a surge in humanitarian needs far exceeding the response capacities of governments and humanitarian actors. On 22 March 2019, the Emergency Relief Coordinator activated an IASC Humanitarian SystemWide Scale-Up in Mozambique for an initial period of three months. UNHCR joined the collective UN system response in all three countries. UNHCR’s response will need to be scaled up significantly, therefore, the UN High Commissioner for Refugees Filippo Grandi activated UNHCR emergency procedures covering all three countries in order to facilitate the delivery of the Office’s commitments under the IASC system-wide Scale-Up protocols. This allows UNHCR to take the necessary actions to scale up its operational capacity, including mobilizing and/or re-allocating human, financial, material and other relevant resources. The close involvement in the joint humanitarian response also demonstrates UNHCR’s solidarity with the people in the region who have for decades generously hosted refugees and shared their limited resources with them. \n\nAs an initial response, UNHCR has airlifted shelter and relief items from global stockpiles to assist some 30,000 most vulnerable cyclone survivors in Mozambique, Malawi and Zimbabwe with family tents, plastic tarpaulins, sleeping mats, blankets, mosquito nets, solar lanterns, cooking sets, jerry cans, buckets and soap. UNHCR will also provide family tents and core relief items to 5,300 affected refugees and asylum-seekers in Tongogara refugee camp. \n\nThe first UNHCR relief flight from Dubai, carrying 84MT of relief items for 10,000 affected people, arrived in Maputo on 27 March 2019. Items were received by UNHCR Regional Director for Southern Africa, UNHCR Representative in Mozambique and government officials. Some 14MT of relief items have already been transported to Beira for distribution. On 30 March 2019, UNHCR’s flight with 87MT of relief items for 10,000 people landed in Lilongwe, Malawi. Humanitarian aid was handed over to the Government of Malawi by UNHCR Representative in Malawi and transported to Blantyre for onward transmission to the affected districts of Chikwawa, Nsanje and Phalombe. Finally, on 31 March 2019, the third relief flight with 80MT of aid for 10,000 affected people reached Harare where it was received by UNHCR Representative in Zimbabwe accompanied by the Minister of Public Service, Labour and Social Welfare and the UN Resident Coordinator. Relief items are being transported to Chipinge District for the distribution to the affected people.\n\nUNHCR has also deployed emergency teams, consisting primarily of protection staff, to the three affected countries to support the response as well as to lead the Protection Clusters that have been activated by the IASC to protect vulnerable people coping with the aftermath of the disaster. In cooperation with national authorities, the main focus will be to ensure protection is mainstreamed throughout the response, including through preventing and responding to gender-based violence (GBV) as well as sexual exploitation and abuse and protecting unaccompanied and separated minors in close cooperation with UNICEF and UNFPA. In Mozambique, UNHCR Senior Protection Coordinator is already leading the Protection Cluster in Beira, and separate sub-clusters for GVB and child protection have also been activated and led by UNFPA and UNICEF, respectively.",
+                "file": [
+                    {
+                        "id": "2050863",
+                        "url": "https://reliefweb.int/attachments/bbbe0225-01a4-3124-a5f0-dae52a858bd2/68813.pdf",
+                        "filename": "68813.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "400883",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/bb/be/bbbe0225-01a4-3124-a5f0-dae52a858bd2.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/bb/be/bbbe0225-01a4-3124-a5f0-dae52a858bd2.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/bb/be/bbbe0225-01a4-3124-a5f0-dae52a858bd2.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/bb/be/bbbe0225-01a4-3124-a5f0-dae52a858bd2.png",
+                            "version": "2050863-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://data2.unhcr.org/en/documents/details/68813",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3068858",
+                "url_alias": "https://reliefweb.int/report/mozambique/tropical-cyclone-idai-flash-update-1-april-2019",
+                "body-html": "<p>UNHCR RESPONSE IN MOZAMBIQUE, MALAWI AND ZIMBABWE</p>\n<p><strong>Situation Overview</strong></p>\n<p>Tropical Cyclone Idai made landfall near Beira City in central <strong>Mozambique</strong> on 14 March 2019. Initial reports indicate over 500 deaths, 1,500 injured and significant damage to infrastructure in Beira and surrounding areas. Nearly 140,000 people are currently housed in some 155 informal sites across Manica, Sofala, Tete and Zambezia Provinces. Some 8,700 refugees and asylum-seekers in Maratane refugee camp in Nampula Province have not been affected.</p>\n<p>In <strong>Malawi</strong>, some 870,000 people have been affected, over 730,000 are in urgent need of food and relief items and over 87,000 people have been displaced from homes. More than 170 makeshift camps have been set up to host the affected population. In addition, more than 4,400 Mozambican nationals have been forced to seek safety in Nsanje District, which is one of the hardest hit areas in Malawi due to flooding. Dzaleka refugee camp in Dowa District hosting 37,000 refugees and asylum-seekers has not been affected.</p>\n<p>In the Chimanimani and Chipinge Districts of <strong>Zimbabwe</strong>, high winds and heavy rains triggered riverine and flash flooding. At least 200 deaths have been reported by authorities. Over 270,000 people have been affected by the damage caused by the cyclone. Infrastructure, including schools, roads and bridges have been seriously impacted in Chimanimani District. Tongogara refugee camp hosting 13,000 refugees and asylum-seekers as well as neighbouring communities in Chipinge District have also been severely affected – many houses, latrines and water boreholes have been completely or partially damaged increasing the risk of disease.</p>\n<p><strong>UNHCR’s Initial Response</strong></p>\n<p>Tropical Cyclone Idai has caused extensive loss of life, large-scale destruction of infrastructure and a surge in humanitarian needs far exceeding the response capacities of governments and humanitarian actors. On 22 March 2019, the Emergency Relief Coordinator activated an IASC Humanitarian SystemWide Scale-Up in Mozambique for an initial period of three months. UNHCR joined the collective UN system response in all three countries. UNHCR’s response will need to be scaled up significantly, therefore, the UN High Commissioner for Refugees Filippo Grandi activated UNHCR emergency procedures covering all three countries in order to facilitate the delivery of the Office’s commitments under the IASC system-wide Scale-Up protocols. This allows UNHCR to take the necessary actions to scale up its operational capacity, including mobilizing and/or re-allocating human, financial, material and other relevant resources. The close involvement in the joint humanitarian response also demonstrates UNHCR’s solidarity with the people in the region who have for decades generously hosted refugees and shared their limited resources with them.</p>\n<p>As an initial response, UNHCR has airlifted shelter and relief items from global stockpiles to assist some 30,000 most vulnerable cyclone survivors in Mozambique, Malawi and Zimbabwe with family tents, plastic tarpaulins, sleeping mats, blankets, mosquito nets, solar lanterns, cooking sets, jerry cans, buckets and soap. UNHCR will also provide family tents and core relief items to 5,300 affected refugees and asylum-seekers in Tongogara refugee camp.</p>\n<p>The first UNHCR relief flight from Dubai, carrying 84MT of relief items for 10,000 affected people, arrived in Maputo on 27 March 2019. Items were received by UNHCR Regional Director for Southern Africa, UNHCR Representative in Mozambique and government officials. Some 14MT of relief items have already been transported to Beira for distribution. On 30 March 2019, UNHCR’s flight with 87MT of relief items for 10,000 people landed in Lilongwe, Malawi. Humanitarian aid was handed over to the Government of Malawi by UNHCR Representative in Malawi and transported to Blantyre for onward transmission to the affected districts of Chikwawa, Nsanje and Phalombe. Finally, on 31 March 2019, the third relief flight with 80MT of aid for 10,000 affected people reached Harare where it was received by UNHCR Representative in Zimbabwe accompanied by the Minister of Public Service, Labour and Social Welfare and the UN Resident Coordinator. Relief items are being transported to Chipinge District for the distribution to the affected people.</p>\n<p>UNHCR has also deployed emergency teams, consisting primarily of protection staff, to the three affected countries to support the response as well as to lead the Protection Clusters that have been activated by the IASC to protect vulnerable people coping with the aftermath of the disaster. In cooperation with national authorities, the main focus will be to ensure protection is mainstreamed throughout the response, including through preventing and responding to gender-based violence (GBV) as well as sexual exploitation and abuse and protecting unaccompanied and separated minors in close cooperation with UNICEF and UNFPA. In Mozambique, UNHCR Senior Protection Coordinator is already leading the Protection Cluster in Beira, and separate sub-clusters for GVB and child protection have also been activated and led by UNFPA and UNICEF, respectively.</p>\n",
+                "date": {
+                    "original": "2019-04-01T00:00:00+00:00",
+                    "changed": "2019-04-04T14:06:42+00:00",
+                    "created": "2019-04-04T13:54:53+00:00"
+                }
+            }
+        }
+    ]
+}

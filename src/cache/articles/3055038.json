@@ -1,0 +1,229 @@
+{
+    "time": 3400,
+    "href": "https://api.reliefweb.int/v1/reports/3055038?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3055038?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3393,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3055038",
+            "fields": {
+                "id": 3055038,
+                "uuid": "c06b448f-6c21-3f96-bfc3-0f0caab67cb1",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 10, 26 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• The official death toll rose to 468 people on 26 March, according to the Government.\n\n• Nearly 91,000 houses were identified as destroyed, damaged or flooded; up from 72,260 reported by the authorities on 25 March.\n\n• Some 900,000 doses of oral cholera vaccines are en route to Mozambique from the global emergency stockpile.\n\n• Nearly 128,000 people are sheltering in 154 sites across Sofala (more than 96,300 people), Manica (more than 14,800 people), Zambezia (more than 9,600 people); and Tete (more than 6,800 people) as of 26 March. \n\n**SITUATION OVERVIEW**\n\nThe official death toll rose by 21 people to some 468 deaths as of 26 March; with more than 1,500 people injured, according to the Government. As of 26 March, nearly 91,000 houses were identified as totally destroyed (50,619), partially destroyed (24,556) or flooded (15,784); an increase of nearly 19,000 since 25 March. The number of people accommodated in 154 sites across Sofala (114 sites), Manica (26 sites), Zambezia (10 sites) and Tete (4 sites) was nearly 128,000 people as of 26 March. The authorities have identified more than 7,400 vulnerable people across the IDP sites.  \n\nFlood waters are beginning to recede west of Beira City, however the situation remains critical in the area of Mafambisse, according to the Copernicus Emergency Management Service. The outflow of flood waters, however, poses new challenges, as the area that was previously underwater is now a large muddy swamp, according to analysts. The risk of water-borne and vector-borne diseases remains very high and there are reports of increasing cases of acute watery diarrhoea, along with reports of malaria.  \n\nBusiness owners of destroyed restaurants and hotels in Beira City have requested tax exemptions in order to boost economic recovery. Several hotels, especially along the beach, were destroyed. The owners are trying to repair the damage and restore service, but incalculable losses and the lack of electricity are making recovery more expensive.  \n\nBeira airport is fully operational, but fuel shortages, low fuel refilling capacity, and lack of loading and handling capacities for supplies persist. Chimoio airport has limited operations at night due to lack of a functional illumination system",
+                "headline": {
+                    "title": "900,000 doses of oral cholera vaccines en route to Mozambique",
+                    "summary": "WHO is positioning supplies to prepare to treat diarrhoeal diseases, and  providing expertise to set up three cholera treatment centres, including an 80-bed treatment centre in Beira.",
+                    "image": {
+                        "id": "1265993",
+                        "width": "960",
+                        "height": "640",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/a2/c2/a2c218fc-1f35-328f-a388-dcfcda809dcc.jpeg",
+                        "filename": "WhatsApp Image 2019-03-20 at 10.54.16 AM (1).jpeg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "86388",
+                        "copyright": "WHO",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/a2/c2/a2c218fc-1f35-328f-a388-dcfcda809dcc.jpeg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/a2/c2/a2c218fc-1f35-328f-a388-dcfcda809dcc.jpeg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/a2/c2/a2c218fc-1f35-328f-a388-dcfcda809dcc.jpeg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2049235",
+                        "url": "https://reliefweb.int/attachments/de4e5cb4-0ec3-3494-a2ca-7f4135f607a4/ROSEA_20190326_Mozambique%20Floods_Flash_Update%2310%20FINAL.pdf",
+                        "filename": "ROSEA_20190326_Mozambique Floods_Flash_Update#10 FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "137973",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/de/4e/de4e5cb4-0ec3-3494-a2ca-7f4135f607a4.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/de/4e/de4e5cb4-0ec3-3494-a2ca-7f4135f607a4.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/de/4e/de4e5cb4-0ec3-3494-a2ca-7f4135f607a4.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/de/4e/de4e5cb4-0ec3-3494-a2ca-7f4135f607a4.png",
+                            "version": "2049235-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3055038",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-10-26-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The official death toll rose to 468 people on 26 March, according to the Government.</p>\n<p>• Nearly 91,000 houses were identified as destroyed, damaged or flooded; up from 72,260 reported by the authorities on 25 March.</p>\n<p>• Some 900,000 doses of oral cholera vaccines are en route to Mozambique from the global emergency stockpile.</p>\n<p>• Nearly 128,000 people are sheltering in 154 sites across Sofala (more than 96,300 people), Manica (more than 14,800 people), Zambezia (more than 9,600 people); and Tete (more than 6,800 people) as of 26 March.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>The official death toll rose by 21 people to some 468 deaths as of 26 March; with more than 1,500 people injured, according to the Government. As of 26 March, nearly 91,000 houses were identified as totally destroyed (50,619), partially destroyed (24,556) or flooded (15,784); an increase of nearly 19,000 since 25 March. The number of people accommodated in 154 sites across Sofala (114 sites), Manica (26 sites), Zambezia (10 sites) and Tete (4 sites) was nearly 128,000 people as of 26 March. The authorities have identified more than 7,400 vulnerable people across the IDP sites.</p>\n<p>Flood waters are beginning to recede west of Beira City, however the situation remains critical in the area of Mafambisse, according to the Copernicus Emergency Management Service. The outflow of flood waters, however, poses new challenges, as the area that was previously underwater is now a large muddy swamp, according to analysts. The risk of water-borne and vector-borne diseases remains very high and there are reports of increasing cases of acute watery diarrhoea, along with reports of malaria.</p>\n<p>Business owners of destroyed restaurants and hotels in Beira City have requested tax exemptions in order to boost economic recovery. Several hotels, especially along the beach, were destroyed. The owners are trying to repair the damage and restore service, but incalculable losses and the lack of electricity are making recovery more expensive.</p>\n<p>Beira airport is fully operational, but fuel shortages, low fuel refilling capacity, and lack of loading and handling capacities for supplies persist. Chimoio airport has limited operations at night due to lack of a functional illumination system</p>\n",
+                "date": {
+                    "original": "2019-03-26T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-27T11:53:24+00:00"
+                }
+            }
+        }
+    ]
+}

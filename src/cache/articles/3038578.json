@@ -1,0 +1,212 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3038578?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3038578?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3038578",
+            "fields": {
+                "id": 3038578,
+                "uuid": "8daead75-262f-3fe7-84e9-f8dce0e54c75",
+                "title": "Zimbabwe: Floods Flash Update No. 1, 17 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• The President has declared the impact of Cyclone Idai in Zimbabwe a state of disaster.\n\n• The Cyclone Idai weather system hit eastern Zimbabwe on 15 and 16 March, with Chimanimani and Chipinge districts in Manicaland Province hardest-hit.\n\n• At least 31 deaths have been reported and over 100 people are missing.\n\n• The town of Chimanimani has reportedly been cut-off by floods and landslides.\n\n**SITUATION OVERVIEW**\n\nFollowing its landfall in Mozambique on 14 March, Cyclone Idai continued across land as a Tropical Storm and hit eastern Zimbabwe with heavy rains and strong winds. The storm caused high winds and heavy precipitation in Chimanimani and Chipinge districts causing riverine and flash flooding and subsequent deaths, destruction of livelihoods and properties. \n \nAreas within the pathway of Cyclone Idai’s weather system include Manicaland, Mashonaland East, Mashonaland Central, Mashonaland West, and parts of Masvingo and Midlands provinces, according to the Metrological Services Department. Its effects are also projected to be felt in Harare Metropolitan and the Matabeleland provinces. Chimanimani and Chipinge districts have been hardest-hit, with riverine and flash flooding reported. The town of Chimanimani was reportedly cut off after bridges across Mvumvumvu River (Matsororo and Muusha bridges) along the Mutare-Chimanimani Highway were washed away and other sections of road were blocked by fallen trees and landslides. Power supply in many areas is affected.  \n\nAt least 31 deaths have been reported and over 100 people are missing, according to preliminary information. The death toll may rise in the days ahead as further information regarding the storm’s impact becomes available.  \n\nAt least 1,600 households (8,000 to 9,600 people) have been affected in Chimanimani, Chipinge, Nyanga and Mutare districts, Manicaland Province, as a result of flooding and landslides, according to initial information. Based on census data, 48 per cent of those affected are estimated to be children and 52 per cent are estimated to be women. In Tongogara Refugee Camp, nearly 300 people have been affected, with 49 houses damaged. Considerable damage to properties, livelihoods and infrastructure has also been reported in the districts in the storm’s path.",
+                "headline": {
+                    "title": "Zimbabwe president declares impact of Cyclone Idai a state of disaster",
+                    "summary": "At least 31 deaths have been reported and more than 100 people are missing, according to preliminary information. An estimated 1,600 households (8,000 to 9,600 people) have been affected.",
+                    "image": {
+                        "id": "1259713",
+                        "width": "1024",
+                        "height": "683",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/7e/a4/7ea44338-e83a-3f13-93d6-f170d69cffea.jpg",
+                        "filename": "Nyanga Floods 065-XL.jpg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "264628",
+                        "copyright": "Matilda Moyo/OCHA",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/7e/a4/7ea44338-e83a-3f13-93d6-f170d69cffea.jpg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/7e/a4/7ea44338-e83a-3f13-93d6-f170d69cffea.jpg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/7e/a4/7ea44338-e83a-3f13-93d6-f170d69cffea.jpg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2047637",
+                        "url": "https://reliefweb.int/attachments/a694ffc3-bb31-3816-aaa5-8558df20b49e/ROSEA_20190317_Zimbabwe_Floods_Flash_Update%231_map.pdf",
+                        "filename": "ROSEA_20190317_Zimbabwe_Floods_Flash_Update#1_map.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "153692",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/a6/94/a694ffc3-bb31-3816-aaa5-8558df20b49e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a6/94/a694ffc3-bb31-3816-aaa5-8558df20b49e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/a6/94/a694ffc3-bb31-3816-aaa5-8558df20b49e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a6/94/a694ffc3-bb31-3816-aaa5-8558df20b49e.png",
+                            "version": "2047637-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3038578",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-flash-update-no-1-17-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The President has declared the impact of Cyclone Idai in Zimbabwe a state of disaster.</p>\n<p>• The Cyclone Idai weather system hit eastern Zimbabwe on 15 and 16 March, with Chimanimani and Chipinge districts in Manicaland Province hardest-hit.</p>\n<p>• At least 31 deaths have been reported and over 100 people are missing.</p>\n<p>• The town of Chimanimani has reportedly been cut-off by floods and landslides.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>Following its landfall in Mozambique on 14 March, Cyclone Idai continued across land as a Tropical Storm and hit eastern Zimbabwe with heavy rains and strong winds. The storm caused high winds and heavy precipitation in Chimanimani and Chipinge districts causing riverine and flash flooding and subsequent deaths, destruction of livelihoods and properties.</p>\n<p>Areas within the pathway of Cyclone Idai’s weather system include Manicaland, Mashonaland East, Mashonaland Central, Mashonaland West, and parts of Masvingo and Midlands provinces, according to the Metrological Services Department. Its effects are also projected to be felt in Harare Metropolitan and the Matabeleland provinces. Chimanimani and Chipinge districts have been hardest-hit, with riverine and flash flooding reported. The town of Chimanimani was reportedly cut off after bridges across Mvumvumvu River (Matsororo and Muusha bridges) along the Mutare-Chimanimani Highway were washed away and other sections of road were blocked by fallen trees and landslides. Power supply in many areas is affected.</p>\n<p>At least 31 deaths have been reported and over 100 people are missing, according to preliminary information. The death toll may rise in the days ahead as further information regarding the storm’s impact becomes available.</p>\n<p>At least 1,600 households (8,000 to 9,600 people) have been affected in Chimanimani, Chipinge, Nyanga and Mutare districts, Manicaland Province, as a result of flooding and landslides, according to initial information. Based on census data, 48 per cent of those affected are estimated to be children and 52 per cent are estimated to be women. In Tongogara Refugee Camp, nearly 300 people have been affected, with 49 houses damaged. Considerable damage to properties, livelihoods and infrastructure has also been reported in the districts in the storm’s path.</p>\n",
+                "date": {
+                    "original": "2019-03-17T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-17T09:02:10+00:00"
+                }
+            }
+        }
+    ]
+}

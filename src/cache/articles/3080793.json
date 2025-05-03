@@ -1,0 +1,184 @@
+{
+    "time": 1842,
+    "href": "https://api.reliefweb.int/v1/reports/3080793?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3080793?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1835,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3080793",
+            "fields": {
+                "id": 3080793,
+                "title": "Rapid Risk Assessment: Cyclone Idai - risk of communicable diseases in southern Africa",
+                "status": "published",
+                "body": "**Main conclusions and options for response**\n\nIn the aftermath of Cyclone Idai (mid-March 2019), the most immediate risks in the affected areas of Mozambique, Zimbabwe and Malawi are related to the increased transmission of diarrhoeal diseases due to lack of access to safe drinking water and poor sanitary conditions. In addition, the number of acute respiratory infections in children accommodated in overcrowded shelters has gone up. The risk of a major upsurge in cholera cases in affected areas or in bordering areas with previous transmission and flood-specific risks (e.g. tetanus and leptospirosis) should be considered a priority when adopting mitigating measures.  \n\nMozambique reported the first cholera cases a few days after the cyclone in Sofala province, mainly in the provincial capital Beira, with more than 3 500 cases being reported to date. International response support from ministries of health, United Nations organisations, and non-governmental organisations is ongoing. This includes the implementation of cholera treatment centres in Mozambique.  \n\nMosquito-borne diseases represent a risk that should also be taken into account in this context. In the affected areas in Mozambique and Malawi, malaria is endemic, with moderate seasonality. In these countries – while the main risk of malaria is due to disruption of the health services – an epidemic is not expected because of the presumed high levels of acquired immunity in the population. In Zimbabwe, where malaria prevalence and hence immunity levels are much lower, the risk of a malaria epidemic, or an extended malaria season (peak is normally between February and May) is larger.  \n\nSurveillance of infectious diseases in the aftermath of a cyclone is important for the early detection and confirmation of outbreaks. Consideration should be given to setting up a syndromic surveillance alert system if there is a need to reinforce surveillance capacity. Laboratory capacity should be assessed for confirming outbreaks of infectious diseases; if required, a referral mechanism can be established for testing samples of epidemic-prone diseases.  \n\nMeasures to address the potential disruption of national routine vaccination programmes, particularly those for infants, should be considered as part of basic emergency healthcare services.  \nAn assessment of HIV and tuberculosis treatment services should be considered and, where the treatment programme is disrupted, measures should be considered to ensure continuation of treatment.  \n\nThe overall risk for EU travellers or residents in affected countries is very low if proper personal prevention measures are taken.  \n\nThe prevention of gastrointestinal illnesses is dependent on adequate sanitation, availability of safe drinking water (chlorinated or boiled), and appropriate good food and hand hygiene, i.e. regularly washing hands with soap, eating thoroughly cooked food, washing fruits and vegetables with bottled or chlorinated water, and avoiding consumption of raw seafood products.",
+                "file": [
+                    {
+                        "id": "2052286",
+                        "url": "https://reliefweb.int/attachments/b85222ac-90c4-34f3-9000-64599efaaa17/RRA-cyclone-idai-10-Apr-2019.pdf",
+                        "filename": "RRA-cyclone-idai-10-Apr-2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1115463",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/b8/52/b85222ac-90c4-34f3-9000-64599efaaa17.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b8/52/b85222ac-90c4-34f3-9000-64599efaaa17.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/b8/52/b85222ac-90c4-34f3-9000-64599efaaa17.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b8/52/b85222ac-90c4-34f3-9000-64599efaaa17.png",
+                            "version": "2052286-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://ecdc.europa.eu/en/publications-data/rapid-risk-assessment-cyclone-idai-risk-communicable-diseases-southern-africa",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/15496?appname=rwint-user-0",
+                        "id": 15496,
+                        "name": "European Centre for Disease Prevention and Control",
+                        "shortname": "ECDC",
+                        "longname": "European Centre for Disease Prevention and Control",
+                        "homepage": "http://www.ecdc.europa.eu/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3080793",
+                "url_alias": "https://reliefweb.int/report/mozambique/rapid-risk-assessment-cyclone-idai-risk-communicable-diseases-southern-africa",
+                "body-html": "<p><strong>Main conclusions and options for response</strong></p>\n<p>In the aftermath of Cyclone Idai (mid-March 2019), the most immediate risks in the affected areas of Mozambique, Zimbabwe and Malawi are related to the increased transmission of diarrhoeal diseases due to lack of access to safe drinking water and poor sanitary conditions. In addition, the number of acute respiratory infections in children accommodated in overcrowded shelters has gone up. The risk of a major upsurge in cholera cases in affected areas or in bordering areas with previous transmission and flood-specific risks (e.g. tetanus and leptospirosis) should be considered a priority when adopting mitigating measures.</p>\n<p>Mozambique reported the first cholera cases a few days after the cyclone in Sofala province, mainly in the provincial capital Beira, with more than 3 500 cases being reported to date. International response support from ministries of health, United Nations organisations, and non-governmental organisations is ongoing. This includes the implementation of cholera treatment centres in Mozambique.</p>\n<p>Mosquito-borne diseases represent a risk that should also be taken into account in this context. In the affected areas in Mozambique and Malawi, malaria is endemic, with moderate seasonality. In these countries – while the main risk of malaria is due to disruption of the health services – an epidemic is not expected because of the presumed high levels of acquired immunity in the population. In Zimbabwe, where malaria prevalence and hence immunity levels are much lower, the risk of a malaria epidemic, or an extended malaria season (peak is normally between February and May) is larger.</p>\n<p>Surveillance of infectious diseases in the aftermath of a cyclone is important for the early detection and confirmation of outbreaks. Consideration should be given to setting up a syndromic surveillance alert system if there is a need to reinforce surveillance capacity. Laboratory capacity should be assessed for confirming outbreaks of infectious diseases; if required, a referral mechanism can be established for testing samples of epidemic-prone diseases.</p>\n<p>Measures to address the potential disruption of national routine vaccination programmes, particularly those for infants, should be considered as part of basic emergency healthcare services.<br />\nAn assessment of HIV and tuberculosis treatment services should be considered and, where the treatment programme is disrupted, measures should be considered to ensure continuation of treatment.</p>\n<p>The overall risk for EU travellers or residents in affected countries is very low if proper personal prevention measures are taken.</p>\n<p>The prevention of gastrointestinal illnesses is dependent on adequate sanitation, availability of safe drinking water (chlorinated or boiled), and appropriate good food and hand hygiene, i.e. regularly washing hands with soap, eating thoroughly cooked food, washing fruits and vegetables with bottled or chlorinated water, and avoiding consumption of raw seafood products.</p>\n",
+                "date": {
+                    "original": "2019-04-10T00:00:00+00:00",
+                    "changed": "2019-04-12T11:30:55+00:00",
+                    "created": "2019-04-12T08:22:16+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "time": 673,
+    "href": "https://api.reliefweb.int/v1/reports/3028628?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3028628?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 665,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3028628",
+            "fields": {
+                "id": 3028628,
+                "title": "Mozambique: Tropical Depression, Office of the Resident Coordinator – Flash update No. 2 (as of 09 March 2019, 09:00 PM)",
+                "status": "published",
+                "body": "**Highlights**\n\n• At least 7 deaths reported, and 32,222 people were affected by the floods in Zambézia and Tete provinces, the central region of the country;\n\n• At least 4,242 people are displaced in Zambezia and Tete, sheltered in eight transit centers;\n\n• Heavy rains had significant impact on the road infrastructure in Zambézia province, affecting the transitability and access to affected people;\n\n• Water supply system in Chingodzi (Tete) is interrupted and expected to resume soon;\n\n• National meteorological authorities alert for Tropical cyclone to make landfall between 12 and 13 March;\n\n• Zambeze river basin is at its maximum alert and propagation of the flood wave to the lower Zambeze is expected. \n\n**Situation Overview**\n\nThe central and northern region of Mozambique is being affected by heavy rains since 06 March 2019 with some districts recording 140-180 mm in 24h. The most affected provinces are Zambézia and Tete in the central region but in the north, Niassa province is also affected mainly the road infrastructure conditioning the normal movement of vehicles.  \n\nOn 9th March 2019, the national meteorological authorities (INAM) issued an alert on the Tropical Depression active in Mozambique channel that is moving towards the coastal areas of Zambézia and Sofala and may intensify in the next 24 hours to severe Tropical storm stage (wind speed 89-118 km/h). The INAM alert was also indicate that by the end of the day of 10 March 2019, the system may evolve to Tropical Cyclone stage (wind speed 118-166 km/h) and the landfall is expected to be between 12 and 13 March through south of Zambezia and north of Sofala provinces1 . This system will influence the weather conditions in Zambezia. Sofala, Tete and Manica provinces.  \n\nThe national directorate of water resources also issued a communication informing that the Zambeze river basin is at its maximum alert having recorded on 08 March 2019 a water depth of 10 m in Revubue sub-basin in Chingodzi,  \n\nTete province due to heavy rains recorded in the upstream countries (e.g: Malawi) and north of Tete province. In the next 72h, the water resources authorities expect the propagation of the flood wave to the lower Zambeze which may result in the rise of water levels and flooding in the provinces of Tete (Mutarara), Sofala (Chemba, Caia and Marromeu), Zambezia (Chinde, Mopeia and Luabo) and Manica (Tambara). The other river basins such as Licungo (in Zambézia), Messalo (in Cabo Delgado) and Rovuma will continue above alert level with downward trend.",
+                "file": [
+                    {
+                        "id": "2046570",
+                        "url": "https://reliefweb.int/attachments/f960668c-3c01-37ea-9c1e-19c2cc6aa079/Floods%20Tete%20and%20Zambeiza_%20Flash%20update%202.pdf",
+                        "filename": "Floods Tete and Zambeiza_ Flash update 2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "295308",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/f9/60/f960668c-3c01-37ea-9c1e-19c2cc6aa079.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/f9/60/f960668c-3c01-37ea-9c1e-19c2cc6aa079.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/f9/60/f960668c-3c01-37ea-9c1e-19c2cc6aa079.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f9/60/f960668c-3c01-37ea-9c1e-19c2cc6aa079.png",
+                            "version": "2046570-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1523?appname=rwint-user-0",
+                        "id": 1523,
+                        "name": "UN Resident and Humanitarian Coordinator for Mozambique",
+                        "shortname": "UN RC/HC Mozambique",
+                        "longname": "United Nations Resident and Humanitarian Coordinator for Mozambique",
+                        "homepage": "https://mozambique.un.org/pt/about/about-the-resident-coordinator-office",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3028628",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-depression-office-resident-coordinator-flash-update-no-2-09",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• At least 7 deaths reported, and 32,222 people were affected by the floods in Zambézia and Tete provinces, the central region of the country;</p>\n<p>• At least 4,242 people are displaced in Zambezia and Tete, sheltered in eight transit centers;</p>\n<p>• Heavy rains had significant impact on the road infrastructure in Zambézia province, affecting the transitability and access to affected people;</p>\n<p>• Water supply system in Chingodzi (Tete) is interrupted and expected to resume soon;</p>\n<p>• National meteorological authorities alert for Tropical cyclone to make landfall between 12 and 13 March;</p>\n<p>• Zambeze river basin is at its maximum alert and propagation of the flood wave to the lower Zambeze is expected.</p>\n<p><strong>Situation Overview</strong></p>\n<p>The central and northern region of Mozambique is being affected by heavy rains since 06 March 2019 with some districts recording 140-180 mm in 24h. The most affected provinces are Zambézia and Tete in the central region but in the north, Niassa province is also affected mainly the road infrastructure conditioning the normal movement of vehicles.</p>\n<p>On 9th March 2019, the national meteorological authorities (INAM) issued an alert on the Tropical Depression active in Mozambique channel that is moving towards the coastal areas of Zambézia and Sofala and may intensify in the next 24 hours to severe Tropical storm stage (wind speed 89-118 km/h). The INAM alert was also indicate that by the end of the day of 10 March 2019, the system may evolve to Tropical Cyclone stage (wind speed 118-166 km/h) and the landfall is expected to be between 12 and 13 March through south of Zambezia and north of Sofala provinces1 . This system will influence the weather conditions in Zambezia. Sofala, Tete and Manica provinces.</p>\n<p>The national directorate of water resources also issued a communication informing that the Zambeze river basin is at its maximum alert having recorded on 08 March 2019 a water depth of 10 m in Revubue sub-basin in Chingodzi,</p>\n<p>Tete province due to heavy rains recorded in the upstream countries (e.g: Malawi) and north of Tete province. In the next 72h, the water resources authorities expect the propagation of the flood wave to the lower Zambeze which may result in the rise of water levels and flooding in the provinces of Tete (Mutarara), Sofala (Chemba, Caia and Marromeu), Zambezia (Chinde, Mopeia and Luabo) and Manica (Tambara). The other river basins such as Licungo (in Zambézia), Messalo (in Cabo Delgado) and Rovuma will continue above alert level with downward trend.</p>\n",
+                "date": {
+                    "original": "2019-03-09T00:00:00+00:00",
+                    "changed": "2019-03-11T08:56:06+00:00",
+                    "created": "2019-03-11T08:49:22+00:00"
+                }
+            }
+        }
+    ]
+}

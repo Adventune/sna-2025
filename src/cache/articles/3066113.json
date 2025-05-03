@@ -1,0 +1,234 @@
+{
+    "time": 1105,
+    "href": "https://api.reliefweb.int/v1/reports/3066113?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3066113?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1095,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3066113",
+            "fields": {
+                "id": 3066113,
+                "uuid": "228c3074-3cff-3f67-974d-0a45ba5b7117",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 1 (as of 2 April 2019)",
+                "status": "published",
+                "body": "*This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The Report will be issued daily starting 2 April 2019.*\n\n**HIGHLIGHTS**\n\n• The official death toll has risen to 598 people as of 2 April, according to the Government.\n\n• More than 130,000 people are displaced in 136 sites as of 2 April, in Sofala (107 sites), Manica (21 sites), Zambezia (3 sites) Tete (5 sites); with a significant decrease in Zambezia.\n\n• 376 new cases of cholera were reported in Beira (259),  \nNhamtanda (57) and Dondo (60), including one death, on 2 April.\n\n• More than 715,000 hectares of crops were destroyed at the beginning of the main harvest period, raising concerns for rising food security.\n\n• Nearly 400,000 people have been reached with food assistance, while another 10,000 people receiving ready-to-eat meals in Beira City.\n\n*1.85M Affected people*\n\n*>1,400 Cholera cases*\n\n*112K Houses destroyed/damaged*\n\n*598 Deaths*\n\n*715K Hectares of crops destroyed*\n\n*350K People assisted with food*\n\n**SITUATION OVERVIEW**\n\nIn March 2019, the Cyclone Idai weather system brought destruction and damage to Inhambane, Manica, Sofala, Tete and Zambezia provinces. The weather system’s impact was particularly devastating as it came in three waves: in early March, the low-pressure system caused flooding in Zambezia and Tete, displacing more than 140,000 people; on 14 March,  \nCyclone Idai made landfall near the port City of Beira – home to 500,000 people -leaving death and destruction in its wake; and finally, over the weekend of 16-17 March, the weather system carried torrential rains across multiple areas, causing rivers to overflow and a dam in Buzi district to burst, sweeping away entire communities and leaving an unknown number of people stranded. As a result of the triple effect of the impact of Cyclone Idai and subsequent flooding, an estimated 1.85 million people are in need of humanitarian assistance and protection.  \nAs of 2 April, the official death toll had risen to 598 people, an increase of 80 since 1 April; with more than 1,600 people injured, according to the Government. The death toll is expected to continue to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known.\n\nNearly 112,000 houses have been identified by the authorities as totally destroyed (62,153), partially destroyed (34,139) or flooded (15,784), leaving more than 131,000 people displaced in 136 sites across Sofala (109,199 people), Manica (14,047 people), Zambezia (5,235 people) and Tete (2,655 people) as of 2 April. There has been a significant decrease in the number of displacement sites in Zambezia province, from 13 to 3, as people begin to return home. Protection partners estimate that more than half of the affected people are children and the Government has registered more than 7,400 vulnerable people at the accommodation sites.  \n\nMore than 715,000 hectares of crops have been destroyed to date, raising concerns over food security, as the destruction occurred during the annual main harvest for the central region. Many people interviewed in collective sites by IOM have reported that, in addition to damaged or destroyed houses, lack of food and absence of livelihoods are among the primary concerns preventing people from returning.  \n\nThe humanitarian situation is compounded by a rising incidence of water-borne and vector-borne diseases in the affected districts. On 27 March, the Ministry of Health (MoH) declared a cholera outbreak in Beira. As of 2 April, some 1,428 cases of cholera and two deaths had been reported in Beira (1,218 cases; 1 death), Dondo (66 cases; 1 death) and Nhamatanda (144 cases), according to the Ministry of Health. Of these, 376 cases were reported in the last 24 hours.  \n\nHealth partners have also reported malaria cases in many affected areas.  \n\nThis Situation report provides initial estimates of the humanitarian impact of the Cyclone Idai weather system based on population estimates and rapid assessments. Sector-specific needs and requirements will continue to be updated to reflect new data from on-going sector assessments and further analysis.",
+                "file": [
+                    {
+                        "id": "2050607",
+                        "url": "https://reliefweb.int/attachments/582edd1c-0537-3ed6-a1ff-0a9296b9c678/MOZAMBIQUE%20CYLONE%20IDAI%20%26%20FLOODS%2C%20SITUATION%20REPORT%20NO.1%2002%20April%202019%20..pdf",
+                        "filename": "MOZAMBIQUE CYLONE IDAI & FLOODS, SITUATION REPORT NO.1 02 April 2019 ..pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "251969",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/58/2e/582edd1c-0537-3ed6-a1ff-0a9296b9c678.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/58/2e/582edd1c-0537-3ed6-a1ff-0a9296b9c678.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/58/2e/582edd1c-0537-3ed6-a1ff-0a9296b9c678.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/58/2e/582edd1c-0537-3ed6-a1ff-0a9296b9c678.png",
+                            "version": "2050607-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3066113",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-1-2-april-2019",
+                "body-html": "<p><em>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners. The Situation Report builds on Flash Updates #1 through #15 and provides more detailed information on the situation and response by sector. The Report will be issued daily starting 2 April 2019.</em></p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• The official death toll has risen to 598 people as of 2 April, according to the Government.</p>\n<p>• More than 130,000 people are displaced in 136 sites as of 2 April, in Sofala (107 sites), Manica (21 sites), Zambezia (3 sites) Tete (5 sites); with a significant decrease in Zambezia.</p>\n<p>• 376 new cases of cholera were reported in Beira (259),<br />\nNhamtanda (57) and Dondo (60), including one death, on 2 April.</p>\n<p>• More than 715,000 hectares of crops were destroyed at the beginning of the main harvest period, raising concerns for rising food security.</p>\n<p>• Nearly 400,000 people have been reached with food assistance, while another 10,000 people receiving ready-to-eat meals in Beira City.</p>\n<p><em>1.85M Affected people</em></p>\n<p><em>&gt;1,400 Cholera cases</em></p>\n<p><em>112K Houses destroyed/damaged</em></p>\n<p><em>598 Deaths</em></p>\n<p><em>715K Hectares of crops destroyed</em></p>\n<p><em>350K People assisted with food</em></p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>In March 2019, the Cyclone Idai weather system brought destruction and damage to Inhambane, Manica, Sofala, Tete and Zambezia provinces. The weather system’s impact was particularly devastating as it came in three waves: in early March, the low-pressure system caused flooding in Zambezia and Tete, displacing more than 140,000 people; on 14 March,<br />\nCyclone Idai made landfall near the port City of Beira – home to 500,000 people -leaving death and destruction in its wake; and finally, over the weekend of 16-17 March, the weather system carried torrential rains across multiple areas, causing rivers to overflow and a dam in Buzi district to burst, sweeping away entire communities and leaving an unknown number of people stranded. As a result of the triple effect of the impact of Cyclone Idai and subsequent flooding, an estimated 1.85 million people are in need of humanitarian assistance and protection.<br />\nAs of 2 April, the official death toll had risen to 598 people, an increase of 80 since 1 April; with more than 1,600 people injured, according to the Government. The death toll is expected to continue to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known.</p>\n<p>Nearly 112,000 houses have been identified by the authorities as totally destroyed (62,153), partially destroyed (34,139) or flooded (15,784), leaving more than 131,000 people displaced in 136 sites across Sofala (109,199 people), Manica (14,047 people), Zambezia (5,235 people) and Tete (2,655 people) as of 2 April. There has been a significant decrease in the number of displacement sites in Zambezia province, from 13 to 3, as people begin to return home. Protection partners estimate that more than half of the affected people are children and the Government has registered more than 7,400 vulnerable people at the accommodation sites.</p>\n<p>More than 715,000 hectares of crops have been destroyed to date, raising concerns over food security, as the destruction occurred during the annual main harvest for the central region. Many people interviewed in collective sites by IOM have reported that, in addition to damaged or destroyed houses, lack of food and absence of livelihoods are among the primary concerns preventing people from returning.</p>\n<p>The humanitarian situation is compounded by a rising incidence of water-borne and vector-borne diseases in the affected districts. On 27 March, the Ministry of Health (MoH) declared a cholera outbreak in Beira. As of 2 April, some 1,428 cases of cholera and two deaths had been reported in Beira (1,218 cases; 1 death), Dondo (66 cases; 1 death) and Nhamatanda (144 cases), according to the Ministry of Health. Of these, 376 cases were reported in the last 24 hours.</p>\n<p>Health partners have also reported malaria cases in many affected areas.</p>\n<p>This Situation report provides initial estimates of the humanitarian impact of the Cyclone Idai weather system based on population estimates and rapid assessments. Sector-specific needs and requirements will continue to be updated to reflect new data from on-going sector assessments and further analysis.</p>\n",
+                "date": {
+                    "original": "2019-04-02T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-03T08:39:00+00:00"
+                }
+            }
+        }
+    ]
+}

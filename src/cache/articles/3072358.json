@@ -1,0 +1,168 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3072358?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3072358?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3072358",
+            "fields": {
+                "id": 3072358,
+                "uuid": "4c4a1e7c-06c9-388b-ad4c-cd1979704762",
+                "title": "IOM Mozambique: Cyclone Idai - Displacement Population and Flood Analysis, 3 April 2019",
+                "status": "published",
+                "body": "**Situation Overview**    \n\nTropical Cyclone Idai made landfall in central Mozambique the night of 14 March 2019. According to the Government of Mozambique, more than 598 people have died and more than 1,641 have been injured in the aftermath of the storm.    \n\nAs of 02 April 2019, according to Mozambique’s National Institute of Disaster Management (INGC), 131,136 individuals (32,290 families) have been displaced and taken shelter in evacuation centres in the four provinces of Sofala (107), Zambezia (3), Tete (5) and Manica (21). The majority of these centres are schools and churches.    \n\nAccording to government reports, 85,265 houses have been completely destroyed, 97,276 houses have been partially destroyed and 15,784 have been flooded.    \n\nThe data in this report has been compiled from secondary sources, including the Government of Mozambique. IOM will continue to work closely with the Government to provide regular updates.",
+                "file": [
+                    {
+                        "id": "2051326",
+                        "url": "https://reliefweb.int/attachments/2827e066-d9e4-3fdf-866a-c686eefb6c40/Mozambique%20Tropical%20Cyclone%20Idai%20Situation%20Report%203.pdf",
+                        "filename": "Mozambique Tropical Cyclone Idai Situation Report 3.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1068669",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/28/27/2827e066-d9e4-3fdf-866a-c686eefb6c40.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/28/27/2827e066-d9e4-3fdf-866a-c686eefb6c40.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/28/27/2827e066-d9e4-3fdf-866a-c686eefb6c40.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/28/27/2827e066-d9e4-3fdf-866a-c686eefb6c40.png",
+                            "version": "2051326-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://displacement.iom.int/reports/mozambique-%E2%80%94-tropical-cyclone-idai-situation-report-3-3-april-2019?close=true",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3072358",
+                "url_alias": "https://reliefweb.int/report/mozambique/iom-mozambique-cyclone-idai-displacement-population-and-flood-analysis-3-april",
+                "redirects": [
+                    "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-displacement-population-and-flood-03-april-2019"
+                ],
+                "body-html": "<p><strong>Situation Overview</strong></p>\n<p>Tropical Cyclone Idai made landfall in central Mozambique the night of 14 March 2019. According to the Government of Mozambique, more than 598 people have died and more than 1,641 have been injured in the aftermath of the storm.</p>\n<p>As of 02 April 2019, according to Mozambique’s National Institute of Disaster Management (INGC), 131,136 individuals (32,290 families) have been displaced and taken shelter in evacuation centres in the four provinces of Sofala (107), Zambezia (3), Tete (5) and Manica (21). The majority of these centres are schools and churches.</p>\n<p>According to government reports, 85,265 houses have been completely destroyed, 97,276 houses have been partially destroyed and 15,784 have been flooded.</p>\n<p>The data in this report has been compiled from secondary sources, including the Government of Mozambique. IOM will continue to work closely with the Government to provide regular updates.</p>\n",
+                "date": {
+                    "original": "2019-04-03T00:00:00+00:00",
+                    "changed": "2019-04-07T01:36:07+00:00",
+                    "created": "2019-04-06T21:38:45+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "time": 2552,
+    "href": "https://api.reliefweb.int/v1/reports/3076823?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3076823?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2545,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3076823",
+            "fields": {
+                "id": 3076823,
+                "uuid": "48881bc8-cd2f-36ab-aad3-af47c910923b",
+                "title": "Rapid Assessment Snapshot - Tropical Cyclone IDAI | Mozambique | Dondo District – East (09 April 2019)",
+                "status": "published",
+                "body": "**OVERVIEW**\n\nTropical Cyclone Idai made landfall during the night of 14th to 15th March 2019 along the coast of Dondo district (nearby the city of Beira) in the Province of Sofala, in central Mozambique.. The cyclone had heavy impacts on the city of Dondo as reported in the Initial Rapid Assessment Report, published on 25 March. The focus of this assessment was on relatively inaccessible coastal areas which had received minimal response and had not yet been properly assessed.  \n\nDondo distict is within Sofala province and has a population close to 185,000 according to the 2017 census (Instituto Nacional de Estatística, 2017). The extent of the damage across the district is currently being compiled and a district profile will be released on Friday 12 April.  \n\nA rapid assessment team made up of Cruz Vermellha de Mocambique (CVM) volunteers, IFRC logistics and assessment experts and the INGC Assessment Coordinator conducted the assessment in two locations. 2 interviews were conducted with local leaders using the inter-agency Mozambique Rapid Assessment form. The first was an interview with a community leader of Chinamacondo, providing an overview of the eastern part of the district. The second was with a community health worker in a small fishing community in Sengo. Transportation was by helicopter so aerial assessment could also be conducted of the arterial transportation routes and conditions on the coastline.",
+                "file": [
+                    {
+                        "id": "2051788",
+                        "url": "https://reliefweb.int/attachments/a2b2844e-8241-37be-b41c-d2b48b832421/MOZ_MRA_Report_Dondo_EastCoast_08April.pdf",
+                        "filename": "MOZ_MRA_Report_Dondo_EastCoast_08April.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "570634",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/a2/b2/a2b2844e-8241-37be-b41c-d2b48b832421.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a2/b2/a2b2844e-8241-37be-b41c-d2b48b832421.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/a2/b2/a2b2844e-8241-37be-b41c-d2b48b832421.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a2/b2/a2b2844e-8241-37be-b41c-d2b48b832421.png",
+                            "version": "2051788-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/378?appname=rwint-user-0",
+                        "id": 378,
+                        "name": "Government of Mozambique",
+                        "shortname": "Govt. Mozambique",
+                        "longname": "Government of Mozambique",
+                        "homepage": "http://www.portaldogoverno.gov.mz/",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1242?appname=rwint-user-0",
+                        "id": 1242,
+                        "name": "International Federation of Red Cross and Red Crescent Societies",
+                        "shortname": "IFRC",
+                        "longname": "International Federation of Red Cross and Red Crescent Societies",
+                        "spanish_name": "Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja",
+                        "homepage": "https://www.ifrc.org/",
+                        "type": {
+                            "id": 276,
+                            "name": "Red Cross/Red Crescent Movement"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3076823",
+                "url_alias": "https://reliefweb.int/report/mozambique/rapid-assessment-snapshot-tropical-cyclone-idai-mozambique-dondo-district-east-09",
+                "body-html": "<p><strong>OVERVIEW</strong></p>\n<p>Tropical Cyclone Idai made landfall during the night of 14th to 15th March 2019 along the coast of Dondo district (nearby the city of Beira) in the Province of Sofala, in central Mozambique.. The cyclone had heavy impacts on the city of Dondo as reported in the Initial Rapid Assessment Report, published on 25 March. The focus of this assessment was on relatively inaccessible coastal areas which had received minimal response and had not yet been properly assessed.</p>\n<p>Dondo distict is within Sofala province and has a population close to 185,000 according to the 2017 census (Instituto Nacional de Estatística, 2017). The extent of the damage across the district is currently being compiled and a district profile will be released on Friday 12 April.</p>\n<p>A rapid assessment team made up of Cruz Vermellha de Mocambique (CVM) volunteers, IFRC logistics and assessment experts and the INGC Assessment Coordinator conducted the assessment in two locations. 2 interviews were conducted with local leaders using the inter-agency Mozambique Rapid Assessment form. The first was an interview with a community leader of Chinamacondo, providing an overview of the eastern part of the district. The second was with a community health worker in a small fishing community in Sengo. Transportation was by helicopter so aerial assessment could also be conducted of the arterial transportation routes and conditions on the coastline.</p>\n",
+                "date": {
+                    "original": "2019-04-09T00:00:00+00:00",
+                    "changed": "2019-04-10T08:40:20+00:00",
+                    "created": "2019-04-10T07:21:38+00:00"
+                }
+            }
+        }
+    ]
+}

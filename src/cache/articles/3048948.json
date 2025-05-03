@@ -1,0 +1,164 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3048948?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3048948?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3048948",
+            "fields": {
+                "id": 3048948,
+                "title": "Mozambique: Emergency response to Cyclone Idai affected communities in Sofala Province – No. RRF 03/2019",
+                "status": "published",
+                "body": "Heavy rains caused by powerful tropical Cyclone Idai hit the central and northern regions of Mozambique from 14th March 2019, leading to massive floods and leaving at least 202 people dead, according to the President of Mozambique, Filipe Nyusi. The death toll is expected to rise in the coming days. The situation is likely to deteriorate and the number of people affected is likely to increase, as weather experts predict heavy rainfall in Sofala and Manica provinces from 19 to 21 March. Flood waters may rise up to around eight metres and at least 350,000 people are at risk (OCHA Flash Update, 19 March). There are also growing concerns regarding the potential effects of the overflow of the Marowanyati Dam in Zimbabwe on water levels in Mozambique.\n\nMost of the affected population are located in the provinces of Zambezia (districts of Chiunde, Luabo, Inhassugue, Mopeia, Nicoandala , Maquaival, Mocubela. Mulevala, Mocuba, Milage, Dere and Qualimane), Niassa (districts of Cuamba and Madimba), and Sofala Province (districts of Buzi, Chemba, Caia, Cherigoma, Chibabava, Dondo, Gorongosa, Morremeu, Marrigue , Muaza amd Nhamantanda).\n\nBased on initial assessments from ACT member Comité Ecuménico para o Desenvolvimento Social (CEDES)/Ecumenical Committee for Social Development, 683 of those affected in Zambezia by the floods have been identified as orphans and vulnerable children, and 165 have been identified as elderly. Moreover, 286 classrooms have been total destroyed forcing more 2,450 children out of schools. The damage to agricultural lands is also very significant, with at least 83,813 hectares of crops such as maize, cassava, sorghum and millets flooded, affecting 53,318 small farmers whose livelihoods depends on farm produce.",
+                "file": [
+                    {
+                        "id": "2048531",
+                        "url": "https://reliefweb.int/attachments/e05a6e65-8398-3292-b6b3-74d78afa690b/RRFs_Mozambique_Cyclone-Idai-No.RRF3_2019.pdf",
+                        "filename": "RRFs_Mozambique_Cyclone-Idai-No.RRF3_2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "513327",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/e0/5a/e05a6e65-8398-3292-b6b3-74d78afa690b.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e0/5a/e05a6e65-8398-3292-b6b3-74d78afa690b.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/e0/5a/e05a6e65-8398-3292-b6b3-74d78afa690b.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e0/5a/e05a6e65-8398-3292-b6b3-74d78afa690b.png",
+                            "version": "2048531-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://actalliance.org/appeals-rapid-response-funds/mozambique-emergency-response-to-cyclone-idai-affected-communities-in-sofala-province-no-rrf-03-2019/",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/4304?appname=rwint-user-0",
+                        "id": 4304,
+                        "name": "ACT Alliance",
+                        "shortname": "ACT Alliance",
+                        "homepage": "http://www.actalliance.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3048948",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-emergency-response-cyclone-idai-affected-communities-sofala-province-no",
+                "body-html": "<p>Heavy rains caused by powerful tropical Cyclone Idai hit the central and northern regions of Mozambique from 14th March 2019, leading to massive floods and leaving at least 202 people dead, according to the President of Mozambique, Filipe Nyusi. The death toll is expected to rise in the coming days. The situation is likely to deteriorate and the number of people affected is likely to increase, as weather experts predict heavy rainfall in Sofala and Manica provinces from 19 to 21 March. Flood waters may rise up to around eight metres and at least 350,000 people are at risk (OCHA Flash Update, 19 March). There are also growing concerns regarding the potential effects of the overflow of the Marowanyati Dam in Zimbabwe on water levels in Mozambique.</p>\n<p>Most of the affected population are located in the provinces of Zambezia (districts of Chiunde, Luabo, Inhassugue, Mopeia, Nicoandala , Maquaival, Mocubela. Mulevala, Mocuba, Milage, Dere and Qualimane), Niassa (districts of Cuamba and Madimba), and Sofala Province (districts of Buzi, Chemba, Caia, Cherigoma, Chibabava, Dondo, Gorongosa, Morremeu, Marrigue , Muaza amd Nhamantanda).</p>\n<p>Based on initial assessments from ACT member Comité Ecuménico para o Desenvolvimento Social (CEDES)/Ecumenical Committee for Social Development, 683 of those affected in Zambezia by the floods have been identified as orphans and vulnerable children, and 165 have been identified as elderly. Moreover, 286 classrooms have been total destroyed forcing more 2,450 children out of schools. The damage to agricultural lands is also very significant, with at least 83,813 hectares of crops such as maize, cassava, sorghum and millets flooded, affecting 53,318 small farmers whose livelihoods depends on farm produce.</p>\n",
+                "date": {
+                    "original": "2019-03-22T00:00:00+00:00",
+                    "changed": "2019-03-22T21:17:44+00:00",
+                    "created": "2019-03-22T19:41:00+00:00"
+                }
+            }
+        }
+    ]
+}

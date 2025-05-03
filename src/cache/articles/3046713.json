@@ -1,0 +1,211 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3046713?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3046713?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3046713",
+            "fields": {
+                "id": 3046713,
+                "title": "Cyclone Idai Situation Report 2 - period covered: March 19 - 20, 2019",
+                "status": "published",
+                "body": "**Situation Overview**\n\nTropical Cyclone Idai has dissipated after making landfall over Mozambique as the equivalent of a Category 2 hurricane on the Saffir-Simpson scale. At least 146 people were killed from flooding caused by the storm, including 66 in Mozambique, 56 in Malawi, and 24 in Zimbabwe. Various homes, schools, businesses, hospitals, and police stations were damaged, and thousands were forced to leave for higher ground. The cyclone reportedly impacted over 1.5 million people across the countries. There were also reports of power cuts. Flights throughout the region were disrupted during the storm. Ongoing flood-related impacts are being covered in separate Severe Flooding incidents for Mozambique, Malawi, and Zimbabwe. The government has confirmed 66 dead and the President has indicated the count could rise to 1,000.  \n\n**Significant Updates** \n\nBelow is a summary of current conditions and significant updates. The National Institute for Disaster Management (INGC) has set up its Center of Operations for Beira in a WFP-provided Wikhall at the airport. Members of the humanitarian community that are present in Beira are asked to participate at this meeting, with coordination currently being facilitated by WFP and COSACA.  \nFor teams arriving in Maputo, please proceed to OCHA daily briefing at 1100h, UNDP Meeting room before departing to the fields (-25.956251,32.594254) For all those arriving into Maputo, OCHA will be arranging daily briefings at 1100hrs at the UNDP office to update on the situation, response and gaps, with latest information from the field.",
+                "file": [
+                    {
+                        "id": "2048303",
+                        "url": "https://reliefweb.int/attachments/686a7e45-d297-3fb5-b174-3017d321193e/Cyclone%20Idai%20Situation%20Report%20%232%20March%2021%202019.pdf",
+                        "filename": "Cyclone Idai Situation Report #2 March 21 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "932671",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/68/6a/686a7e45-d297-3fb5-b174-3017d321193e.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/68/6a/686a7e45-d297-3fb5-b174-3017d321193e.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/68/6a/686a7e45-d297-3fb5-b174-3017d321193e.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/68/6a/686a7e45-d297-3fb5-b174-3017d321193e.png",
+                            "version": "2048303-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13123?appname=rwint-user-0",
+                        "id": 13123,
+                        "name": "Humanity Road",
+                        "shortname": "Humanity Road",
+                        "homepage": "http://www.humanityroad.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3046713",
+                "url_alias": "https://reliefweb.int/report/mozambique/cyclone-idai-situation-report-2-period-covered-march-19-20-2019",
+                "body-html": "<p><strong>Situation Overview</strong></p>\n<p>Tropical Cyclone Idai has dissipated after making landfall over Mozambique as the equivalent of a Category 2 hurricane on the Saffir-Simpson scale. At least 146 people were killed from flooding caused by the storm, including 66 in Mozambique, 56 in Malawi, and 24 in Zimbabwe. Various homes, schools, businesses, hospitals, and police stations were damaged, and thousands were forced to leave for higher ground. The cyclone reportedly impacted over 1.5 million people across the countries. There were also reports of power cuts. Flights throughout the region were disrupted during the storm. Ongoing flood-related impacts are being covered in separate Severe Flooding incidents for Mozambique, Malawi, and Zimbabwe. The government has confirmed 66 dead and the President has indicated the count could rise to 1,000.</p>\n<p><strong>Significant Updates</strong></p>\n<p>Below is a summary of current conditions and significant updates. The National Institute for Disaster Management (INGC) has set up its Center of Operations for Beira in a WFP-provided Wikhall at the airport. Members of the humanitarian community that are present in Beira are asked to participate at this meeting, with coordination currently being facilitated by WFP and COSACA.<br />\nFor teams arriving in Maputo, please proceed to OCHA daily briefing at 1100h, UNDP Meeting room before departing to the fields (-25.956251,32.594254) For all those arriving into Maputo, OCHA will be arranging daily briefings at 1100hrs at the UNDP office to update on the situation, response and gaps, with latest information from the field.</p>\n",
+                "date": {
+                    "original": "2019-03-20T00:00:00+00:00",
+                    "changed": "2019-03-21T22:15:30+00:00",
+                    "created": "2019-03-21T19:17:47+00:00"
+                }
+            }
+        }
+    ]
+}

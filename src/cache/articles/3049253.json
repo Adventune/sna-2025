@@ -1,0 +1,165 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3049253?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3049253?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3049253",
+            "fields": {
+                "id": 3049253,
+                "title": "Mozambique: Cyclone Idai - ETC Situation Report #3 (Reporting Period: 19/03/2019 to 22/03/2019)",
+                "status": "published",
+                "body": "**Highlights**\n\n• The most affected city area by the Tropical Cyclone Idai, Beira, continues to have no power services.  \nVoice services from the local provider are slowly recovering but are not fully reliable.\n\n• On 20 March, the Resident Coordinator for Mozambique proposed the official activation of a number of clusters, including the Emergency Telecommunications Cluster (ETC). Formal activation of all clusters along with the SCALE-UP protocol for 3 months was confirmed by the InterAgency Standing Committee (IASC) on 22 March.\n\n• The ETC Coordinator continues to engage with the response community and relevant government authorities to determine their ICT needs and planned activities to ensure an effective response.\n\n**Situation Overview**\n\nThe National Disaster Management Institute (INGC) of Mozambique estimates that 600,000 people are currently at risk and in urgent need of humanitarian assistance in the affected areas. The situation is likely to continue to deteriorate, and the number of people affected is likely to increase, as more heavy rainfall is predicted. An aerial survey of Buzi – home to more than 200,000 people – conducted after reports that the Buzi and Pungwe rivers had burst their banks, found thousands of people marooned on rooftops. The immediate priority is search and rescue for people stranded by flood waters. Main roads into and out of Beira remain cut due to flood waters and extensive damage to the road network",
+                "file": [
+                    {
+                        "id": "2051276",
+                        "url": "https://reliefweb.int/attachments/e5807554-dfa2-384d-a739-f48c3b1584fe/Mozambique%20-%20ETC%20Situation%20Report%20%233_0.pdf",
+                        "filename": "Mozambique - ETC Situation Report #3_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "172463",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/e5/80/e5807554-dfa2-384d-a739-f48c3b1584fe.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e5/80/e5807554-dfa2-384d-a739-f48c3b1584fe.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/e5/80/e5807554-dfa2-384d-a739-f48c3b1584fe.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e5/80/e5807554-dfa2-384d-a739-f48c3b1584fe.png",
+                            "version": "2051276-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-3",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3049253",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-etc-situation-report-3-reporting-period-19032019-22032019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• The most affected city area by the Tropical Cyclone Idai, Beira, continues to have no power services.<br />\nVoice services from the local provider are slowly recovering but are not fully reliable.</p>\n<p>• On 20 March, the Resident Coordinator for Mozambique proposed the official activation of a number of clusters, including the Emergency Telecommunications Cluster (ETC). Formal activation of all clusters along with the SCALE-UP protocol for 3 months was confirmed by the InterAgency Standing Committee (IASC) on 22 March.</p>\n<p>• The ETC Coordinator continues to engage with the response community and relevant government authorities to determine their ICT needs and planned activities to ensure an effective response.</p>\n<p><strong>Situation Overview</strong></p>\n<p>The National Disaster Management Institute (INGC) of Mozambique estimates that 600,000 people are currently at risk and in urgent need of humanitarian assistance in the affected areas. The situation is likely to continue to deteriorate, and the number of people affected is likely to increase, as more heavy rainfall is predicted. An aerial survey of Buzi – home to more than 200,000 people – conducted after reports that the Buzi and Pungwe rivers had burst their banks, found thousands of people marooned on rooftops. The immediate priority is search and rescue for people stranded by flood waters. Main roads into and out of Beira remain cut due to flood waters and extensive damage to the road network</p>\n",
+                "date": {
+                    "original": "2019-03-22T00:00:00+00:00",
+                    "changed": "2019-04-06T13:52:44+00:00",
+                    "created": "2019-03-23T11:09:31+00:00"
+                }
+            }
+        }
+    ]
+}

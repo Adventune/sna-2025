@@ -1,0 +1,185 @@
+{
+    "time": 1431,
+    "href": "https://api.reliefweb.int/v1/reports/3066338?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3066338?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1262,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3066338",
+            "fields": {
+                "id": 3066338,
+                "uuid": "ab4e3722-6ee7-38a5-bf05-941bba57c774",
+                "title": "Malawi — Tropical Cyclone Idai Multi-Sectoral Location Assessments: Chikwawa, ​Nsanje, Phalombe, And Zomba (2 April 2019)",
+                "status": "published",
+                "body": "**OVERVIEW**\n\nSince the beginning of March 2019, Malawi has experienced floods and sustained heavy rains caused by the tropical cyclone Idai weather system. IOM, in close coordination with the Government of Malawi through the Department of Disaster Management Affairs (DoDMA), conducted multi-sectoral location assessments in Chikwawa, Nsanje, Phalombe, Zomba districts from the 26th to the 31st of March 2019. \n\n**DEMOGRAPHICS**\n\n76,471 individuals (17,254 households) were reported across the 63 assessed displacement sites. The IDP population is composed of 58% of females and 42% of males. As seen in Figure 1, the largest age cohort is 18-59 years (52% female, 42% male), followed by 6-12 years (14% female, 16% male), and 13-17 years (14% female, 15% male). In terms of nationality, 330 Mozambicans were identified in two sites in Nsanje district. \n\n**SITE INFORMATION**\n\nAll the displacement sites that were assessed are collective centres. 30 of the displacement sites are schools, 9 are community centres and the remaining (25) are classified as other.\n\nTwenty-seven of the sites reported having a site management agency, and the remaining 37 reported no agency.\n\n60 of 64 are reported to be physically accessible. The remaining four sites reported that it was not safe and secure to access the site.",
+                "file": [
+                    {
+                        "id": "2050499",
+                        "url": "https://reliefweb.int/attachments/ab3ad1e5-b2f7-3b5f-acd2-342f8253f669/Malawi%20Site%20Assessments%202%20April%202019_V2_0.pdf",
+                        "filename": "Malawi Site Assessments 2 April 2019_V2_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "2210174",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/ab/3a/ab3ad1e5-b2f7-3b5f-acd2-342f8253f669.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ab/3a/ab3ad1e5-b2f7-3b5f-acd2-342f8253f669.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/ab/3a/ab3ad1e5-b2f7-3b5f-acd2-342f8253f669.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ab/3a/ab3ad1e5-b2f7-3b5f-acd2-342f8253f669.png",
+                            "version": "2050499-1-0"
+                        }
+                    }
+                ],
+                "origin": "http://www.globaldtm.info/malawi-tropical-cyclone-idai-multi-sectoral-location-assessments-chikwawa-%E2%80%8Bnsanje-phalombe-and-zomba-2-april-2019/",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1255?appname=rwint-user-0",
+                        "id": 1255,
+                        "name": "International Organization for Migration",
+                        "shortname": "IOM",
+                        "longname": "International Organization for Migration",
+                        "spanish_name": "Organización Internacional para las Migraciones",
+                        "homepage": "https://www.iom.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3066338",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-tropical-cyclone-idai-multi-sectoral-location-assessments-chikwawa-nsanje",
+                "body-html": "<p><strong>OVERVIEW</strong></p>\n<p>Since the beginning of March 2019, Malawi has experienced floods and sustained heavy rains caused by the tropical cyclone Idai weather system. IOM, in close coordination with the Government of Malawi through the Department of Disaster Management Affairs (DoDMA), conducted multi-sectoral location assessments in Chikwawa, Nsanje, Phalombe, Zomba districts from the 26th to the 31st of March 2019.</p>\n<p><strong>DEMOGRAPHICS</strong></p>\n<p>76,471 individuals (17,254 households) were reported across the 63 assessed displacement sites. The IDP population is composed of 58% of females and 42% of males. As seen in Figure 1, the largest age cohort is 18-59 years (52% female, 42% male), followed by 6-12 years (14% female, 16% male), and 13-17 years (14% female, 15% male). In terms of nationality, 330 Mozambicans were identified in two sites in Nsanje district.</p>\n<p><strong>SITE INFORMATION</strong></p>\n<p>All the displacement sites that were assessed are collective centres. 30 of the displacement sites are schools, 9 are community centres and the remaining (25) are classified as other.</p>\n<p>Twenty-seven of the sites reported having a site management agency, and the remaining 37 reported no agency.</p>\n<p>60 of 64 are reported to be physically accessible. The remaining four sites reported that it was not safe and secure to access the site.</p>\n",
+                "date": {
+                    "original": "2019-04-02T00:00:00+00:00",
+                    "changed": "2019-04-03T12:21:24+00:00",
+                    "created": "2019-04-03T11:02:28+00:00"
+                }
+            }
+        }
+    ]
+}

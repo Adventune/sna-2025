@@ -1,0 +1,198 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3043583?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3043583?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3043583",
+            "fields": {
+                "id": 3043583,
+                "title": "UNFPA ESARO Sub-Regional Situation Report Malawi-Mozambique-Zimbabwe, 14 March 2019",
+                "status": "published",
+                "body": "**Highlights:** \n\n• UNFPA has successfully positioned more than US$600,000, including pre-existing CERF-approved funds, for food insecurity in the region.\n\n• More than one million people have been affected by flooding, among which are 270,000 women of reproductive age. \n\n• Working alongside host governments and inter-agency committees, UNFPA is providing leadership in the areas of protection, sexual and reproductive health and coordination in support of affected populations. \n\n**Situation Overview** \n\nSince January, the Southern Africa region has been severely affected by flooding, due to the rainy season starting in Malawi as well as tropical cyclone Idai making landfall on 14 March, bringing torrential rainfall and winds to several provinces in Mozambique and with devastating effects for Beira city. Since 2018, Mozambique has been affected by acute food insecurity due to below-average and erratic rainfall.   \n\nTo date, as many as 29,613 people have been displaced in Malawi and Mozambique, seeking refuge in neighbouring areas. It is estimated that around half of all displaced persons are women and adolescents.\n \nIn Malawi, a total of 468,650 people have been affected by the floods and 30 have reportedly died. Two health facilities in the affected districts have been submerged in water and 377 people were reportedly injured. Of the affected population, it was estimated that around 117,160 were women of childbearing age and around 23,432 were pregnant. \n\nThe Mozambican National Institute of Meteorology issued an alert on 16 March that heavy rains and strong winds were expected in the provinces of Sofala, Manica, Tete, Inhambane and Gaza. This would worsen the situation in the central provinces, putting a greater number of people at risk and more of a burden on those already suffering from the flood and cyclone Idai. \n\nAn estimated 600,000 people were severely impacted by Idai, including about 141,000 people already affected by the preceding tropical depression and flooding earlier this month, during which 66 deaths and 111 injuries were reported, and more than 17,100 people were sheltered in 10 transit centres.\n\nIn Zimbabwe, tens of thousands of people were reportedly affected by the cyclone, with confirmed reports of more than 80 fatalities and 100 missing, and hundreds of houses, bridges, schools and roads washed away by flash floods and mudslides, especially in Chimanimani and Chipinge districts of Manicaland province. A high number of residents have reportedly been displaced.",
+                "file": [
+                    {
+                        "id": "2048029",
+                        "url": "https://reliefweb.int/attachments/33fb0127-93be-3bda-98fd-5ab75b3b8d64/Sub-regional%20Situation%20Report%20March%202019.pdf",
+                        "filename": "Sub-regional Situation Report March 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "183943",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/33/fb/33fb0127-93be-3bda-98fd-5ab75b3b8d64.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/33/fb/33fb0127-93be-3bda-98fd-5ab75b3b8d64.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/33/fb/33fb0127-93be-3bda-98fd-5ab75b3b8d64.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/33/fb/33fb0127-93be-3bda-98fd-5ab75b3b8d64.png",
+                            "version": "2048029-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://esaro.unfpa.org/en/publications/sub-regional-situation-report-malawi-mozambique-zimbabwe-march-2019",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1070?appname=rwint-user-0",
+                        "id": 1070,
+                        "name": "United Nations Population Fund",
+                        "shortname": "UNFPA",
+                        "longname": "United Nations Population Fund",
+                        "spanish_name": "Fondo de Población de las Naciones Unidas",
+                        "homepage": "https://www.unfpa.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3043583",
+                "url_alias": "https://reliefweb.int/report/malawi/unfpa-esaro-sub-regional-situation-report-malawi-mozambique-zimbabwe-14-march-2019",
+                "body-html": "<p><strong>Highlights:</strong></p>\n<p>• UNFPA has successfully positioned more than US$600,000, including pre-existing CERF-approved funds, for food insecurity in the region.</p>\n<p>• More than one million people have been affected by flooding, among which are 270,000 women of reproductive age.</p>\n<p>• Working alongside host governments and inter-agency committees, UNFPA is providing leadership in the areas of protection, sexual and reproductive health and coordination in support of affected populations.</p>\n<p><strong>Situation Overview</strong></p>\n<p>Since January, the Southern Africa region has been severely affected by flooding, due to the rainy season starting in Malawi as well as tropical cyclone Idai making landfall on 14 March, bringing torrential rainfall and winds to several provinces in Mozambique and with devastating effects for Beira city. Since 2018, Mozambique has been affected by acute food insecurity due to below-average and erratic rainfall.</p>\n<p>To date, as many as 29,613 people have been displaced in Malawi and Mozambique, seeking refuge in neighbouring areas. It is estimated that around half of all displaced persons are women and adolescents.</p>\n<p>In Malawi, a total of 468,650 people have been affected by the floods and 30 have reportedly died. Two health facilities in the affected districts have been submerged in water and 377 people were reportedly injured. Of the affected population, it was estimated that around 117,160 were women of childbearing age and around 23,432 were pregnant.</p>\n<p>The Mozambican National Institute of Meteorology issued an alert on 16 March that heavy rains and strong winds were expected in the provinces of Sofala, Manica, Tete, Inhambane and Gaza. This would worsen the situation in the central provinces, putting a greater number of people at risk and more of a burden on those already suffering from the flood and cyclone Idai.</p>\n<p>An estimated 600,000 people were severely impacted by Idai, including about 141,000 people already affected by the preceding tropical depression and flooding earlier this month, during which 66 deaths and 111 injuries were reported, and more than 17,100 people were sheltered in 10 transit centres.</p>\n<p>In Zimbabwe, tens of thousands of people were reportedly affected by the cyclone, with confirmed reports of more than 80 fatalities and 100 missing, and hundreds of houses, bridges, schools and roads washed away by flash floods and mudslides, especially in Chimanimani and Chipinge districts of Manicaland province. A high number of residents have reportedly been displaced.</p>\n",
+                "date": {
+                    "original": "2019-03-14T00:00:00+00:00",
+                    "changed": "2019-03-20T12:17:46+00:00",
+                    "created": "2019-03-20T09:55:52+00:00"
+                }
+            }
+        }
+    ]
+}

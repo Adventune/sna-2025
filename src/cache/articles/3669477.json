@@ -1,0 +1,194 @@
+{
+    "time": 1865,
+    "href": "https://api.reliefweb.int/v1/reports/3669477?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3669477?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1720,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3669477",
+            "fields": {
+                "id": 3669477,
+                "uuid": "4c571063-7459-344c-9c5b-832e096fe43c",
+                "title": "Mozambique - Cyclone Idai: One month on, needs are outpacing funding",
+                "status": "published",
+                "body": "**BACKGROUND**\n\n**On 14 March, Cyclone Idai made landfall in Mozambique bringing devastation to the port City of Beira and surrounding areas**. The following weekend, the weather system swept more through additional areas of the central region, causing massive flooding and leaving entire swathes of the country submerged under 10 metres of water.\n\n**In the aftermath of the storm, there was an inspiring and instant outpouring of international support and solidarity**. More than 14 countries, including 5 from Africa, deployed over 100 assets to support the aid effort, and relief supplies were flown in from around the world. Civil Protection mechanisms were activated and Emergency Medical Teams were deployed. Donors triggered crisis mechanisms and the Emergency Relief Coordinator allocated $14 million from the Central Emergency Response Fund (CERF), enabling humanitarian actors to rapidly scale-up operations.  \nAid organisations pre-financed more than $55 million for the response using internal funds that must now be repaid.\n\n**The incredible generosity of the international community has enabled the Government of Mozambique and aid agencies to reach more than 750,000 people with food assistance, vaccinate more than 745,000 people against cholera, deliver shelter and non-food items to more than 100,000 people, engage even the most remote communities on issues such as prevention of sexual exploitation and abuse, establish clear referral pathways and services for survivors of gender-based violence, and so much more.\n\n**One month on, the humanitarian situation remains critical**. Hundreds of thousands of people who have lost everything require external assistance to survive: hundreds of hectares of crops have been lost; disease outbreaks (malaria and cholera) are not yet under control; over 160,000 people remain in accommodation sites; and basic services have not yet been fully re-established.\n\n**Yet, resources are running out.** The response to Cyclone Idai is just 21.4 per cent funded, with $60.4 million received out of $282 million requested. Although there are some resources in the pipeline, more are urgently needed to prevent the situation unravelling and allow the response to scale up and reach those most in need. Aid agencies are therefore calling on the international community to dig deep and urgently find additional funds to support the life-saving response. Unearmarked flexible financing will allow agencies to work most efficiently – to target the most critical needs and plug the most urgent gaps. Early action now will save considerable resources in the longer term. The medium term recovery and reconstruction effort – which is absolutely vital – will be made much more difficult if we are not able to stabilise the situation now.",
+                "file": [
+                    {
+                        "id": "2171121",
+                        "url": "https://reliefweb.int/attachments/cca89f20-8f6f-3682-b954-439281227231/ROSEA_20190410_Mozambique_Funding_2pager.pdf",
+                        "filename": "ROSEA_20190410_Mozambique_Funding_2pager.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "566491",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/cc/a8/cca89f20-8f6f-3682-b954-439281227231.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/cc/a8/cca89f20-8f6f-3682-b954-439281227231.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/cc/a8/cca89f20-8f6f-3682-b954-439281227231.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/cc/a8/cca89f20-8f6f-3682-b954-439281227231.png",
+                            "version": "2171121-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4728,
+                        "name": "Land Slide",
+                        "code": "LS"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3669477",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-one-month-needs-are-outpacing-funding",
+                "body-html": "<p><strong>BACKGROUND</strong></p>\n<p><strong>On 14 March, Cyclone Idai made landfall in Mozambique bringing devastation to the port City of Beira and surrounding areas</strong>. The following weekend, the weather system swept more through additional areas of the central region, causing massive flooding and leaving entire swathes of the country submerged under 10 metres of water.</p>\n<p><strong>In the aftermath of the storm, there was an inspiring and instant outpouring of international support and solidarity</strong>. More than 14 countries, including 5 from Africa, deployed over 100 assets to support the aid effort, and relief supplies were flown in from around the world. Civil Protection mechanisms were activated and Emergency Medical Teams were deployed. Donors triggered crisis mechanisms and the Emergency Relief Coordinator allocated $14 million from the Central Emergency Response Fund (CERF), enabling humanitarian actors to rapidly scale-up operations.<br />\nAid organisations pre-financed more than $55 million for the response using internal funds that must now be repaid.</p>\n<p>**The incredible generosity of the international community has enabled the Government of Mozambique and aid agencies to reach more than 750,000 people with food assistance, vaccinate more than 745,000 people against cholera, deliver shelter and non-food items to more than 100,000 people, engage even the most remote communities on issues such as prevention of sexual exploitation and abuse, establish clear referral pathways and services for survivors of gender-based violence, and so much more.</p>\n<p><strong>One month on, the humanitarian situation remains critical</strong>. Hundreds of thousands of people who have lost everything require external assistance to survive: hundreds of hectares of crops have been lost; disease outbreaks (malaria and cholera) are not yet under control; over 160,000 people remain in accommodation sites; and basic services have not yet been fully re-established.</p>\n<p><strong>Yet, resources are running out.</strong> The response to Cyclone Idai is just 21.4 per cent funded, with $60.4 million received out of $282 million requested. Although there are some resources in the pipeline, more are urgently needed to prevent the situation unravelling and allow the response to scale up and reach those most in need. Aid agencies are therefore calling on the international community to dig deep and urgently find additional funds to support the life-saving response. Unearmarked flexible financing will allow agencies to work most efficiently – to target the most critical needs and plug the most urgent gaps. Early action now will save considerable resources in the longer term. The medium term recovery and reconstruction effort – which is absolutely vital – will be made much more difficult if we are not able to stabilise the situation now.</p>\n",
+                "date": {
+                    "original": "2019-04-10T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-10T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

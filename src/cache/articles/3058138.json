@@ -1,0 +1,169 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3058138?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3058138?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3058138",
+            "fields": {
+                "id": 3058138,
+                "title": "Mozambique: Tropical Cyclone Idai Situation Update, 28 March 2019",
+                "status": "published",
+                "body": "**1. Situation Update**\n\n• As per satellite imagery from 25 March, flood water appears to be slowly receding. The main reservoir levels in central Mozambique (Zambezi, Buzi, and Pungwe river basins) remain on alert, along with the Cahora Bassa and Chicamba dams. Rainfall forecasts indicate scattered rainfall for Sofala and Manica provinces.\n\n• According to the Office for the Coordination of Humanitarian Affairs (OCHA), the risk of water-borne and vector-borne diseases remains very high and there are reports of increasing cases of acute diarrhea, along with reports of malaria.\n\n• The Logistics Cluster has set up an information management/coordination platform in Chimoio where it facilitates access to common logistics services, including storage and transport. A Logistics Cluster meeting was held on Thursday 28 March to identify logistics gaps and needs from partners and available capacity.\n\n• The Logistics Cluster has published Standard Operating Procedures (SOPs) for service provision (transport and temporary storage services). Service request forms are available on the Logistics Cluster website. Requests must be submitted at least 24 hours in advance. Cut-off time for requests is 14:00 for services to be provided the following day.\n\n• Partners are encouraged to liaise with the respective cluster to find out about the list of priority destinations/sectors communicated by the National Institute of Disaster Management (INGC) on a daily basis before submitting the SRFs.",
+                "file": [
+                    {
+                        "id": "2049625",
+                        "url": "https://reliefweb.int/attachments/0edb9783-e87f-3ee4-b08d-0c38d60bf171/logistics_cluster_mozambique_situation_update_190328.pdf",
+                        "filename": "logistics_cluster_mozambique_situation_update_190328.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "197632",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/0e/db/0edb9783-e87f-3ee4-b08d-0c38d60bf171.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/0e/db/0edb9783-e87f-3ee4-b08d-0c38d60bf171.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/0e/db/0edb9783-e87f-3ee4-b08d-0c38d60bf171.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/0e/db/0edb9783-e87f-3ee4-b08d-0c38d60bf171.png",
+                            "version": "2049625-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://logcluster.org/document/mozambique-situation-update-28-march-2019-0",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3594?appname=rwint-user-0",
+                        "id": 3594,
+                        "name": "Logistics Cluster",
+                        "shortname": "Logistics Cluster",
+                        "homepage": "https://www.logcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3058138",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-situation-update-28-march-2019",
+                "body-html": "<p><strong>1. Situation Update</strong></p>\n<p>• As per satellite imagery from 25 March, flood water appears to be slowly receding. The main reservoir levels in central Mozambique (Zambezi, Buzi, and Pungwe river basins) remain on alert, along with the Cahora Bassa and Chicamba dams. Rainfall forecasts indicate scattered rainfall for Sofala and Manica provinces.</p>\n<p>• According to the Office for the Coordination of Humanitarian Affairs (OCHA), the risk of water-borne and vector-borne diseases remains very high and there are reports of increasing cases of acute diarrhea, along with reports of malaria.</p>\n<p>• The Logistics Cluster has set up an information management/coordination platform in Chimoio where it facilitates access to common logistics services, including storage and transport. A Logistics Cluster meeting was held on Thursday 28 March to identify logistics gaps and needs from partners and available capacity.</p>\n<p>• The Logistics Cluster has published Standard Operating Procedures (SOPs) for service provision (transport and temporary storage services). Service request forms are available on the Logistics Cluster website. Requests must be submitted at least 24 hours in advance. Cut-off time for requests is 14:00 for services to be provided the following day.</p>\n<p>• Partners are encouraged to liaise with the respective cluster to find out about the list of priority destinations/sectors communicated by the National Institute of Disaster Management (INGC) on a daily basis before submitting the SRFs.</p>\n",
+                "date": {
+                    "original": "2019-03-28T00:00:00+00:00",
+                    "changed": "2019-03-28T23:42:50+00:00",
+                    "created": "2019-03-28T21:04:47+00:00"
+                }
+            }
+        }
+    ]
+}

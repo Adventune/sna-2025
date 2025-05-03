@@ -1,0 +1,197 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3042668?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3042668?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3042668",
+            "fields": {
+                "id": 3042668,
+                "uuid": "67616f8c-ae01-3c1c-9a66-9a1c76544b70",
+                "title": "Malawi - Floods: Update 1 Briefing note – 19 March 2019",
+                "status": "published",
+                "body": "Since the publication of the ACAPS Malawi Floods Briefing Note on 12 March, severe flooding has continued in southern and central regions of Malawi. In total, an estimated 922,900 people have been affected across 14 districts, with 56 deaths and 577 injuries reported and more than 125,000 displaced. The number of people reported as being affected by flooding has increased by more than 450,000 since the last ACAPS report. This trend can likely be attributed in part to the impact of Cyclone Idai, which has exacerbated rainfall across Malawi, and potentially to new information becoming available. Response gaps include shelter, food, health, and WASH. There is an elevated risk that rain linked to Tropical Cyclone Idai will persist in southern and central regions of Malawi, which will likely continue to drive humanitarian needs in flood-affected areas.",
+                "file": [
+                    {
+                        "id": "2047929",
+                        "url": "https://reliefweb.int/attachments/7443f0bd-1cae-3564-922c-b3899c2073b6/20190318_acaps_briefing_note_malawi_floods_.pdf",
+                        "filename": "20190318_acaps_briefing_note_malawi_floods_.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "394989",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/74/43/7443f0bd-1cae-3564-922c-b3899c2073b6.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/74/43/7443f0bd-1cae-3564-922c-b3899c2073b6.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/74/43/7443f0bd-1cae-3564-922c-b3899c2073b6.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/74/43/7443f0bd-1cae-3564-922c-b3899c2073b6.png",
+                            "version": "2047929-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://acaps.org/country/malawi/special-reports#container-1107",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/9417?appname=rwint-user-0",
+                        "id": 9417,
+                        "name": "ACAPS",
+                        "shortname": "ACAPS",
+                        "longname": "ACAPS",
+                        "spanish_name": "ACAPS",
+                        "homepage": "https://www.acaps.org/en/",
+                        "type": {
+                            "id": 270,
+                            "name": "Academic and Research Institution"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3042668",
+                "url_alias": "https://reliefweb.int/report/malawi/malawi-floods-update-1-briefing-note-19-march-2019",
+                "redirects": [
+                    "https://reliefweb.int/report/malawi/malawi-floods-briefing-note-19-march-2019"
+                ],
+                "body-html": "<p>Since the publication of the ACAPS Malawi Floods Briefing Note on 12 March, severe flooding has continued in southern and central regions of Malawi. In total, an estimated 922,900 people have been affected across 14 districts, with 56 deaths and 577 injuries reported and more than 125,000 displaced. The number of people reported as being affected by flooding has increased by more than 450,000 since the last ACAPS report. This trend can likely be attributed in part to the impact of Cyclone Idai, which has exacerbated rainfall across Malawi, and potentially to new information becoming available. Response gaps include shelter, food, health, and WASH. There is an elevated risk that rain linked to Tropical Cyclone Idai will persist in southern and central regions of Malawi, which will likely continue to drive humanitarian needs in flood-affected areas.</p>\n",
+                "date": {
+                    "original": "2019-03-19T00:00:00+00:00",
+                    "changed": "2019-03-19T20:56:25+00:00",
+                    "created": "2019-03-19T20:08:06+00:00"
+                }
+            }
+        }
+    ]
+}

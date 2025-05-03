@@ -1,0 +1,208 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3102493?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3102493?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3102493",
+            "fields": {
+                "id": 3102493,
+                "title": "Mozambique: Cyclones Idai and Kenneth - ETC Situation Report #11 (Reporting Period: 23/04/19 to 28/04/19)",
+                "status": "published",
+                "body": "**Highlights**\n\n• To date, 1,708 humanitarians are registered to access Emergency Telecommunications Cluster (ETC) Internet connectivity to enable them to do their work.\n\n• The ETC continues to provide connectivity in the Emergency Operations Centre (EOC) and 16x additional sites in Beira, as well as in Buzi and Nhamatanda to support the increasing humanitarian response.\n\n• The ETC has stopped providing connectivity services in Grudja as they were no longer required.\n\n• The ETC is responding to Cyclone Kenneth and is sending staff and equipment to the northern city of Pemba.\n\n• The ETC is still only 50% funded, with US$600,000 received so far. It requires a total of US$1.2 million to provide critical communications services in up to four operational areas for six months along with a number of connection sites including accommodation centres, health centres, distribution points and humanitarian hubs. \n\n**Situation Overview**\n\nTropical Cyclone Kenneth slammed into Mozambique’s Northern Coast on 25 April, just five weeks after the country was struck by powerful Cyclone Idai, from which the country is only just beginning to recover. Cyclone Kenneth is the first tropical cyclone with the equivalent of hurricane strength to strike Mozambique's northern province of Cabo Delgado since modern record-keeping began 60 years ago. According to the UN, the strike by Kenneth marked the first time in recorded history that Mozambique has been hit by two powerful cyclones in the same season.\n\nAs of 28 April, heavy rains continue in Cabo Delgado province and are expected to continue for the next 2-3 days. An assessment done in the northern city of Pemba confirmed that the communications status is very bad and urgently needed.",
+                "file": [
+                    {
+                        "id": "2055106",
+                        "url": "https://reliefweb.int/attachments/09d3e372-ac54-3981-bc76-0f429d1b2bd6/ETC%20Mozambique%20SitRep%20%2312_0.pdf",
+                        "filename": "ETC Mozambique SitRep #12_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "212511",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/09/d3/09d3e372-ac54-3981-bc76-0f429d1b2bd6.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/09/d3/09d3e372-ac54-3981-bc76-0f429d1b2bd6.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/09/d3/09d3e372-ac54-3981-bc76-0f429d1b2bd6.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/09/d3/09d3e372-ac54-3981-bc76-0f429d1b2bd6.png",
+                            "version": "2055106-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-12",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 48078,
+                        "name": "Tropical Cyclone Kenneth - Apr 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000038-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3102493",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclones-idai-and-kenneth-etc-situation-report-11-reporting-period",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• To date, 1,708 humanitarians are registered to access Emergency Telecommunications Cluster (ETC) Internet connectivity to enable them to do their work.</p>\n<p>• The ETC continues to provide connectivity in the Emergency Operations Centre (EOC) and 16x additional sites in Beira, as well as in Buzi and Nhamatanda to support the increasing humanitarian response.</p>\n<p>• The ETC has stopped providing connectivity services in Grudja as they were no longer required.</p>\n<p>• The ETC is responding to Cyclone Kenneth and is sending staff and equipment to the northern city of Pemba.</p>\n<p>• The ETC is still only 50% funded, with US$600,000 received so far. It requires a total of US$1.2 million to provide critical communications services in up to four operational areas for six months along with a number of connection sites including accommodation centres, health centres, distribution points and humanitarian hubs.</p>\n<p><strong>Situation Overview</strong></p>\n<p>Tropical Cyclone Kenneth slammed into Mozambique’s Northern Coast on 25 April, just five weeks after the country was struck by powerful Cyclone Idai, from which the country is only just beginning to recover. Cyclone Kenneth is the first tropical cyclone with the equivalent of hurricane strength to strike Mozambique's northern province of Cabo Delgado since modern record-keeping began 60 years ago. According to the UN, the strike by Kenneth marked the first time in recorded history that Mozambique has been hit by two powerful cyclones in the same season.</p>\n<p>As of 28 April, heavy rains continue in Cabo Delgado province and are expected to continue for the next 2-3 days. An assessment done in the northern city of Pemba confirmed that the communications status is very bad and urgently needed.</p>\n",
+                "date": {
+                    "original": "2019-04-28T00:00:00+00:00",
+                    "changed": "2019-04-29T12:41:17+00:00",
+                    "created": "2019-04-29T10:17:18+00:00"
+                }
+            }
+        }
+    ]
+}

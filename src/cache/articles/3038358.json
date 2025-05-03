@@ -1,0 +1,182 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3038358?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3038358?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3038358",
+            "fields": {
+                "id": 3038358,
+                "uuid": "0dfd24c7-4d80-3c1e-a19c-e57b80d1ea84",
+                "title": "Mozambique: Cyclone Idai Flash Update No. 2, 16 March 2019",
+                "status": "published",
+                "body": "HIGHLIGHTS\n\n• Initial reports indicate significant damage to Beira and surrounding areas, including destroyed houses.\n\n• Sofala, Manica, Zambezia and Inhambane provinces have been hardest hit by the cyclone’s path and the preceding tropical depression.\n\n• An inter-agency assessment team, led by the National Institute of Disaster Management’s (INGC) Director, is on ground in Beira.\n\nSITUATION OVERVIEW\n\nFollowing Tropical Cyclone Idai’s landfall, the city of Beira, in Sofala Province of central Mozambique lost communication. The full impact of the cyclone is yet to be established. However, initial reports indicate loss of life and significant damage to infrastructure in Beira and surrounding areas. At least 21 deaths and more than 70 injuries have been reported in Sofala Province, according to preliminary reports from State broadcaster Radio Moçambique. Meanwhile, the assessment team on the ground reports significant numbers of destroyed houses, missing roofs and fallen trees. WFP’s warehouses were also damaged during the cyclone. The Beira airport has been temporarily closed.  \n\nIn Zambézia Province, the cyclone impacted Chinde District, where 1,192 people were affected and 84 houses flooded. In Manica Province, 127 houses, 36 classrooms and two health units were damaged or destroyed, and severe damage on crops has been reported. Five districts in Manica do not have electricity due to the downfall of 61 electricity poles. In Inhambane province, at least 39 houses were destroyed, 10 classrooms and one health unit affected in the districts of Govuro and Vilankulos.  \n\nThe President of Mozambique, Filipe Nyusi, addressed the media on 15 March, informing that the Mozambican government is “doing all we can to ensure that the situation returns to normal” and welcoming the international solidarity shown in the aftermath of the cyclone.  \n\nPrior to Cyclone Idai making landfall, the weather system had already affected at least 141,000 people, with 66 deaths recorded and 111 people injured, according to media reports quoting government officials. More than 17,100 people are estimated to be displaced in Zambezia and Tete, with 10 transit centres established in Zambezia and two in Tete.  \n\nThe strength of the storm has diminished as it has crossed land. However, it has continued to bring strong winds and heavy rains as it has made its way across central Mozambique and into eastern Zimbabwe. The Mozambican National Institute of Meteorology issued an alert on 16 March 2019 of heavy rains and strong winds in the provinces of Sofala,  \nManica, Tete, Inhambane and Gaza.\n\nRESPONSE\n\nAhead of Cylone Idai’s landfall, the government established six on-site emergency operations and coordination teams, pre-positioned in six strategic locations (Vilankulos, Caia, Beira, Chimoio, Tete and Quelimane). The main coordination team moved by road from Caia to Beira on 15 March, led by the General Director of INGC and including members from the National Unit for Civil Protection (UNAPROC), focal points from the met-service, health, education, road and bridge authorities, river management authorities, energy sector, agriculture, shelter and water and sanitation sectors, as well as humanitarian partners. An inter-agency mission left from Maputo on 16 March to support the team on the ground. A self-sufficient IPSS medical team has also deployed from South Africa.  \n\nA WFP Logistics Cluster team has arrived in-country to assess required common services support. WFP is bringing one more cargo helicopter (M8) to support response operations.  \n\nRapid assessments are underway in areas impacted by the storm, with further information expected in the coming period.",
+                "file": [
+                    {
+                        "id": "2047549",
+                        "url": "https://reliefweb.int/attachments/4498f480-13df-3d89-a48d-e023079c8eac/ROSEA_20190316_TC%20Idai_Flash%20Update2.pdf",
+                        "filename": "ROSEA_20190316_TC Idai_Flash Update2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "215314",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/44/98/4498f480-13df-3d89-a48d-e023079c8eac.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/44/98/4498f480-13df-3d89-a48d-e023079c8eac.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/44/98/4498f480-13df-3d89-a48d-e023079c8eac.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/44/98/4498f480-13df-3d89-a48d-e023079c8eac.png",
+                            "version": "2047549-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3038358",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-flash-update-no-2-16-march-2019",
+                "body-html": "<p>HIGHLIGHTS</p>\n<p>• Initial reports indicate significant damage to Beira and surrounding areas, including destroyed houses.</p>\n<p>• Sofala, Manica, Zambezia and Inhambane provinces have been hardest hit by the cyclone’s path and the preceding tropical depression.</p>\n<p>• An inter-agency assessment team, led by the National Institute of Disaster Management’s (INGC) Director, is on ground in Beira.</p>\n<p>SITUATION OVERVIEW</p>\n<p>Following Tropical Cyclone Idai’s landfall, the city of Beira, in Sofala Province of central Mozambique lost communication. The full impact of the cyclone is yet to be established. However, initial reports indicate loss of life and significant damage to infrastructure in Beira and surrounding areas. At least 21 deaths and more than 70 injuries have been reported in Sofala Province, according to preliminary reports from State broadcaster Radio Moçambique. Meanwhile, the assessment team on the ground reports significant numbers of destroyed houses, missing roofs and fallen trees. WFP’s warehouses were also damaged during the cyclone. The Beira airport has been temporarily closed.</p>\n<p>In Zambézia Province, the cyclone impacted Chinde District, where 1,192 people were affected and 84 houses flooded. In Manica Province, 127 houses, 36 classrooms and two health units were damaged or destroyed, and severe damage on crops has been reported. Five districts in Manica do not have electricity due to the downfall of 61 electricity poles. In Inhambane province, at least 39 houses were destroyed, 10 classrooms and one health unit affected in the districts of Govuro and Vilankulos.</p>\n<p>The President of Mozambique, Filipe Nyusi, addressed the media on 15 March, informing that the Mozambican government is “doing all we can to ensure that the situation returns to normal” and welcoming the international solidarity shown in the aftermath of the cyclone.</p>\n<p>Prior to Cyclone Idai making landfall, the weather system had already affected at least 141,000 people, with 66 deaths recorded and 111 people injured, according to media reports quoting government officials. More than 17,100 people are estimated to be displaced in Zambezia and Tete, with 10 transit centres established in Zambezia and two in Tete.</p>\n<p>The strength of the storm has diminished as it has crossed land. However, it has continued to bring strong winds and heavy rains as it has made its way across central Mozambique and into eastern Zimbabwe. The Mozambican National Institute of Meteorology issued an alert on 16 March 2019 of heavy rains and strong winds in the provinces of Sofala,<br />\nManica, Tete, Inhambane and Gaza.</p>\n<p>RESPONSE</p>\n<p>Ahead of Cylone Idai’s landfall, the government established six on-site emergency operations and coordination teams, pre-positioned in six strategic locations (Vilankulos, Caia, Beira, Chimoio, Tete and Quelimane). The main coordination team moved by road from Caia to Beira on 15 March, led by the General Director of INGC and including members from the National Unit for Civil Protection (UNAPROC), focal points from the met-service, health, education, road and bridge authorities, river management authorities, energy sector, agriculture, shelter and water and sanitation sectors, as well as humanitarian partners. An inter-agency mission left from Maputo on 16 March to support the team on the ground. A self-sufficient IPSS medical team has also deployed from South Africa.</p>\n<p>A WFP Logistics Cluster team has arrived in-country to assess required common services support. WFP is bringing one more cargo helicopter (M8) to support response operations.</p>\n<p>Rapid assessments are underway in areas impacted by the storm, with further information expected in the coming period.</p>\n",
+                "date": {
+                    "original": "2019-03-16T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-16T12:40:03+00:00"
+                }
+            }
+        }
+    ]
+}

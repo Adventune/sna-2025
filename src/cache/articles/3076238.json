@@ -1,0 +1,219 @@
+{
+    "time": 1523,
+    "href": "https://api.reliefweb.int/v1/reports/3076238?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3076238?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1512,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3076238",
+            "fields": {
+                "id": 3076238,
+                "uuid": "299e1a19-a164-3366-b250-fd995b90df2c",
+                "title": "UNICEF Zimbabwe Cyclone Idai Situation Report #4 (31 March - 7 April 2019)",
+                "status": "published",
+                "body": "- The International Coordination Group (ICG) has approved 975,646 doses of the oral cholera vaccine (OCV) to be administered in two rounds by mid April 2019. \n\n- UNICEF and partners reached 2,956 children and adolescents with child protection services. \n\n- With UNICEF support, 5,128 children and adolescents living with HIV/AIDS, have been traced to ensure they have continued access to treatment. \n\n- UN agencies and non-governmental organizations launched a revised Humanitarian Flash Appeal in response to Cyclone Idai for US$60 million, in addition to the US$234 million required for the drought response. \n\n- UNICEF has requested US$10.9 million to meet the urgent humanitarian needs of children and women affected by the floods: 70 per cent remains unfunded.\n\n**SITUATION IN NUMBERS**\n\n**270,000** People affected by Cyclone Idai/Floods\n\n**129,600** Children affected by Cyclone Idai/Floods\n\n**344** Deaths reported (Source: DCP-April 2019)\n\n**257** People missing (Source: DCP-April 2019) \n\n**UNICEF HAC Appeal US$18.4 million** of which US$10.9 million is for the cyclone response\n\n**Situation Overview**\n\nAn estimated 270,000 people, including 129,600 children, affected by flooding remain in need of critical, lifesaving support to enable them to recover from the impact of the floods caused by Cyclone Idai in all affected districts. As of 07 April, 334 people had been reported dead and over 257 people were reported missing due to the cyclone. An estimated one in ten people living in the affected provinces are living with HIV. During floods and droughts, vulnerability increases both for treatment attrition and increased transmission. The ICG has approved an emergency preventive oral cholera vaccination campaign. A total of 975,646 doses will be provided targeting 487,825 people from the age of one and above. UN agencies and non-governmental organizations launched a revised Humanitarian Flash Appeal in response to Cyclone Idai, requesting an additional US$60 million.  \nThis brings the total amount required by humanitarian partners to US$294 million, to complement national response efforts to drought, economic challenges and Cyclone Idai in Zimbabwe. There has been an improvement in road access to the most affected communities. During the reporting week road access to Kopa growth point which was one of the most affected areas was established. Social workers who were deployed in the area reported that over 238 children lost one or both caregivers in the areas which has a total child population of approximately 3,000 children.",
+                "file": [
+                    {
+                        "id": "2051718",
+                        "url": "https://reliefweb.int/attachments/ac8a9705-d6b1-3c57-b744-946902a293da/UNICEF%20Zimbabwe%20Cyclone%20Idai%20Humanitarian%20Situation%20Report%20%234.pdf",
+                        "filename": "UNICEF Zimbabwe Cyclone Idai Humanitarian Situation Report #4.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "3019670",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/ac/8a/ac8a9705-d6b1-3c57-b744-946902a293da.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/ac/8a/ac8a9705-d6b1-3c57-b744-946902a293da.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/ac/8a/ac8a9705-d6b1-3c57-b744-946902a293da.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ac/8a/ac8a9705-d6b1-3c57-b744-946902a293da.png",
+                            "version": "2051718-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3076238",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/unicef-zimbabwe-cyclone-idai-situation-report-4-31-march-7-april-2019",
+                "body-html": "<ul>\n<li>\n<p>The International Coordination Group (ICG) has approved 975,646 doses of the oral cholera vaccine (OCV) to be administered in two rounds by mid April 2019.</p>\n</li>\n<li>\n<p>UNICEF and partners reached 2,956 children and adolescents with child protection services.</p>\n</li>\n<li>\n<p>With UNICEF support, 5,128 children and adolescents living with HIV/AIDS, have been traced to ensure they have continued access to treatment.</p>\n</li>\n<li>\n<p>UN agencies and non-governmental organizations launched a revised Humanitarian Flash Appeal in response to Cyclone Idai for US$60 million, in addition to the US$234 million required for the drought response.</p>\n</li>\n<li>\n<p>UNICEF has requested US$10.9 million to meet the urgent humanitarian needs of children and women affected by the floods: 70 per cent remains unfunded.</p>\n</li>\n</ul>\n<p><strong>SITUATION IN NUMBERS</strong></p>\n<p><strong>270,000</strong> People affected by Cyclone Idai/Floods</p>\n<p><strong>129,600</strong> Children affected by Cyclone Idai/Floods</p>\n<p><strong>344</strong> Deaths reported (Source: DCP-April 2019)</p>\n<p><strong>257</strong> People missing (Source: DCP-April 2019)</p>\n<p><strong>UNICEF HAC Appeal US$18.4 million</strong> of which US$10.9 million is for the cyclone response</p>\n<p><strong>Situation Overview</strong></p>\n<p>An estimated 270,000 people, including 129,600 children, affected by flooding remain in need of critical, lifesaving support to enable them to recover from the impact of the floods caused by Cyclone Idai in all affected districts. As of 07 April, 334 people had been reported dead and over 257 people were reported missing due to the cyclone. An estimated one in ten people living in the affected provinces are living with HIV. During floods and droughts, vulnerability increases both for treatment attrition and increased transmission. The ICG has approved an emergency preventive oral cholera vaccination campaign. A total of 975,646 doses will be provided targeting 487,825 people from the age of one and above. UN agencies and non-governmental organizations launched a revised Humanitarian Flash Appeal in response to Cyclone Idai, requesting an additional US$60 million.<br />\nThis brings the total amount required by humanitarian partners to US$294 million, to complement national response efforts to drought, economic challenges and Cyclone Idai in Zimbabwe. There has been an improvement in road access to the most affected communities. During the reporting week road access to Kopa growth point which was one of the most affected areas was established. Social workers who were deployed in the area reported that over 238 children lost one or both caregivers in the areas which has a total child population of approximately 3,000 children.</p>\n",
+                "date": {
+                    "original": "2019-04-07T00:00:00+00:00",
+                    "changed": "2019-04-09T20:54:22+00:00",
+                    "created": "2019-04-09T18:43:20+00:00"
+                }
+            }
+        }
+    ]
+}

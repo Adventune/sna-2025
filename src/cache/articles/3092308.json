@@ -1,0 +1,246 @@
+{
+    "time": 11,
+    "href": "https://api.reliefweb.int/v1/reports/3092308?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3092308?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3092308",
+            "fields": {
+                "id": 3092308,
+                "uuid": "8b99d9a8-d9b1-3c5e-8746-384568168e32",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 17 (As of 20 April 2019)",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• The number of internally displaced people living in accommodation centres was 77,003 people across 66 sites in Manica (32); Sofala (26); Tete (5) and Zambezia (3), as of 20 April.\n\n• At least 240 people were relocated from Beira City to Guara Guara on 20 April, where most are temporarily staying in a collective site as they begin to rebuild their homes.\n\n• Hard-to-reach areas have been reported in Nhamatanda, Buzi, and Chibabava districts\n\n**1.85M** People in need\n\n**6,506** Cholera cases\n\n**1.3M** People reached with food assistance\n\n**~240** People relocated from Beira to Guara Guara\n\n**14,159** Malaria cases in Sofala Province\n\n**335K** School-aged children impacted by floods\n\n**SITUATION OVERVIEW** \n\nOn 20 April, the planned relocation of 400 people from Beira City to Guara Guara proceeded smoothly according to protection partners. Prior to the relocation, the government, supported by protection partners, organized a “go-and-see” visit for three community leaders from the IFAPA site in Beira to inspect the conditions in the sites in Guara Guara. The leaders reportedly expressed content with the situation in the sites and were later asked to share their findings with the entire community in IFAPA. Construction of temporary latrines for the new arrivals was completed on 18 April. The authorities have, however, requested additional support with tents and non-food items. UNICEF has provided a large tent (102 meters), which will be erected by COSACA to serve as backup, in case more shelter is required.\n\nMany interior roads remain inaccessible, as numerous secondary roads were washed away or cut off. In Sofala and Manica provinces, efforts are underway to ensure that life-saving assistance reaches areas hard-to-reach or inaccessible by road, including in Buzi, Chibabava, Nhamatanda and Sussendenga districts.\n\nMeanwhile, the number of displaced people living in accommodation centres has increased by more than 8,000 people since 18 April, according to Government reports. As of 20 April, there were 77,003 people in 66 sites across Manica (32);  \nSofala (26); Tete (5) and Zambezia (3). \n\n**FUNDING**\n\nFunding towards the revised Humanitarian Response Plan, calling for US$337.2 million (including $282 million for the Cyclone Idai response) has reached 24.3 per cent. Multiple Member States have provided financial contributions for the humanitarian response in Mozambique, with at least $116.2 million recorded in the Financial Tracking System (FTS) as of 15 April, of which $82.1 million has been allocated against the appeal. This includes funding received for both the preexisting drought response and the floods/Cyclone Idai response. Member States whose contributions are not yet reflected in FTS are encouraged to report as soon as possible: https://fts.unocha.org/content/report-contribution",
+                "file": [
+                    {
+                        "id": "2054334",
+                        "url": "https://reliefweb.int/attachments/7d264085-3e12-3460-9fe3-98af0b173b85/ROSEA_20190420_Mozambique_SitRep17_as_of_20April2019_for_upload.pdf",
+                        "filename": "ROSEA_20190420_Mozambique_SitRep17_as_of_20April2019_for_upload.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "286148",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/7d/26/7d264085-3e12-3460-9fe3-98af0b173b85.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/7d/26/7d264085-3e12-3460-9fe3-98af0b173b85.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/7d/26/7d264085-3e12-3460-9fe3-98af0b173b85.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/7d/26/7d264085-3e12-3460-9fe3-98af0b173b85.png",
+                            "version": "2054334-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3092308",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-17-20-april-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The number of internally displaced people living in accommodation centres was 77,003 people across 66 sites in Manica (32); Sofala (26); Tete (5) and Zambezia (3), as of 20 April.</p>\n<p>• At least 240 people were relocated from Beira City to Guara Guara on 20 April, where most are temporarily staying in a collective site as they begin to rebuild their homes.</p>\n<p>• Hard-to-reach areas have been reported in Nhamatanda, Buzi, and Chibabava districts</p>\n<p><strong>1.85M</strong> People in need</p>\n<p><strong>6,506</strong> Cholera cases</p>\n<p><strong>1.3M</strong> People reached with food assistance</p>\n<p><strong>~240</strong> People relocated from Beira to Guara Guara</p>\n<p><strong>14,159</strong> Malaria cases in Sofala Province</p>\n<p><strong>335K</strong> School-aged children impacted by floods</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>On 20 April, the planned relocation of 400 people from Beira City to Guara Guara proceeded smoothly according to protection partners. Prior to the relocation, the government, supported by protection partners, organized a “go-and-see” visit for three community leaders from the IFAPA site in Beira to inspect the conditions in the sites in Guara Guara. The leaders reportedly expressed content with the situation in the sites and were later asked to share their findings with the entire community in IFAPA. Construction of temporary latrines for the new arrivals was completed on 18 April. The authorities have, however, requested additional support with tents and non-food items. UNICEF has provided a large tent (102 meters), which will be erected by COSACA to serve as backup, in case more shelter is required.</p>\n<p>Many interior roads remain inaccessible, as numerous secondary roads were washed away or cut off. In Sofala and Manica provinces, efforts are underway to ensure that life-saving assistance reaches areas hard-to-reach or inaccessible by road, including in Buzi, Chibabava, Nhamatanda and Sussendenga districts.</p>\n<p>Meanwhile, the number of displaced people living in accommodation centres has increased by more than 8,000 people since 18 April, according to Government reports. As of 20 April, there were 77,003 people in 66 sites across Manica (32);<br />\nSofala (26); Tete (5) and Zambezia (3).</p>\n<p><strong>FUNDING</strong></p>\n<p>Funding towards the revised Humanitarian Response Plan, calling for US$337.2 million (including $282 million for the Cyclone Idai response) has reached 24.3 per cent. Multiple Member States have provided financial contributions for the humanitarian response in Mozambique, with at least $116.2 million recorded in the Financial Tracking System (FTS) as of 15 April, of which $82.1 million has been allocated against the appeal. This includes funding received for both the preexisting drought response and the floods/Cyclone Idai response. Member States whose contributions are not yet reflected in FTS are encouraged to report as soon as possible: <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://fts.unocha.org/content/report-contribution\">https://fts.unocha.org/content/report-contribution</a></p>\n",
+                "date": {
+                    "original": "2019-04-20T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-21T21:11:25+00:00"
+                }
+            }
+        }
+    ]
+}

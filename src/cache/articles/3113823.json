@@ -1,0 +1,198 @@
+{
+    "time": 843,
+    "href": "https://api.reliefweb.int/v1/reports/3113823?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3113823?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 836,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3113823",
+            "fields": {
+                "id": 3113823,
+                "title": "Mozambique: Tropical Cyclone Idai, Situation Report 02 (April 12 2019)",
+                "status": "published",
+                "body": "**1. HIGHLIGHTS**\n\n**Surveillance**\n\nWHO continues to work closely with INS and MOH and partners to strengthened surveillance of cholera and other main epidemic-prone diseases or conditions. The roll out of a field data collection tool (EWAR in a box) was completed in all 4 districts at (Beira, Buzi, Nhamatando and Dondo). To-date, 32 sites are reporting allowing to accelerate and streamline the flow, analysis and reporting of data to orient the response.\n\n**Cholera**\n\nAs part of the ongoing Cholera response, the Ministry of Health and partners concluded on 10 April 2019 a successful six-day emergency cholera vaccination campaign that reached more than 800 000 people in four districts. The risk of cholera remains very high and needs to be followed up closely multi-sector preparedness and response. \n\n**WASH**\n\nThe risk of communicable diseases continues due to stagnant flood water, continuing limited access to safe water and over-crowding accommodation centers. There are too few implementing partners with the capacity to provide the needed sanitation actives.\n\n**Health Cluster**\n\nThe Mozambique Health Cluster consists of 46 Partners who are implementing activities and supporting the MoH across 11 provinces, predominantly in Sofala. Our understanding on the\n\n**Operational Support and Logistics**\n\nWHO received a number of health kits including a donation from the Russian Federation which was handed over to the MoH as well as other health kits which were handed to key implementing partners",
+                "file": [
+                    {
+                        "id": "2056636",
+                        "url": "https://reliefweb.int/attachments/1ceaca98-fc3e-3903-bf67-4bbf2857e263/WHOSitRep2Mozambique12April2019.pdf",
+                        "filename": "WHOSitRep2Mozambique12April2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "777921",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/1c/ea/1ceaca98-fc3e-3903-bf67-4bbf2857e263.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/1c/ea/1ceaca98-fc3e-3903-bf67-4bbf2857e263.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/1c/ea/1ceaca98-fc3e-3903-bf67-4bbf2857e263.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1c/ea/1ceaca98-fc3e-3903-bf67-4bbf2857e263.png",
+                            "version": "2056636-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.afro.who.int/publications/tropical-cyclone-idai-mozambique-situation-report-2",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1275?appname=rwint-user-0",
+                        "id": 1275,
+                        "name": "World Health Organization",
+                        "shortname": "WHO",
+                        "longname": "World Health Organization",
+                        "spanish_name": "Organización Mundial de la Salud",
+                        "homepage": "https://www.who.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3113823",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-situation-report-02-april-12-2019",
+                "redirects": [
+                    "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-situation-report-01-april-12-2019"
+                ],
+                "body-html": "<p><strong>1. HIGHLIGHTS</strong></p>\n<p><strong>Surveillance</strong></p>\n<p>WHO continues to work closely with INS and MOH and partners to strengthened surveillance of cholera and other main epidemic-prone diseases or conditions. The roll out of a field data collection tool (EWAR in a box) was completed in all 4 districts at (Beira, Buzi, Nhamatando and Dondo). To-date, 32 sites are reporting allowing to accelerate and streamline the flow, analysis and reporting of data to orient the response.</p>\n<p><strong>Cholera</strong></p>\n<p>As part of the ongoing Cholera response, the Ministry of Health and partners concluded on 10 April 2019 a successful six-day emergency cholera vaccination campaign that reached more than 800 000 people in four districts. The risk of cholera remains very high and needs to be followed up closely multi-sector preparedness and response.</p>\n<p><strong>WASH</strong></p>\n<p>The risk of communicable diseases continues due to stagnant flood water, continuing limited access to safe water and over-crowding accommodation centers. There are too few implementing partners with the capacity to provide the needed sanitation actives.</p>\n<p><strong>Health Cluster</strong></p>\n<p>The Mozambique Health Cluster consists of 46 Partners who are implementing activities and supporting the MoH across 11 provinces, predominantly in Sofala. Our understanding on the</p>\n<p><strong>Operational Support and Logistics</strong></p>\n<p>WHO received a number of health kits including a donation from the Russian Federation which was handed over to the MoH as well as other health kits which were handed to key implementing partners</p>\n",
+                "date": {
+                    "original": "2019-04-12T00:00:00+00:00",
+                    "changed": "2019-05-07T08:08:49+00:00",
+                    "created": "2019-04-12T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

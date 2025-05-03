@@ -1,0 +1,200 @@
+{
+    "time": 14,
+    "href": "https://api.reliefweb.int/v1/reports/3081473?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3081473?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 7,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3081473",
+            "fields": {
+                "id": 3081473,
+                "uuid": "2250695d-4cbf-3f2f-8b7b-1b613a627ab7",
+                "title": "Southern Africa Regional Technical Cash Working Group (SARTCWG) - Cyclone Idai regional coordination, Mozambique: Cash Working Group and Social Protection Working Group Updates, Sit Rep 1 - 05/04/2019",
+                "status": "published",
+                "body": "The situation in Mozambique is evolving rapidly, The information included in this sitrep below reflects the current understanding of the different groups as of 4 April 2019.  \n\nAn active Social Protection Working group and a national CWG in exist in Maputo and a sub-national group in Beira has been set up since the start of the emergency. There is a strong desire by all actors to build links to planned emergency cash or voucher programming, and initial meetings between the Maputo CWG and SP working group have taken place.",
+                "file": [
+                    {
+                        "id": "2052312",
+                        "url": "https://reliefweb.int/attachments/d522bdb7-fab3-3c46-8015-ac5ae940caf0/SARTCWG-Mozambique-Sit-Rep-1-08042019-v2.pdf",
+                        "filename": "SARTCWG-Mozambique-Sit-Rep-1-08042019-v2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "371721",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/d5/22/d522bdb7-fab3-3c46-8015-ac5ae940caf0.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d5/22/d522bdb7-fab3-3c46-8015-ac5ae940caf0.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/d5/22/d522bdb7-fab3-3c46-8015-ac5ae940caf0.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d5/22/d522bdb7-fab3-3c46-8015-ac5ae940caf0.png",
+                            "version": "2052312-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2926?appname=rwint-user-0",
+                        "id": 2926,
+                        "name": "World Vision",
+                        "shortname": "World Vision",
+                        "longname": "World Vision",
+                        "homepage": "https://www.wvi.org/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/42909?appname=rwint-user-0",
+                        "id": 42909,
+                        "name": "Norwegian Capacity",
+                        "shortname": "NORCAP",
+                        "longname": "Norwegian Capacity",
+                        "homepage": "https://www.nrc.no/norcap/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3081473",
+                "url_alias": "https://reliefweb.int/report/mozambique/southern-africa-regional-technical-cash-working-group-sartcwg-cyclone-idai",
+                "body-html": "<p>The situation in Mozambique is evolving rapidly, The information included in this sitrep below reflects the current understanding of the different groups as of 4 April 2019.</p>\n<p>An active Social Protection Working group and a national CWG in exist in Maputo and a sub-national group in Beira has been set up since the start of the emergency. There is a strong desire by all actors to build links to planned emergency cash or voucher programming, and initial meetings between the Maputo CWG and SP working group have taken place.</p>\n",
+                "date": {
+                    "original": "2019-04-05T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-12T13:09:21+00:00"
+                }
+            }
+        }
+    ]
+}

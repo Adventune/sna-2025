@@ -1,0 +1,246 @@
+{
+    "time": 16,
+    "href": "https://api.reliefweb.int/v1/reports/3091613?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3091613?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 7,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3091613",
+            "fields": {
+                "id": 3091613,
+                "uuid": "4aa32189-0c16-3697-b87b-49167171c9e5",
+                "title": "Mozambique: Cyclone Idai & Floods Situation Report No. 16 (As of 18 April 2019)",
+                "status": "published",
+                "body": "This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners.  \nThe Situation Report, which covers the period 17 to 18 April, builds on Flash Updates #1 through #15 and provides detailed information on the situation and response by sector. The next report will be issued as of 20 April 2019. \n\n**HIGHLIGHTS** \n\n• Heavy rains and strong winds on 15 and 16 April have damaged roads and shelters in several locations.\n\n• The number of internally displaced people living in accommodation centres decreased to 68,974 people across 67 sites in Manica (32); Sofala (27); Tete (5) and Zambezia (3), as of 18 April.\n\n• There were 12, 297 malaria cases reported as of 18 April, compared to 11,565 cases on 17 April, according to the Ministry of Health.\n\n• The number of new cholera cases reported each day is beginning to decline, following the successful Oral Cholera Vaccination campaign. \n\n• More than 1.3 million people had received food assistance in the provinces of Sofala, Tete, Zambezia and Manica, as of 18 April, according to the Food Cluster. \n\n1.85M People in need \n\n6,258 Cholera cases \n\n1.3M People reached with food assistance \n\n~69K IDPs in accommodation centres \n\n12,297 Malaria cases in Sofala Province \n\n400 Displaced people identified and in need of assistance in Manica. \n\n**SITUATION OVERVIEW**     \n\nHeavy rains and strong winds on 15 and 16 April caused damage to shelters and roads in multiple locations, impacting communities that were only just beginning to recover from the floods and making humanitarian access more difficult. In Guara Guara, around 50 per cent of the tents used by displaced people for temporary shelter were reportedly damaged or destroyed, leaving people either out in the open or crowded into the over-congested remaining shelters. For several isolated communities, the fresh rains washed away roads that had only recently become passable, including in the Buzi area.    \n\nThe continued wet conditions pose a risk for increased disease outbreaks. As of 18 April, 12,297 malaria cases had been reported, according to the Ministry of Health. The number of cholera cases reported daily, however, continued to decline, as the effects of the Oral Cholera Vaccination (OCV) campaign began to be felt.    \n\nMeanwhile, the number of displaced people living in accommodation centres continued to reduce, according to Government reports. As of 18 April, there were 68,974 people in 67 sites across Manica (32); Sofala (27); Tete (5) and Zambezia (3); a reduction of about 1,800 people and two sites in Sofala province from 16 April.    \n\nEducation Partners are supporting the Government to clear schools that have been vacated by IDPs to support the resumption of regular classes. Schools in Nhamatanda resumed on 15 April. However, students have reported challenges, including the lack of books, school bags and uniform, as well as concerns over the dilapidated state of the school structures.  \n\nEducation partners, in collaboration with the Government and UNDP, have raised concern over the presence of asbestos in debris, including in schools and are taking action to mitigate the risks.",
+                "file": [
+                    {
+                        "id": "2053746",
+                        "url": "https://reliefweb.int/attachments/803459ee-698c-3f03-a898-2c11873977d9/ROSEA_20190418_Mozambique_SitRep%2016_as%20of%2018%20April%202019.%20FINAL.pdf",
+                        "filename": "ROSEA_20190418_Mozambique_SitRep 16_as of 18 April 2019. FINAL.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "245859",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/80/34/803459ee-698c-3f03-a898-2c11873977d9.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/80/34/803459ee-698c-3f03-a898-2c11873977d9.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/80/34/803459ee-698c-3f03-a898-2c11873977d9.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/80/34/803459ee-698c-3f03-a898-2c11873977d9.png",
+                            "version": "2053746-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4601,
+                        "name": "Recovery and Reconstruction"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3091613",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-situation-report-no-16-18-april-2019",
+                "body-html": "<p>This Situation Report is produced by OCHA Regional Office for Southern and Eastern Africa in collaboration with humanitarian partners.<br />\nThe Situation Report, which covers the period 17 to 18 April, builds on Flash Updates #1 through #15 and provides detailed information on the situation and response by sector. The next report will be issued as of 20 April 2019.</p>\n<p><strong>HIGHLIGHTS</strong></p>\n<p>• Heavy rains and strong winds on 15 and 16 April have damaged roads and shelters in several locations.</p>\n<p>• The number of internally displaced people living in accommodation centres decreased to 68,974 people across 67 sites in Manica (32); Sofala (27); Tete (5) and Zambezia (3), as of 18 April.</p>\n<p>• There were 12, 297 malaria cases reported as of 18 April, compared to 11,565 cases on 17 April, according to the Ministry of Health.</p>\n<p>• The number of new cholera cases reported each day is beginning to decline, following the successful Oral Cholera Vaccination campaign.</p>\n<p>• More than 1.3 million people had received food assistance in the provinces of Sofala, Tete, Zambezia and Manica, as of 18 April, according to the Food Cluster.</p>\n<p>1.85M People in need</p>\n<p>6,258 Cholera cases</p>\n<p>1.3M People reached with food assistance</p>\n<p>~69K IDPs in accommodation centres</p>\n<p>12,297 Malaria cases in Sofala Province</p>\n<p>400 Displaced people identified and in need of assistance in Manica.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>Heavy rains and strong winds on 15 and 16 April caused damage to shelters and roads in multiple locations, impacting communities that were only just beginning to recover from the floods and making humanitarian access more difficult. In Guara Guara, around 50 per cent of the tents used by displaced people for temporary shelter were reportedly damaged or destroyed, leaving people either out in the open or crowded into the over-congested remaining shelters. For several isolated communities, the fresh rains washed away roads that had only recently become passable, including in the Buzi area.</p>\n<p>The continued wet conditions pose a risk for increased disease outbreaks. As of 18 April, 12,297 malaria cases had been reported, according to the Ministry of Health. The number of cholera cases reported daily, however, continued to decline, as the effects of the Oral Cholera Vaccination (OCV) campaign began to be felt.</p>\n<p>Meanwhile, the number of displaced people living in accommodation centres continued to reduce, according to Government reports. As of 18 April, there were 68,974 people in 67 sites across Manica (32); Sofala (27); Tete (5) and Zambezia (3); a reduction of about 1,800 people and two sites in Sofala province from 16 April.</p>\n<p>Education Partners are supporting the Government to clear schools that have been vacated by IDPs to support the resumption of regular classes. Schools in Nhamatanda resumed on 15 April. However, students have reported challenges, including the lack of books, school bags and uniform, as well as concerns over the dilapidated state of the school structures.</p>\n<p>Education partners, in collaboration with the Government and UNDP, have raised concern over the presence of asbestos in debris, including in schools and are taking action to mitigate the risks.</p>\n",
+                "date": {
+                    "original": "2019-04-18T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-04-19T22:08:55+00:00"
+                }
+            }
+        }
+    ]
+}

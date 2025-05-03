@@ -1,0 +1,238 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3100998?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3100998?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3100998",
+            "fields": {
+                "id": 3100998,
+                "uuid": "5d536965-d3d7-38f9-869d-9ce69dfc2c2a",
+                "title": "UNICEF Malawi Humanitarian Situation Report - Flood Situation Report: No.5 (12 April 2019)",
+                "status": "published",
+                "body": "**Highlights**\n\n• More than 16,200 flood-affected students resumed or continued their education with UNICEF support.\n\n• UNICEF provided safe water to over 54,200 people and sanitation facilities to 51,000 people.\n\n• There have been no additional cases of cholera since last week - the total number, since the onset of the floods, remains at three.\n\n• To date, the lives of 10,953 children have been saved after successfully recovering from Severe Acute Malnutrition representing 93 per cent recovery rate.\n\n• With UNICEF support, 31, 978 people were provided with health care through UNICEF-supported mobile clinics.\n\n**Situation overview**\n\nIn early March, heavy and persistent rains caused severe flooding across districts in southern Malawi. A total of 868,895 people were affected, including more than 86,976 displaced persons, with 60 deaths and 672 injuries recorded according to the Government. In total, 15 districts and two cities have been impacted.  \n\nThere have been no further floods since mid-March. Waters have receded, and displaced persons have started to return home. However, due to flood-related damage to people’s houses, around 70 per cent remain in camps. More than 731,000 people need immediate food assistance and the situation is likely to worsen, as crops were destroyed by the floods.  \n\nConditions in evacuation centers are improving but camps remain cramped and unhygienic. Food and other supplies are not reaching all people affected. There have been three cases of cholera reported since the floods. Several schools continued being used as evacuation camps, negatively impacting on children’s education.",
+                "file": [
+                    {
+                        "id": "2054914",
+                        "url": "https://reliefweb.int/attachments/b0aa6a4a-0cf9-31e4-b9ed-ff404c6e7c3f/Malawi%20Floods%20Sitrep%20No%205%20-%2012%20Apr%202019.pdf",
+                        "filename": "Malawi Floods Sitrep No 5 - 12 Apr 2019.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1091184",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/b0/aa/b0aa6a4a-0cf9-31e4-b9ed-ff404c6e7c3f.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b0/aa/b0aa6a4a-0cf9-31e4-b9ed-ff404c6e7c3f.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/b0/aa/b0aa6a4a-0cf9-31e4-b9ed-ff404c6e7c3f.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b0/aa/b0aa6a4a-0cf9-31e4-b9ed-ff404c6e7c3f.png",
+                            "version": "2054914-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                    "id": 146,
+                    "name": "Malawi",
+                    "shortname": "Malawi",
+                    "iso3": "mwi",
+                    "location": {
+                        "lat": -13.22,
+                        "lon": 33.74
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47463,
+                        "name": "Southern Africa: Drought - 2018-2022",
+                        "status": "past",
+                        "glide": "DR-2018-000429-ZWE",
+                        "type": [
+                            {
+                                "id": 4672,
+                                "name": "Drought",
+                                "code": "DR",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4672,
+                        "name": "Drought",
+                        "code": "DR"
+                    },
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3100998",
+                "url_alias": "https://reliefweb.int/report/malawi/unicef-malawi-humanitarian-situation-report-flood-situation-report-no5-12-april-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• More than 16,200 flood-affected students resumed or continued their education with UNICEF support.</p>\n<p>• UNICEF provided safe water to over 54,200 people and sanitation facilities to 51,000 people.</p>\n<p>• There have been no additional cases of cholera since last week - the total number, since the onset of the floods, remains at three.</p>\n<p>• To date, the lives of 10,953 children have been saved after successfully recovering from Severe Acute Malnutrition representing 93 per cent recovery rate.</p>\n<p>• With UNICEF support, 31, 978 people were provided with health care through UNICEF-supported mobile clinics.</p>\n<p><strong>Situation overview</strong></p>\n<p>In early March, heavy and persistent rains caused severe flooding across districts in southern Malawi. A total of 868,895 people were affected, including more than 86,976 displaced persons, with 60 deaths and 672 injuries recorded according to the Government. In total, 15 districts and two cities have been impacted.</p>\n<p>There have been no further floods since mid-March. Waters have receded, and displaced persons have started to return home. However, due to flood-related damage to people’s houses, around 70 per cent remain in camps. More than 731,000 people need immediate food assistance and the situation is likely to worsen, as crops were destroyed by the floods.</p>\n<p>Conditions in evacuation centers are improving but camps remain cramped and unhygienic. Food and other supplies are not reaching all people affected. There have been three cases of cholera reported since the floods. Several schools continued being used as evacuation camps, negatively impacting on children’s education.</p>\n",
+                "date": {
+                    "original": "2019-04-12T00:00:00+00:00",
+                    "changed": "2019-04-26T19:32:38+00:00",
+                    "created": "2019-04-26T19:17:19+00:00"
+                }
+            }
+        }
+    ]
+}

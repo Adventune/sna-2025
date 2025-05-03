@@ -1,0 +1,208 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3040663?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3040663?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3040663",
+            "fields": {
+                "id": 3040663,
+                "uuid": "379f9c21-b7be-355d-8330-a784c6041ab3",
+                "title": "Zimbabwe: Floods Flash Update No. 2, 18 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• Flooding caused by the Tropical Cyclone Idai weather system continues to cause massive destruction, with heavy rains reported in Manicaland and Masvingo provinces.\n\n• At least 82 deaths have been reported, 200 people have been injured and over 200 are missing in Manicaland and Masvingo provinces.\n\n• Chimanimani and Chipinge remain the hardest-hit districts.\n\n• Crops and livestock have been destroyed.\n\n• Power supply and communication continue to be disrupted in affected areas.\n\n**SITUATION OVERVIEW**\n\nThe flooding caused by the Tropical Cyclone Idai weather system since 15 March 2019 continues to cause massive destruction, with heavy rains ongoing in Manicaland and Masvingo provinces of Zimbabwe. The hardest-hit district of Chimanimani remains inaccessible as heavy rains have damaged roads and main access bridges have been washed away.\n\nAt least 82 deaths and over 200 injuries have been reported, mainly in Chimanimani, and 217 people are reportedly missing. Chimanimani mortuary is reportedly full. At least 923 homes have been destroyed in Chimanimani, Mutasa, Mutare, Chipinge, Buhera, Chikomba, Gutu and Bikita districts. In Chimanimani alone, eight bridges have been destroyed. In Buhera, the Marowanyati dam has overflowed and many families are displaced. Crops and livestock have been destroyed in all affected areas. Overall, more than 2,500 households (12,500 to 15,000 people) are estimated to be affected. However, an accurate assessment of the number of people impacted and displaced is difficult to establish at this point, as many district wards remain inaccessible.\n\nMeanwhile, damage to the port in Beira and its access roads in neighbouring Mozambique may affect fuel and food supplies to Zimbabwe, as well as livelihoods of people in the eastern regions of the country that rely heavily on the Zimbabwe/Mozambique trading corridor.",
+                "headline": {
+                    "title": "Flooding from Tropical Cyclone Idai continues to cause massive destruction in Zimbabwe",
+                    "summary": "At least 82 deaths have been reported, 200 people have been injured and more than 200 are missing in Manicaland and Masvingo provinces. Access remains difficult due to damaged roads and bridges.",
+                    "image": {
+                        "id": "1260378",
+                        "width": "1024",
+                        "height": "683",
+                        "url": "https://reliefweb.int/sites/default/files/images/reports/b9/0e/b90e17d6-5b19-3df6-8772-ef3185a5ae50.jpg",
+                        "filename": "Nyanga Floods 009-XL.jpg",
+                        "mimetype": "image/jpeg",
+                        "filesize": "272556",
+                        "copyright": "Matilda Moyo/OCHA",
+                        "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/images/reports/b9/0e/b90e17d6-5b19-3df6-8772-ef3185a5ae50.jpg",
+                        "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/images/reports/b9/0e/b90e17d6-5b19-3df6-8772-ef3185a5ae50.jpg",
+                        "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/images/reports/b9/0e/b90e17d6-5b19-3df6-8772-ef3185a5ae50.jpg"
+                    }
+                },
+                "file": [
+                    {
+                        "id": "2047749",
+                        "url": "https://reliefweb.int/attachments/a918ba9b-4f23-3f3f-b8d3-4ce4e03a15b0/ROSEA_20190318_Zimbabwe%20Floods_Flash_Update%232.pdf",
+                        "filename": "ROSEA_20190318_Zimbabwe Floods_Flash_Update#2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "156167",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/a9/18/a918ba9b-4f23-3f3f-b8d3-4ce4e03a15b0.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/a9/18/a918ba9b-4f23-3f3f-b8d3-4ce4e03a15b0.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/a9/18/a918ba9b-4f23-3f3f-b8d3-4ce4e03a15b0.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a9/18/a918ba9b-4f23-3f3f-b8d3-4ce4e03a15b0.png",
+                            "version": "2047749-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3040663",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-floods-flash-update-no-2-18-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• Flooding caused by the Tropical Cyclone Idai weather system continues to cause massive destruction, with heavy rains reported in Manicaland and Masvingo provinces.</p>\n<p>• At least 82 deaths have been reported, 200 people have been injured and over 200 are missing in Manicaland and Masvingo provinces.</p>\n<p>• Chimanimani and Chipinge remain the hardest-hit districts.</p>\n<p>• Crops and livestock have been destroyed.</p>\n<p>• Power supply and communication continue to be disrupted in affected areas.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>The flooding caused by the Tropical Cyclone Idai weather system since 15 March 2019 continues to cause massive destruction, with heavy rains ongoing in Manicaland and Masvingo provinces of Zimbabwe. The hardest-hit district of Chimanimani remains inaccessible as heavy rains have damaged roads and main access bridges have been washed away.</p>\n<p>At least 82 deaths and over 200 injuries have been reported, mainly in Chimanimani, and 217 people are reportedly missing. Chimanimani mortuary is reportedly full. At least 923 homes have been destroyed in Chimanimani, Mutasa, Mutare, Chipinge, Buhera, Chikomba, Gutu and Bikita districts. In Chimanimani alone, eight bridges have been destroyed. In Buhera, the Marowanyati dam has overflowed and many families are displaced. Crops and livestock have been destroyed in all affected areas. Overall, more than 2,500 households (12,500 to 15,000 people) are estimated to be affected. However, an accurate assessment of the number of people impacted and displaced is difficult to establish at this point, as many district wards remain inaccessible.</p>\n<p>Meanwhile, damage to the port in Beira and its access roads in neighbouring Mozambique may affect fuel and food supplies to Zimbabwe, as well as livelihoods of people in the eastern regions of the country that rely heavily on the Zimbabwe/Mozambique trading corridor.</p>\n",
+                "date": {
+                    "original": "2019-03-18T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-18T19:06:46+00:00"
+                }
+            }
+        }
+    ]
+}

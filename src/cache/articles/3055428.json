@@ -1,0 +1,203 @@
+{
+    "time": 1057,
+    "href": "https://api.reliefweb.int/v1/reports/3055428?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3055428?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1048,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3055428",
+            "fields": {
+                "id": 3055428,
+                "title": "Mozambique – Tropical Cyclone Idai Fact Sheet #2, Fiscal Year (FY) 2019, 25 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n- GoM, UN humanitarian rapid response teams distribute assistance to hard-to-reach areas\n- USAID DART conducts aerial and ground assessments of disaster-affected areas\n- Tropical Cyclone Idai damages or destroys approximately 72,200 houses and more than 1.2 million acres of crops, including 644,500 acres in Manica\n\n**KEY DEVELOPMENTS**\n\n- Tropical Cyclone Idai made landfall over Mozambique’s city of Beira, Sofala Province, on March 15, producing torrential rains and strong winds and severely affecting Manica, Sofala, Tete, and Zambézia provinces. The Government of Mozambique (GoM) reported at least 447 confirmed deaths in the country as of March 25, with the numbers expected to rise significantly in the coming days. The cyclone has affected an estimated 1.85 million people, according to relief agencies.\n\n- The GoM National Institute for Disaster Management (INGC) and humanitarian actors are continuing to expand relief operations to reach additional populations in need. In recent days, receding waters have allowed for increased access to hard-to-reach areas, such as Sofala’s Nhamatanda District. Relief organizations have begun conducting assessments in Nhamatanda, as well as Manica Province’s Dombe town, and are distributing emergency food and relief commodities in these locations. Rapid response teams are also distributing seven-day rations of emergency food and safe drinking water to hard-to-reach areas to sustain populations until further assistance can be provided.\n\n- On March 24, the USAID Disaster Assistance Response Team (DART) traveled to Sofala’s Beira city and Manica’s Chimoio city, confirming extensive logistical capacity and expansive relief operations currently underway from the cities to other affected locations. The DART continues to identify emergency food, health, shelter, and water, sanitation, and hygiene (WASH) assistance as priority needs in the response. As of March 25, USAID had provided nearly $3.6 million in food, shelter, and WASH support and was communicating with humanitarian partners on the ground to determine additional needs.",
+                "file": [
+                    {
+                        "id": "2049255",
+                        "url": "https://reliefweb.int/attachments/387df90c-39f0-326a-9b21-daf8cdfb0c94/03.25.19-USAID-DCHA-Mozambique-Tropical-Cyclone-Idai-Fact-Sheet-2.pdf",
+                        "filename": "03.25.19-USAID-DCHA-Mozambique-Tropical-Cyclone-Idai-Fact-Sheet-2.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "210107",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/38/7d/387df90c-39f0-326a-9b21-daf8cdfb0c94.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/38/7d/387df90c-39f0-326a-9b21-daf8cdfb0c94.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/38/7d/387df90c-39f0-326a-9b21-daf8cdfb0c94.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/38/7d/387df90c-39f0-326a-9b21-daf8cdfb0c94.png",
+                            "version": "2049255-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.usaid.gov/cyclone-idai/fy19/fs2",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/245?appname=rwint-user-0",
+                        "id": 245,
+                        "name": "United States of America",
+                        "shortname": "USA",
+                        "iso3": "usa",
+                        "location": {
+                            "lat": 39.38,
+                            "lon": -97.92
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1751?appname=rwint-user-0",
+                        "id": 1751,
+                        "name": "US Agency for International Development",
+                        "shortname": "USAID",
+                        "longname": "United States Agency for International Development",
+                        "spanish_name": "Agencia de los Estados Unidos para el Desarrollo Internacional",
+                        "homepage": "http://www.usaid.gov/",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4589,
+                        "name": "Contributions"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6873,
+                        "name": "Persons with Disabilities"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3055428",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-tropical-cyclone-idai-fact-sheet-2-fiscal-year-fy-2019-25-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<ul>\n<li>GoM, UN humanitarian rapid response teams distribute assistance to hard-to-reach areas</li>\n<li>USAID DART conducts aerial and ground assessments of disaster-affected areas</li>\n<li>Tropical Cyclone Idai damages or destroys approximately 72,200 houses and more than 1.2 million acres of crops, including 644,500 acres in Manica</li>\n</ul>\n<p><strong>KEY DEVELOPMENTS</strong></p>\n<ul>\n<li>\n<p>Tropical Cyclone Idai made landfall over Mozambique’s city of Beira, Sofala Province, on March 15, producing torrential rains and strong winds and severely affecting Manica, Sofala, Tete, and Zambézia provinces. The Government of Mozambique (GoM) reported at least 447 confirmed deaths in the country as of March 25, with the numbers expected to rise significantly in the coming days. The cyclone has affected an estimated 1.85 million people, according to relief agencies.</p>\n</li>\n<li>\n<p>The GoM National Institute for Disaster Management (INGC) and humanitarian actors are continuing to expand relief operations to reach additional populations in need. In recent days, receding waters have allowed for increased access to hard-to-reach areas, such as Sofala’s Nhamatanda District. Relief organizations have begun conducting assessments in Nhamatanda, as well as Manica Province’s Dombe town, and are distributing emergency food and relief commodities in these locations. Rapid response teams are also distributing seven-day rations of emergency food and safe drinking water to hard-to-reach areas to sustain populations until further assistance can be provided.</p>\n</li>\n<li>\n<p>On March 24, the USAID Disaster Assistance Response Team (DART) traveled to Sofala’s Beira city and Manica’s Chimoio city, confirming extensive logistical capacity and expansive relief operations currently underway from the cities to other affected locations. The DART continues to identify emergency food, health, shelter, and water, sanitation, and hygiene (WASH) assistance as priority needs in the response. As of March 25, USAID had provided nearly $3.6 million in food, shelter, and WASH support and was communicating with humanitarian partners on the ground to determine additional needs.</p>\n</li>\n</ul>\n",
+                "date": {
+                    "original": "2019-03-27T00:00:00+00:00",
+                    "changed": "2019-03-27T17:19:37+00:00",
+                    "created": "2019-03-27T14:53:54+00:00"
+                }
+            }
+        }
+    ]
+}

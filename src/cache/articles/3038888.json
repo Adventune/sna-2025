@@ -1,0 +1,186 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3038888?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3038888?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3038888",
+            "fields": {
+                "id": 3038888,
+                "uuid": "c46170b4-92a3-3815-b810-7d4ae9774d3d",
+                "title": "Mozambique: Cyclone Idai Flash Update No. 3, 17 March 2019",
+                "status": "published",
+                "body": "**Highlights**\n\n- The death toll from Cyclone Idai’s landfall has reportedly risen to at least 48 and is expected to increase in the days ahead as the full extent of the disaster becomes known.\n\n- Widespread damage is reported in Beira City, with concerns that the situation outside the City may be worse.\n\n- The President of Mozambique is visiting cyclone- and floodaffected areas in Sofala, Zambezia and Manica.\n\n- Road access to many affected areas has been cut due to flooding.\n\n- Authorities have issued a Red Alert for flooding along the River Buzi, with a high risk of floods in Buzi and Pungoé.\n\n**Situation Overview**\n\nAt least 48 people have died following Cyclone Idai’s landfall, according to unverified media reports, and the death toll is expected to rise in the days ahead as further information becomes available.  \n\nThere has been significant damage to houses in Beira City – which has an estimated population of more than half a million people - according to initial information. Health and education facilities have also been damaged, with preliminary reports indicating that the Beira Central Hospital emergency room has been flooded and is without power, while much of the roof of the building has collapsed. Power lines and trees are reportedly down in many parts of the city. In addition, it has been reported that areas outside of the city may have been even more intensely impacted by the storm.  \n\nMassive destruction of livestock and planted crops has been reported. As this damage is occurring just before the main harvest season, it could exacerbate food insecurity in the region.  \n\nThe Government has issued a Red Alert for flooding along the River Buzi. The alert highlights the high risk of floods in Buzi and Pungoé and the potential for Buzu, Nhamatanda, Dondo, Muanza and Chinababava to be affected. Heavy rains are forecast for the next 24 hours, including in areas already hit hard by the trajectory of the Cyclone Idai weather system during and after landfall.\n\n**Response**\n\nThe President of Mozambique, Filipe Nyusi, is visiting multiple flood and cyclone-affected areas to meet with people impacted, including in the districts of Dondo and Nhamatanda in Sofala, Chinde and Maganja da Costa in Zambezia, the provincial capital and districts of Moatize and Changara in Tete, and the city of Chimoio in Manica, according to media reports. He is traveling with multiple senior government officials, including the Minister of Public Works, Housing and Water Resources, João Machatine, and the governors of the provinces of Sofala, Zambezia, Tete and Manica, as well as the Director of the National Institute for Disaster Management (INGC), amongst others.  \n\nIn Beira, the National Institute for Disaster Management (INGC) has set up its Center of Operations in a WFP-provided Wikhall at the airport, with inter-agency coordination currently being facilitated by WFP and the NGO Consortium (COSACA). Telecoms Sans Frontiers has deployed a team to Beira and is establishing connectivity for the operations centre.\n\nResponse efforts are underway in multiple areas. In Beira Central Hospital, remaining health workers are working shifts in order to treat emergency patients as best they can. WFP is supporting logistics, including through the contracting of an MI-8 transport helicopter, due to arrive on 18 March, to conduct emergency air operations focusing on remote locations that are inaccessible by road. WFP has also funded 30 boat pilots that were mobilized by the INGC to transport food during the response. An inter-agency flight with humanitarian supplies from the Humanitarian Response Depot in Dubai is scheduled to arrive in Maputo on 18 March.  \n\nMultiple convoys are en route to Beira with vital relief items and assessments are ongoing in the city. However, teams endeavouring to reach Beira and surrounding areas by road are facing challenges, as the main road routes have been cut due to flooding.  \n\nIn the coming days, WFP plans to assist 22,000 people in hard to reach areas with a 3-day ration of high energy biscuits.  In addition, 6,600 persons in Caia and surrounding areas can be assisted with the prepositioned 50MT of food in that hub and approximately 100,000 people will be assisted with 800 tons of in-country commodities pre-positioned in Nacala (borrowed from other programmes), with 75 tons dispatched on 16 March to support 9,500 people living in accommodation centers in Zambezia province. On 16 March, WFP made its first distribution to 6,000 flood affected persons in Tete through cash-based transfers, engaging with local retailers.",
+                "file": [
+                    {
+                        "id": "2047561",
+                        "url": "https://reliefweb.int/attachments/b4103de5-5489-34fe-b289-89175c9b3d63/ROSEA_20190317_Mozambique_Cyclone%20Idai%20Flash%20Update%233.pdf",
+                        "filename": "ROSEA_20190317_Mozambique_Cyclone Idai Flash Update#3.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "342508",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/b4/10/b4103de5-5489-34fe-b289-89175c9b3d63.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/b4/10/b4103de5-5489-34fe-b289-89175c9b3d63.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/b4/10/b4103de5-5489-34fe-b289-89175c9b3d63.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b4/10/b4103de5-5489-34fe-b289-89175c9b3d63.png",
+                            "version": "2047561-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3038888",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-flash-update-no-3-17-march-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<ul>\n<li>\n<p>The death toll from Cyclone Idai’s landfall has reportedly risen to at least 48 and is expected to increase in the days ahead as the full extent of the disaster becomes known.</p>\n</li>\n<li>\n<p>Widespread damage is reported in Beira City, with concerns that the situation outside the City may be worse.</p>\n</li>\n<li>\n<p>The President of Mozambique is visiting cyclone- and floodaffected areas in Sofala, Zambezia and Manica.</p>\n</li>\n<li>\n<p>Road access to many affected areas has been cut due to flooding.</p>\n</li>\n<li>\n<p>Authorities have issued a Red Alert for flooding along the River Buzi, with a high risk of floods in Buzi and Pungoé.</p>\n</li>\n</ul>\n<p><strong>Situation Overview</strong></p>\n<p>At least 48 people have died following Cyclone Idai’s landfall, according to unverified media reports, and the death toll is expected to rise in the days ahead as further information becomes available.</p>\n<p>There has been significant damage to houses in Beira City – which has an estimated population of more than half a million people - according to initial information. Health and education facilities have also been damaged, with preliminary reports indicating that the Beira Central Hospital emergency room has been flooded and is without power, while much of the roof of the building has collapsed. Power lines and trees are reportedly down in many parts of the city. In addition, it has been reported that areas outside of the city may have been even more intensely impacted by the storm.</p>\n<p>Massive destruction of livestock and planted crops has been reported. As this damage is occurring just before the main harvest season, it could exacerbate food insecurity in the region.</p>\n<p>The Government has issued a Red Alert for flooding along the River Buzi. The alert highlights the high risk of floods in Buzi and Pungoé and the potential for Buzu, Nhamatanda, Dondo, Muanza and Chinababava to be affected. Heavy rains are forecast for the next 24 hours, including in areas already hit hard by the trajectory of the Cyclone Idai weather system during and after landfall.</p>\n<p><strong>Response</strong></p>\n<p>The President of Mozambique, Filipe Nyusi, is visiting multiple flood and cyclone-affected areas to meet with people impacted, including in the districts of Dondo and Nhamatanda in Sofala, Chinde and Maganja da Costa in Zambezia, the provincial capital and districts of Moatize and Changara in Tete, and the city of Chimoio in Manica, according to media reports. He is traveling with multiple senior government officials, including the Minister of Public Works, Housing and Water Resources, João Machatine, and the governors of the provinces of Sofala, Zambezia, Tete and Manica, as well as the Director of the National Institute for Disaster Management (INGC), amongst others.</p>\n<p>In Beira, the National Institute for Disaster Management (INGC) has set up its Center of Operations in a WFP-provided Wikhall at the airport, with inter-agency coordination currently being facilitated by WFP and the NGO Consortium (COSACA). Telecoms Sans Frontiers has deployed a team to Beira and is establishing connectivity for the operations centre.</p>\n<p>Response efforts are underway in multiple areas. In Beira Central Hospital, remaining health workers are working shifts in order to treat emergency patients as best they can. WFP is supporting logistics, including through the contracting of an MI-8 transport helicopter, due to arrive on 18 March, to conduct emergency air operations focusing on remote locations that are inaccessible by road. WFP has also funded 30 boat pilots that were mobilized by the INGC to transport food during the response. An inter-agency flight with humanitarian supplies from the Humanitarian Response Depot in Dubai is scheduled to arrive in Maputo on 18 March.</p>\n<p>Multiple convoys are en route to Beira with vital relief items and assessments are ongoing in the city. However, teams endeavouring to reach Beira and surrounding areas by road are facing challenges, as the main road routes have been cut due to flooding.</p>\n<p>In the coming days, WFP plans to assist 22,000 people in hard to reach areas with a 3-day ration of high energy biscuits.  In addition, 6,600 persons in Caia and surrounding areas can be assisted with the prepositioned 50MT of food in that hub and approximately 100,000 people will be assisted with 800 tons of in-country commodities pre-positioned in Nacala (borrowed from other programmes), with 75 tons dispatched on 16 March to support 9,500 people living in accommodation centers in Zambezia province. On 16 March, WFP made its first distribution to 6,000 flood affected persons in Tete through cash-based transfers, engaging with local retailers.</p>\n",
+                "date": {
+                    "original": "2019-03-17T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-17T20:25:04+00:00"
+                }
+            }
+        }
+    ]
+}

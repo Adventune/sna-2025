@@ -1,0 +1,342 @@
+{
+    "time": 12,
+    "href": "https://api.reliefweb.int/v1/reports/3088933?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3088933?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3088933",
+            "fields": {
+                "id": 3088933,
+                "uuid": "2bd8656c-768f-3856-a6b1-80069e3f3efe",
+                "title": "Bulletin: Cholera and AWD Outbreaks in Eastern and Southern Africa, Regional Update for 2019 - as of 16 April 2019",
+                "status": "published",
+                "body": "**Highlights**\n\nAlmost half of the countries in Eastern and Southern Africa region (ESAR) have been affected by cholera outbreaks since the beginning of 2019. More than 8,258 cholera / AWD cases including 29 deaths have been reported in 10 countries in the region, with an average Case Fatality Rate of 0.4%, since the beginning of 2019. These countries include; Angola, Burundi, Kenya, Malawi, Mozambique, Tanzania, Somalia, Uganda, Zambia and Zimbabwe. Mozambique accounts for 69.5% (5,656) of the total case load reported this year, followed by Kenya at 16.3% (1,350).  \n\nCurrently 5 out of the 10 countries with reported cholera / AWD outbreaks in ESAR since week 1 of 2019, have active transmission and they include; Mozambique, Somalia, Kenya, Tanzania and Malawi. During the week under review, Mozambique reported the highest number of new cases (1,584 cases). Of the countries with active transmission, Tanzania has recorded the highest Case Fatality Rates (CFR) in 2019 at 1.6%.  \n\n**Mozambique**: A new surge in the disease has produced roughly a cumulative total of 5,656 reported cholera cases including 8 deaths in a span of three weeks (from Week 13, week ending 31 March 2019: to Week 15, week ending 14 April 2019). These cases emerged from 4 districts affected by Cyclone Idai: Beira, Dondo, Nhamatanda and Buzi. A 47.6% decrease in the weekly incidence has been noted in the last two weeks. During week 15, 1584 new cases including 1 death (CFR, 0.06%) were reported compared to 3,024 cases including 6 deaths (CFR, 0.2%) reported in week 14 (week ending 7 April 2019). The emergency cholera vaccination campaign which ended on 10 April 2019 covered 98.7% (814,293 people) of the targeted population in four districts affected by Cyclone Idai.\n\n**Somalia**: An increase in the epidemic trend has been noted in the last two weeks. During week 13, 40 new cases were reported from Banadir Region compared to 32 cases reported in week 12 (week ending 24 March 2019). Cumulatively a total of 707 cases with no deaths have been reported since the beginning of 2019. Children under five years bear the brunt of the cholera outbreak, representing 45% of the total case load reported in both epidemiological weeks 12 and 13. During the week under review, the most affected districts in Banadir were Hodan accounting for 25% (10/40) of the total number of cases reported during week 13, followed by Daynile accounting for 22.5% (9/40).\n\n**Kenya**: In reporting week 15, 132 new cases including 1 death (CFR, 0.8%) were reported from three Counties - Nairobi (102), Kajiado (24) and Garissa (6); compared to 14 cases reported during epidemiological week 14. Since 1 January 2019 to 16 April 2019, cholera outbreaks have been reported in Narok, Kajiado, Nairobi, Garissa and Machakos Counties with a cumulative total of 1,350 cases including 6 deaths (CFR, 0.4%). Of these 72 were confirmed positive.\n\n**Malawi**: From week 13 to 15, 5 confirmed cases of Cholera were registered in three districts: 1 in Nsanje from TA Tengani, 2 in Mchinji, and 2 in Mwanza. There is confirmed evidence of cross-border transmission with mozambique. The Mwanza district cases had history of travel from Moatize, Tete province in Mozambique where they experienced symptoms. The outbreak was first detected on 30 March 2019. The index case started having signs of watery diarrhoea and vomiting on 29 March 2019 on their way back to Malawi from Moatize district in Mozambique. Following investigations the index case was confirmed positive. The second case from Moatize in Mozambique turned positive by RDT at Mwanza Hospital in Malawi on 12 April 2019. This was a 20-year old Malawian national (female) who lives with her husband in Moatize, she developed symptoms on 9 April 2019, before she started traveling to Malawi. This case also tested positive for Vibrio cholerae by culture.\n\n**Tanzania**: 11 new cases were reported from Tanga region during epidemiological week 15, bringing the total number of cases reported since the beginning of 2019 to 190 cases including 3 deaths (CFR, 1.6%)\n\n**Urban - Rural Disaggregation of Cholera Cases**    \nOverall, more cholera cases emerge from urban areas (77.6%; 5,711) as compared to rural areas (22.4%; 1,648). This is according to an analysis of cholera cases reported since the beginning of 2019 from seven countries (Angola, Kenya, Malawi, Mozambique, Tanzania, Uganda, and Zimbabwe). Of the total number of cases reported in urban areas (5,711), Mozambique accounts for the majority (92.65%; 5,291), followed by Kenya (5.22%; 298), Uganda (0.93%; 53), Tanzania (0.84%; 48), Angola (0.33%; 19), Malawi (0.02%; 1) and Zimbabwe (0.02%;1). All cases reported in Uganda (53) and Angola (19) emerged from urban areas. Apart from Mozambique, Uganda and Angola; collectively, the remaining four countries (Kenya, Zimbabwe, Tanzania and Malawi) have more cholera cases emerging from rural areas (78.7%; 1,283) as compared to urban areas (21.3%; 348).",
+                "file": [
+                    {
+                        "id": "2063385",
+                        "url": "https://reliefweb.int/attachments/3db5679b-4af3-36a1-8955-306fe2b0230a/Cholera%20Outbreaks%20Bulletin%20for%20Eastern%20and%20Southern%20Africa%2C%20as%20of%2016%20April%202019%2C%207th%20Issue_original.pdf",
+                        "filename": "Cholera Outbreaks Bulletin for Eastern and Southern Africa, as of 16 April 2019, 7th Issue_original.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "2644676",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/3d/b5/3db5679b-4af3-36a1-8955-306fe2b0230a.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/3d/b5/3db5679b-4af3-36a1-8955-306fe2b0230a.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/3d/b5/3db5679b-4af3-36a1-8955-306fe2b0230a.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3d/b5/3db5679b-4af3-36a1-8955-306fe2b0230a.png",
+                            "version": "2063385-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/19?appname=rwint-user-0",
+                        "id": 19,
+                        "name": "Angola",
+                        "shortname": "Angola",
+                        "iso3": "ago",
+                        "location": {
+                            "lat": -12.1,
+                            "lon": 17.91
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/47?appname=rwint-user-0",
+                        "id": 47,
+                        "name": "Burundi",
+                        "shortname": "Burundi",
+                        "iso3": "bdi",
+                        "location": {
+                            "lat": -3.53,
+                            "lon": 29.89
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/131?appname=rwint-user-0",
+                        "id": 131,
+                        "name": "Kenya",
+                        "shortname": "Kenya",
+                        "iso3": "ken",
+                        "location": {
+                            "lat": 0.53,
+                            "lon": 37.86
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/146?appname=rwint-user-0",
+                        "id": 146,
+                        "name": "Malawi",
+                        "shortname": "Malawi",
+                        "iso3": "mwi",
+                        "location": {
+                            "lat": -13.22,
+                            "lon": 33.74
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/216?appname=rwint-user-0",
+                        "id": 216,
+                        "name": "Somalia",
+                        "shortname": "Somalia",
+                        "iso3": "som",
+                        "location": {
+                            "lat": 5.79,
+                            "lon": 47.33
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/240?appname=rwint-user-0",
+                        "id": 240,
+                        "name": "Uganda",
+                        "shortname": "Uganda",
+                        "iso3": "uga",
+                        "location": {
+                            "lat": 1.28,
+                            "lon": 32.39
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/244?appname=rwint-user-0",
+                        "id": 244,
+                        "name": "United Republic of Tanzania",
+                        "shortname": "Tanzania",
+                        "iso3": "tza",
+                        "location": {
+                            "lat": -6.27,
+                            "lon": 34.82
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/256?appname=rwint-user-0",
+                        "id": 256,
+                        "name": "Zambia",
+                        "shortname": "Zambia",
+                        "iso3": "zmb",
+                        "location": {
+                            "lat": -14,
+                            "lon": 27.43
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        }
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1979?appname=rwint-user-0",
+                        "id": 1979,
+                        "name": "UN Children's Fund",
+                        "shortname": "UNICEF",
+                        "longname": "United Nations Children's Fund",
+                        "spanish_name": "Fondo de las Naciones Unidas para la Infancia",
+                        "homepage": "https://www.unicef.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 33516,
+                        "name": "Somalia: Cholera Outbreak - Apr 2016",
+                        "status": "ongoing",
+                        "glide": "EP-2016-000053-SOM",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47534,
+                        "name": "Malawi: Floods - Jan 2019",
+                        "status": "past",
+                        "glide": "FL-2019-000014-MWI",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 48163,
+                        "name": "Kenya: Cholera Outbreak - Jan 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000109-KEN",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3088933",
+                "url_alias": "https://reliefweb.int/report/mozambique/bulletin-cholera-and-awd-outbreaks-eastern-and-southern-africa-regional-update-0",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>Almost half of the countries in Eastern and Southern Africa region (ESAR) have been affected by cholera outbreaks since the beginning of 2019. More than 8,258 cholera / AWD cases including 29 deaths have been reported in 10 countries in the region, with an average Case Fatality Rate of 0.4%, since the beginning of 2019. These countries include; Angola, Burundi, Kenya, Malawi, Mozambique, Tanzania, Somalia, Uganda, Zambia and Zimbabwe. Mozambique accounts for 69.5% (5,656) of the total case load reported this year, followed by Kenya at 16.3% (1,350).</p>\n<p>Currently 5 out of the 10 countries with reported cholera / AWD outbreaks in ESAR since week 1 of 2019, have active transmission and they include; Mozambique, Somalia, Kenya, Tanzania and Malawi. During the week under review, Mozambique reported the highest number of new cases (1,584 cases). Of the countries with active transmission, Tanzania has recorded the highest Case Fatality Rates (CFR) in 2019 at 1.6%.</p>\n<p><strong>Mozambique</strong>: A new surge in the disease has produced roughly a cumulative total of 5,656 reported cholera cases including 8 deaths in a span of three weeks (from Week 13, week ending 31 March 2019: to Week 15, week ending 14 April 2019). These cases emerged from 4 districts affected by Cyclone Idai: Beira, Dondo, Nhamatanda and Buzi. A 47.6% decrease in the weekly incidence has been noted in the last two weeks. During week 15, 1584 new cases including 1 death (CFR, 0.06%) were reported compared to 3,024 cases including 6 deaths (CFR, 0.2%) reported in week 14 (week ending 7 April 2019). The emergency cholera vaccination campaign which ended on 10 April 2019 covered 98.7% (814,293 people) of the targeted population in four districts affected by Cyclone Idai.</p>\n<p><strong>Somalia</strong>: An increase in the epidemic trend has been noted in the last two weeks. During week 13, 40 new cases were reported from Banadir Region compared to 32 cases reported in week 12 (week ending 24 March 2019). Cumulatively a total of 707 cases with no deaths have been reported since the beginning of 2019. Children under five years bear the brunt of the cholera outbreak, representing 45% of the total case load reported in both epidemiological weeks 12 and 13. During the week under review, the most affected districts in Banadir were Hodan accounting for 25% (10/40) of the total number of cases reported during week 13, followed by Daynile accounting for 22.5% (9/40).</p>\n<p><strong>Kenya</strong>: In reporting week 15, 132 new cases including 1 death (CFR, 0.8%) were reported from three Counties - Nairobi (102), Kajiado (24) and Garissa (6); compared to 14 cases reported during epidemiological week 14. Since 1 January 2019 to 16 April 2019, cholera outbreaks have been reported in Narok, Kajiado, Nairobi, Garissa and Machakos Counties with a cumulative total of 1,350 cases including 6 deaths (CFR, 0.4%). Of these 72 were confirmed positive.</p>\n<p><strong>Malawi</strong>: From week 13 to 15, 5 confirmed cases of Cholera were registered in three districts: 1 in Nsanje from TA Tengani, 2 in Mchinji, and 2 in Mwanza. There is confirmed evidence of cross-border transmission with mozambique. The Mwanza district cases had history of travel from Moatize, Tete province in Mozambique where they experienced symptoms. The outbreak was first detected on 30 March 2019. The index case started having signs of watery diarrhoea and vomiting on 29 March 2019 on their way back to Malawi from Moatize district in Mozambique. Following investigations the index case was confirmed positive. The second case from Moatize in Mozambique turned positive by RDT at Mwanza Hospital in Malawi on 12 April 2019. This was a 20-year old Malawian national (female) who lives with her husband in Moatize, she developed symptoms on 9 April 2019, before she started traveling to Malawi. This case also tested positive for Vibrio cholerae by culture.</p>\n<p><strong>Tanzania</strong>: 11 new cases were reported from Tanga region during epidemiological week 15, bringing the total number of cases reported since the beginning of 2019 to 190 cases including 3 deaths (CFR, 1.6%)</p>\n<p><strong>Urban - Rural Disaggregation of Cholera Cases</strong><br />\nOverall, more cholera cases emerge from urban areas (77.6%; 5,711) as compared to rural areas (22.4%; 1,648). This is according to an analysis of cholera cases reported since the beginning of 2019 from seven countries (Angola, Kenya, Malawi, Mozambique, Tanzania, Uganda, and Zimbabwe). Of the total number of cases reported in urban areas (5,711), Mozambique accounts for the majority (92.65%; 5,291), followed by Kenya (5.22%; 298), Uganda (0.93%; 53), Tanzania (0.84%; 48), Angola (0.33%; 19), Malawi (0.02%; 1) and Zimbabwe (0.02%;1). All cases reported in Uganda (53) and Angola (19) emerged from urban areas. Apart from Mozambique, Uganda and Angola; collectively, the remaining four countries (Kenya, Zimbabwe, Tanzania and Malawi) have more cholera cases emerging from rural areas (78.7%; 1,283) as compared to urban areas (21.3%; 348).</p>\n",
+                "date": {
+                    "original": "2019-04-16T00:00:00+00:00",
+                    "changed": "2019-06-10T08:49:48+00:00",
+                    "created": "2019-04-16T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

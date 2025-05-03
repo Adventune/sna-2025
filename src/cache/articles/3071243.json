@@ -1,0 +1,166 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3071243?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3071243?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3071243",
+            "fields": {
+                "id": 3071243,
+                "title": "ZPP Monthly Monitoring Report: Human Rights Violations (March 2019)",
+                "status": "published",
+                "body": "**Introduction** \n\nZimbabwe faced one of its greatest tragedies in the month of March. Following several forecasts of an approaching cyclone that was reported likely to affect Mozambique, Malawi and Zimbabwe, on 15 March Zimbabwe woke to a shockwave of devastation as Cyclone Idai engulfed parts of Manicaland, Masvingo, and Mashonaland East Provinces. A horrific trail of destruction caused by the Tropical Cyclone plunged communities of Chimanimani and Chipinge into tragedy with a death toll of above 280 and still counting, while more than 500 people are still missing and 54,000 households in dire need of food, clothing, shelter, water and sanitation services1 . Zimbabweans united across political, ethnic and geographical divide in solidarity to support victims and families affected by this tragedy.  \n\nThe cost of living rose sharply during the month leading to steep prices of basic commodities while the shortage of fuel exacerbated transport costs for commuters. The Zimbabwe Electoral Commission (ZEC) conducted a by-election in Bulawayo, Cowdray Park (Ward 28) on 30 March to fill a vacancy that had arisen following the death of the incumbent Councillor, Hapson Ncube, who died in December 2018. The Zanu PF candidate Kidwell Mujuru was duly elected as Councillor, a seat which was previously won by the MDC-A during the 2018 harmonised elections. The MDC fielded two candidates for the post; a manifestation of the rifts existing in the party.  \n\nZPP recorded a total of 213 violations up from 196 recorded in February. The majority of violations reported and recorded were harassment, intimidation and threats, at approximately 52.6%. In Mashonaland Central and Mashonaland East provinces, some Zanu PF members and village heads forced community members to contribute towards Independence Day commemorations. In Mt Darwin North, Mukumbura wards 4 and 5, villagers were made to pay $3 RTGS per household and those who did not have money were asked to provide 2kgs of maize meal and an unspecified quantity of cooking oil. Discrimination constituted 16.9%, theft/looting 11.3%, assaults 8.9% and displacement 5.6 % of the total recorded violations.  \n\nThe province with the highest number of violations recorded in March is Mashonaland Central with a total of 56 cases followed by Manicaland with 34 cases. Matabeleland North, Matabeleland South and Bulawayo provinces recorded the lowest number of reported cases with a collective of 12 violations.",
+                "file": [
+                    {
+                        "id": "2051158",
+                        "url": "https://reliefweb.int/attachments/0ce3555c-97f6-3595-91ab-fd879074d13b/ZPP%20March%202019%20MMR.pdf",
+                        "filename": "ZPP March 2019 MMR.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "1235781",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/0c/e3/0ce3555c-97f6-3595-91ab-fd879074d13b.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/0c/e3/0ce3555c-97f6-3595-91ab-fd879074d13b.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/0c/e3/0ce3555c-97f6-3595-91ab-fd879074d13b.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/0c/e3/0ce3555c-97f6-3595-91ab-fd879074d13b.png",
+                            "version": "2051158-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/10308?appname=rwint-user-0",
+                        "id": 10308,
+                        "name": "Zimbabwe Peace Project",
+                        "shortname": "ZPP",
+                        "longname": "Zimbabwe Peace Project",
+                        "homepage": "http://www.zimpeaceproject.com/",
+                        "type": {
+                            "id": 274,
+                            "name": "Non-governmental Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4599,
+                        "name": "Peacekeeping and Peacebuilding"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3071243",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zpp-monthly-monitoring-report-human-rights-violations-march-2019",
+                "body-html": "<p><strong>Introduction</strong></p>\n<p>Zimbabwe faced one of its greatest tragedies in the month of March. Following several forecasts of an approaching cyclone that was reported likely to affect Mozambique, Malawi and Zimbabwe, on 15 March Zimbabwe woke to a shockwave of devastation as Cyclone Idai engulfed parts of Manicaland, Masvingo, and Mashonaland East Provinces. A horrific trail of destruction caused by the Tropical Cyclone plunged communities of Chimanimani and Chipinge into tragedy with a death toll of above 280 and still counting, while more than 500 people are still missing and 54,000 households in dire need of food, clothing, shelter, water and sanitation services1 . Zimbabweans united across political, ethnic and geographical divide in solidarity to support victims and families affected by this tragedy.</p>\n<p>The cost of living rose sharply during the month leading to steep prices of basic commodities while the shortage of fuel exacerbated transport costs for commuters. The Zimbabwe Electoral Commission (ZEC) conducted a by-election in Bulawayo, Cowdray Park (Ward 28) on 30 March to fill a vacancy that had arisen following the death of the incumbent Councillor, Hapson Ncube, who died in December 2018. The Zanu PF candidate Kidwell Mujuru was duly elected as Councillor, a seat which was previously won by the MDC-A during the 2018 harmonised elections. The MDC fielded two candidates for the post; a manifestation of the rifts existing in the party.</p>\n<p>ZPP recorded a total of 213 violations up from 196 recorded in February. The majority of violations reported and recorded were harassment, intimidation and threats, at approximately 52.6%. In Mashonaland Central and Mashonaland East provinces, some Zanu PF members and village heads forced community members to contribute towards Independence Day commemorations. In Mt Darwin North, Mukumbura wards 4 and 5, villagers were made to pay $3 RTGS per household and those who did not have money were asked to provide 2kgs of maize meal and an unspecified quantity of cooking oil. Discrimination constituted 16.9%, theft/looting 11.3%, assaults 8.9% and displacement 5.6 % of the total recorded violations.</p>\n<p>The province with the highest number of violations recorded in March is Mashonaland Central with a total of 56 cases followed by Manicaland with 34 cases. Matabeleland North, Matabeleland South and Bulawayo provinces recorded the lowest number of reported cases with a collective of 12 violations.</p>\n",
+                "date": {
+                    "original": "2019-03-31T00:00:00+00:00",
+                    "changed": "2019-04-05T18:56:14+00:00",
+                    "created": "2019-04-05T15:47:54+00:00"
+                }
+            }
+        }
+    ]
+}

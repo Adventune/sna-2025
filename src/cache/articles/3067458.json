@@ -1,0 +1,184 @@
+{
+    "time": 1146,
+    "href": "https://api.reliefweb.int/v1/reports/3067458?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3067458?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1140,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3067458",
+            "fields": {
+                "id": 3067458,
+                "title": "Mozambique: Cyclone Idai - ETC Situation Report #7 (Reporting Period: 01/04/2019 to 03/04/2019)",
+                "status": "published",
+                "body": "Highlights\n\n•The Emergency Telecommunications Cluster (ETC) Services for Communities (S4C) advisor attended a Protection Cluster meeting in Maputo to finalize plans for establishing a commoninter-agency call centre.\n\n•To date,1,044 humanitarians at the Emergency Operations Centre (EOC)in Beira are registered to access ETC Internet connectivity to enable them to do their work.\n\n• ETC partners, Ericsson Response, Government of Luxembourg and Télecoms Sans Frontières (TSF) have established Internet connectivity services in 15x sites.\n\n•The ETC requiresUS$1.2 million to provide critical communications services in up to four EOCs for three month salong with a number of connection sites for accommodation centres, health centres, distribution points and joint location NGOs. So far it has received US$100,000 from Central Emergency Response Fund (CERF).\n\n**Situation Overview**\n\nHumanitarian responders in Mozambique are working hard to contain cholera in the country with more than 1,000 cases now confirmed. So far, around seven cholera treatment units (CTUs) have been established to treat patients.",
+                "file": [
+                    {
+                        "id": "2051268",
+                        "url": "https://reliefweb.int/attachments/01b313da-7d93-37d1-808b-ac9ef0e8a5f2/ETC%20Mozambique%20SitRep%20%237_0.pdf",
+                        "filename": "ETC Mozambique SitRep #7_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "228625",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/01/b3/01b313da-7d93-37d1-808b-ac9ef0e8a5f2.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/01/b3/01b313da-7d93-37d1-808b-ac9ef0e8a5f2.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/01/b3/01b313da-7d93-37d1-808b-ac9ef0e8a5f2.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/01/b3/01b313da-7d93-37d1-808b-ac9ef0e8a5f2.png",
+                            "version": "2051268-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-7",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3067458",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-etc-situation-report-7-reporting-period-01042019-03042019",
+                "body-html": "<p>Highlights</p>\n<p>•The Emergency Telecommunications Cluster (ETC) Services for Communities (S4C) advisor attended a Protection Cluster meeting in Maputo to finalize plans for establishing a commoninter-agency call centre.</p>\n<p>•To date,1,044 humanitarians at the Emergency Operations Centre (EOC)in Beira are registered to access ETC Internet connectivity to enable them to do their work.</p>\n<p>• ETC partners, Ericsson Response, Government of Luxembourg and Télecoms Sans Frontières (TSF) have established Internet connectivity services in 15x sites.</p>\n<p>•The ETC requiresUS$1.2 million to provide critical communications services in up to four EOCs for three month salong with a number of connection sites for accommodation centres, health centres, distribution points and joint location NGOs. So far it has received US$100,000 from Central Emergency Response Fund (CERF).</p>\n<p><strong>Situation Overview</strong></p>\n<p>Humanitarian responders in Mozambique are working hard to contain cholera in the country with more than 1,000 cases now confirmed. So far, around seven cholera treatment units (CTUs) have been established to treat patients.</p>\n",
+                "date": {
+                    "original": "2019-04-03T00:00:00+00:00",
+                    "changed": "2019-04-06T13:51:56+00:00",
+                    "created": "2019-04-03T19:52:23+00:00"
+                }
+            }
+        }
+    ]
+}

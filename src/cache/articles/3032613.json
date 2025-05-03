@@ -1,0 +1,189 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3032613?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3032613?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3032613",
+            "fields": {
+                "id": 3032613,
+                "title": "Mozambique: Flooding, Office of the Resident Coordinator – Flash update No. 4 (as of 12 March 2019, 09:00 AM)",
+                "status": "published",
+                "body": "**Highlights**\n\n• The Coordinating Council of Disaster Management activated on 11 March the Institutional Red Alert for the central region of the country;\n\n• Government estimated US$ 18 million for food and nonfood items that might be needed for the potential response of population at risk;\n\n• At least 15 deaths reported, and 103,169 people were affected by the floods in Zambézia, Tete and Niassa provinces;\n\n• At least 17,095 people are displaced in Zambezia, Tete and Niassa sheltered in 15 transit centers;\n\n• At least 84,993 ha of crop area are flooded affecting 57,819 smallholder farmers;\n\n• Intense Tropical Cyclone IDAI active in Mozambique channel and land fall expected on 15 March;\n\n• National water resources authorities alert that at least 160,000 people are at risk of flooding and heavy rains in the coming days in Zambezi, Licungo, Buzi and Pungoe river basins;\n\n**Situation Overview**\n\nOn 11 March 2019, the Government convened the Coordinating Council of Disaster Management (CCGC-the highest political level of emergency coordination in Mozambique) chaired by the Prime-Minister to analyze the impact of the recent floods and the cyclone foreseen to make the landfall on 15 March 2019. This meeting was extended to Provincial Governors of affected provinces, Humanitarian Country Team and National directors of different sectors.  \n\nIn the CCGC meeting the National Institute of Meteorology (INAM) informed that in the next 14 days it is foreseen weak to moderate and locally heavy rainfall in several areas of the country mainly in Sofala, Zambézia and Manica where the rainfall will be between 200-300 mm due to Tropical cyclone IDAI. The cyclone will approach the Mozambique channel and will landfall through Sofala province with Intense Tropical Cyclone category most likely on 15 March 2019. The speed wind will be between 188-220 km/h and rainfall above 150 mm in 24h.  \n\nMoreover, the Water resources authorities indicated that due to flood wave caused by heavy rains in the upstream part of the Zambeze region it is expected water levels of 8m in Caia and Marromeu districts in Sofala province resulting in flooding in the area. The authorities prepared three flood scenarios depending on the rainfall and discharge to be recorded which the population at risk varies from 85,000 to 221,000 people in the Zambezi basin.  \n\nTherefore, in the next 3 days it is expected the rise of water level that may overcome the alert level in the Licungo, Zambeze, Pungoe and Buzi river basins. The operation status of the defense dykes in these basins is very bad which makes the area more vulnerable. It is also foreseen moderate to high urban flooding in Quelimane, Beira and Dondo where about 13,000 people are at risk. Based on the forecast, the Pungoe river basin might reach the peak of 5,000 m3 /s causing floods in the districts of Nhamatanda, Muanza and Dondo where an estimated 25,250 people are at risk. The authorities also expect damages in at least eleven road sections in these four river basins.  \n\nGiven the current and expected situation after the floods and cyclone, the National Institute of Disaster Management estimated a total funding requirement of about US$ 18 million for food and non-food items that might be needed for the potential affected people. This funding estimate does not include the funds needed for emergency road work (estimated at US$ 13.9 million) to reset the road network which is 31% damaged in Zambézia and 50% damaged in Cabo Delgado.  \n\nAs the situation is complex and resources are limited, the Government activated the Institutional Red alert (the maximum alert level for emergency response in the country) to enable operation at full capacity, mobilize additional resources, compulsory withdrawal of population at risk among other activities.",
+                "file": [
+                    {
+                        "id": "2047008",
+                        "url": "https://reliefweb.int/attachments/03a20358-e078-373f-8623-2538d7a66f6a/Floods%20Tete%20and%20Zambeiza_%20Flash%20update%204.pdf",
+                        "filename": "Floods Tete and Zambeiza_ Flash update 4.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "212262",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/03/a2/03a20358-e078-373f-8623-2538d7a66f6a.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/03/a2/03a20358-e078-373f-8623-2538d7a66f6a.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/03/a2/03a20358-e078-373f-8623-2538d7a66f6a.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/03/a2/03a20358-e078-373f-8623-2538d7a66f6a.png",
+                            "version": "2047008-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1523?appname=rwint-user-0",
+                        "id": 1523,
+                        "name": "UN Resident and Humanitarian Coordinator for Mozambique",
+                        "shortname": "UN RC/HC Mozambique",
+                        "longname": "United Nations Resident and Humanitarian Coordinator for Mozambique",
+                        "homepage": "https://mozambique.un.org/pt/about/about-the-resident-coordinator-office",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3032613",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-flooding-office-resident-coordinator-flash-update-no-4-12-march-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• The Coordinating Council of Disaster Management activated on 11 March the Institutional Red Alert for the central region of the country;</p>\n<p>• Government estimated US$ 18 million for food and nonfood items that might be needed for the potential response of population at risk;</p>\n<p>• At least 15 deaths reported, and 103,169 people were affected by the floods in Zambézia, Tete and Niassa provinces;</p>\n<p>• At least 17,095 people are displaced in Zambezia, Tete and Niassa sheltered in 15 transit centers;</p>\n<p>• At least 84,993 ha of crop area are flooded affecting 57,819 smallholder farmers;</p>\n<p>• Intense Tropical Cyclone IDAI active in Mozambique channel and land fall expected on 15 March;</p>\n<p>• National water resources authorities alert that at least 160,000 people are at risk of flooding and heavy rains in the coming days in Zambezi, Licungo, Buzi and Pungoe river basins;</p>\n<p><strong>Situation Overview</strong></p>\n<p>On 11 March 2019, the Government convened the Coordinating Council of Disaster Management (CCGC-the highest political level of emergency coordination in Mozambique) chaired by the Prime-Minister to analyze the impact of the recent floods and the cyclone foreseen to make the landfall on 15 March 2019. This meeting was extended to Provincial Governors of affected provinces, Humanitarian Country Team and National directors of different sectors.</p>\n<p>In the CCGC meeting the National Institute of Meteorology (INAM) informed that in the next 14 days it is foreseen weak to moderate and locally heavy rainfall in several areas of the country mainly in Sofala, Zambézia and Manica where the rainfall will be between 200-300 mm due to Tropical cyclone IDAI. The cyclone will approach the Mozambique channel and will landfall through Sofala province with Intense Tropical Cyclone category most likely on 15 March 2019. The speed wind will be between 188-220 km/h and rainfall above 150 mm in 24h.</p>\n<p>Moreover, the Water resources authorities indicated that due to flood wave caused by heavy rains in the upstream part of the Zambeze region it is expected water levels of 8m in Caia and Marromeu districts in Sofala province resulting in flooding in the area. The authorities prepared three flood scenarios depending on the rainfall and discharge to be recorded which the population at risk varies from 85,000 to 221,000 people in the Zambezi basin.</p>\n<p>Therefore, in the next 3 days it is expected the rise of water level that may overcome the alert level in the Licungo, Zambeze, Pungoe and Buzi river basins. The operation status of the defense dykes in these basins is very bad which makes the area more vulnerable. It is also foreseen moderate to high urban flooding in Quelimane, Beira and Dondo where about 13,000 people are at risk. Based on the forecast, the Pungoe river basin might reach the peak of 5,000 m3 /s causing floods in the districts of Nhamatanda, Muanza and Dondo where an estimated 25,250 people are at risk. The authorities also expect damages in at least eleven road sections in these four river basins.</p>\n<p>Given the current and expected situation after the floods and cyclone, the National Institute of Disaster Management estimated a total funding requirement of about US$ 18 million for food and non-food items that might be needed for the potential affected people. This funding estimate does not include the funds needed for emergency road work (estimated at US$ 13.9 million) to reset the road network which is 31% damaged in Zambézia and 50% damaged in Cabo Delgado.</p>\n<p>As the situation is complex and resources are limited, the Government activated the Institutional Red alert (the maximum alert level for emergency response in the country) to enable operation at full capacity, mobilize additional resources, compulsory withdrawal of population at risk among other activities.</p>\n",
+                "date": {
+                    "original": "2019-03-12T00:00:00+00:00",
+                    "changed": "2019-03-13T12:40:04+00:00",
+                    "created": "2019-03-13T07:27:33+00:00"
+                }
+            }
+        }
+    ]
+}

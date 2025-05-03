@@ -1,0 +1,188 @@
+{
+    "time": 153,
+    "href": "https://api.reliefweb.int/v1/reports/3199439?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3199439?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 147,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3199439",
+            "fields": {
+                "id": 3199439,
+                "uuid": "e343aa77-7a3a-3699-b65c-a631ca105e9d",
+                "title": "Mozambique: UNHCR Protection Monitoring Report #1 (April 3, 2019)",
+                "status": "published",
+                "body": "**Location: ESCOLA PRIMARIA EDUARDO MONDLANE, BEIRA CITY**\n\n**Focus group discussions: Women and Girls, Men and Boys, Mixed group**\n\n**Respondents: 25 women, 17 men (at the school) 24 women**\n\n**Participants: UNHCR, UNICEF**\n\n**Date: 03/04/2019**\n\n**1 . Escola Primeria Eduardo Mondlane, Beira city.**\n\n**General protection situation**:\n\nEscola Primeria Eduardo Mondlane is a temporary camp hosting 610Households/1,510\nIndividuals. There was a recent move to Picoco 1 that led to a decrease in the population to 220\nHouseholds/610 Individuals from estimates shared. The displaced population lived in close to\nPraia Nova which is a beach town, 4 minutes away from the school where they are being\nsheltered.\n\nOn15 March when the cyclone hit, the population living in Praia Nova town fled to seek refuge at\nthe Municipal Authorities office. INGC assisted with their move to the school for safety the same\nday. More groups continued arriving at the school thereafter.\n\nOccupants at the centre sleep in classrooms, with women and children occupying one classroom\nand men the other.\n\nGBV: No threats of SGBV were reported. However, it was realized that incident reporting\nmechanisms had not been established or were not known to the occupants as well as referral\npathways. Community sensitization on this issue required. Discussion by the GBV sub-cluster\ncurrently underway.\n\nSecurity: Since the day of arrival of the affected population to the school, the Government has\nbeen providing security. As a result, the community feels safe with no significant incidents\nreported so far.\n\nOn average hot meals are provided every day at 4:00p.m. by a religious group that came together\nand an NGO called 2+1, who also provide two meals on rare occasions. Their assistance is not\nregular during weekends. Therefore the inconsistency in support poses a risk of engaging in\nunsafe and undignified labor, exploitation including survival sex, child labor and begging and also\nmay have an impact on lactating mothers causing them not to adequately feed their babies.\n\nHealth: Women in reproductive age reported that nurses from Ministry of Health conducted an\nassessment to determine their numbers. However, feedback was not shared thereafter, hence\nthe essence of the exercise not felt.\n\nBoth women and men confirmed that they had enough water and sanitation facilities considering\nthat they are living in a school hence did not feel like their health was compromised due to that.\n\nRegistration: The Government of Mozambique through INGC is fully in charge of registration\nand population data. The INGC officer in charge of the school stated that one of the main\nchallenges is tracking the registered population. This is because they are not issued with any\ndocumentation thereafter. As a result, managing movement in and out of the school remains a\nchallenge.\n\nEducation: There is a need to urgently relocate the population from the schools to the identified\nsite in anticipation of reopening of schools. According to INGC, relocation from High schools is a\npriority as the first semester exams will be undertaken in June. There is a need to sensitize the\ncommunity on the planned move to Escola Secondaria Samora Michel.\n\nPsychosocial support: Just like women, men expressed serious need for basic household items\nand that distributions should target households not classrooms. They also expressed the need\nfor trauma counselling and psychosocial support. They request for support with recreation\nactivities since they are Idle to avoid negative coping mechanisms. One key issue that stood out\nwas that men expressed fear to speak out for fear that the government will kick them out of the\nschool shelter",
+                "file": [
+                    {
+                        "id": "2067769",
+                        "url": "https://reliefweb.int/attachments/459acb52-0826-3355-a0a4-6dcd3e776fdb/Protection-Monitoring-Report-No-1-Primary-School-Eduardo-Mondlane-Beira-20190403.pdf",
+                        "filename": "Protection-Monitoring-Report-No-1-Primary-School-Eduardo-Mondlane-Beira-20190403.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "66244",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/45/9a/459acb52-0826-3355-a0a4-6dcd3e776fdb.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/45/9a/459acb52-0826-3355-a0a4-6dcd3e776fdb.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/45/9a/459acb52-0826-3355-a0a4-6dcd3e776fdb.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/45/9a/459acb52-0826-3355-a0a4-6dcd3e776fdb.png",
+                            "version": "2067769-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3199439",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-unhcr-protection-monitoring-report-1-april-3-2019",
+                "body-html": "<p><strong>Location: ESCOLA PRIMARIA EDUARDO MONDLANE, BEIRA CITY</strong></p>\n<p><strong>Focus group discussions: Women and Girls, Men and Boys, Mixed group</strong></p>\n<p><strong>Respondents: 25 women, 17 men (at the school) 24 women</strong></p>\n<p><strong>Participants: UNHCR, UNICEF</strong></p>\n<p><strong>Date: 03/04/2019</strong></p>\n<p><strong>1 . Escola Primeria Eduardo Mondlane, Beira city.</strong></p>\n<p><strong>General protection situation</strong>:</p>\n<p>Escola Primeria Eduardo Mondlane is a temporary camp hosting 610Households/1,510\nIndividuals. There was a recent move to Picoco 1 that led to a decrease in the population to 220\nHouseholds/610 Individuals from estimates shared. The displaced population lived in close to\nPraia Nova which is a beach town, 4 minutes away from the school where they are being\nsheltered.</p>\n<p>On15 March when the cyclone hit, the population living in Praia Nova town fled to seek refuge at\nthe Municipal Authorities office. INGC assisted with their move to the school for safety the same\nday. More groups continued arriving at the school thereafter.</p>\n<p>Occupants at the centre sleep in classrooms, with women and children occupying one classroom\nand men the other.</p>\n<p>GBV: No threats of SGBV were reported. However, it was realized that incident reporting\nmechanisms had not been established or were not known to the occupants as well as referral\npathways. Community sensitization on this issue required. Discussion by the GBV sub-cluster\ncurrently underway.</p>\n<p>Security: Since the day of arrival of the affected population to the school, the Government has\nbeen providing security. As a result, the community feels safe with no significant incidents\nreported so far.</p>\n<p>On average hot meals are provided every day at 4:00p.m. by a religious group that came together\nand an NGO called 2+1, who also provide two meals on rare occasions. Their assistance is not\nregular during weekends. Therefore the inconsistency in support poses a risk of engaging in\nunsafe and undignified labor, exploitation including survival sex, child labor and begging and also\nmay have an impact on lactating mothers causing them not to adequately feed their babies.</p>\n<p>Health: Women in reproductive age reported that nurses from Ministry of Health conducted an\nassessment to determine their numbers. However, feedback was not shared thereafter, hence\nthe essence of the exercise not felt.</p>\n<p>Both women and men confirmed that they had enough water and sanitation facilities considering\nthat they are living in a school hence did not feel like their health was compromised due to that.</p>\n<p>Registration: The Government of Mozambique through INGC is fully in charge of registration\nand population data. The INGC officer in charge of the school stated that one of the main\nchallenges is tracking the registered population. This is because they are not issued with any\ndocumentation thereafter. As a result, managing movement in and out of the school remains a\nchallenge.</p>\n<p>Education: There is a need to urgently relocate the population from the schools to the identified\nsite in anticipation of reopening of schools. According to INGC, relocation from High schools is a\npriority as the first semester exams will be undertaken in June. There is a need to sensitize the\ncommunity on the planned move to Escola Secondaria Samora Michel.</p>\n<p>Psychosocial support: Just like women, men expressed serious need for basic household items\nand that distributions should target households not classrooms. They also expressed the need\nfor trauma counselling and psychosocial support. They request for support with recreation\nactivities since they are Idle to avoid negative coping mechanisms. One key issue that stood out\nwas that men expressed fear to speak out for fear that the government will kick them out of the\nschool shelter</p>\n",
+                "date": {
+                    "original": "2019-04-03T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-03T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

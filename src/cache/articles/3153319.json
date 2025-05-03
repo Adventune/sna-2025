@@ -1,0 +1,229 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3153319?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3153319?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3153319",
+            "fields": {
+                "id": 3153319,
+                "title": "Mozambique Cyclone Health Cluster Bulletin 3 (18 April 2019)",
+                "status": "published",
+                "body": "**Highlights**\n\nMozambique Health Cluster and Nutrition Cluster are supporting 42 Partners who are reporting activities covering 11 provinces predominantly in Sofala province.\n\nThe newly constituted surveillance and epidemiology task force chaired by INS (National Institute of Health) addressed issues such as flow of information and data sharing, enhancement of data analysis to target response activities.\n\nThe Health cluster and Nutrition cluster 4W compilation process is being updated in order to facilitate the participation of the 42 Health partners in Beira. These maps are updated two times per week. See maps on this link https://www.humanitarianresponse.info/en/ operations/mozambique/health/infographics\n\nCollaboration on the Flash Appeal Emergency Response Plan and health priorities to appeal for an urgent $12 million for all implementing health agencies in the next month.\n\n**BACKGROUND AND CONTEXT**\n\nOn 14 March, Cyclone Idai made landfall in Mozambique, bringing devastation to the port City of Beira and surrounding areas in the central region of the country over 1.85 million people were affected. One month after this devastating event. On the 15th of April, one month after this devastating event the official there were still nearly 1.2 million people in need. The death toll remained at 603 people and the number of houses destroyed or damaged 239,731. The number of displaced people in collective sites at 70,610.\n\nIn Mozambique, prior to the cyclone emergency, despite improvements in infant mortality rates and significant improvements in access to PHC (Primary Health Care), health and nutrition indicators were of concern: <5 mortality rate (78.5 per 1000), Maternal mortality ratio (407 per 100 000 live births), 43% of children under five years of age are stunted and 6% are wasted, with no improvement in prevalence over the last 10 years.\n\nThe cyclone caused widespread damage to health facilities (with at least 77** health centres damaged or destroyed), while also leaving large numbers of the population cut off or displaced away from their normal health facilities. Sanitation facilities such as latrines were destroyed by the storm and floods, with consequent contamination of wells and boreholes.\nThe risk of communicable diseases has increased due to stagnant flood water, decreased access to clean water due to the floods, as well as over-crowding in collective centres. Health partners have reported an increase of malaria cases in many affected areas. Other major health risks include: cholera, acute watery diarrhoea, bloody diarrhoea, vector-borne diseases including malaria and dengue as well as other epidemic- prone diseases such as measles malnutrition and.",
+                "file": [
+                    {
+                        "id": "2062389",
+                        "url": "https://reliefweb.int/attachments/21eef0bd-7537-3186-9560-c28047bdd648/health_cluster_bulletin_17_april_2019_final1.pdf",
+                        "filename": "health_cluster_bulletin_17_april_2019_final1.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "897378",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/21/ee/21eef0bd-7537-3186-9560-c28047bdd648.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/21/ee/21eef0bd-7537-3186-9560-c28047bdd648.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/21/ee/21eef0bd-7537-3186-9560-c28047bdd648.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/21/ee/21eef0bd-7537-3186-9560-c28047bdd648.png",
+                            "version": "2062389-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/378?appname=rwint-user-0",
+                        "id": 378,
+                        "name": "Government of Mozambique",
+                        "shortname": "Govt. Mozambique",
+                        "longname": "Government of Mozambique",
+                        "homepage": "http://www.portaldogoverno.gov.mz/",
+                        "type": {
+                            "id": 271,
+                            "name": "Government"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1275?appname=rwint-user-0",
+                        "id": 1275,
+                        "name": "World Health Organization",
+                        "shortname": "WHO",
+                        "longname": "World Health Organization",
+                        "spanish_name": "Organización Mundial de la Salud",
+                        "homepage": "https://www.who.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/15477?appname=rwint-user-0",
+                        "id": 15477,
+                        "name": "Health Cluster",
+                        "shortname": "Health Cluster",
+                        "homepage": "https://healthcluster.who.int/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4590,
+                        "name": "Coordination"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4596,
+                        "name": "HIV/Aids"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47878,
+                        "name": "Mozambique: Cholera Outbreak - Mar 2019",
+                        "status": "past",
+                        "glide": "EP-2019-000026-MOZ",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3153319",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-health-cluster-bulletin-3-18-april-2019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>Mozambique Health Cluster and Nutrition Cluster are supporting 42 Partners who are reporting activities covering 11 provinces predominantly in Sofala province.</p>\n<p>The newly constituted surveillance and epidemiology task force chaired by INS (National Institute of Health) addressed issues such as flow of information and data sharing, enhancement of data analysis to target response activities.</p>\n<p>The Health cluster and Nutrition cluster 4W compilation process is being updated in order to facilitate the participation of the 42 Health partners in Beira. These maps are updated two times per week. See maps on this link <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://www.humanitarianresponse.info/en/\">https://www.humanitarianresponse.info/en/</a> operations/mozambique/health/infographics</p>\n<p>Collaboration on the Flash Appeal Emergency Response Plan and health priorities to appeal for an urgent $12 million for all implementing health agencies in the next month.</p>\n<p><strong>BACKGROUND AND CONTEXT</strong></p>\n<p>On 14 March, Cyclone Idai made landfall in Mozambique, bringing devastation to the port City of Beira and surrounding areas in the central region of the country over 1.85 million people were affected. One month after this devastating event. On the 15th of April, one month after this devastating event the official there were still nearly 1.2 million people in need. The death toll remained at 603 people and the number of houses destroyed or damaged 239,731. The number of displaced people in collective sites at 70,610.</p>\n<p>In Mozambique, prior to the cyclone emergency, despite improvements in infant mortality rates and significant improvements in access to PHC (Primary Health Care), health and nutrition indicators were of concern: &lt;5 mortality rate (78.5 per 1000), Maternal mortality ratio (407 per 100 000 live births), 43% of children under five years of age are stunted and 6% are wasted, with no improvement in prevalence over the last 10 years.</p>\n<p>The cyclone caused widespread damage to health facilities (with at least 77** health centres damaged or destroyed), while also leaving large numbers of the population cut off or displaced away from their normal health facilities. Sanitation facilities such as latrines were destroyed by the storm and floods, with consequent contamination of wells and boreholes.\nThe risk of communicable diseases has increased due to stagnant flood water, decreased access to clean water due to the floods, as well as over-crowding in collective centres. Health partners have reported an increase of malaria cases in many affected areas. Other major health risks include: cholera, acute watery diarrhoea, bloody diarrhoea, vector-borne diseases including malaria and dengue as well as other epidemic- prone diseases such as measles malnutrition and.</p>\n",
+                "date": {
+                    "original": "2019-04-18T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-18T00:00:00+00:00"
+                }
+            }
+        }
+    ]
+}

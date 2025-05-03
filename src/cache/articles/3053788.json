@@ -1,0 +1,165 @@
+{
+    "time": 1258,
+    "href": "https://api.reliefweb.int/v1/reports/3053788?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3053788?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 1139,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3053788",
+            "fields": {
+                "id": 3053788,
+                "title": "Mozambique: Cyclone Idai - ETC Situation Report #4 (Reporting Period: 22/03/2019 to 25/03/2019)",
+                "status": "published",
+                "body": "**Highlights** \n\n• An Emergency Telecommunications Cluster (ETC) Information Management Officer (IMO) has arrived in Beira to provide dedicated IM services for the ETC’s Cyclone Idai response.\n\n• To date, 284 humanitarians at the operational hub in Beira are accessing ETC Internet connectivity to enable them to do their work.\n\n• The ETC is requesting US$1.2 million to provide critical communications services in up to four Emergency Operational Centres (EOC) for three months along with a number of connection sites for accommodation centres, health centres, distribution points and joint location NGOs. So far, no funds have been received.\n\n**Situation Overview** \n\nOn 22 March, the Inter-Agency Standing Committee (IASC) officially activated the ETC as part of the Scale-Up protocol for three months. As of 24 March, the official death toll had risen to 446 and more than 1,500 people were injured, according to the Government. The death toll is expected to continue to rise as flood waters recede and more people are reached by response teams. As of the same date, 58,660 houses were reported totally destroyed, (36,747) partially destroyed (19,733) or flooded (2,184).  \n\nWFP-funded drones are supporting rapid assessments with the National Institute for Disaster Management (INGC) and locating survivors trapped in the flooded areas in Sofala. Bilateral support is increasing, with the arrival of both Search and Rescue (SAR) and Emergency Medical Teams (EMT). Satellite imagery shows numerous floodplains, including an inland ocean 125 km by 25 km – the size of Luxembourg – where water levels surged as high as 11 metres. Electricity from the power grid in Beira continues to be non-functional. Lack of access to safe water remains a major concern.",
+                "file": [
+                    {
+                        "id": "2051274",
+                        "url": "https://reliefweb.int/attachments/29648db9-094e-3507-b3e0-cae23b6142d8/Mozambique%20-%20ETC%20Situation%20Report%20%234_0.pdf",
+                        "filename": "Mozambique - ETC Situation Report #4_0.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "191603",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/29/64/29648db9-094e-3507-b3e0-cae23b6142d8.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/29/64/29648db9-094e-3507-b3e0-cae23b6142d8.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/29/64/29648db9-094e-3507-b3e0-cae23b6142d8.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/29/64/29648db9-094e-3507-b3e0-cae23b6142d8.png",
+                            "version": "2051274-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://www.etcluster.org/document/etc-mozambique-sitrep-4",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/13799?appname=rwint-user-0",
+                        "id": 13799,
+                        "name": "Emergency Telecommunications Cluster",
+                        "shortname": "ETC",
+                        "longname": "Emergency Telecommunications Cluster",
+                        "homepage": "https://www.etcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3053788",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-etc-situation-report-4-reporting-period-22032019-25032019",
+                "body-html": "<p><strong>Highlights</strong></p>\n<p>• An Emergency Telecommunications Cluster (ETC) Information Management Officer (IMO) has arrived in Beira to provide dedicated IM services for the ETC’s Cyclone Idai response.</p>\n<p>• To date, 284 humanitarians at the operational hub in Beira are accessing ETC Internet connectivity to enable them to do their work.</p>\n<p>• The ETC is requesting US$1.2 million to provide critical communications services in up to four Emergency Operational Centres (EOC) for three months along with a number of connection sites for accommodation centres, health centres, distribution points and joint location NGOs. So far, no funds have been received.</p>\n<p><strong>Situation Overview</strong></p>\n<p>On 22 March, the Inter-Agency Standing Committee (IASC) officially activated the ETC as part of the Scale-Up protocol for three months. As of 24 March, the official death toll had risen to 446 and more than 1,500 people were injured, according to the Government. The death toll is expected to continue to rise as flood waters recede and more people are reached by response teams. As of the same date, 58,660 houses were reported totally destroyed, (36,747) partially destroyed (19,733) or flooded (2,184).</p>\n<p>WFP-funded drones are supporting rapid assessments with the National Institute for Disaster Management (INGC) and locating survivors trapped in the flooded areas in Sofala. Bilateral support is increasing, with the arrival of both Search and Rescue (SAR) and Emergency Medical Teams (EMT). Satellite imagery shows numerous floodplains, including an inland ocean 125 km by 25 km – the size of Luxembourg – where water levels surged as high as 11 metres. Electricity from the power grid in Beira continues to be non-functional. Lack of access to safe water remains a major concern.</p>\n",
+                "date": {
+                    "original": "2019-03-25T00:00:00+00:00",
+                    "changed": "2019-04-06T13:52:32+00:00",
+                    "created": "2019-03-26T19:54:32+00:00"
+                }
+            }
+        }
+    ]
+}

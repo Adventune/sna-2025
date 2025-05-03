@@ -1,0 +1,208 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3052568?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3052568?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 4,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3052568",
+            "fields": {
+                "id": 3052568,
+                "uuid": "bdc203b2-392b-31fb-9781-ecb76cc399ee",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 9, 25 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS**\n\n• The official death toll was 447 people as of 25 March, according to the Government.\n\n• Nearly 129,000 people are sheltering in 143 collective sites across Sofala (more than 97,600 people), Manica (more than 14,800 people); Zambezia (more than 9,600 people); and Tete (more than 6,800 people).\n\n• The entire District of Nhamatanda in Sofala Province has been affected by Cyclone Idai and related floods, and nearly 15,000 people are sheltering in 14 sites across the district.\n\n**SITUATION OVERVIEW**\n\nAs of 25 March, the official death toll was 447, with more than 1,500 people injured, according to the Government.  \nAuthorities and aid agencies have highlighted the need for increased support in the management of dead bodies across the affected districts, as mortuary services are reportedly constrained. Nearly 129,000 people were accommodated in 143 sites across Sofala (103 sites), Manica (26 sites), Zambezia (10 sites) and Tete (4 sites), as of 25 March, an increase of more than 20,200 people since 24 March, across the affected areas. Some 72,260 houses are reportedly totally destroyed (36,747), partially destroyed (19,733) or flooded (2,184), with more than 497,700 hectares of crops damaged. \n\nReports of acute watery diarrhoea cases are increasing in areas impacted by the cyclone and floods, although the exact number of cases is yet to be confirmed. Health partners are in the process of identifying suitable locations for the establishment of treatment centers and it is expected that the figures of those infected will become clearer as people report to the centres. Key messages on the signs and symptoms of diarrhoea, when and where to seek help, prevention and general hygiene are being conveyed on local radio with the support of the Community Engagement Group. \n\nOn 23 and 24 March, a joint government-led multi-agency rapid needs assessment was conducted in Donbe, Matara and Sussundega, in Chimioi District, Manica Province. More than 13,300 people affected by Cyclone Idai and floods were identified in six locations: Chimoio, Gondala, Macate, Matarara, Sussundega and Vanduzi. The number of deaths in the district is reportedly rising, as the flood waters recede, with nine bodies found in Donbe this week. Efforts are underway to improve management of dead bodies, as mortuary facilities were either destroyed and/lack enough facilities and capacity.  \nPriority needs in the affected parts of the district are food, with specific requests for cereals, vegetables, oil, salt, and biscuits, and non-food items, including kitchen sets, blankets, plastic sheeting and mosquito nets. The Provincial Governor has reportedly expressed concern over the potential for an outbreak of various water and vector-borne diseases, due to the challenging sanitation conditions and limited access to clean drinking water in the accommodation sites and surrounding areas. The Department of Health is planning to increase hygiene promotion activities, while Public Works Department will review the status of water provision in the shelters.  \nSeparately, preliminary reports from an initial assessment conducted by the local authorities in Nhamatanda district in Sofala Province indicate that the entire District (245,000 people) has been affected by Cyclone Idai and related floods. \n\nNearly 15,000 people are sheltering in 14 sites in Nhamatanda Vila (6 sites), Bededo (5 sites) and Metuchira (3 sites). All houses in Metuchira - home to nearly 38,000 people - were reportedly destroyed and authorities have requested support with tents/tarps and other non-food items for displaced people, who are currently sheltering in schools in the area.  \nSimilarly, in Lamego, nearly 30,000 people are affected, the majority having lost their houses after the sugar plantation dam broke its banks. Displaced people from Lamego are sheltering in Vila. At least 33 deaths were reported from Lamego, according to the authorities. Due to poor information flow in and out of Bebedo and Nhampoca locations, authorities fear that an unknown number of people are reportedly still stranded and surrounded by water. On 20 March, a canoe ferrying the local nurse and other rescued people capsized and their whereabouts remain unknown.  \nAccording to the authorities, people in emergency shelters in Nhamatanda District are reportedly without enough food and the current food stocks will run out within a week. Incidents of diarrhoea have been reported by the district health authorities. \n\nHealth facilities have been damaged, and only temporary/mobile centers are operational, with limited antibiotics and rehydration salts in Vila for the treatment of diarrhoea. The water supply system was damaged, and many latrines destroyed; contaminated water has reportedly leaked into the wells, compromising the sanitation situation. The local administrator has raised concern that the use of schools as accommodation centres has compromised the school schedule, meaning that children will have to stay longer in school during the holiday period to make up for lost time.  \n\nRoad access in all the 11 locations in the district have been damaged; majority by erosion, while others are still flooded.  \nThe authorities have requested for assistance with the rebuilding of infrastructure, including bridges and culverts to allow flood water to flow below the roads. Electricity supply in the district has been disconnected as repair works continue in the area, according to the assessment report. Vodacom is supporting the communities with limited mobile communication and free phone-charging services to facilitate communications with families. Markets and shops in Vila are functional, although commodity prices have risen, creating problems of access for the community. Fuel shortages are imminent, according to the assessment report.",
+                "file": [
+                    {
+                        "id": "2048897",
+                        "url": "https://reliefweb.int/attachments/e194d4ad-1767-3253-acf2-b5c6aed97fdc/ROSEA_20190325_Mozambique%20Floods_Flash_Update%239%20Final.pdf",
+                        "filename": "ROSEA_20190325_Mozambique Floods_Flash_Update#9 Final.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "123854",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/e1/94/e194d4ad-1767-3253-acf2-b5c6aed97fdc.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/e1/94/e194d4ad-1767-3253-acf2-b5c6aed97fdc.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/e1/94/e194d4ad-1767-3253-acf2-b5c6aed97fdc.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e1/94/e194d4ad-1767-3253-acf2-b5c6aed97fdc.png",
+                            "version": "2048897-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6870,
+                        "name": "Aged Persons"
+                    },
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3052568",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-9-25-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The official death toll was 447 people as of 25 March, according to the Government.</p>\n<p>• Nearly 129,000 people are sheltering in 143 collective sites across Sofala (more than 97,600 people), Manica (more than 14,800 people); Zambezia (more than 9,600 people); and Tete (more than 6,800 people).</p>\n<p>• The entire District of Nhamatanda in Sofala Province has been affected by Cyclone Idai and related floods, and nearly 15,000 people are sheltering in 14 sites across the district.</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>As of 25 March, the official death toll was 447, with more than 1,500 people injured, according to the Government.<br />\nAuthorities and aid agencies have highlighted the need for increased support in the management of dead bodies across the affected districts, as mortuary services are reportedly constrained. Nearly 129,000 people were accommodated in 143 sites across Sofala (103 sites), Manica (26 sites), Zambezia (10 sites) and Tete (4 sites), as of 25 March, an increase of more than 20,200 people since 24 March, across the affected areas. Some 72,260 houses are reportedly totally destroyed (36,747), partially destroyed (19,733) or flooded (2,184), with more than 497,700 hectares of crops damaged.</p>\n<p>Reports of acute watery diarrhoea cases are increasing in areas impacted by the cyclone and floods, although the exact number of cases is yet to be confirmed. Health partners are in the process of identifying suitable locations for the establishment of treatment centers and it is expected that the figures of those infected will become clearer as people report to the centres. Key messages on the signs and symptoms of diarrhoea, when and where to seek help, prevention and general hygiene are being conveyed on local radio with the support of the Community Engagement Group.</p>\n<p>On 23 and 24 March, a joint government-led multi-agency rapid needs assessment was conducted in Donbe, Matara and Sussundega, in Chimioi District, Manica Province. More than 13,300 people affected by Cyclone Idai and floods were identified in six locations: Chimoio, Gondala, Macate, Matarara, Sussundega and Vanduzi. The number of deaths in the district is reportedly rising, as the flood waters recede, with nine bodies found in Donbe this week. Efforts are underway to improve management of dead bodies, as mortuary facilities were either destroyed and/lack enough facilities and capacity.<br />\nPriority needs in the affected parts of the district are food, with specific requests for cereals, vegetables, oil, salt, and biscuits, and non-food items, including kitchen sets, blankets, plastic sheeting and mosquito nets. The Provincial Governor has reportedly expressed concern over the potential for an outbreak of various water and vector-borne diseases, due to the challenging sanitation conditions and limited access to clean drinking water in the accommodation sites and surrounding areas. The Department of Health is planning to increase hygiene promotion activities, while Public Works Department will review the status of water provision in the shelters.<br />\nSeparately, preliminary reports from an initial assessment conducted by the local authorities in Nhamatanda district in Sofala Province indicate that the entire District (245,000 people) has been affected by Cyclone Idai and related floods.</p>\n<p>Nearly 15,000 people are sheltering in 14 sites in Nhamatanda Vila (6 sites), Bededo (5 sites) and Metuchira (3 sites). All houses in Metuchira - home to nearly 38,000 people - were reportedly destroyed and authorities have requested support with tents/tarps and other non-food items for displaced people, who are currently sheltering in schools in the area.<br />\nSimilarly, in Lamego, nearly 30,000 people are affected, the majority having lost their houses after the sugar plantation dam broke its banks. Displaced people from Lamego are sheltering in Vila. At least 33 deaths were reported from Lamego, according to the authorities. Due to poor information flow in and out of Bebedo and Nhampoca locations, authorities fear that an unknown number of people are reportedly still stranded and surrounded by water. On 20 March, a canoe ferrying the local nurse and other rescued people capsized and their whereabouts remain unknown.<br />\nAccording to the authorities, people in emergency shelters in Nhamatanda District are reportedly without enough food and the current food stocks will run out within a week. Incidents of diarrhoea have been reported by the district health authorities.</p>\n<p>Health facilities have been damaged, and only temporary/mobile centers are operational, with limited antibiotics and rehydration salts in Vila for the treatment of diarrhoea. The water supply system was damaged, and many latrines destroyed; contaminated water has reportedly leaked into the wells, compromising the sanitation situation. The local administrator has raised concern that the use of schools as accommodation centres has compromised the school schedule, meaning that children will have to stay longer in school during the holiday period to make up for lost time.</p>\n<p>Road access in all the 11 locations in the district have been damaged; majority by erosion, while others are still flooded.<br />\nThe authorities have requested for assistance with the rebuilding of infrastructure, including bridges and culverts to allow flood water to flow below the roads. Electricity supply in the district has been disconnected as repair works continue in the area, according to the assessment report. Vodacom is supporting the communities with limited mobile communication and free phone-charging services to facilitate communications with families. Markets and shops in Vila are functional, although commodity prices have risen, creating problems of access for the community. Fuel shortages are imminent, according to the assessment report.</p>\n",
+                "date": {
+                    "original": "2019-03-25T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-26T09:55:59+00:00"
+                }
+            }
+        }
+    ]
+}

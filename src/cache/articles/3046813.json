@@ -1,0 +1,208 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3046813?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3046813?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3046813",
+            "fields": {
+                "id": 3046813,
+                "uuid": "65d5baac-2778-3262-a466-7999308db21c",
+                "title": "Mozambique: Cyclone Idai & Floods Flash Update No. 6, 21 March 2019",
+                "status": "published",
+                "body": "**HIGHLIGHTS** \n\n• The Government of Mozambique has formally requested international assistance.\n\n• The official death toll has risen to at least 242 people, according to the Government.\n\n• At least 65,000 people are sheltering in more than 100 collective sites across Sofala (73 sites), Manica (18), Zambezia (10) and Tete (4); the majority are staying in schools and churches.\n\n• Nearly 11,400 houses have been completely destroyed and crop losses are extensive\n\n**SITUATION OVERVIEW** \n\nThe Government of Mozambique has issued a Note Verbale formally requesting international assistance, including for all elements of the humanitarian response – food, shelter, education, health and non-food items, as well as logistical support, including air assets, boats and communications.  \n\nAt least 242 people have died and more than 1,400 have been injured in the aftermath of the Cyclone Idai weather system, according to the Government. The death toll is expected to continue to rise in the days ahead. Health and education facilities have suffered significant damage, with more than 2,800 classrooms and 39 health centres impacted by the cyclone and floods. More than 17,400 houses have been totally destroyed (11,025), partially destroyed (4,363) or flooded (2,056), according to government reports. In addition, more than 385,300 hectares of crops have been damaged, which will impact food security in the months ahead, particularly as the losses coincide with the annual harvest period.  \n\nOn 20 March, a multi-agency rapid needs assessment was conducted in Dondo District. People whose houses have been destroyed are accommodated in 28 reception centers (seven in Mafambisse, three in Mutua and 18 in Dondo), established in schools, according to local authorities. People in the centres expressed the intention to return home as soon as possible and requested to be supported with shelter material to rebuild their homes. The local authorities requested additional drug stocks, as health centres are reportedly running low. Health partners are concerned about the increased risk of respiratory infections and malaria cases, while acute watery diarrhea was also reported. Protection partners have highlighted the urgent need to separate sleeping arrangements in the reception centres, as different families are sleeping together, and this heightens the risk of gender-based violence. The teams observed many young children (below the age of 5 years).  \n\nIn Beira City, food prices have reportedly risen by about 300 per cent, with long queues observed for staples such as bread and fuel. Communication is slowly being restored with some towers and infrastructure fixed; providing data and voice access in some parts of the city. A communication centre has been established to ensure families can contact their relatives who were displaced or relocated during the floods. Beira remains only accessible by air and sea. The Caia-Beira road is not passable, and the Maputo-Beira road is not passable in Nhamatanda, as the road has been washed away at three points due to the broken dam. The city remains without electricity, while telephone and internet communication is intermittent.  \n\nSanitation and hygiene remain a concern, particularly in the reception centres, where cases of open defecation and poor use of limited facilities have been reported. Access to clean drinking water remains a challenge in all affected locations.  \n\nHealth partners have reported an increase in diarrhea cases and warned of the high risk of disease outbreaks, including cholera, malaria and respiratory infections.  \n\nBuzi District remains mostly submerged, although flood waters have began to recede in recent days. Many people from Buzi have been relocated through search and rescue to other areas. Access to safe drinking water is a top priority for rescued people as many of them are reportedly dehydrated after spending more than three days without food or water.",
+                "file": [
+                    {
+                        "id": "2048361",
+                        "url": "https://reliefweb.int/attachments/02fee5e4-d600-3e5a-83b0-4d637cd6c541/ROSEA_20190320_Mozambique%20Floods_Flash_Update%236.pdf",
+                        "filename": "ROSEA_20190320_Mozambique Floods_Flash_Update#6.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "111992",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/02/fe/02fee5e4-d600-3e5a-83b0-4d637cd6c541.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/02/fe/02fee5e4-d600-3e5a-83b0-4d637cd6c541.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/02/fe/02fee5e4-d600-3e5a-83b0-4d637cd6c541.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/02/fe/02fee5e4-d600-3e5a-83b0-4d637cd6c541.png",
+                            "version": "2048361-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1503?appname=rwint-user-0",
+                        "id": 1503,
+                        "name": "UN Office for the Coordination of Humanitarian Affairs",
+                        "shortname": "OCHA",
+                        "longname": "United Nations Office for the Coordination of Humanitarian Affairs",
+                        "spanish_name": "Oficina de Coordinación de Asuntos Humanitarios",
+                        "homepage": "https://www.unocha.org/",
+                        "disclaimer": "To learn more about OCHA's activities, please visit https://www.unocha.org/.",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4587,
+                        "name": "Agriculture"
+                    },
+                    {
+                        "id": 4592,
+                        "name": "Education"
+                    },
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "ocha_product": [
+                    {
+                        "id": 12353,
+                        "name": "Other"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3046813",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-cyclone-idai-floods-flash-update-no-6-21-march-2019",
+                "body-html": "<p><strong>HIGHLIGHTS</strong></p>\n<p>• The Government of Mozambique has formally requested international assistance.</p>\n<p>• The official death toll has risen to at least 242 people, according to the Government.</p>\n<p>• At least 65,000 people are sheltering in more than 100 collective sites across Sofala (73 sites), Manica (18), Zambezia (10) and Tete (4); the majority are staying in schools and churches.</p>\n<p>• Nearly 11,400 houses have been completely destroyed and crop losses are extensive</p>\n<p><strong>SITUATION OVERVIEW</strong></p>\n<p>The Government of Mozambique has issued a Note Verbale formally requesting international assistance, including for all elements of the humanitarian response – food, shelter, education, health and non-food items, as well as logistical support, including air assets, boats and communications.</p>\n<p>At least 242 people have died and more than 1,400 have been injured in the aftermath of the Cyclone Idai weather system, according to the Government. The death toll is expected to continue to rise in the days ahead. Health and education facilities have suffered significant damage, with more than 2,800 classrooms and 39 health centres impacted by the cyclone and floods. More than 17,400 houses have been totally destroyed (11,025), partially destroyed (4,363) or flooded (2,056), according to government reports. In addition, more than 385,300 hectares of crops have been damaged, which will impact food security in the months ahead, particularly as the losses coincide with the annual harvest period.</p>\n<p>On 20 March, a multi-agency rapid needs assessment was conducted in Dondo District. People whose houses have been destroyed are accommodated in 28 reception centers (seven in Mafambisse, three in Mutua and 18 in Dondo), established in schools, according to local authorities. People in the centres expressed the intention to return home as soon as possible and requested to be supported with shelter material to rebuild their homes. The local authorities requested additional drug stocks, as health centres are reportedly running low. Health partners are concerned about the increased risk of respiratory infections and malaria cases, while acute watery diarrhea was also reported. Protection partners have highlighted the urgent need to separate sleeping arrangements in the reception centres, as different families are sleeping together, and this heightens the risk of gender-based violence. The teams observed many young children (below the age of 5 years).</p>\n<p>In Beira City, food prices have reportedly risen by about 300 per cent, with long queues observed for staples such as bread and fuel. Communication is slowly being restored with some towers and infrastructure fixed; providing data and voice access in some parts of the city. A communication centre has been established to ensure families can contact their relatives who were displaced or relocated during the floods. Beira remains only accessible by air and sea. The Caia-Beira road is not passable, and the Maputo-Beira road is not passable in Nhamatanda, as the road has been washed away at three points due to the broken dam. The city remains without electricity, while telephone and internet communication is intermittent.</p>\n<p>Sanitation and hygiene remain a concern, particularly in the reception centres, where cases of open defecation and poor use of limited facilities have been reported. Access to clean drinking water remains a challenge in all affected locations.</p>\n<p>Health partners have reported an increase in diarrhea cases and warned of the high risk of disease outbreaks, including cholera, malaria and respiratory infections.</p>\n<p>Buzi District remains mostly submerged, although flood waters have began to recede in recent days. Many people from Buzi have been relocated through search and rescue to other areas. Access to safe drinking water is a top priority for rescued people as many of them are reportedly dehydrated after spending more than three days without food or water.</p>\n",
+                "date": {
+                    "original": "2019-03-21T00:00:00+00:00",
+                    "changed": "2025-02-17T03:23:56+00:00",
+                    "created": "2019-03-21T20:49:42+00:00"
+                }
+            }
+        }
+    ]
+}

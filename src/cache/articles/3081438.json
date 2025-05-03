@@ -1,0 +1,188 @@
+{
+    "time": 2413,
+    "href": "https://api.reliefweb.int/v1/reports/3081438?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3081438?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2334,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3081438",
+            "fields": {
+                "id": 3081438,
+                "uuid": "d8191d3a-1334-38d2-9011-8b47735e2a03",
+                "title": "Mozambique: UNHCR Protection Monitoring Report #3 (April 9, 2019)",
+                "status": "published",
+                "body": "**General background**\n\nSix accommodations centres are opened in Guara-Guara, of which five were referred to as Transit Centres and the sixth as accommodation centre. As opposed to Guara-Guara only hit by the cyclone, the Buzi village was affected both by Cyclone as well as flash floods. The government plan is to move the displaced population from Buzi and those living in lower lands to a relocation/integration site where the demarcation is presently taking place.\n\nAccording to the Director of the District, the school is hosting 779 families / 2,114 individuals, all of whom are from the Buzi village. The Director estimated that the 60% of the population is female, which is not un-similar to the demographic breakdown prior to the cyclone. No age disaggregated data is not available.  \n\nThe population reported that they arrived in Guara-Guara by boat, motorcycle or on foot.",
+                "file": [
+                    {
+                        "id": "2052302",
+                        "url": "https://reliefweb.int/attachments/1d34a034-3c9b-3013-9335-e6fea74c18fd/protection_monitoring_report_3.pdf",
+                        "filename": "protection_monitoring_report_3.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "699686",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/1d/34/1d34a034-3c9b-3013-9335-e6fea74c18fd.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/1d/34/1d34a034-3c9b-3013-9335-e6fea74c18fd.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/1d/34/1d34a034-3c9b-3013-9335-e6fea74c18fd.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1d/34/1d34a034-3c9b-3013-9335-e6fea74c18fd.png",
+                            "version": "2052302-1-0"
+                        }
+                    }
+                ],
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3081438",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-unhcr-protection-monitoring-report-3-april-9-2019",
+                "body-html": "<p><strong>General background</strong></p>\n<p>Six accommodations centres are opened in Guara-Guara, of which five were referred to as Transit Centres and the sixth as accommodation centre. As opposed to Guara-Guara only hit by the cyclone, the Buzi village was affected both by Cyclone as well as flash floods. The government plan is to move the displaced population from Buzi and those living in lower lands to a relocation/integration site where the demarcation is presently taking place.</p>\n<p>According to the Director of the District, the school is hosting 779 families / 2,114 individuals, all of whom are from the Buzi village. The Director estimated that the 60% of the population is female, which is not un-similar to the demographic breakdown prior to the cyclone. No age disaggregated data is not available.</p>\n<p>The population reported that they arrived in Guara-Guara by boat, motorcycle or on foot.</p>\n",
+                "date": {
+                    "original": "2019-04-09T00:00:00+00:00",
+                    "changed": "2023-07-31T04:31:05+00:00",
+                    "created": "2019-04-12T12:47:56+00:00"
+                }
+            }
+        }
+    ]
+}

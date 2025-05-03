@@ -1,0 +1,189 @@
+{
+    "time": 9,
+    "href": "https://api.reliefweb.int/v1/reports/3096248?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3096248?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 2,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3096248",
+            "fields": {
+                "id": 3096248,
+                "uuid": "220c59e2-f5fa-3bb1-a531-67e14f98ddd3",
+                "title": "Mozambique: UNHCR Protection Monitoring Report #7 (April 17, 2019)",
+                "status": "published",
+                "body": "**General background**\n\nThe population in the Água Rural Accommodation Centre come from several nearby villages – 10 administrative areas. The population is mostly women and children, and men were said to be out trying to find work. Out of 32 tents at the site, most are occupied by women and children. Boys who are 15 years and above stay with their fathers. In addition to the tents, several families were staying in a brick building within the compound.\n\nMetuchira resettlement site is one of the three “resettlement” areas identified by GoM/INGC. The other two are Xiluvo and Ndeja. 221 households are expected to be allocated individual plots. 186 plots have been demarcated with 47 tents already pitched and the same number of families resettled.  \n\nOn the day of monitoring, a multi-partner visit was held in Nhamatanda to meet with the Municipality Administrator and meet IDPs in transit sites as well as in permanent relocation sites. The Protection Cluster was represented by UNICEF, IOM and UNHCR. The UNHCR Representative in Mozambique and Assistant Regional Representative (Admin), ROSA also joined the delegation.  \n\nAccording to local authorities, 3,245 families live in accommodation centres. It was reported that like in other ‘resettlement’ sites, lack of basic facilities (such as WASH and Health, functioning schools) and support for livelihoods exposed the population to protection risks, particularly the most vulnerable. Similarly, the team recorded tensions between host communities and IDPs over aid distribution.\n\n**General protection & safety**\n\nÁgua Rural Accommodation Centre                \nThe centre is located near the Nhamatanda town, the population stated that they felt safe there.  \n\nMetuchira Resettlement Site              \nLocal population at the nearby village said that most of the new families are known to them as they are from the neighbouring villages.",
+                "file": [
+                    {
+                        "id": "2054358",
+                        "url": "https://reliefweb.int/attachments/c13bea37-70e2-373b-a387-aad38085faa3/69122.pdf",
+                        "filename": "69122.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "301322",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/c1/3b/c13bea37-70e2-373b-a387-aad38085faa3.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/c1/3b/c13bea37-70e2-373b-a387-aad38085faa3.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/c1/3b/c13bea37-70e2-373b-a387-aad38085faa3.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c1/3b/c13bea37-70e2-373b-a387-aad38085faa3.png",
+                            "version": "2054358-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://data2.unhcr.org/en/documents/details/69122",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                    "id": 164,
+                    "name": "Mozambique",
+                    "shortname": "Mozambique",
+                    "iso3": "moz",
+                    "location": {
+                        "lat": -18.09,
+                        "lon": 34.75
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/164?appname=rwint-user-0",
+                        "id": 164,
+                        "name": "Mozambique",
+                        "shortname": "Mozambique",
+                        "iso3": "moz",
+                        "location": {
+                            "lat": -18.09,
+                            "lon": 34.75
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4593,
+                        "name": "Food and Nutrition"
+                    },
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    },
+                    {
+                        "id": 4604,
+                        "name": "Water Sanitation Hygiene"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6871,
+                        "name": "Children"
+                    },
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6875,
+                        "name": "Women"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3096248",
+                "url_alias": "https://reliefweb.int/report/mozambique/mozambique-unhcr-protection-monitoring-report-7-april-17-2019",
+                "body-html": "<p><strong>General background</strong></p>\n<p>The population in the Água Rural Accommodation Centre come from several nearby villages – 10 administrative areas. The population is mostly women and children, and men were said to be out trying to find work. Out of 32 tents at the site, most are occupied by women and children. Boys who are 15 years and above stay with their fathers. In addition to the tents, several families were staying in a brick building within the compound.</p>\n<p>Metuchira resettlement site is one of the three “resettlement” areas identified by GoM/INGC. The other two are Xiluvo and Ndeja. 221 households are expected to be allocated individual plots. 186 plots have been demarcated with 47 tents already pitched and the same number of families resettled.</p>\n<p>On the day of monitoring, a multi-partner visit was held in Nhamatanda to meet with the Municipality Administrator and meet IDPs in transit sites as well as in permanent relocation sites. The Protection Cluster was represented by UNICEF, IOM and UNHCR. The UNHCR Representative in Mozambique and Assistant Regional Representative (Admin), ROSA also joined the delegation.</p>\n<p>According to local authorities, 3,245 families live in accommodation centres. It was reported that like in other ‘resettlement’ sites, lack of basic facilities (such as WASH and Health, functioning schools) and support for livelihoods exposed the population to protection risks, particularly the most vulnerable. Similarly, the team recorded tensions between host communities and IDPs over aid distribution.</p>\n<p><strong>General protection &amp; safety</strong></p>\n<p>Água Rural Accommodation Centre<br />\nThe centre is located near the Nhamatanda town, the population stated that they felt safe there.</p>\n<p>Metuchira Resettlement Site<br />\nLocal population at the nearby village said that most of the new families are known to them as they are from the neighbouring villages.</p>\n",
+                "date": {
+                    "original": "2019-04-17T00:00:00+00:00",
+                    "changed": "2019-04-24T13:32:06+00:00",
+                    "created": "2019-04-24T11:46:21+00:00"
+                }
+            }
+        }
+    ]
+}

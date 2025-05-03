@@ -1,0 +1,169 @@
+{
+    "time": 708,
+    "href": "https://api.reliefweb.int/v1/reports/3074233?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3074233?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 684,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3074233",
+            "fields": {
+                "id": 3074233,
+                "title": "Zimbabwe: Situation Update, 8 April 2019",
+                "status": "published",
+                "body": "**Situation Overview**\n\n• Flooding following Cyclone Idai in mid-March has affected 270,000 people as of 6 April 2019.\n\n• The most heavily affected areas are the districts of Chimanimani and Chipinge in Manicaland which have been isolated due to roads and bridges being washed away. Mashonaland East (Chikomba district) and Masvingo (Zaka and Bikita districts) have also been affected.\n\n• The Logistics Cluster was officially activated on 4 April 2019. A Logistics Cluster Coordinator and an Information Management Officer have been deployed to Mutare.\n\n• A dedicated webpage has been created for the Zimbabwe response - https://logcluster.org/ops/zwe19a. A WhatsApp group and mailing list have been created for the sharing of logistics information related to the response. Please contact Alicia Stafford to join.\n\n• Organisations importing relief items for the Cyclone Idai response should contact the Department of Civil Protection for assistance with customs clearance and waivers.\n\n**2. Access Constraints**\n\n• Chimanimani town can now be accessed from Skyline using 7 mt trucks.\n\n• Charleswood is accessible from Chimanimani town by 4x4 vehicles.\n\n• The road from Mutare to Chimanimani via Wengezi is now reportedly accessible by 4x4 vehicles.\n\n• Bridges at Mhandarume, Matsororo, Mvumvumvu, Biriri, Muusha Primary School and Nyahode are all reported as damaged.\n\n• The road at Rusitu has been heavily damaged and can only be crossed by vehicles up to 10 mt in capacity.\n\n• The bridge at Biriwiri is expected to be repaired by 7 April.\n\n• The latest Access Constraints map can be found [here](https://reliefweb.int/node/3071608/).",
+                "file": [
+                    {
+                        "id": "2051542",
+                        "url": "https://reliefweb.int/attachments/291886ac-ce2d-3f67-8a03-c80e7cf9a62b/logistics_cluster_zimbabwe_situation_update_190407.pdf",
+                        "filename": "logistics_cluster_zimbabwe_situation_update_190407.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "315062",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/29/18/291886ac-ce2d-3f67-8a03-c80e7cf9a62b.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/29/18/291886ac-ce2d-3f67-8a03-c80e7cf9a62b.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/29/18/291886ac-ce2d-3f67-8a03-c80e7cf9a62b.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/29/18/291886ac-ce2d-3f67-8a03-c80e7cf9a62b.png",
+                            "version": "2051542-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://logcluster.org/document/zimbabwe-situation-update-8-april-2019",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/1741?appname=rwint-user-0",
+                        "id": 1741,
+                        "name": "World Food Programme",
+                        "shortname": "WFP",
+                        "longname": "United Nations World Food Programme",
+                        "spanish_name": "Programa Mundial de Alimentos",
+                        "homepage": "http://www.wfp.org",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    },
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/3594?appname=rwint-user-0",
+                        "id": 3594,
+                        "name": "Logistics Cluster",
+                        "shortname": "Logistics Cluster",
+                        "homepage": "https://www.logcluster.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4598,
+                        "name": "Logistics and Telecommunications"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3074233",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-situation-update-8-april-2019",
+                "body-html": "<p><strong>Situation Overview</strong></p>\n<p>• Flooding following Cyclone Idai in mid-March has affected 270,000 people as of 6 April 2019.</p>\n<p>• The most heavily affected areas are the districts of Chimanimani and Chipinge in Manicaland which have been isolated due to roads and bridges being washed away. Mashonaland East (Chikomba district) and Masvingo (Zaka and Bikita districts) have also been affected.</p>\n<p>• The Logistics Cluster was officially activated on 4 April 2019. A Logistics Cluster Coordinator and an Information Management Officer have been deployed to Mutare.</p>\n<p>• A dedicated webpage has been created for the Zimbabwe response - <a rel=\"noopener noreferrer\" target=\"_blank\" href=\"https://logcluster.org/ops/zwe19a\">https://logcluster.org/ops/zwe19a</a>. A WhatsApp group and mailing list have been created for the sharing of logistics information related to the response. Please contact Alicia Stafford to join.</p>\n<p>• Organisations importing relief items for the Cyclone Idai response should contact the Department of Civil Protection for assistance with customs clearance and waivers.</p>\n<p><strong>2. Access Constraints</strong></p>\n<p>• Chimanimani town can now be accessed from Skyline using 7 mt trucks.</p>\n<p>• Charleswood is accessible from Chimanimani town by 4x4 vehicles.</p>\n<p>• The road from Mutare to Chimanimani via Wengezi is now reportedly accessible by 4x4 vehicles.</p>\n<p>• Bridges at Mhandarume, Matsororo, Mvumvumvu, Biriri, Muusha Primary School and Nyahode are all reported as damaged.</p>\n<p>• The road at Rusitu has been heavily damaged and can only be crossed by vehicles up to 10 mt in capacity.</p>\n<p>• The bridge at Biriwiri is expected to be repaired by 7 April.</p>\n<p>• The latest Access Constraints map can be found <a href=\"https://reliefweb.int/node/3071608/\">here</a>.</p>\n",
+                "date": {
+                    "original": "2019-04-08T00:00:00+00:00",
+                    "changed": "2019-04-08T20:07:23+00:00",
+                    "created": "2019-04-08T18:32:11+00:00"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,196 @@
+{
+    "time": 10,
+    "href": "https://api.reliefweb.int/v1/reports/3086278?appname=rwint-user-0",
+    "links": {
+        "self": {
+            "href": "https://api.reliefweb.int/v1/reports/3086278?appname=rwint-user-0"
+        },
+        "collection": {
+            "href": "https://api.reliefweb.int/v1/reports?appname=rwint-user-0"
+        }
+    },
+    "took": 3,
+    "totalCount": 1,
+    "count": 1,
+    "data": [
+        {
+            "id": "3086278",
+            "fields": {
+                "id": 3086278,
+                "uuid": "7826cc1f-2340-3579-88de-5dd0d28cbeff",
+                "title": "Zimbabwe Tropical Cyclone Idai Response (12-04-2019)",
+                "status": "published",
+                "body": "Since the cyclone hit, at least 344 deaths and 175 injuries have been reported and 257 people were reportedly missing. Over 270, 000 people have been affected.\n\nDestruction to infrastructure and property is severe. The death toll is expected to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known.\n\nThere are 20,411 refugees and asylum seekers in Zimbabwe. 13,865 have been registered as refugees. 6000 are in immediate need following the cyclone.\n\n**UNHCR IMMEDIATE RESPONSE**\n\n80MT of CRIs for 10,000 Zimbabweans affected by the cyclone have been transported to Chipinge District. UNHCR has also brought 60 tarpaulins and 300 tents from Zambia specifically for refugees who need immediate shelter. A limited distribution of these has begun.\n\nOn 9 April, UNHCR airlifted additional CRIs for 5,300 affected refugees in Tongogara refugee camp.\n\nThe airlifts contained blankets, kitchen sets, jerry cans, mosquito nets, solar lamps, sanitary pads and soap\n\n**CHOLERA PREVENTION**\n\nCholera has reached the border between Mozambique and Zimbabwe. UNHCR Zimbabwe has ensured that refugees are covered in the current vaccination campaign in the region affected by the cyclone and is prioritising the installation of proper latrines for refugees to avoid the spread of disease. So far, no confirmed cases of cholera has been reported.",
+                "file": [
+                    {
+                        "id": "2052858",
+                        "url": "https://reliefweb.int/attachments/5a3da138-8e68-37c7-af02-a84966ae3561/69024.pdf",
+                        "filename": "69024.pdf",
+                        "mimetype": "application/pdf",
+                        "filesize": "395004",
+                        "preview": {
+                            "url": "https://reliefweb.int/sites/default/files/previews/5a/3d/5a3da138-8e68-37c7-af02-a84966ae3561.png",
+                            "url-large": "https://reliefweb.int/sites/default/files/styles/large/public/previews/5a/3d/5a3da138-8e68-37c7-af02-a84966ae3561.png",
+                            "url-small": "https://reliefweb.int/sites/default/files/styles/small/public/previews/5a/3d/5a3da138-8e68-37c7-af02-a84966ae3561.png",
+                            "url-thumb": "https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/5a/3d/5a3da138-8e68-37c7-af02-a84966ae3561.png",
+                            "version": "2052858-1-0"
+                        }
+                    }
+                ],
+                "origin": "https://data2.unhcr.org/en/documents/details/69024",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=rwint-user-0",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "source": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/sources/2868?appname=rwint-user-0",
+                        "id": 2868,
+                        "name": "UN High Commissioner for Refugees",
+                        "shortname": "UNHCR",
+                        "longname": "United Nations High Commissioner for Refugees",
+                        "spanish_name": "Oficina del Alto Comisionado de las Naciones Unidas para los Refugiados",
+                        "homepage": "https://www.unhcr.org/",
+                        "type": {
+                            "id": 272,
+                            "name": "International Organization"
+                        }
+                    }
+                ],
+                "language": [
+                    {
+                        "id": 267,
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "theme": [
+                    {
+                        "id": 4595,
+                        "name": "Health"
+                    },
+                    {
+                        "id": 4600,
+                        "name": "Protection and Human Rights"
+                    },
+                    {
+                        "id": 4603,
+                        "name": "Shelter and Non-Food Items"
+                    }
+                ],
+                "format": [
+                    {
+                        "id": 10,
+                        "name": "Situation Report"
+                    }
+                ],
+                "disaster": [
+                    {
+                        "id": 46549,
+                        "name": "Zimbabwe: Cholera Outbreak - Sep 2018",
+                        "status": "past",
+                        "glide": "EP-2018-000150-ZWE",
+                        "type": [
+                            {
+                                "id": 4642,
+                                "name": "Epidemic",
+                                "code": "EP",
+                                "primary": true
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47733,
+                        "name": "Tropical Cyclone Idai - Mar 2019",
+                        "status": "past",
+                        "glide": "TC-2019-000021-MOZ",
+                        "type": [
+                            {
+                                "id": 4611,
+                                "name": "Flood",
+                                "code": "FL"
+                            },
+                            {
+                                "id": 4618,
+                                "name": "Tropical Cyclone",
+                                "code": "TC",
+                                "primary": true
+                            },
+                            {
+                                "id": 4624,
+                                "name": "Flash Flood",
+                                "code": "FF"
+                            },
+                            {
+                                "id": 4728,
+                                "name": "Land Slide",
+                                "code": "LS"
+                            }
+                        ]
+                    }
+                ],
+                "disaster_type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP"
+                    },
+                    {
+                        "id": 4624,
+                        "name": "Flash Flood",
+                        "code": "FF"
+                    },
+                    {
+                        "id": 4611,
+                        "name": "Flood",
+                        "code": "FL"
+                    },
+                    {
+                        "id": 4618,
+                        "name": "Tropical Cyclone",
+                        "code": "TC"
+                    }
+                ],
+                "vulnerable_groups": [
+                    {
+                        "id": 6872,
+                        "name": "IDPs"
+                    },
+                    {
+                        "id": 6874,
+                        "name": "Refugees"
+                    }
+                ],
+                "url": "https://reliefweb.int/node/3086278",
+                "url_alias": "https://reliefweb.int/report/zimbabwe/zimbabwe-tropical-cyclone-idai-response-12-04-2019",
+                "body-html": "<p>Since the cyclone hit, at least 344 deaths and 175 injuries have been reported and 257 people were reportedly missing. Over 270, 000 people have been affected.</p>\n<p>Destruction to infrastructure and property is severe. The death toll is expected to rise as areas previously cut-off become reachable by road and the full extent of the damage becomes known.</p>\n<p>There are 20,411 refugees and asylum seekers in Zimbabwe. 13,865 have been registered as refugees. 6000 are in immediate need following the cyclone.</p>\n<p><strong>UNHCR IMMEDIATE RESPONSE</strong></p>\n<p>80MT of CRIs for 10,000 Zimbabweans affected by the cyclone have been transported to Chipinge District. UNHCR has also brought 60 tarpaulins and 300 tents from Zambia specifically for refugees who need immediate shelter. A limited distribution of these has begun.</p>\n<p>On 9 April, UNHCR airlifted additional CRIs for 5,300 affected refugees in Tongogara refugee camp.</p>\n<p>The airlifts contained blankets, kitchen sets, jerry cans, mosquito nets, solar lamps, sanitary pads and soap</p>\n<p><strong>CHOLERA PREVENTION</strong></p>\n<p>Cholera has reached the border between Mozambique and Zimbabwe. UNHCR Zimbabwe has ensured that refugees are covered in the current vaccination campaign in the region affected by the cyclone and is prioritising the installation of proper latrines for refugees to avoid the spread of disease. So far, no confirmed cases of cholera has been reported.</p>\n",
+                "date": {
+                    "original": "2019-04-12T00:00:00+00:00",
+                    "changed": "2019-04-16T14:32:47+00:00",
+                    "created": "2019-04-16T14:01:02+00:00"
+                }
+            }
+        }
+    ]
+}
