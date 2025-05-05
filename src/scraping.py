@@ -82,5 +82,5 @@ for article in article_contents.values():
 
 
 # Save the articles to a file
-with open(f"articles_{DISASTER_ID}.json", "w", encoding="utf-8") as f:
+with open(f"data/articles_{DISASTER_ID}.json", "w", encoding="utf-8") as f:
     json.dump(formatted_articles, f, indent=2)
