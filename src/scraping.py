@@ -3,8 +3,10 @@ Scrapes the ReliefWeb articles for the given disaster
 """
 
 import datetime
-from rwapi import ReliefWebAPICaller
+import sys
+import json
 import tqdm
+from rwapi import ReliefWebAPICaller
 
 # Scraper configuration
 DISASTER_ID = "47733"  # Cyclone Idai
@@ -32,3 +34,53 @@ for article in tqdm.tqdm(articles):
     article_id = article["id"]
     article_content = rwapi_caller.get_article(article_id)
     article_contents[article_id] = article_content
+
+
+# Restructure the articles
+formatted_articles = []
+for article in article_contents.values():
+    try:
+        data = article["data"][0]
+        fields = data["fields"]
+        article_id = fields["id"]
+        title = fields["title"]
+        body = fields["body"]
+        if "headline" in fields:
+            headline_title = fields["headline"]["title"]
+            headline_summary = fields["headline"]["summary"]
+        else:
+            headline_title = ""
+            headline_summary = ""
+        sources = []
+        for source in fields["source"]:
+            sources.append(
+                {
+                    "shortname": source.get("shortname", ""),
+                    "longname": source.get("longname", ""),
+                    "type": source.get("type", ""),
+                }
+            )
+        date = fields["date"]
+
+        # Construct the new object
+        formatted_article = {
+            "id": article_id,
+            "title": title,
+            "body": body,
+            "headline_title": headline_title,
+            "headline_summary": headline_summary,
+            "sources": sources,
+            "date": date,
+        }
+        formatted_articles.append(formatted_article)
+    except KeyError as e:
+        print(f"KeyError: {e} for article {article_id}")
+        sys.exit(1)
+    except Exception as e:
+        print(f"Error processing article {article_id}: {e}")
+        sys.exit(1)
+
+
+# Save the articles to a file
+with open(f"articles_{DISASTER_ID}.json", "w", encoding="utf-8") as f:
+    json.dump(formatted_articles, f, indent=2)
