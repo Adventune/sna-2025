@@ -185,6 +185,7 @@ class ReliefWebAPICaller:
                     organisations[org_id] = {
                         "name": organisation["fields"]["name"],
                         "shortname": shortname,
+                        "type": org_json["data"][0]["fields"]["type"],
                     }
 
                     # Dump to cache

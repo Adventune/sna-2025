@@ -10,15 +10,16 @@ payload = {
     "profile": "list",
 }
 response = requests.get(
-    "https://api.reliefweb.int/v1/sources?appname=" + app_name + "&limit=1",
+    "https://api.reliefweb.int/v1/sources?appname=" + app_name + "&limit=10",
     json=payload,
     timeout=30,
 )
 
 response_json = response.json()
 print(json.dumps(response_json, indent=4))
-href = response_json["data"][0]["href"]
+data = response_json["data"]
 
-response = requests.get(href, timeout=30)
-response_json = response.json()
-print(json.dumps(response_json, indent=4))
+for organisation in data:
+    response = requests.get(organisation["href"], timeout=30)
+    response_json = response.json()
+    print(json.dumps(response_json["data"][0]["fields"]["type"], indent=4))
