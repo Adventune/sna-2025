@@ -122,3 +122,78 @@ class ReliefWebAPICaller:
                 json.dump(response_json, f, ensure_ascii=False, indent=4)
 
         return response_json
+
+    def list_organisations(self):
+        """
+        Lists the organisations
+        """
+        cached_organisations = {}
+        if os.path.exists("cache/organisations.json") and self.use_cache:
+            with open("cache/organisations.json", "r", encoding="utf-8") as f:
+                cached_organisations = json.load(f)
+
+        payload = {
+            "filter": {"field": "status", "value": "active"},
+            "preset": "latest",
+            "profile": "list",
+        }
+        response = requests.post(
+            "https://api.reliefweb.int/v1/sources?appname="
+            + self.app_name
+            + "&limit=0",
+            json=payload,
+            timeout=30,
+        )
+        response_json = response.json()
+
+        total_organisations = response_json["totalCount"]
+        organisations = {}
+
+        j = 0
+        with open("cache/organisations.json", "w", encoding="utf-8") as f:
+            for i in range(0, total_organisations, 1000):
+                response = requests.post(
+                    "https://api.reliefweb.int/v1/sources?appname="
+                    + self.app_name
+                    + "&limit=1000&offset="
+                    + str(i),
+                    json=payload,
+                    timeout=30,
+                )
+                response_json = response.json()
+
+                for organisation in response_json["data"]:
+                    j += 1
+                    if j % 10 == 0:
+                        print(f"Getting organisations {j} of {total_organisations}")
+                    org_id = organisation["id"]
+                    if org_id in cached_organisations:
+                        organisations[org_id] = cached_organisations[org_id]
+                        continue
+
+                    href = organisation["href"]
+
+                    response = requests.get(href, timeout=30)
+                    if response.status_code != 200:
+                        raise Exception(
+                            f"Error getting organisation {org_id}: {response.status_code}"
+                        )
+
+                    org_json = response.json()
+                    shortname = org_json["data"][0]["fields"]["shortname"]
+
+                    organisations[org_id] = {
+                        "name": organisation["fields"]["name"],
+                        "shortname": shortname,
+                    }
+
+                    # Dump to cache
+                    f.seek(0)
+                    json.dump(
+                        organisations,
+                        f,
+                        ensure_ascii=False,
+                        indent=4,
+                    )
+
+        return response_json

@@ -36,6 +36,11 @@ for article in tqdm.tqdm(articles):
     article_contents[article_id] = article_content
 
 
+# Get all orgs
+
+orgs = rwapi_caller.list_organisations()
+
+
 # Restructure the articles
 formatted_articles = []
 for article in article_contents.values():
