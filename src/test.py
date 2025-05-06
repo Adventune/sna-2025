@@ -1,25 +1,27 @@
-import requests
 import json
+import pandas as pd
 
-app_name = "rwint-user-0"
+# load the json file
+data = None
+with open("data/organisations_with_types.json", "r") as f:
+    data = json.load(f)
 
-payload = {
-    "filter": {"field": "status", "value": "active"},
-    "fields": ["shortname"],
-    "preset": "latest",
-    "profile": "list",
-}
-response = requests.get(
-    "https://api.reliefweb.int/v1/sources?appname=" + app_name + "&limit=10",
-    json=payload,
-    timeout=30,
-)
+# load edge data
+edge_data = pd.read_csv("data/edges.csv")
 
-response_json = response.json()
-print(json.dumps(response_json, indent=4))
-data = response_json["data"]
+# Get all unique org ids "source"
 
-for organisation in data:
-    response = requests.get(organisation["href"], timeout=30)
-    response_json = response.json()
-    print(json.dumps(response_json["data"][0]["fields"]["type"], indent=4))
+org_ids = edge_data["source"].unique().tolist()
+# As string
+org_ids = [str(org_id) for org_id in org_ids]
+
+# From data, filter any keys that are not in org_ids
+filtered_data = {}
+for key in data:
+    if key in org_ids:
+        filtered_data[key] = data[key]
+
+print(len(filtered_data), len(data), len(org_ids))
+# Save the filtered data to a new json file
+with open("data/filtered_organisations_with_types.json", "w") as f:
+    json.dump(filtered_data, f, indent=4)

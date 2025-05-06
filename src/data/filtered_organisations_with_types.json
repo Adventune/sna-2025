@@ -1,0 +1,842 @@
+{
+    "52287": {
+        "name": "International Search and Rescue Advisory Group",
+        "shortname": "INSARAG",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "51952": {
+        "name": "Fact Foundation",
+        "shortname": "FACT",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "51449": {
+        "name": "The Humanitarian",
+        "shortname": "The Humanitarian",
+        "type": {
+            "id": 275,
+            "name": "Other"
+        }
+    },
+    "51201": {
+        "name": "Centre for Sustainable Peace and Democratic Development",
+        "shortname": "SeeD",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "51185": {
+        "name": "VOICE",
+        "shortname": "VOICE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "51145": {
+        "name": "Aid Gate Organization",
+        "shortname": "AGO",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "50744": {
+        "name": "Global Response Medicine",
+        "shortname": "GRM",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "50516": {
+        "name": "LINKS",
+        "shortname": "LINKS",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "50048": {
+        "name": "Community Organized Relief Effort",
+        "shortname": "CORE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "49088": {
+        "name": "Basel Agency for Sustainable Energy",
+        "shortname": "BASE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "46589": {
+        "name": "Coastal Association for Social Transformation Trust (COAST)",
+        "shortname": "COAST",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "46099": {
+        "name": "Italian Agency for Development Cooperation",
+        "shortname": "AICS",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "44229": {
+        "name": "Global Detention Project",
+        "shortname": "GDP",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "42909": {
+        "name": "Norwegian Capacity",
+        "shortname": "NORCAP",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "34221": {
+        "name": "Network for Empowered Aid Response",
+        "shortname": "NEAR",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "25566": {
+        "name": "Enfants du Monde",
+        "shortname": "EdM",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "22476": {
+        "name": "UN Resident Coordinator in Zimbabwe",
+        "shortname": "UN RC Zimbabwe",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "22126": {
+        "name": "Mozambique Red Cross Society",
+        "shortname": "Mozambique Red Cross Society",
+        "type": {
+            "id": 276,
+            "name": "Red Cross/Red Crescent Movement"
+        }
+    },
+    "20241": {
+        "name": "Malawi Red Cross Society",
+        "shortname": "Malawi Red Cross Society",
+        "type": {
+            "id": 276,
+            "name": "Red Cross/Red Crescent Movement"
+        }
+    },
+    "19471": {
+        "name": "Humanitarian OpenStreetMap Team",
+        "shortname": "HOT",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "19121": {
+        "name": "Climate Action Network",
+        "shortname": "CAN",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "15496": {
+        "name": "European Centre for Disease Prevention and Control",
+        "shortname": "ECDC",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "15477": {
+        "name": "Health Cluster",
+        "shortname": "Health Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "13799": {
+        "name": "Emergency Telecommunications Cluster",
+        "shortname": "ETC",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "13726": {
+        "name": "Shelter Cluster",
+        "shortname": "Shelter Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "13679": {
+        "name": "Food Security Cluster",
+        "shortname": "FSC",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "12989": {
+        "name": "Education Cluster",
+        "shortname": "Education Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "12196": {
+        "name": "UN Water",
+        "shortname": "UN Water",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "10308": {
+        "name": "Zimbabwe Peace Project",
+        "shortname": "ZPP",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "9965": {
+        "name": "REACH Initiative",
+        "shortname": "REACH",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "9677": {
+        "name": "CCCM Cluster",
+        "shortname": "CCCM Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "9417": {
+        "name": "ACAPS",
+        "shortname": "ACAPS",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "8619": {
+        "name": "Protection Cluster",
+        "shortname": "Protection Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "8131": {
+        "name": "KIT Royal Tropical Institute",
+        "shortname": "KIT",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "4334": {
+        "name": "Free the Slaves",
+        "shortname": "FTS",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "4329": {
+        "name": "ALIMA",
+        "shortname": "ALIMA",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "4304": {
+        "name": "ACT Alliance",
+        "shortname": "ACT Alliance",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "4209": {
+        "name": "HANDS",
+        "shortname": "HANDS",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "4145": {
+        "name": "Nutrition Cluster",
+        "shortname": "Nutrition Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "3758": {
+        "name": "IMA World Health",
+        "shortname": "IMA World Health",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "3594": {
+        "name": "Logistics Cluster",
+        "shortname": "Logistics Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "3495": {
+        "name": "Integrated Food Security Phase Classification",
+        "shortname": "IPC",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "3476": {
+        "name": "WASH Cluster",
+        "shortname": "WASH Cluster",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "3178": {
+        "name": "BRAC",
+        "shortname": "BRAC",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2926": {
+        "name": "World Vision",
+        "shortname": "World Vision",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2915": {
+        "name": "SOS Children's Villages International",
+        "shortname": "SOS",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2904": {
+        "name": "M\u00e9decins Sans Fronti\u00e8res",
+        "shortname": "MSF",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2868": {
+        "name": "UN High Commissioner for Refugees",
+        "shortname": "UNHCR",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "2866": {
+        "name": "Plan International",
+        "shortname": "Plan International",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2865": {
+        "name": "Save the Children",
+        "shortname": "Save the Children",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2836": {
+        "name": "Food and Agriculture Organization of the United Nations",
+        "shortname": "FAO",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "2831": {
+        "name": "European Union",
+        "shortname": "EU",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "2591": {
+        "name": "Government of Malawi",
+        "shortname": "Govt. Malawi",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "2221": {
+        "name": "SEEDS India",
+        "shortname": "SEEDS",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2185": {
+        "name": "The Border Consortium",
+        "shortname": "TBC",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2181": {
+        "name": "Helvetas",
+        "shortname": "Helvetas",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2052": {
+        "name": "Government of Luxembourg",
+        "shortname": "Govt. Luxembourg",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "2008": {
+        "name": "Life for Relief and Development",
+        "shortname": "LIFE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2007": {
+        "name": "Oxfam",
+        "shortname": "Oxfam",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "2003": {
+        "name": "Project HOPE",
+        "shortname": "HOPE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1998": {
+        "name": "T\u00e9l\u00e9coms Sans Fronti\u00e8res",
+        "shortname": "TSF",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1993": {
+        "name": "Lutheran World Relief",
+        "shortname": "LWR",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1990": {
+        "name": "People in Need",
+        "shortname": "PIN",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1989": {
+        "name": "World Relief",
+        "shortname": "World Relief",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1979": {
+        "name": "UN Children's Fund",
+        "shortname": "UNICEF",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1751": {
+        "name": "US Agency for International Development",
+        "shortname": "USAID",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "1741": {
+        "name": "World Food Programme",
+        "shortname": "WFP",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1663": {
+        "name": "Pact",
+        "shortname": "Pact",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1632": {
+        "name": "Medical Aid for Palestinians",
+        "shortname": "MAP",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1544": {
+        "name": "MAP International",
+        "shortname": "MAP",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1517": {
+        "name": "Caritas",
+        "shortname": "Caritas",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1503": {
+        "name": "UN Office for the Coordination of Humanitarian Affairs",
+        "shortname": "OCHA",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1467": {
+        "name": "ReliefWeb",
+        "shortname": "ReliefWeb",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1457": {
+        "name": "CARE",
+        "shortname": "CARE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1400": {
+        "name": "Population Services International",
+        "shortname": "PSI",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1338": {
+        "name": "International Crisis Group",
+        "shortname": "ICG",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "1293": {
+        "name": "UN Development Programme",
+        "shortname": "UNDP",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1291": {
+        "name": "International Food Policy Research Institute",
+        "shortname": "IFPRI",
+        "type": {
+            "id": 270,
+            "name": "Academic and Research Institution"
+        }
+    },
+    "1275": {
+        "name": "World Health Organization",
+        "shortname": "WHO",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1255": {
+        "name": "International Organization for Migration",
+        "shortname": "IOM",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1242": {
+        "name": "International Federation of Red Cross and Red Crescent Societies",
+        "shortname": "IFRC",
+        "type": {
+            "id": 276,
+            "name": "Red Cross/Red Crescent Movement"
+        }
+    },
+    "1231": {
+        "name": "Solidar",
+        "shortname": "Solidar",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1220": {
+        "name": "World Bank",
+        "shortname": "World Bank",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1212": {
+        "name": "United Nations",
+        "shortname": "UN",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1169": {
+        "name": "International Monetary Fund",
+        "shortname": "IMF",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1165": {
+        "name": "UN Satellite Centre",
+        "shortname": "UNOSAT",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1089": {
+        "name": "Southern African Development Community",
+        "shortname": "SADC",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1070": {
+        "name": "United Nations Population Fund",
+        "shortname": "UNFPA",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1051": {
+        "name": "Sphere",
+        "shortname": "Sphere",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "1025": {
+        "name": "Inter-Agency Standing Committee",
+        "shortname": "IASC",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "1005": {
+        "name": "Voluntary Organisations in Cooperation in Emergencies",
+        "shortname": "VOICE",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "942": {
+        "name": "Global Alliance for Improved Nutrition",
+        "shortname": "GAIN",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "633": {
+        "name": "GOAL",
+        "shortname": "GOAL",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "629": {
+        "name": "Government of T\u00fcrkiye",
+        "shortname": "Govt. T\u00fcrkiye",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "620": {
+        "name": "European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations",
+        "shortname": "ECHO",
+        "type": {
+            "id": 272,
+            "name": "International Organization"
+        }
+    },
+    "538": {
+        "name": "Cord",
+        "shortname": "Cord",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "529": {
+        "name": "Famine Early Warning System Network",
+        "shortname": "FEWS NET",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "508": {
+        "name": "Emergency - Life Support for Civilian War Victims",
+        "shortname": "Emergency",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "505": {
+        "name": "Human Appeal",
+        "shortname": "HA",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "436": {
+        "name": "Catholic Relief Services",
+        "shortname": "CRS",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "435": {
+        "name": "Help \u2013 Hilfe zur Selbsthilfe",
+        "shortname": "Help",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "402": {
+        "name": "Government of Zimbabwe",
+        "shortname": "Govt. Zimbabwe",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "378": {
+        "name": "Government of Mozambique",
+        "shortname": "Govt. Mozambique",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    },
+    "359": {
+        "name": "Concern Worldwide",
+        "shortname": "Concern",
+        "type": {
+            "id": 274,
+            "name": "Non-governmental Organization"
+        }
+    },
+    "319": {
+        "name": "Government of Ireland",
+        "shortname": "Govt. Ireland",
+        "type": {
+            "id": 271,
+            "name": "Government"
+        }
+    }
+}
