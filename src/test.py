@@ -25,3 +25,8 @@ print(len(filtered_data), len(data), len(org_ids))
 # Save the filtered data to a new json file
 with open("data/filtered_organisations_with_types.json", "w") as f:
     json.dump(filtered_data, f, indent=4)
+
+
+with open("cache/articles.json", "r") as f:
+    articles = json.load(f)
+    print(len(articles))
